@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-06T21:19:01.505942-08:00",
+  "last_updated": "2025-11-06T22:29:10.747375-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -170,7 +170,17 @@
       "location": "Kingsway",
       "start_date": "2025-11-13",
       "start_time": "14:30:00",
-      "available_spot_count": 17,
+      "available_spot_count": 15,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn - Reformer x Journey Inward",
+      "booking_start_datetime": "2025-11-07T00:00:00-08:00",
+      "location": "Kingsway",
+      "start_date": "2025-11-14",
+      "start_time": "08:00:00",
+      "available_spot_count": 20,
       "capacity": 20
     },
     {
@@ -195,6 +205,16 @@
     },
     {
       "studio": "Jaybird",
+      "name": "The Burn x Journey Inward",
+      "booking_start_datetime": "2025-11-14T00:00:00-08:00",
+      "location": "Kingsway",
+      "start_date": "2025-11-21",
+      "start_time": "16:00:00",
+      "available_spot_count": 42,
+      "capacity": 42
+    },
+    {
+      "studio": "Jaybird",
       "name": "The Burn: Sweat for the DTES Women's Centre",
       "booking_start_datetime": "2025-10-30T13:45:00-08:00",
       "location": "Kingsway",
@@ -210,7 +230,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-07",
       "start_time": "13:00:00",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -230,7 +250,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-08",
       "start_time": "14:00:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -270,7 +290,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-07",
       "start_time": "06:00:00",
-      "available_spot_count": 15,
+      "available_spot_count": 17,
       "capacity": 45
     },
     {
@@ -280,7 +300,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-07",
       "start_time": "07:15:00",
-      "available_spot_count": 17,
+      "available_spot_count": 15,
       "capacity": 45
     },
     {
@@ -290,7 +310,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-07",
       "start_time": "12:30:00",
-      "available_spot_count": 24,
+      "available_spot_count": 27,
       "capacity": 45
     },
     {
@@ -300,7 +320,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-07",
       "start_time": "18:40:00",
-      "available_spot_count": 0,
+      "available_spot_count": 2,
       "capacity": 45
     },
     {
@@ -360,7 +380,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-14",
       "start_time": "18:40:00",
-      "available_spot_count": 33,
+      "available_spot_count": 31,
       "capacity": 46
     },
     {
@@ -440,7 +460,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-07",
       "start_time": "07:45:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 10
     },
     {
