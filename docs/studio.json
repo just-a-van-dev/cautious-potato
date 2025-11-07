@@ -1,0 +1,47 @@
+[
+  {
+    "studio": "Lagree West",
+    "favicon": "https://images.squarespace-cdn.com/content/v1/5f5fe8beff4692608dd2b7a1/1604620694513-QU9VUNR41SMWWKX0I8NP/favicon.ico?format=100w",
+    "url": "https://www.lagreewest.com/"
+  },
+  {
+    "studio": "Jaybird",
+    "favicon": "https://images.squarespace-cdn.com/content/v1/651c40a0d4a9be2be89e1687/e7d35fa9-132c-4fa1-bf01-4cffee3c1782/favicon.ico?format=100w",
+    "url": "https://www.jaybirdjaybird.co"
+  },
+    {
+    "studio": "Turf",
+    "favicon": "https://www.ourturf.com/cdn/shop/files/Logo_Square.001_96x.jpg?v=1613025834",
+    "url": "https://jaybird.example.com"
+  },
+    {
+    "studio": "Lagree Studio",
+    "favicon": "https://static.wixstatic.com/media/86cebe_6d4b96000be14da7b5a2172ba40d72df%7Emv2.jpeg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/86cebe_6d4b96000be14da7b5a2172ba40d72df%7Emv2.jpeg",
+    "url": "https://www.lagreestudio.ca/"
+  },
+      {
+    "studio": "Ritual",
+    "favicon": "https://images.squarespace-cdn.com/content/v1/66bce85c1e18ea583eabf4c9/a989f218-0a82-4c32-894d-f2cead112403/favicon.ico",
+    "url": "https://www.ritualurbanretreat.com/"
+  },
+      {
+    "studio": "Spin Society",
+    "favicon": "https://spinsociety.ca/wp-content/uploads/2020/07/cropped-SCTY-192x192.png",
+    "url": "https://spinsociety.ca"
+  },
+      {
+    "studio": "Evolution",
+    "favicon": "https://images.squarespace-cdn.com/content/v1/64f55d84a380351b0c62040f/d80ded2e-172b-4589-b922-fd036a3e9575/favicon.ico?format=100w",
+    "url": "https://www.evolutionfitnessstudio.ca/"
+  },
+        {
+    "studio": "Lagree Pulse",
+    "favicon": "https://www.lagreepulse.com/wp-content/uploads/2025/09/cropped-android-chrome-512x512-1-32x32.png",
+    "url": "https://www.lagreepulse.com/"
+  },
+        {
+    "studio": "Hustle",
+    "favicon": "https://hustleup.ca/wp-content/uploads/2018/11/Hustle-H-Icon-K-1.png",
+    "url": "https://hustleup.ca/"
+  }
+]

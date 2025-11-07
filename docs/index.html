@@ -1,82 +1,255 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Classes Dashboard</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Classes</title>
   <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    /* Accordion fade + slide animation */
+    .collapsible-body {
+      max-height: 0;
+      opacity: 0;
+      overflow: hidden;
+      transition: max-height 350ms ease, opacity 300ms ease;
+    }
+    .collapsible-body.open {
+      max-height: 1200px;
+      opacity: 1;
+    }
+
+    /* Modal sizing */
+    .modal-inner {
+      max-height: 85vh;
+    }
+
+    /* Focus outline for accessibility */
+    .focus-outline:focus {
+      outline: 3px solid rgba(59,130,246,0.25);
+      outline-offset: 2px;
+    }
+  </style>
 </head>
-<body class="bg-gray-100 p-4 sm:p-8">
+<body class="p-4 sm:p-8 font-sans">
 
-  <h1 class="text-3xl font-bold mb-6 text-center">Classes Dashboard</h1>
+  <h1 class="text-5xl font-semibold mb-6 text-center">Classes</h1>
+  <div id="status" class="mb-4 text-gray-600">Loading…</div>
+  <div id="sections" class="space-y-8"></div>
+  <div id="last" class="mt-6 text-gray-500 text-xs font-light"></div>
 
-  <div id="status" class="mb-4 text-gray-600">Loading...</div>
-
-  <div id="studios" class="space-y-6"></div>
-
-  <div id="last" class="fixed bottom-4 left-4 text-gray-500 text-xs"></div>
+  <!-- Modal -->
+  <div id="modal" class="hidden fixed inset-0 z-50 bg-black bg-opacity-50 flex items-center justify-center">
+    <div class="modal-inner bg-white rounded w-[95%] sm:w-[70%] md:w-[50%] mx-4 overflow-auto relative p-4">
+      <button id="modalClose" class="absolute top-3 right-3 text-2xl leading-none focus-outline" aria-label="Close modal">&times;</button>
+      <div id="modalContent" class="pt-2"></div>
+    </div>
+  </div>
 
 <script>
 async function load() {
-  const resp = await fetch("data.json");
-  const data = await resp.json();
-  document.getElementById("status").innerText = "";
-  document.getElementById("last").innerText = "Last updated: " + data.last_updated;
+  try {
+    const [dataResp, studioResp] = await Promise.all([
+      fetch("data.json"),
+      fetch("studio.json")
+    ]);
 
-  // Combine both special and sponsored into one array for easier grouping
-  const allClasses = [...data.special, ...data.sponsored];
+    const data = await dataResp.json();
+    let studios = [];
+    try { studios = studioResp.ok ? await studioResp.json() : []; } catch(e){ studios = []; }
 
-  // Group by studio
-  const studiosMap = {};
-  allClasses.forEach(cls => {
-    if (!studiosMap[cls.studio]) studiosMap[cls.studio] = [];
-    studiosMap[cls.studio].push(cls);
-  });
+    const studioMap = {};
+    studios.forEach(s => { if(s && s.studio) studioMap[s.studio] = { favicon: s.favicon, url: s.url }; });
 
-  const studiosDiv = document.getElementById("studios");
+    document.getElementById("status").innerText = "";
+    document.getElementById("last").innerText = "Last updated: " + (data.last_updated || "");
 
-  Object.entries(studiosMap).forEach(([studio, classes]) => {
-    const section = document.createElement("section");
-    section.className = "bg-white rounded shadow p-4";
+    const sectionsDiv = document.getElementById("sections");
 
-    const title = document.createElement("h2");
-    title.className = "text-2xl font-semibold mb-4";
-    title.textContent = studio;
-    section.appendChild(title);
+    const categories = [
+      { title: "Free", items: data.special || [], color: "blue" },
+      { title: "Sponsored/Special", items: data.sponsored || [], color: "violet" }
+    ];
 
-    classes.forEach(cls => {
-      const headerKeys = ["name", "location", "start_date", "start_time", "available_spot_count"];
-      const bodyKeys = Object.keys(cls).filter(k => !headerKeys.includes(k));
+    categories.forEach(category => {
+      const catSection = document.createElement("section");
+      catSection.className = "space-y-6";
 
-      // Accordion container
-      const container = document.createElement("div");
-      container.className = "border-b last:border-b-0";
+      const catTitle = document.createElement("h2");
+      catTitle.className = "text-3xl font-semibold mb-1";
+      catTitle.textContent = category.title;
+      catSection.appendChild(catTitle);
 
-      // Accordion header
-      const header = document.createElement("button");
-      header.className = "w-full flex justify-between p-2 text-left hover:bg-gray-100 focus:outline-none";
-      header.innerHTML = headerKeys.map(k => `<span class="flex-1 font-medium">${cls[k] || ""}</span>`).join("");
-      container.appendChild(header);
-
-      // Accordion body
-      const body = document.createElement("div");
-      body.className = "p-2 hidden bg-gray-50 text-sm space-y-1";
-      bodyKeys.forEach(k => {
-        const div = document.createElement("div");
-        div.innerHTML = `<strong>${k.replace(/_/g," ").replace(/\b\w/g,l=>l.toUpperCase())}:</strong> ${cls[k]}`;
-        body.appendChild(div);
-      });
-      container.appendChild(body);
-
-      // Toggle accordion
-      header.addEventListener("click", () => {
-        body.classList.toggle("hidden");
+      // Group by studio
+      const studiosMap = {};
+      category.items.forEach(cls => {
+        const key = cls.studio || "Unknown Studio";
+        if(!studiosMap[key]) studiosMap[key] = [];
+        studiosMap[key].push(cls);
       });
 
-      section.appendChild(container);
+      Object.entries(studiosMap).forEach(([studioName, classes]) => {
+        const studioSection = document.createElement("section");
+        studioSection.className = "space-y-3";
+
+        // Studio heading
+        const studioHeading = document.createElement("div");
+        studioHeading.className = "flex items-center space-x-3";
+        if(studioMap[studioName]?.favicon){
+          const img = document.createElement("img");
+          img.src = studioMap[studioName].favicon;
+          img.alt = studioName + " favicon";
+          img.className = "w-5 h-5";
+          studioHeading.appendChild(img);
+        }
+        const studioHeadingText = document.createElement("h3");
+        studioHeadingText.className = "text-2xl font-semibold";
+        studioHeadingText.textContent = studioName;
+        studioHeading.appendChild(studioHeadingText);
+        studioSection.appendChild(studioHeading);
+
+        // Desktop card
+        const desktopCard = document.createElement("div");
+        const accentBg = category.color === "blue" ? "bg-blue-50" : "bg-violet-50";
+        desktopCard.className = "hidden md:block rounded-lg overflow-hidden";
+
+        // Header bar (blank)
+        const headerBar = document.createElement("div");
+        headerBar.className = accentBg + " px-4 py-2";
+        desktopCard.appendChild(headerBar);
+
+        // Table headers
+        const tableHeader = document.createElement("div");
+        tableHeader.className = "grid grid-cols-[2fr_1fr_1fr_1fr_1fr] px-4 py-1 font-semibold text-gray-700 " + accentBg;
+        ["Name","Location","Start Date","Start Time","Available Spots"].forEach(h=>{
+          const div = document.createElement("div");
+          div.textContent = h;
+          tableHeader.appendChild(div);
+        });
+        desktopCard.appendChild(tableHeader);
+
+        // Desktop rows
+        classes.forEach((cls, idx)=>{
+          const rowWrap = document.createElement("div");
+          rowWrap.className = "bg-white";
+
+          const row = document.createElement("div");
+          row.className = "grid grid-cols-[2fr_1fr_1fr_1fr_1fr] px-4 py-2 border-b border-gray-200 cursor-pointer hover:bg-gray-100";
+          ["name","location","start_date","start_time","available_spot_count"].forEach(k=>{
+            const span = document.createElement("span");
+            span.textContent = cls[k] || "";
+            span.className = "font-medium";
+            row.appendChild(span);
+          });
+
+          // hidden collapsible body
+          const body = document.createElement("div");
+          body.className = "collapsible-body text-sm px-2 py-1 space-y-1";
+          ["booking_start_datetime","capacity"].forEach(k=>{
+            const div = document.createElement("div");
+            div.innerHTML = `<strong class="font-semibold">${k.replace(/_/g," ").replace(/\b\w/g,l=>l.toUpperCase())}:</strong> ${cls[k] || ""}`;
+            body.appendChild(div);
+          });
+          rowWrap.appendChild(row);
+          rowWrap.appendChild(body);
+
+          row.addEventListener("click", ()=>body.classList.toggle("open"));
+
+          desktopCard.appendChild(rowWrap);
+        });
+
+        studioSection.appendChild(desktopCard);
+
+        // Mobile rows
+        classes.forEach((cls, idx)=>{
+          const mobileRow = document.createElement("div");
+          mobileRow.className = "block md:hidden cursor-pointer px-2 py-1 bg-white border-b";
+
+          const topRow = document.createElement("div");
+          topRow.className = "flex justify-between items-center";
+
+          const nameSpan = document.createElement("span");
+          nameSpan.className = "font-medium";
+          nameSpan.textContent = cls.name;
+          topRow.appendChild(nameSpan);
+
+          const badgeSpan = document.createElement("span");
+          badgeSpan.className = "text-xs font-bold text-red-600 px-2 py-0.5 rounded bg-red-100";
+          badgeSpan.style.display = cls.available_spot_count===0?"inline-block":"none";
+          badgeSpan.textContent = "FULL";
+          topRow.appendChild(badgeSpan);
+
+          const bottomRow = document.createElement("div");
+          bottomRow.className = "text-sm text-gray-600";
+          bottomRow.textContent = `${cls.location} at ${cls.start_date} ${cls.start_time}`;
+
+          mobileRow.appendChild(topRow);
+          mobileRow.appendChild(bottomRow);
+
+          mobileRow.addEventListener("click", ()=>{
+            const modal = document.getElementById("modal");
+            const modalContent = document.getElementById("modalContent");
+            modalContent.innerHTML = "";
+
+            // Studio at top
+            const modalStudio = document.createElement("div");
+            modalStudio.className = "mb-2 flex items-center space-x-2";
+            const studioLabel = document.createElement("strong");
+            studioLabel.className = "font-semibold";
+            studioLabel.textContent = "Studio:";
+            modalStudio.appendChild(studioLabel);
+
+            const studioValue = document.createElement("span");
+            studioValue.textContent = cls.studio;
+            modalStudio.appendChild(studioValue);
+
+            if(studioMap[cls.studio]?.url){
+              const link = document.createElement("a");
+              link.href = studioMap[cls.studio].url;
+              link.target="_blank";
+              link.className = "text-blue-600 hover:text-blue-800 flex items-center ml-1";
+              link.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 3h7v7m0-7L10 14M5 10v10h10v-5"/>
+              </svg>`;
+              modalStudio.appendChild(link);
+            }
+            modalContent.appendChild(modalStudio);
+
+            // Modal fields in exact order
+            const fieldOrder = ["name","location","booking_start_datetime","start_date","start_time","available_spot_count","capacity"];
+            fieldOrder.forEach(k=>{
+              const div = document.createElement("div");
+              div.className = "mb-1 flex items-center space-x-2";
+              const label = document.createElement("strong");
+              label.className = "font-semibold";
+              label.textContent = (k==="name"?"Name":k.replace(/_/g," ").replace(/\b\w/g,l=>l.toUpperCase())) + ":";
+              div.appendChild(label);
+              const value = document.createElement("span");
+              value.textContent = cls[k] || "";
+              div.appendChild(value);
+              modalContent.appendChild(div);
+            });
+
+            modal.classList.remove("hidden");
+          });
+
+          studioSection.appendChild(mobileRow);
+        });
+
+        catSection.appendChild(studioSection);
+      });
+
+      sectionsDiv.appendChild(catSection);
     });
 
-    studiosDiv.appendChild(section);
-  });
+    // Modal close events
+    document.getElementById("modalClose").addEventListener("click", ()=>document.getElementById("modal").classList.add("hidden"));
+    document.getElementById("modal").addEventListener("click", e=>{if(e.target.id==="modal") e.target.classList.add("hidden");});
+
+  } catch(err){
+    document.getElementById("status").innerText = "Error loading data: "+err;
+    console.error(err);
+  }
 }
 
 load();
