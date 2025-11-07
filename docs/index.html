@@ -2,47 +2,84 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>classes</title>
+  <title>Classes Dashboard</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-gray-100 p-8">
+<body class="bg-gray-100 p-4 sm:p-8">
 
-  <h1 class="text-3xl font-bold mb-6">Classes</h1>
+  <h1 class="text-3xl font-bold mb-6 text-center">Classes Dashboard</h1>
 
-  <div id="status" class="mb-4 text-gray-600">loading…</div>
+  <div id="status" class="mb-4 text-gray-600">Loading...</div>
 
-  <h2 class="text-2xl font-semibold mt-8 mb-2">Free Classes</h2>
-  <table id="special" class="min-w-full bg-white border shadow-sm text-sm"></table>
+  <div id="studios" class="space-y-6"></div>
 
-  <h2 class="text-2xl font-semibold mt-8 mb-2">Sponsored Classes</h2>
-  <table id="sponsored" class="min-w-full bg-white border shadow-sm text-sm"></table>
   <div id="last" class="fixed bottom-4 left-4 text-gray-500 text-xs"></div>
 
 <script>
 async function load() {
-  const resp = await fetch("data.json")
-  const data = await resp.json()
-  document.getElementById("status").innerText = ""
+  const resp = await fetch("data.json");
+  const data = await resp.json();
+  document.getElementById("status").innerText = "";
+  document.getElementById("last").innerText = "Last updated: " + data.last_updated;
 
-  function render(tableId, rows) {
-    const table = document.getElementById(tableId)
-    const keys = ["studio","name","booking_start_datetime","location","start_date","start_time","available_spot_count","capacity"]
+  // Combine both special and sponsored into one array for easier grouping
+  const allClasses = [...data.special, ...data.sponsored];
 
-    table.innerHTML = `
-      <thead class="bg-gray-200">
-        <tr>${keys.map(k=>`<th class="p-2 border">${k}</th>`).join("")}</tr>
-      </thead>
-      <tbody>
-        ${rows.map(r=>`<tr>${keys.map(k=>`<td class="p-2 border">${r[k]??""}</td>`).join("")}</tr>`).join("")}
-      </tbody>
-    `
-  }
-  document.getElementById("last").innerText = data.last_updated
+  // Group by studio
+  const studiosMap = {};
+  allClasses.forEach(cls => {
+    if (!studiosMap[cls.studio]) studiosMap[cls.studio] = [];
+    studiosMap[cls.studio].push(cls);
+  });
 
-  render("special", data.special)
-  render("sponsored", data.sponsored)
+  const studiosDiv = document.getElementById("studios");
+
+  Object.entries(studiosMap).forEach(([studio, classes]) => {
+    const section = document.createElement("section");
+    section.className = "bg-white rounded shadow p-4";
+
+    const title = document.createElement("h2");
+    title.className = "text-2xl font-semibold mb-4";
+    title.textContent = studio;
+    section.appendChild(title);
+
+    classes.forEach(cls => {
+      const headerKeys = ["name", "location", "start_date", "start_time", "available_spot_count"];
+      const bodyKeys = Object.keys(cls).filter(k => !headerKeys.includes(k));
+
+      // Accordion container
+      const container = document.createElement("div");
+      container.className = "border-b last:border-b-0";
+
+      // Accordion header
+      const header = document.createElement("button");
+      header.className = "w-full flex justify-between p-2 text-left hover:bg-gray-100 focus:outline-none";
+      header.innerHTML = headerKeys.map(k => `<span class="flex-1 font-medium">${cls[k] || ""}</span>`).join("");
+      container.appendChild(header);
+
+      // Accordion body
+      const body = document.createElement("div");
+      body.className = "p-2 hidden bg-gray-50 text-sm space-y-1";
+      bodyKeys.forEach(k => {
+        const div = document.createElement("div");
+        div.innerHTML = `<strong>${k.replace(/_/g," ").replace(/\b\w/g,l=>l.toUpperCase())}:</strong> ${cls[k]}`;
+        body.appendChild(div);
+      });
+      container.appendChild(body);
+
+      // Toggle accordion
+      header.addEventListener("click", () => {
+        body.classList.toggle("hidden");
+      });
+
+      section.appendChild(container);
+    });
+
+    studiosDiv.appendChild(section);
+  });
 }
-load()
+
+load();
 </script>
 </body>
 </html>
