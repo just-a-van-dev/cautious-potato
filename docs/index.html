@@ -137,7 +137,7 @@ async function load() {
           row.className = "grid grid-cols-[2fr_1fr_1fr_1fr_1fr] px-4 py-2 border-b border-gray-200 cursor-pointer hover:bg-gray-100";
           ["name","location","start_date","start_time","available_spot_count"].forEach(k=>{
             const span = document.createElement("span");
-            span.textContent = cls[k] || "";
+            span.textContent = cls[k];
             span.className = "font-medium";
             row.appendChild(span);
           });
@@ -145,7 +145,7 @@ async function load() {
           // hidden collapsible body
           const body = document.createElement("div");
           body.className = "collapsible-body text-sm px-2 py-1 space-y-1";
-          ["booking_start_datetime","capacity"].forEach(k=>{
+          ["booking_start_date","capacity"].forEach(k=>{
             const div = document.createElement("div");
             div.innerHTML = `<strong class="font-semibold">${k.replace(/_/g," ").replace(/\b\w/g,l=>l.toUpperCase())}:</strong> ${cls[k] || ""}`;
             body.appendChild(div);
@@ -216,7 +216,7 @@ async function load() {
             modalContent.appendChild(modalStudio);
 
             // Modal fields in exact order
-            const fieldOrder = ["name","location","booking_start_datetime","start_date","start_time","available_spot_count","capacity"];
+            const fieldOrder = ["name","location","booking_start_date","start_date","start_time","available_spot_count","capacity"];
             fieldOrder.forEach(k=>{
               const div = document.createElement("div");
               div.className = "mb-1 flex items-center space-x-2";
@@ -225,7 +225,7 @@ async function load() {
               label.textContent = (k==="name"?"Name":k.replace(/_/g," ").replace(/\b\w/g,l=>l.toUpperCase())) + ":";
               div.appendChild(label);
               const value = document.createElement("span");
-              value.textContent = cls[k] || "";
+              value.textContent = cls[k];
               div.appendChild(value);
               modalContent.appendChild(div);
             });

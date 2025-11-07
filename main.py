@@ -110,6 +110,12 @@ def is_sponsored_class(class_data) -> bool:
         return False
     return any(target in name for target in TARGET_NAMES)
 
+def format_date(dt_str):
+    dt = datetime.fromisoformat(dt_str)
+    return dt.strftime("%Y-%m-%d %H:%M")
+
+def format_time(time_str):
+    return time_str[:5]
 
 async def fetch(session, url):
     """Fetch a single URL and return JSON if possible."""
@@ -152,10 +158,10 @@ async def fetch_studio_data(studios: dict, days=45):
             record = {
                 "studio": studio_name,
                 "name": cls.get("name"),
-                "booking_start_datetime": cls.get("booking_start_datetime"),
+                "booking_start_date": format_date(cls.get("booking_start_datetime")),
                 "location": cls.get("location", {}).get("name"),
                 "start_date": cls.get("start_date"),
-                "start_time": cls.get("start_time"),
+                "start_time": format_time(cls.get("start_time")),
                 "available_spot_count": cls.get("available_spot_count"),
                 "capacity": cls.get("capacity"),
             }
@@ -166,7 +172,5 @@ async def fetch_studio_data(studios: dict, days=45):
                 SPONSORED_CLASSES.append(record)
 
     return SPECIAL_CLASSES, SPONSORED_CLASSES
-
-
 
 
