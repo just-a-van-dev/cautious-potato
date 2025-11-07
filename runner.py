@@ -26,7 +26,7 @@ json_data = {
 
 # make sure public/ exists
 import os
-os.makedirs("public", exist_ok=True)
+os.makedirs("docs", exist_ok=True)
 
-with open("public/data.json", "w") as f:
+with open("docs/data.json", "w") as f:
     json.dump(json_data, f, indent=2)
