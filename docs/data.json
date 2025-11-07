@@ -1,1 +1,527 @@
-{}
+{
+  "last_updated": "2025-11-06T20:44:15.766675-08:00",
+  "special": [
+    {
+      "studio": "Turf",
+      "name": "COMMUNITY CLASS: meta",
+      "booking_start_datetime": "2025-11-06T08:15:00-08:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2025-11-13",
+      "start_time": "08:15:00",
+      "available_spot_count": 31,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "COMMUNITY CLASS: meta",
+      "booking_start_datetime": "2025-11-13T08:15:00-08:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2025-11-20",
+      "start_time": "08:15:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "COMMUNITY CLASS: meta",
+      "booking_start_datetime": "2025-11-20T08:15:00-08:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2025-11-27",
+      "start_time": "08:15:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "COMMUNITY CLASS: meta",
+      "booking_start_datetime": "2025-11-27T08:15:00-08:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2025-12-04",
+      "start_time": "08:15:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "COMMUNITY CLASS: meta",
+      "booking_start_datetime": "2025-12-04T08:15:00-08:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2025-12-11",
+      "start_time": "08:15:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "COMMUNITY CLASS: meta",
+      "booking_start_datetime": "2025-12-11T08:15:00-08:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2025-12-18",
+      "start_time": "08:15:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    }
+  ],
+  "sponsored": [
+    {
+      "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
+      "booking_start_datetime": "2025-10-10T07:00:00-08:00",
+      "location": "Kitsilano",
+      "start_date": "2025-11-09",
+      "start_time": "07:00:00",
+      "available_spot_count": 2,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
+      "booking_start_datetime": "2025-10-14T15:15:00-08:00",
+      "location": "Yaletown",
+      "start_date": "2025-11-13",
+      "start_time": "15:15:00",
+      "available_spot_count": 2,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
+      "booking_start_datetime": "2025-10-21T09:15:00-08:00",
+      "location": "Main St",
+      "start_date": "2025-11-20",
+      "start_time": "09:15:00",
+      "available_spot_count": 5,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x 10YR with OG Lucy U",
+      "booking_start_datetime": "2025-10-21T10:15:00-08:00",
+      "location": "Kitsilano",
+      "start_date": "2025-11-20",
+      "start_time": "10:15:00",
+      "available_spot_count": 15,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x 10YR with OG Dylan S",
+      "booking_start_datetime": "2025-10-23T10:00:00-08:00",
+      "location": "Main St",
+      "start_date": "2025-11-22",
+      "start_time": "10:00:00",
+      "available_spot_count": 12,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x 10YR with OG Mendy K",
+      "booking_start_datetime": "2025-10-25T09:15:00-08:00",
+      "location": "Kitsilano",
+      "start_date": "2025-11-24",
+      "start_time": "09:15:00",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x 10YR with OG Janine Markey",
+      "booking_start_datetime": "2025-10-26T14:15:00-08:00",
+      "location": "Gastown",
+      "start_date": "2025-11-25",
+      "start_time": "14:15:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x 10YR with OG Kirsten M",
+      "booking_start_datetime": "2025-10-27T07:15:00-08:00",
+      "location": "Yaletown",
+      "start_date": "2025-11-26",
+      "start_time": "07:15:00",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x 10YR with OG Katie McKenzie",
+      "booking_start_datetime": "2025-10-29T15:15:00-08:00",
+      "location": "Yaletown",
+      "start_date": "2025-11-28",
+      "start_time": "15:15:00",
+      "available_spot_count": 18,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "Journey Inward The Balance + Sound Bath",
+      "booking_start_datetime": "2025-11-04T00:00:00-08:00",
+      "location": "Yaletown",
+      "start_date": "2025-11-11",
+      "start_time": "20:00:00",
+      "available_spot_count": 6,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "Teacher Development | The Burn - Reformer $25",
+      "booking_start_datetime": "2025-11-06T00:00:00-08:00",
+      "location": "Kingsway",
+      "start_date": "2025-11-13",
+      "start_time": "14:30:00",
+      "available_spot_count": 17,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "Journey Inward The Balance + Sound Bath",
+      "booking_start_datetime": "2025-11-10T00:00:00-08:00",
+      "location": "Yaletown",
+      "start_date": "2025-11-17",
+      "start_time": "20:00:00",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "Journey Inward The Burn | Arms + Abs - Happy Hour",
+      "booking_start_datetime": "2025-11-12T00:00:00-08:00",
+      "location": "Yaletown",
+      "start_date": "2025-11-19",
+      "start_time": "12:05:00",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn: Sweat for the DTES Women's Centre",
+      "booking_start_datetime": "2025-10-30T13:45:00-08:00",
+      "location": "Kingsway",
+      "start_date": "2025-11-29",
+      "start_time": "13:45:00",
+      "available_spot_count": 43,
+      "capacity": 45
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Full Body With Headsets x Ayurella Candle",
+      "booking_start_datetime": "2025-10-31T13:00:00-08:00",
+      "location": "Vancouver",
+      "start_date": "2025-11-07",
+      "start_time": "13:00:00",
+      "available_spot_count": 2,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Beginners Class With Headsets x Ayurella Candle",
+      "booking_start_datetime": "2025-10-31T14:00:00-08:00",
+      "location": "Vancouver",
+      "start_date": "2025-11-07",
+      "start_time": "14:00:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Full Body Workout x Hillary Maria Lashes",
+      "booking_start_datetime": "2025-11-01T14:00:00-08:00",
+      "location": "Vancouver",
+      "start_date": "2025-11-08",
+      "start_time": "14:00:00",
+      "available_spot_count": 3,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Full Body Workout x Hillary Maria Lashes",
+      "booking_start_datetime": "2025-11-01T15:00:00-08:00",
+      "location": "Vancouver",
+      "start_date": "2025-11-08",
+      "start_time": "15:00:00",
+      "available_spot_count": 4,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Club Lagree Full Body With Headsets x Pop Off",
+      "booking_start_datetime": "2025-11-03T11:00:00-08:00",
+      "location": "Vancouver",
+      "start_date": "2025-11-10",
+      "start_time": "11:00:00",
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Ritual",
+      "name": "Fall Yin + Sound Mini Retreat",
+      "booking_start_datetime": "2025-10-10T14:00:00-08:00",
+      "location": "West End",
+      "start_date": "2025-11-09",
+      "start_time": "14:00:00",
+      "available_spot_count": 17,
+      "capacity": 23
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: WAKE UP WITH Beyonc\u00e9 VOL. 2",
+      "booking_start_datetime": "2025-10-30T12:00:00-07:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-07",
+      "start_time": "06:00:00",
+      "available_spot_count": 15,
+      "capacity": 45
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BUNT. x Fred again.. x R\u00dcF\u00dcS DU SOL",
+      "booking_start_datetime": "2025-10-30T12:00:00-07:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-07",
+      "start_time": "07:15:00",
+      "available_spot_count": 17,
+      "capacity": 45
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: Lane 8 x Rufus Du Sol",
+      "booking_start_datetime": "2025-10-30T12:00:00-07:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-07",
+      "start_time": "12:30:00",
+      "available_spot_count": 26,
+      "capacity": 45
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: DISNEY STARS! Britney x Christina x JT",
+      "booking_start_datetime": "2025-10-30T12:00:00-07:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-07",
+      "start_time": "18:40:00",
+      "available_spot_count": 0,
+      "capacity": 45
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: Hip Hop: Originals x Remixes",
+      "booking_start_datetime": "2025-11-01T12:00:00-07:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-09",
+      "start_time": "10:40:00",
+      "available_spot_count": 0,
+      "capacity": 45
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: Avicii x Kaskade",
+      "booking_start_datetime": "2025-11-02T12:00:00-08:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-10",
+      "start_time": "06:00:00",
+      "available_spot_count": 28,
+      "capacity": 45
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: Kid Cudi x Mac Miller",
+      "booking_start_datetime": "2025-11-04T12:00:00-08:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-12",
+      "start_time": "06:00:00",
+      "available_spot_count": 36,
+      "capacity": 46
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: Lady Gaga x Rihanna",
+      "booking_start_datetime": "2025-11-04T12:00:00-08:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-12",
+      "start_time": "16:20:00",
+      "available_spot_count": 27,
+      "capacity": 46
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: T-Pain x Pitbull x USHER Pt. 2",
+      "booking_start_datetime": "2025-11-05T12:00:00-08:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-13",
+      "start_time": "09:45:00",
+      "available_spot_count": 37,
+      "capacity": 46
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: 2000s Hip Hop x R&B",
+      "booking_start_datetime": "2025-11-06T12:00:00-08:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-14",
+      "start_time": "18:40:00",
+      "available_spot_count": 33,
+      "capacity": 46
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: Flo Rida x Avicii",
+      "booking_start_datetime": "2025-11-09T12:00:00-08:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-17",
+      "start_time": "07:15:00",
+      "available_spot_count": 46,
+      "capacity": 46
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: CLASSIC ROCK REMIXED (Vol. 2)",
+      "booking_start_datetime": "2025-11-09T12:00:00-08:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-17",
+      "start_time": "17:30:00",
+      "available_spot_count": 46,
+      "capacity": 46
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ODESZA x RUFUS DU SOL (Vol. 2)",
+      "booking_start_datetime": "2025-11-10T12:00:00-08:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-18",
+      "start_time": "07:15:00",
+      "available_spot_count": 46,
+      "capacity": 46
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: Major Lazer x Justin Bieber",
+      "booking_start_datetime": "2025-11-10T12:00:00-08:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-18",
+      "start_time": "12:30:00",
+      "available_spot_count": 46,
+      "capacity": 46
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: Lady Gaga x Adele",
+      "booking_start_datetime": "2025-11-10T12:00:00-08:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-18",
+      "start_time": "17:30:00",
+      "available_spot_count": 46,
+      "capacity": 46
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: The Weeknd x USHER x Pitbull",
+      "booking_start_datetime": "2025-11-11T12:00:00-08:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-19",
+      "start_time": "16:20:00",
+      "available_spot_count": 46,
+      "capacity": 46
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: DISNEY STARS! Hilary Duff x Jonas",
+      "booking_start_datetime": "2025-11-20T12:00:00-08:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-28",
+      "start_time": "18:40:00",
+      "available_spot_count": 46,
+      "capacity": 46
+    },
+    {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - SABRINA CARPENTER X TAYLOR SWIFT",
+      "booking_start_datetime": "2025-10-24T07:45:00-08:00",
+      "location": "Vancouver",
+      "start_date": "2025-11-07",
+      "start_time": "07:45:00",
+      "available_spot_count": 4,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - SABRINA CARPENTER X TAYLOR SWIFT",
+      "booking_start_datetime": "2025-10-24T08:45:00-08:00",
+      "location": "Vancouver",
+      "start_date": "2025-11-07",
+      "start_time": "08:45:00",
+      "available_spot_count": 1,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - RIHANNA REMIX",
+      "booking_start_datetime": "2025-10-24T18:30:00-08:00",
+      "location": "Vancouver",
+      "start_date": "2025-11-07",
+      "start_time": "18:30:00",
+      "available_spot_count": 3,
+      "capacity": 9
+    },
+    {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - POP GIRLIES: CHAPPELL + FRIENDS",
+      "booking_start_datetime": "2025-10-31T07:45:00-08:00",
+      "location": "Vancouver",
+      "start_date": "2025-11-14",
+      "start_time": "07:45:00",
+      "available_spot_count": 9,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Lagree - Trainer Development Class",
+      "booking_start_datetime": "2025-11-01T08:15:00-08:00",
+      "location": "Vancouver",
+      "start_date": "2025-11-15",
+      "start_time": "08:15:00",
+      "available_spot_count": 8,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Lagree - Trainer Development Class",
+      "booking_start_datetime": "2025-11-01T09:15:00-08:00",
+      "location": "Vancouver",
+      "start_date": "2025-11-15",
+      "start_time": "09:15:00",
+      "available_spot_count": 9,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Lagree - Trainer Development Class",
+      "booking_start_datetime": "2025-11-01T10:15:00-08:00",
+      "location": "Vancouver",
+      "start_date": "2025-11-15",
+      "start_time": "10:15:00",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - EARLY 2000s | Y2K MIX",
+      "booking_start_datetime": "2025-11-07T18:30:00-08:00",
+      "location": "Vancouver",
+      "start_date": "2025-11-21",
+      "start_time": "18:30:00",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - RIHANNA REMIX",
+      "booking_start_datetime": "2025-11-08T13:15:00-08:00",
+      "location": "Vancouver",
+      "start_date": "2025-11-22",
+      "start_time": "13:15:00",
+      "available_spot_count": 10,
+      "capacity": 10
+    }
+  ]
+}
