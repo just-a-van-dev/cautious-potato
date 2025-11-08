@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-08T11:08:26.275266-08:00",
+  "last_updated": "2025-11-08T11:33:09.227571-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -260,7 +260,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-08",
       "start_time": "14:00",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -275,7 +275,7 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Club Lagree Full Body With Headsets x Pop Off",
+      "name": "Club Lagree/Full Body/Headsets x Pop Off Drinks",
       "booking_start_date": "2025-11-03 11:00",
       "location": "Vancouver",
       "start_date": "2025-11-10",
@@ -310,7 +310,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-10",
       "start_time": "06:00",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 45
     },
     {
@@ -330,7 +330,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-12",
       "start_time": "16:20",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 45
     },
     {
