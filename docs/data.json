@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-07T16:48:50.842982-08:00",
+  "last_updated": "2025-11-07T22:15:40.007895-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-11-13",
       "start_time": "08:15",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 32
     },
     {
@@ -70,7 +70,7 @@
       "location": "Kitsilano",
       "start_date": "2025-11-09",
       "start_time": "07:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 16
     },
     {
@@ -110,7 +110,7 @@
       "location": "Main St",
       "start_date": "2025-11-22",
       "start_time": "10:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 14
     },
     {
@@ -150,7 +150,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-28",
       "start_time": "15:15",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 20
     },
     {
@@ -210,7 +210,7 @@
       "location": "Kingsway",
       "start_date": "2025-11-14",
       "start_time": "08:00",
-      "available_spot_count": 8,
+      "available_spot_count": 4,
       "capacity": 20
     },
     {
@@ -260,7 +260,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-08",
       "start_time": "14:00",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -280,7 +280,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-10",
       "start_time": "11:00",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -320,8 +320,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-12",
       "start_time": "06:00",
-      "available_spot_count": 33,
-      "capacity": 46
+      "available_spot_count": 31,
+      "capacity": 45
     },
     {
       "studio": "Spin Society",
@@ -330,8 +330,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-12",
       "start_time": "16:20",
-      "available_spot_count": 20,
-      "capacity": 46
+      "available_spot_count": 16,
+      "capacity": 45
     },
     {
       "studio": "Spin Society",
@@ -340,8 +340,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-13",
       "start_time": "09:45",
-      "available_spot_count": 32,
-      "capacity": 46
+      "available_spot_count": 31,
+      "capacity": 45
     },
     {
       "studio": "Spin Society",
@@ -350,8 +350,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-14",
       "start_time": "18:40",
-      "available_spot_count": 25,
-      "capacity": 46
+      "available_spot_count": 23,
+      "capacity": 45
     },
     {
       "studio": "Spin Society",
@@ -360,8 +360,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-17",
       "start_time": "07:15",
-      "available_spot_count": 46,
-      "capacity": 46
+      "available_spot_count": 45,
+      "capacity": 45
     },
     {
       "studio": "Spin Society",
@@ -370,8 +370,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-17",
       "start_time": "17:30",
-      "available_spot_count": 43,
-      "capacity": 46
+      "available_spot_count": 42,
+      "capacity": 45
     },
     {
       "studio": "Spin Society",
@@ -380,8 +380,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-18",
       "start_time": "07:15",
-      "available_spot_count": 46,
-      "capacity": 46
+      "available_spot_count": 45,
+      "capacity": 45
     },
     {
       "studio": "Spin Society",
@@ -390,8 +390,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-18",
       "start_time": "12:30",
-      "available_spot_count": 46,
-      "capacity": 46
+      "available_spot_count": 45,
+      "capacity": 45
     },
     {
       "studio": "Spin Society",
@@ -400,8 +400,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-18",
       "start_time": "17:30",
-      "available_spot_count": 46,
-      "capacity": 46
+      "available_spot_count": 45,
+      "capacity": 45
     },
     {
       "studio": "Spin Society",
@@ -470,7 +470,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-21",
       "start_time": "18:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
