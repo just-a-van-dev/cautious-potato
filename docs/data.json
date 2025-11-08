@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-08T07:10:12.752182-08:00",
+  "last_updated": "2025-11-08T07:34:52.236866-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -130,7 +130,7 @@
       "location": "Gastown",
       "start_date": "2025-11-25",
       "start_time": "14:15",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 15
     },
     {
@@ -150,7 +150,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-28",
       "start_time": "15:15",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 20
     },
     {
