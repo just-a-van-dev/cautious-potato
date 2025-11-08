@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-07T15:33:24.457407-08:00",
+  "last_updated": "2025-11-07T16:48:50.842982-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-11-13",
       "start_time": "08:15",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 32
     },
     {
@@ -70,7 +70,7 @@
       "location": "Kitsilano",
       "start_date": "2025-11-09",
       "start_time": "07:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 16
     },
     {
@@ -210,7 +210,7 @@
       "location": "Kingsway",
       "start_date": "2025-11-14",
       "start_time": "08:00",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -255,32 +255,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Full Body With Headsets x Ayurella Candle",
-      "booking_start_date": "2025-10-31 13:00",
-      "location": "Vancouver",
-      "start_date": "2025-11-07",
-      "start_time": "13:00",
-      "available_spot_count": 1,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Beginners Class With Headsets x Ayurella Candle",
-      "booking_start_date": "2025-10-31 14:00",
-      "location": "Vancouver",
-      "start_date": "2025-11-07",
-      "start_time": "14:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Full Body Workout x Hillary Maria Lashes",
       "booking_start_date": "2025-11-01 14:00",
       "location": "Vancouver",
       "start_date": "2025-11-08",
       "start_time": "14:00",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -290,7 +270,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-08",
       "start_time": "15:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -300,7 +280,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-10",
       "start_time": "11:00",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -312,46 +292,6 @@
       "start_time": "14:00",
       "available_spot_count": 17,
       "capacity": 23
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: WAKE UP WITH Beyonc\u00e9 VOL. 2",
-      "booking_start_date": "2025-10-30 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-07",
-      "start_time": "06:00",
-      "available_spot_count": 17,
-      "capacity": 45
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: BUNT. x Fred again.. x R\u00dcF\u00dcS DU SOL",
-      "booking_start_date": "2025-10-30 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-07",
-      "start_time": "07:15",
-      "available_spot_count": 18,
-      "capacity": 45
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: Lane 8 x Rufus Du Sol",
-      "booking_start_date": "2025-10-30 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-07",
-      "start_time": "12:30",
-      "available_spot_count": 19,
-      "capacity": 45
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: DISNEY STARS! Britney x Christina x JT",
-      "booking_start_date": "2025-10-30 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-07",
-      "start_time": "18:40",
-      "available_spot_count": 6,
-      "capacity": 45
     },
     {
       "studio": "Spin Society",
@@ -380,7 +320,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-12",
       "start_time": "06:00",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 46
     },
     {
@@ -482,36 +422,6 @@
       "start_time": "18:40",
       "available_spot_count": 46,
       "capacity": 46
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - SABRINA CARPENTER X TAYLOR SWIFT",
-      "booking_start_date": "2025-10-24 07:45",
-      "location": "Vancouver",
-      "start_date": "2025-11-07",
-      "start_time": "07:45",
-      "available_spot_count": 4,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - SABRINA CARPENTER X TAYLOR SWIFT",
-      "booking_start_date": "2025-10-24 08:45",
-      "location": "Vancouver",
-      "start_date": "2025-11-07",
-      "start_time": "08:45",
-      "available_spot_count": 1,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - RIHANNA REMIX",
-      "booking_start_date": "2025-10-24 18:30",
-      "location": "Vancouver",
-      "start_date": "2025-11-07",
-      "start_time": "18:30",
-      "available_spot_count": 4,
-      "capacity": 9
     },
     {
       "studio": "Evolution",
