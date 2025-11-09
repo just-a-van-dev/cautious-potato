@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-09T14:10:09.943260-08:00",
+  "last_updated": "2025-11-09T14:37:20.288536-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -405,6 +405,26 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: TWICE x aespa",
+      "booking_start_date": "2025-11-15 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-23",
+      "start_time": "11:50",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: Lady Gaga | MAYHEM x ARTPOP",
+      "booking_start_date": "2025-11-15 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-23",
+      "start_time": "13:00",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: DISNEY STARS! Hilary Duff x Jonas",
       "booking_start_date": "2025-11-20 12:00",
       "location": "MOUNT PLEASANT",
@@ -440,7 +460,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-15",
       "start_time": "09:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
