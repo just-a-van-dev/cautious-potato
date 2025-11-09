@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-09T10:42:19.106150-08:00",
+  "last_updated": "2025-11-09T11:08:18.626778-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -280,7 +280,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-09",
       "start_time": "10:40",
-      "available_spot_count": 2,
+      "available_spot_count": 6,
       "capacity": 45
     },
     {
@@ -320,7 +320,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-13",
       "start_time": "09:45",
-      "available_spot_count": 29,
+      "available_spot_count": 27,
       "capacity": 45
     },
     {
@@ -392,6 +392,16 @@
       "start_time": "16:20",
       "available_spot_count": 46,
       "capacity": 46
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: DARK EDM MIX",
+      "booking_start_date": "2025-11-13 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-21",
+      "start_time": "06:00",
+      "available_spot_count": 45,
+      "capacity": 45
     },
     {
       "studio": "Spin Society",
