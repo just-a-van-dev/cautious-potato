@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-08T15:32:52.003043-08:00",
+  "last_updated": "2025-11-08T16:55:28.389513-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -255,26 +255,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Full Body Workout x Hillary Maria Lashes",
-      "booking_start_date": "2025-11-01 14:00",
-      "location": "Vancouver",
-      "start_date": "2025-11-08",
-      "start_time": "14:00",
-      "available_spot_count": 1,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Full Body Workout x Hillary Maria Lashes",
-      "booking_start_date": "2025-11-01 15:00",
-      "location": "Vancouver",
-      "start_date": "2025-11-08",
-      "start_time": "15:00",
-      "available_spot_count": 0,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Club Lagree/Full Body/Headsets x Pop Off Drinks",
       "booking_start_date": "2025-11-03 11:00",
       "location": "Vancouver",
@@ -350,7 +330,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-14",
       "start_time": "18:40",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 45
     },
     {
