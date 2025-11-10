@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-10T05:06:02.185145-08:00",
+  "last_updated": "2025-11-10T05:46:09.942947-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -260,7 +260,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-10",
       "start_time": "06:00",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 45
     },
     {
@@ -270,7 +270,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-12",
       "start_time": "06:00",
-      "available_spot_count": 24,
+      "available_spot_count": 25,
       "capacity": 45
     },
     {
