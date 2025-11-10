@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-10T09:11:03.023311-08:00",
+  "last_updated": "2025-11-10T09:37:16.963726-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -250,7 +250,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-10",
       "start_time": "11:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -270,7 +270,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-12",
       "start_time": "06:00",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 45
     },
     {
@@ -320,7 +320,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-17",
       "start_time": "17:30",
-      "available_spot_count": 18,
+      "available_spot_count": 16,
       "capacity": 45
     },
     {
@@ -400,6 +400,16 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-28",
       "start_time": "18:40",
+      "available_spot_count": 46,
+      "capacity": 46
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: VEGAS | DJs + Residencies",
+      "booking_start_date": "2025-11-22 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-30",
+      "start_time": "10:40",
       "available_spot_count": 46,
       "capacity": 46
     },
