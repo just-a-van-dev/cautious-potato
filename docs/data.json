@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-09T15:33:47.862476-08:00",
+  "last_updated": "2025-11-09T16:55:32.894069-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -63,16 +63,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2025-10-10 07:00",
-      "location": "Kitsilano",
-      "start_date": "2025-11-09",
-      "start_time": "07:00",
-      "available_spot_count": 2,
-      "capacity": 16
-    },
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
@@ -264,26 +254,6 @@
       "capacity": 12
     },
     {
-      "studio": "Ritual",
-      "name": "Fall Yin + Sound Mini Retreat",
-      "booking_start_date": "2025-10-10 14:00",
-      "location": "West End",
-      "start_date": "2025-11-09",
-      "start_time": "14:00",
-      "available_spot_count": 17,
-      "capacity": 23
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: Hip Hop: Originals x Remixes",
-      "booking_start_date": "2025-11-01 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-09",
-      "start_time": "10:40",
-      "available_spot_count": 7,
-      "capacity": 45
-    },
-    {
       "studio": "Spin Society",
       "name": "THEME: Avicii x Kaskade",
       "booking_start_date": "2025-11-02 12:00",
@@ -320,7 +290,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-13",
       "start_time": "09:45",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 45
     },
     {
@@ -350,7 +320,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-17",
       "start_time": "17:30",
-      "available_spot_count": 29,
+      "available_spot_count": 26,
       "capacity": 45
     },
     {
@@ -490,6 +460,26 @@
       "location": "Vancouver",
       "start_date": "2025-11-22",
       "start_time": "13:15",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - DUA LIPA X ARIANA GRANDE",
+      "booking_start_date": "2025-11-28 07:45",
+      "location": "Vancouver",
+      "start_date": "2025-12-12",
+      "start_time": "07:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - DUA LIPA X ARIANA GRANDE",
+      "booking_start_date": "2025-11-28 08:45",
+      "location": "Vancouver",
+      "start_date": "2025-12-12",
+      "start_time": "08:45",
       "available_spot_count": 10,
       "capacity": 10
     }
