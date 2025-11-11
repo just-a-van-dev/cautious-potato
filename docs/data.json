@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-11T13:35:57.795373-08:00",
+  "last_updated": "2025-11-11T14:11:39.058085-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -120,7 +120,7 @@
       "location": "Kitsilano",
       "start_date": "2025-11-24",
       "start_time": "09:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 16
     },
     {
@@ -140,7 +140,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-26",
       "start_time": "07:15",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 20
     },
     {
@@ -232,6 +232,16 @@
       "start_time": "12:05",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Journey Inward",
+      "booking_start_date": "2025-11-14 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-11-21",
+      "start_time": "08:00",
+      "available_spot_count": 20,
+      "capacity": 20
     },
     {
       "studio": "Jaybird",
@@ -360,7 +370,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-17",
       "start_time": "17:30",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 45
     },
     {
