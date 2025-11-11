@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-11T05:05:42.466516-08:00",
+  "last_updated": "2025-11-11T05:45:38.341919-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -410,7 +410,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-14",
       "start_time": "07:45",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
