@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-11T13:10:33.971839-08:00",
+  "last_updated": "2025-11-11T13:35:57.795373-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -430,6 +430,46 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-23",
       "start_time": "13:00",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ABBA x Queen",
+      "booking_start_date": "2025-11-16 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-24",
+      "start_time": "16:20",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: Country Remixes",
+      "booking_start_date": "2025-11-17 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-25",
+      "start_time": "06:00",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: John Summit x Dom Dolla x Rezz",
+      "booking_start_date": "2025-11-19 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-27",
+      "start_time": "06:00",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BUNT x Fred Again...",
+      "booking_start_date": "2025-11-20 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-28",
+      "start_time": "12:30",
       "available_spot_count": 45,
       "capacity": 45
     },
