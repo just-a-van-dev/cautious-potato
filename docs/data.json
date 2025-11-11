@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-10T15:35:29.147250-08:00",
+  "last_updated": "2025-11-10T16:53:26.825100-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -57,6 +57,16 @@
       "booking_start_date": "2025-12-11 08:15",
       "location": "KITS - Vancouver",
       "start_date": "2025-12-18",
+      "start_time": "08:15",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "COMMUNITY CLASS: meta",
+      "booking_start_date": "2025-12-18 08:15",
+      "location": "KITS - Vancouver",
+      "start_date": "2025-12-25",
       "start_time": "08:15",
       "available_spot_count": 32,
       "capacity": 32
@@ -210,7 +220,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-17",
       "start_time": "20:00",
-      "available_spot_count": 6,
+      "available_spot_count": 3,
       "capacity": 36
     },
     {
@@ -244,26 +254,6 @@
       "capacity": 45
     },
     {
-      "studio": "Lagree Studio",
-      "name": "Club Lagree/Full Body/Headsets x Pop Off Drinks",
-      "booking_start_date": "2025-11-03 11:00",
-      "location": "Vancouver",
-      "start_date": "2025-11-10",
-      "start_time": "11:00",
-      "available_spot_count": 0,
-      "capacity": 12
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: Avicii x Kaskade",
-      "booking_start_date": "2025-11-02 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-10",
-      "start_time": "06:00",
-      "available_spot_count": 31,
-      "capacity": 45
-    },
-    {
       "studio": "Spin Society",
       "name": "THEME: Kid Cudi x Mac Miller",
       "booking_start_date": "2025-11-04 12:00",
@@ -280,7 +270,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-12",
       "start_time": "16:20",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 45
     },
     {
@@ -300,7 +290,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-14",
       "start_time": "18:40",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 45
     },
     {
@@ -320,7 +310,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-17",
       "start_time": "17:30",
-      "available_spot_count": 8,
+      "available_spot_count": 5,
       "capacity": 45
     },
     {
@@ -340,7 +330,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-18",
       "start_time": "12:30",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 45
     },
     {
@@ -450,7 +440,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-15",
       "start_time": "10:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
