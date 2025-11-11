@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-11T11:33:22.307315-08:00",
+  "last_updated": "2025-11-11T12:12:41.970741-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -264,6 +264,46 @@
       "capacity": 45
     },
     {
+      "studio": "Lagree Studio",
+      "name": "Full Body Workout x Sabe Athletic",
+      "booking_start_date": "2025-11-11 16:30",
+      "location": "Vancouver",
+      "start_date": "2025-11-18",
+      "start_time": "16:30",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Full Body Workout x Sabe Athletic",
+      "booking_start_date": "2025-11-11 17:30",
+      "location": "Vancouver",
+      "start_date": "2025-11-18",
+      "start_time": "17:30",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Full Body Workout x Sabe Athletic",
+      "booking_start_date": "2025-11-11 18:30",
+      "location": "Vancouver",
+      "start_date": "2025-11-18",
+      "start_time": "18:30",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Full Body Workout x Sabe Athletic",
+      "booking_start_date": "2025-11-11 19:30",
+      "location": "Vancouver",
+      "start_date": "2025-11-18",
+      "start_time": "19:30",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
       "studio": "Spin Society",
       "name": "THEME: Kid Cudi x Mac Miller",
       "booking_start_date": "2025-11-04 12:00",
@@ -320,7 +360,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-17",
       "start_time": "17:30",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 45
     },
     {
@@ -330,7 +370,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-18",
       "start_time": "07:15",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 45
     },
     {
