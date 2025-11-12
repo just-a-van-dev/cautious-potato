@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-11T21:20:39.299878-08:00",
+  "last_updated": "2025-11-11T21:42:59.082536-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -80,7 +80,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-13",
       "start_time": "15:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 20
     },
     {
@@ -120,7 +120,7 @@
       "location": "Kitsilano",
       "start_date": "2025-11-24",
       "start_time": "09:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 16
     },
     {
@@ -160,7 +160,7 @@
       "location": "Kingsway",
       "start_date": "2025-11-13",
       "start_time": "14:30",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 20
     },
     {
@@ -500,7 +500,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-15",
       "start_time": "10:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 10
     },
     {
