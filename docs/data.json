@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-11T15:35:24.949962-08:00",
+  "last_updated": "2025-11-11T16:53:16.604852-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -155,46 +155,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Build x Journey Inward",
-      "booking_start_date": "2025-11-04 00:00",
-      "location": "Yaletown",
-      "start_date": "2025-11-11",
-      "start_time": "08:15",
-      "available_spot_count": 0,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn x Journey Inward",
-      "booking_start_date": "2025-11-04 00:00",
-      "location": "Yaletown",
-      "start_date": "2025-11-11",
-      "start_time": "12:15",
-      "available_spot_count": 1,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn x Journey Inward",
-      "booking_start_date": "2025-11-04 00:00",
-      "location": "Yaletown",
-      "start_date": "2025-11-11",
-      "start_time": "16:00",
-      "available_spot_count": 1,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Balance + Sound Bath x Journey Inward",
-      "booking_start_date": "2025-11-04 00:00",
-      "location": "Yaletown",
-      "start_date": "2025-11-11",
-      "start_time": "20:00",
-      "available_spot_count": 0,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
       "name": "Teacher Development | The Burn - Reformer $25",
       "booking_start_date": "2025-11-06 00:00",
       "location": "Kingsway",
@@ -230,7 +190,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-19",
       "start_time": "12:05",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 36
     },
     {
@@ -280,7 +240,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-18",
       "start_time": "16:30",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -330,7 +290,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-12",
       "start_time": "16:20",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 45
     },
     {
@@ -350,7 +310,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-14",
       "start_time": "18:40",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 45
     },
     {
@@ -390,7 +350,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-18",
       "start_time": "12:30",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 45
     },
     {
@@ -400,7 +360,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-18",
       "start_time": "17:30",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 45
     },
     {
@@ -540,7 +500,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-15",
       "start_time": "10:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
