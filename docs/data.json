@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-12T07:22:42.104001-08:00",
+  "last_updated": "2025-11-12T07:45:06.898839-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -100,7 +100,7 @@
       "location": "Kitsilano",
       "start_date": "2025-11-20",
       "start_time": "10:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 16
     },
     {
@@ -190,7 +190,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-19",
       "start_time": "12:05",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 36
     },
     {
@@ -360,7 +360,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-19",
       "start_time": "16:20",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 46
     },
     {
