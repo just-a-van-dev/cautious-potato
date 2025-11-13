@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-12T15:39:33.979838-08:00",
+  "last_updated": "2025-11-12T17:38:55.258948-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -100,7 +100,7 @@
       "location": "Kitsilano",
       "start_date": "2025-11-20",
       "start_time": "10:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 16
     },
     {
@@ -160,7 +160,7 @@
       "location": "Kingsway",
       "start_date": "2025-11-13",
       "start_time": "14:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -240,7 +240,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-18",
       "start_time": "17:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -260,28 +260,8 @@
       "location": "Vancouver",
       "start_date": "2025-11-18",
       "start_time": "19:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: Kid Cudi x Mac Miller",
-      "booking_start_date": "2025-11-04 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-12",
-      "start_time": "06:00",
-      "available_spot_count": 21,
-      "capacity": 45
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: Lady Gaga x Rihanna",
-      "booking_start_date": "2025-11-04 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-12",
-      "start_time": "16:20",
-      "available_spot_count": 2,
-      "capacity": 45
     },
     {
       "studio": "Spin Society",
@@ -290,7 +270,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-13",
       "start_time": "09:45",
-      "available_spot_count": 25,
+      "available_spot_count": 27,
       "capacity": 45
     },
     {
@@ -300,7 +280,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-14",
       "start_time": "18:40",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 45
     },
     {
@@ -490,7 +470,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-15",
       "start_time": "10:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 10
     },
     {
