@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-12T23:39:55.093511-08:00",
+  "last_updated": "2025-11-13T00:27:14.874175-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -160,7 +160,7 @@
       "location": "Kingsway",
       "start_date": "2025-11-13",
       "start_time": "14:30",
-      "available_spot_count": 8,
+      "available_spot_count": 10,
       "capacity": 20
     },
     {
@@ -450,7 +450,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-15",
       "start_time": "08:15",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 10
     },
     {
