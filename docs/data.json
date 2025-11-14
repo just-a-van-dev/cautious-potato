@@ -1,16 +1,6 @@
 {
-  "last_updated": "2025-11-13T15:39:14.835015-08:00",
+  "last_updated": "2025-11-13T17:38:21.445884-08:00",
   "special": [
-    {
-      "studio": "Turf",
-      "name": "COMMUNITY CLASS: meta",
-      "booking_start_date": "2025-11-06 08:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2025-11-13",
-      "start_time": "08:15",
-      "available_spot_count": 23,
-      "capacity": 32
-    },
     {
       "studio": "Turf",
       "name": "COMMUNITY CLASS: meta",
@@ -76,16 +66,6 @@
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2025-10-14 15:15",
-      "location": "Yaletown",
-      "start_date": "2025-11-13",
-      "start_time": "15:15",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Sweat for a Cause/By Donation",
       "booking_start_date": "2025-10-21 09:15",
       "location": "Main St",
       "start_date": "2025-11-20",
@@ -100,7 +80,7 @@
       "location": "Kitsilano",
       "start_date": "2025-11-20",
       "start_time": "10:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 16
     },
     {
@@ -155,16 +135,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "Teacher Development | The Burn - Reformer $25",
-      "booking_start_date": "2025-11-06 00:00",
-      "location": "Kingsway",
-      "start_date": "2025-11-13",
-      "start_time": "14:30",
-      "available_spot_count": 8,
-      "capacity": 20
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn - Reformer x Journey Inward",
       "booking_start_date": "2025-11-07 00:00",
       "location": "Kingsway",
@@ -190,7 +160,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-19",
       "start_time": "12:05",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 36
     },
     {
@@ -230,7 +200,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-18",
       "start_time": "16:30",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -262,16 +232,6 @@
       "start_time": "19:30",
       "available_spot_count": 7,
       "capacity": 12
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: T-Pain x Pitbull x USHER Pt. 2",
-      "booking_start_date": "2025-11-05 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-13",
-      "start_time": "09:45",
-      "available_spot_count": 25,
-      "capacity": 45
     },
     {
       "studio": "Spin Society",
@@ -310,7 +270,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-18",
       "start_time": "07:15",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 45
     },
     {
@@ -350,7 +310,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-21",
       "start_time": "06:00",
-      "available_spot_count": 36,
+      "available_spot_count": 34,
       "capacity": 45
     },
     {
@@ -440,7 +400,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-14",
       "start_time": "07:45",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 10
     },
     {
@@ -460,7 +420,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-15",
       "start_time": "09:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 10
     },
     {
