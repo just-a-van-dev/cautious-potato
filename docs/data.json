@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-15T13:36:58.726777-08:00",
+  "last_updated": "2025-11-15T14:15:10.145326-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -200,7 +200,7 @@
       "location": "Kingsway",
       "start_date": "2025-11-21",
       "start_time": "16:00",
-      "available_spot_count": 16,
+      "available_spot_count": 17,
       "capacity": 42
     },
     {
@@ -210,7 +210,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-21",
       "start_time": "16:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 36
     },
     {
@@ -340,7 +340,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-23",
       "start_time": "11:50",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 45
     },
     {
