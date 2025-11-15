@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-14T15:38:43.340938-08:00",
+  "last_updated": "2025-11-14T17:27:07.641885-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -68,7 +68,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-20",
       "start_time": "12:30",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 45
     }
   ],
@@ -110,7 +110,7 @@
       "location": "Kitsilano",
       "start_date": "2025-11-24",
       "start_time": "09:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 16
     },
     {
@@ -141,16 +141,6 @@
       "start_date": "2025-11-28",
       "start_time": "15:15",
       "available_spot_count": 14,
-      "capacity": 20
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn - Reformer x Journey Inward",
-      "booking_start_date": "2025-11-07 00:00",
-      "location": "Kingsway",
-      "start_date": "2025-11-14",
-      "start_time": "08:00",
-      "available_spot_count": 0,
       "capacity": 20
     },
     {
@@ -250,18 +240,8 @@
       "location": "Vancouver",
       "start_date": "2025-11-18",
       "start_time": "19:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: 2000s Hip Hop x R&B",
-      "booking_start_date": "2025-11-06 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-14",
-      "start_time": "18:40",
-      "available_spot_count": 8,
-      "capacity": 45
     },
     {
       "studio": "Spin Society",
@@ -270,7 +250,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-17",
       "start_time": "07:15",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 45
     },
     {
@@ -300,7 +280,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-18",
       "start_time": "12:30",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 45
     },
     {
@@ -320,7 +300,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-19",
       "start_time": "16:20",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 46
     },
     {
@@ -445,16 +425,6 @@
     },
     {
       "studio": "Evolution",
-      "name": "Infrared Lagree - POP GIRLIES: CHAPPELL + FRIENDS",
-      "booking_start_date": "2025-10-31 07:45",
-      "location": "Vancouver",
-      "start_date": "2025-11-14",
-      "start_time": "07:45",
-      "available_spot_count": 1,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
       "name": "Lagree - Trainer Development Class",
       "booking_start_date": "2025-11-01 08:15",
       "location": "Vancouver",
@@ -480,7 +450,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-15",
       "start_time": "10:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
@@ -490,7 +460,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-21",
       "start_time": "18:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
