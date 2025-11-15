@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-15T14:38:40.524047-08:00",
+  "last_updated": "2025-11-15T15:17:24.873059-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -111,6 +111,16 @@
       "start_date": "2025-11-24",
       "start_time": "09:15",
       "available_spot_count": 3,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x 10YR with OG Lauren J",
+      "booking_start_date": "2025-10-25 16:30",
+      "location": "Kitsilano",
+      "start_date": "2025-11-24",
+      "start_time": "16:30",
+      "available_spot_count": 16,
       "capacity": 16
     },
     {
@@ -320,7 +330,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-19",
       "start_time": "16:20",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 46
     },
     {
@@ -340,7 +350,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-23",
       "start_time": "11:50",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 45
     },
     {
@@ -350,7 +360,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-23",
       "start_time": "13:00",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 45
     },
     {
