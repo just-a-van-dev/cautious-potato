@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-16T01:38:58.392853-08:00",
+  "last_updated": "2025-11-16T02:19:05.151202-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -210,7 +210,7 @@
       "location": "Kingsway",
       "start_date": "2025-11-21",
       "start_time": "16:00",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 42
     },
     {
@@ -220,7 +220,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-21",
       "start_time": "16:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 36
     },
     {
