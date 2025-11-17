@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-17T10:51:26.143662-08:00",
+  "last_updated": "2025-11-17T11:15:56.247064-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -220,7 +220,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-21",
       "start_time": "16:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 36
     },
     {
@@ -240,7 +240,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-18",
       "start_time": "16:30",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -271,6 +271,16 @@
       "start_date": "2025-11-18",
       "start_time": "19:30",
       "available_spot_count": 0,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Club Lagree x Full Body Workout x Sahajan",
+      "booking_start_date": "2025-11-12 07:00",
+      "location": "Vancouver",
+      "start_date": "2025-11-19",
+      "start_time": "07:00",
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -370,7 +380,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-24",
       "start_time": "16:20",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 45
     },
     {
@@ -400,7 +410,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-27",
       "start_time": "06:00",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 45
     },
     {
