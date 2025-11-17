@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-17T15:18:45.118445-08:00",
+  "last_updated": "2025-11-17T15:39:19.350249-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -270,7 +270,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-18",
       "start_time": "18:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -294,6 +294,56 @@
       "capacity": 12
     },
     {
+      "studio": "Ritual",
+      "name": "Slow Flow + Sound",
+      "booking_start_date": "2025-11-18 08:00",
+      "location": "West End",
+      "start_date": "2025-12-02",
+      "start_time": "08:00",
+      "available_spot_count": 17,
+      "capacity": 17
+    },
+    {
+      "studio": "Ritual",
+      "name": "Slow Flow + Sound",
+      "booking_start_date": "2025-11-25 08:00",
+      "location": "West End",
+      "start_date": "2025-12-09",
+      "start_time": "08:00",
+      "available_spot_count": 17,
+      "capacity": 17
+    },
+    {
+      "studio": "Ritual",
+      "name": "Slow Flow + Sound",
+      "booking_start_date": "2025-12-02 08:00",
+      "location": "West End",
+      "start_date": "2025-12-16",
+      "start_time": "08:00",
+      "available_spot_count": 17,
+      "capacity": 17
+    },
+    {
+      "studio": "Ritual",
+      "name": "Slow Flow + Sound",
+      "booking_start_date": "2025-12-09 08:00",
+      "location": "West End",
+      "start_date": "2025-12-23",
+      "start_time": "08:00",
+      "available_spot_count": 17,
+      "capacity": 17
+    },
+    {
+      "studio": "Ritual",
+      "name": "Slow Flow + Sound",
+      "booking_start_date": "2025-12-16 08:00",
+      "location": "West End",
+      "start_date": "2025-12-30",
+      "start_time": "08:00",
+      "available_spot_count": 17,
+      "capacity": 17
+    },
+    {
       "studio": "Spin Society",
       "name": "THEME: Flo Rida x Avicii",
       "booking_start_date": "2025-11-09 12:00",
@@ -310,7 +360,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-17",
       "start_time": "17:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 45
     },
     {
