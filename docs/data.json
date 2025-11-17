@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-17T14:19:35.702761-08:00",
+  "last_updated": "2025-11-17T14:42:26.785118-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -140,7 +140,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-26",
       "start_time": "07:15",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 20
     },
     {
@@ -270,7 +270,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-18",
       "start_time": "18:30",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -310,7 +310,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-17",
       "start_time": "17:30",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 45
     },
     {
@@ -472,6 +472,16 @@
       "start_time": "10:40",
       "available_spot_count": 45,
       "capacity": 45
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: Dancing With The Stars",
+      "booking_start_date": "2025-11-24 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-02",
+      "start_time": "17:30",
+      "available_spot_count": 50,
+      "capacity": 50
     },
     {
       "studio": "Evolution",
