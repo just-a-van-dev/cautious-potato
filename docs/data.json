@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-18T10:30:38.474760-08:00",
+  "last_updated": "2025-11-18T11:17:06.461685-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -130,7 +130,7 @@
       "location": "Kitsilano",
       "start_date": "2025-11-24",
       "start_time": "16:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 16
     },
     {
@@ -250,7 +250,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-18",
       "start_time": "13:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -370,7 +370,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-18",
       "start_time": "12:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 45
     },
     {
@@ -380,7 +380,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-18",
       "start_time": "17:30",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 45
     },
     {
@@ -430,7 +430,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-24",
       "start_time": "16:20",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 45
     },
     {
