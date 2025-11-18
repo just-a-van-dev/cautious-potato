@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-17T17:37:35.827549-08:00",
+  "last_updated": "2025-11-17T19:12:36.132111-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -130,7 +130,7 @@
       "location": "Kitsilano",
       "start_date": "2025-11-24",
       "start_time": "16:30",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 16
     },
     {
@@ -160,7 +160,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-28",
       "start_time": "15:15",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -220,7 +220,7 @@
       "location": "Kingsway",
       "start_date": "2025-11-21",
       "start_time": "16:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 42
     },
     {
@@ -250,7 +250,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-18",
       "start_time": "13:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -260,7 +260,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-18",
       "start_time": "16:30",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -360,7 +360,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-18",
       "start_time": "07:15",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 45
     },
     {
@@ -390,7 +390,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-19",
       "start_time": "16:20",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 46
     },
     {
@@ -430,7 +430,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-24",
       "start_time": "16:20",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 45
     },
     {
@@ -440,7 +440,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-25",
       "start_time": "06:00",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 45
     },
     {
