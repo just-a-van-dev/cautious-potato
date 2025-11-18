@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-17T19:55:33.507485-08:00",
+  "last_updated": "2025-11-17T20:25:35.434025-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-11-20",
       "start_time": "08:15",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 32
     },
     {
@@ -160,7 +160,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-28",
       "start_time": "15:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 20
     },
     {
@@ -220,7 +220,7 @@
       "location": "Kingsway",
       "start_date": "2025-11-21",
       "start_time": "16:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 42
     },
     {
@@ -280,7 +280,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-18",
       "start_time": "18:30",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -360,7 +360,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-18",
       "start_time": "07:15",
-      "available_spot_count": 15,
+      "available_spot_count": 16,
       "capacity": 45
     },
     {
@@ -390,7 +390,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-19",
       "start_time": "16:20",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 46
     },
     {
@@ -430,7 +430,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-24",
       "start_time": "16:20",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 45
     },
     {
@@ -495,7 +495,7 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: DISNEY STARS! Hilary Duff x Jonas",
+      "name": "THEME: DISNEY STARS! Jonas Bros x Hilary x Demi",
       "booking_start_date": "2025-11-20 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-28",
