@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-18T07:45:25.523083-08:00",
+  "last_updated": "2025-11-18T08:27:58.514367-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -150,7 +150,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-26",
       "start_time": "07:15",
-      "available_spot_count": 9,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -390,7 +390,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-19",
       "start_time": "16:20",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 46
     },
     {
@@ -400,7 +400,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-21",
       "start_time": "06:00",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 45
     },
     {
@@ -430,7 +430,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-24",
       "start_time": "16:20",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 45
     },
     {
