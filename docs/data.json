@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-18T12:24:00.787333-08:00",
+  "last_updated": "2025-11-18T14:19:59.869511-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -170,7 +170,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-19",
       "start_time": "12:05",
-      "available_spot_count": 15,
+      "available_spot_count": 16,
       "capacity": 36
     },
     {
@@ -220,7 +220,7 @@
       "location": "Kingsway",
       "start_date": "2025-11-21",
       "start_time": "16:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 42
     },
     {
@@ -230,7 +230,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-21",
       "start_time": "16:00",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 36
     },
     {
@@ -250,7 +250,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-18",
       "start_time": "13:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -291,16 +291,6 @@
       "start_date": "2025-11-18",
       "start_time": "19:30",
       "available_spot_count": 0,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Club Lagree x Full Body Workout x Sahajan",
-      "booking_start_date": "2025-11-12 07:00",
-      "location": "Vancouver",
-      "start_date": "2025-11-19",
-      "start_time": "07:00",
-      "available_spot_count": 12,
       "capacity": 12
     },
     {
@@ -370,7 +360,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-18",
       "start_time": "12:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 45
     },
     {
@@ -390,7 +380,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-19",
       "start_time": "16:20",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 46
     },
     {
@@ -440,7 +430,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-25",
       "start_time": "06:00",
-      "available_spot_count": 36,
+      "available_spot_count": 34,
       "capacity": 45
     },
     {
@@ -450,7 +440,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-26",
       "start_time": "19:50",
-      "available_spot_count": 31,
+      "available_spot_count": 21,
       "capacity": 45
     },
     {
