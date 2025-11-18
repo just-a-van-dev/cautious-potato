@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-17T15:39:19.350249-08:00",
+  "last_updated": "2025-11-17T17:37:35.827549-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -62,13 +62,23 @@
       "capacity": 32
     },
     {
+      "studio": "Turf",
+      "name": "COMMUNITY CLASS: meta",
+      "booking_start_date": "2025-12-25 08:15",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-01-01",
+      "start_time": "08:15",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
       "studio": "Spin Society",
       "name": "Jordan\u2019s Community Ride",
       "booking_start_date": "2025-11-10 00:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-20",
       "start_time": "12:30",
-      "available_spot_count": 16,
+      "available_spot_count": 17,
       "capacity": 45
     }
   ],
@@ -120,7 +130,7 @@
       "location": "Kitsilano",
       "start_date": "2025-11-24",
       "start_time": "16:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 16
     },
     {
@@ -150,18 +160,8 @@
       "location": "Yaletown",
       "start_date": "2025-11-28",
       "start_time": "15:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 20
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Balance + Sound Bath x Journey Inward",
-      "booking_start_date": "2025-11-10 00:00",
-      "location": "Yaletown",
-      "start_date": "2025-11-17",
-      "start_time": "20:00",
-      "available_spot_count": 0,
-      "capacity": 36
     },
     {
       "studio": "Jaybird",
@@ -220,7 +220,7 @@
       "location": "Kingsway",
       "start_date": "2025-11-21",
       "start_time": "16:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 42
     },
     {
@@ -230,7 +230,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-21",
       "start_time": "16:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 36
     },
     {
@@ -245,12 +245,22 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Full Body Workout With Headsets x Blume Superbelly",
+      "booking_start_date": "2025-11-11 13:00",
+      "location": "Vancouver",
+      "start_date": "2025-11-18",
+      "start_time": "13:00",
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Full Body Workout x Sabe Athletic",
       "booking_start_date": "2025-11-11 16:30",
       "location": "Vancouver",
       "start_date": "2025-11-18",
       "start_time": "16:30",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -270,7 +280,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-18",
       "start_time": "18:30",
-      "available_spot_count": 6,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -345,26 +355,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: Flo Rida x Avicii",
-      "booking_start_date": "2025-11-09 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-17",
-      "start_time": "07:15",
-      "available_spot_count": 32,
-      "capacity": 45
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: CLASSIC ROCK REMIXED (Vol. 2)",
-      "booking_start_date": "2025-11-09 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-17",
-      "start_time": "17:30",
-      "available_spot_count": 0,
-      "capacity": 45
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: ODESZA x RUFUS DU SOL (Vol. 2)",
       "booking_start_date": "2025-11-10 12:00",
       "location": "MOUNT PLEASANT",
@@ -380,7 +370,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-18",
       "start_time": "12:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 45
     },
     {
@@ -450,7 +440,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-25",
       "start_time": "06:00",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 45
     },
     {
