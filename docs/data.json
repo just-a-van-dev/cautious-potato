@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-18T15:36:38.597275-08:00",
+  "last_updated": "2025-11-18T17:37:53.853093-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-11-20",
       "start_time": "08:15",
-      "available_spot_count": 19,
+      "available_spot_count": 20,
       "capacity": 32
     },
     {
@@ -130,7 +130,7 @@
       "location": "Kitsilano",
       "start_date": "2025-11-24",
       "start_time": "16:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 16
     },
     {
@@ -150,7 +150,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-26",
       "start_time": "07:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 20
     },
     {
@@ -164,13 +164,23 @@
       "capacity": 20
     },
     {
+      "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
+      "booking_start_date": "2025-11-11 09:15",
+      "location": "Yaletown",
+      "start_date": "2025-12-11",
+      "start_time": "09:15",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
       "studio": "Jaybird",
       "name": "The Burn | Arms + Abs x Journey Inward",
       "booking_start_date": "2025-11-12 00:00",
       "location": "Yaletown",
       "start_date": "2025-11-19",
       "start_time": "12:05",
-      "available_spot_count": 16,
+      "available_spot_count": 17,
       "capacity": 36
     },
     {
@@ -230,7 +240,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-21",
       "start_time": "16:00",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 36
     },
     {
@@ -242,56 +252,6 @@
       "start_time": "13:45",
       "available_spot_count": 38,
       "capacity": 45
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Full Body Workout With Headsets x Blume Superbelly",
-      "booking_start_date": "2025-11-11 13:00",
-      "location": "Vancouver",
-      "start_date": "2025-11-18",
-      "start_time": "13:00",
-      "available_spot_count": 1,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Full Body Workout x Sabe Athletic",
-      "booking_start_date": "2025-11-11 16:30",
-      "location": "Vancouver",
-      "start_date": "2025-11-18",
-      "start_time": "16:30",
-      "available_spot_count": 0,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Full Body Workout x Sabe Athletic",
-      "booking_start_date": "2025-11-11 17:30",
-      "location": "Vancouver",
-      "start_date": "2025-11-18",
-      "start_time": "17:30",
-      "available_spot_count": 0,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Full Body Workout x Sabe Athletic",
-      "booking_start_date": "2025-11-11 18:30",
-      "location": "Vancouver",
-      "start_date": "2025-11-18",
-      "start_time": "18:30",
-      "available_spot_count": 0,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Full Body Workout x Sabe Athletic",
-      "booking_start_date": "2025-11-11 19:30",
-      "location": "Vancouver",
-      "start_date": "2025-11-18",
-      "start_time": "19:30",
-      "available_spot_count": 0,
-      "capacity": 12
     },
     {
       "studio": "Ritual",
@@ -345,36 +305,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: ODESZA x RUFUS DU SOL (Vol. 2)",
-      "booking_start_date": "2025-11-10 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-18",
-      "start_time": "07:15",
-      "available_spot_count": 22,
-      "capacity": 45
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: Major Lazer x Justin Bieber",
-      "booking_start_date": "2025-11-10 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-18",
-      "start_time": "12:30",
-      "available_spot_count": 34,
-      "capacity": 45
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: Lady Gaga x Adele",
-      "booking_start_date": "2025-11-10 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-18",
-      "start_time": "17:30",
-      "available_spot_count": 0,
-      "capacity": 45
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: The Weeknd x USHER x Pitbull",
       "booking_start_date": "2025-11-11 12:00",
       "location": "MOUNT PLEASANT",
@@ -420,7 +350,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-24",
       "start_time": "16:20",
-      "available_spot_count": 23,
+      "available_spot_count": 20,
       "capacity": 45
     },
     {
@@ -440,7 +370,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-26",
       "start_time": "19:50",
-      "available_spot_count": 16,
+      "available_spot_count": 10,
       "capacity": 45
     },
     {
