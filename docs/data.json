@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-19T13:15:29.549539-08:00",
+  "last_updated": "2025-11-19T13:37:26.766768-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -340,7 +340,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-19",
       "start_time": "16:20",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 46
     },
     {
@@ -350,7 +350,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-21",
       "start_time": "06:00",
-      "available_spot_count": 20,
+      "available_spot_count": 21,
       "capacity": 45
     },
     {
@@ -410,7 +410,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-27",
       "start_time": "06:00",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 45
     },
     {
@@ -430,7 +430,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-27",
       "start_time": "18:40",
-      "available_spot_count": 34,
+      "available_spot_count": 32,
       "capacity": 45
     },
     {
@@ -465,11 +465,31 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: COUNTRY x POP",
+      "booking_start_date": "2025-11-23 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-01",
+      "start_time": "18:40",
+      "available_spot_count": 44,
+      "capacity": 45
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: Dancing With The Stars",
       "booking_start_date": "2025-11-24 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-02",
       "start_time": "17:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: Doechii x SZA x Doja Cat",
+      "booking_start_date": "2025-11-26 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-04",
+      "start_time": "09:45",
       "available_spot_count": 50,
       "capacity": 50
     },
@@ -480,7 +500,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-21",
       "start_time": "18:30",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
