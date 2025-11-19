@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-19T00:27:52.539933-08:00",
+  "last_updated": "2025-11-19T00:51:05.846047-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -140,7 +140,7 @@
       "location": "Gastown",
       "start_date": "2025-11-25",
       "start_time": "14:15",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 15
     },
     {
