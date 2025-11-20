@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-19T15:38:28.335774-08:00",
+  "last_updated": "2025-11-19T17:27:45.626859-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-11-20",
       "start_time": "08:15",
-      "available_spot_count": 17,
+      "available_spot_count": 18,
       "capacity": 32
     },
     {
@@ -78,7 +78,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-20",
       "start_time": "12:30",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 45
     }
   ],
@@ -130,7 +130,7 @@
       "location": "Kitsilano",
       "start_date": "2025-11-24",
       "start_time": "16:30",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 16
     },
     {
@@ -140,7 +140,7 @@
       "location": "Gastown",
       "start_date": "2025-11-25",
       "start_time": "14:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -175,46 +175,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn | Arms + Abs x Journey Inward",
-      "booking_start_date": "2025-11-12 00:00",
-      "location": "Yaletown",
-      "start_date": "2025-11-19",
-      "start_time": "12:05",
-      "available_spot_count": 20,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn \u2014 Reformer x Journey Inward",
-      "booking_start_date": "2025-11-12 00:00",
-      "location": "Kingsway",
-      "start_date": "2025-11-19",
-      "start_time": "19:00",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Balance x Journey Inward",
-      "booking_start_date": "2025-11-12 00:00",
-      "location": "Yaletown",
-      "start_date": "2025-11-19",
-      "start_time": "20:00",
-      "available_spot_count": 0,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Balance x Journey Inward",
-      "booking_start_date": "2025-11-12 00:00",
-      "location": "Kingsway",
-      "start_date": "2025-11-19",
-      "start_time": "20:00",
-      "available_spot_count": 0,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn \u2014 Reformer x Journey Inward",
       "booking_start_date": "2025-11-14 00:00",
       "location": "Kingsway",
@@ -240,7 +200,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-21",
       "start_time": "16:00",
-      "available_spot_count": 5,
+      "available_spot_count": 7,
       "capacity": 36
     },
     {
@@ -270,7 +230,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-20",
       "start_time": "10:00",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 12
     },
     {
@@ -335,16 +295,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: The Weeknd x USHER x Pitbull",
-      "booking_start_date": "2025-11-11 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-19",
-      "start_time": "16:20",
-      "available_spot_count": 9,
-      "capacity": 46
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: DARK EDM MIX",
       "booking_start_date": "2025-11-13 12:00",
       "location": "MOUNT PLEASANT",
@@ -380,7 +330,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-24",
       "start_time": "16:20",
-      "available_spot_count": 9,
+      "available_spot_count": 6,
       "capacity": 45
     },
     {
@@ -410,7 +360,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-27",
       "start_time": "06:00",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 45
     },
     {
@@ -420,7 +370,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-27",
       "start_time": "09:45",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 45
     },
     {
@@ -500,7 +450,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-21",
       "start_time": "18:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 10
     },
     {
