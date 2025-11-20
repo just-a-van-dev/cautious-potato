@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-19T19:45:01.957666-08:00",
+  "last_updated": "2025-11-19T20:23:08.016755-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -90,7 +90,7 @@
       "location": "Main St",
       "start_date": "2025-11-20",
       "start_time": "09:15",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 14
     },
     {
@@ -140,7 +140,7 @@
       "location": "Gastown",
       "start_date": "2025-11-25",
       "start_time": "14:15",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 15
     },
     {
@@ -170,7 +170,7 @@
       "location": "Yaletown",
       "start_date": "2025-12-11",
       "start_time": "09:15",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 20
     },
     {
@@ -190,7 +190,7 @@
       "location": "Kingsway",
       "start_date": "2025-11-21",
       "start_time": "16:00",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 42
     },
     {
@@ -230,7 +230,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-20",
       "start_time": "14:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -340,7 +340,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-24",
       "start_time": "16:20",
-      "available_spot_count": 3,
+      "available_spot_count": 0,
       "capacity": 45
     },
     {
