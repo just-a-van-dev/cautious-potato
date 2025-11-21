@@ -1,16 +1,6 @@
 {
-  "last_updated": "2025-11-20T15:38:58.791889-08:00",
+  "last_updated": "2025-11-20T17:28:48.899322-08:00",
   "special": [
-    {
-      "studio": "Turf",
-      "name": "COMMUNITY CLASS: meta",
-      "booking_start_date": "2025-11-13 08:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2025-11-20",
-      "start_time": "08:15",
-      "available_spot_count": 19,
-      "capacity": 32
-    },
     {
       "studio": "Turf",
       "name": "COMMUNITY CLASS: meta",
@@ -70,39 +60,9 @@
       "start_time": "08:15",
       "available_spot_count": 32,
       "capacity": 32
-    },
-    {
-      "studio": "Spin Society",
-      "name": "Jordan\u2019s Community Ride",
-      "booking_start_date": "2025-11-10 00:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-20",
-      "start_time": "12:30",
-      "available_spot_count": 13,
-      "capacity": 45
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2025-10-21 09:15",
-      "location": "Main St",
-      "start_date": "2025-11-20",
-      "start_time": "09:15",
-      "available_spot_count": 0,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x 10YR with OG Lucy U",
-      "booking_start_date": "2025-10-21 10:15",
-      "location": "Kitsilano",
-      "start_date": "2025-11-20",
-      "start_time": "10:15",
-      "available_spot_count": 3,
-      "capacity": 16
-    },
     {
       "studio": "Lagree West",
       "name": "Megaformer x 10YR with OG Dylan S",
@@ -130,7 +90,7 @@
       "location": "Kitsilano",
       "start_date": "2025-11-24",
       "start_time": "16:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 16
     },
     {
@@ -200,7 +160,7 @@
       "location": "Yaletown",
       "start_date": "2025-11-21",
       "start_time": "16:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 36
     },
     {
@@ -216,31 +176,11 @@
     {
       "studio": "Lagree Studio",
       "name": "*Daytime Deal* Full Body Workout With Headsets",
-      "booking_start_date": "2025-11-13 09:00",
-      "location": "Vancouver",
-      "start_date": "2025-11-20",
-      "start_time": "09:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "*Daytime Deal* Ass & Abs Class With Headsets",
-      "booking_start_date": "2025-11-13 14:00",
-      "location": "Vancouver",
-      "start_date": "2025-11-20",
-      "start_time": "14:00",
-      "available_spot_count": 3,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "*Daytime Deal* Full Body Workout With Headsets",
       "booking_start_date": "2025-11-14 13:00",
       "location": "Vancouver",
       "start_date": "2025-11-21",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -310,7 +250,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-21",
       "start_time": "06:00",
-      "available_spot_count": 19,
+      "available_spot_count": 21,
       "capacity": 45
     },
     {
@@ -390,7 +330,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-27",
       "start_time": "18:40",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 45
     },
     {
@@ -410,7 +350,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-28",
       "start_time": "18:40",
-      "available_spot_count": 15,
+      "available_spot_count": 12,
       "capacity": 45
     },
     {
