@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21T00:51:36.918027-08:00",
+  "last_updated": "2025-11-21T01:21:34.991080-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -150,7 +150,7 @@
       "location": "Kingsway",
       "start_date": "2025-11-21",
       "start_time": "16:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 42
     },
     {
@@ -290,7 +290,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-25",
       "start_time": "06:00",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 45
     },
     {
