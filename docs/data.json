@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21T15:38:24.675798-08:00",
+  "last_updated": "2025-11-21T17:25:50.141147-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -135,63 +135,13 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn \u2014 Reformer x Journey Inward",
-      "booking_start_date": "2025-11-14 00:00",
-      "location": "Kingsway",
-      "start_date": "2025-11-21",
-      "start_time": "08:00",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn x Journey Inward",
-      "booking_start_date": "2025-11-14 00:00",
-      "location": "Kingsway",
-      "start_date": "2025-11-21",
-      "start_time": "16:00",
-      "available_spot_count": 5,
-      "capacity": 42
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn x Journey Inward",
-      "booking_start_date": "2025-11-14 00:00",
-      "location": "Yaletown",
-      "start_date": "2025-11-21",
-      "start_time": "16:00",
-      "available_spot_count": 11,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn: Sweat for the DTES Women's Centre",
       "booking_start_date": "2025-10-30 13:45",
       "location": "Kingsway",
       "start_date": "2025-11-29",
       "start_time": "13:45",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 45
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "*Daytime Deal* Full Body Workout With Headsets",
-      "booking_start_date": "2025-11-14 12:00",
-      "location": "Vancouver",
-      "start_date": "2025-11-21",
-      "start_time": "12:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "*Daytime Deal* Full Body Workout With Headsets",
-      "booking_start_date": "2025-11-14 14:00",
-      "location": "Vancouver",
-      "start_date": "2025-11-21",
-      "start_time": "14:00",
-      "available_spot_count": 5,
-      "capacity": 12
     },
     {
       "studio": "Ritual",
@@ -242,16 +192,6 @@
       "start_time": "08:00",
       "available_spot_count": 17,
       "capacity": 17
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: DARK EDM MIX",
-      "booking_start_date": "2025-11-13 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-21",
-      "start_time": "06:00",
-      "available_spot_count": 18,
-      "capacity": 45
     },
     {
       "studio": "Spin Society",
@@ -392,16 +332,6 @@
       "start_time": "09:45",
       "available_spot_count": 50,
       "capacity": 50
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - EARLY 2000s | Y2K MIX",
-      "booking_start_date": "2025-11-07 18:30",
-      "location": "Vancouver",
-      "start_date": "2025-11-21",
-      "start_time": "18:30",
-      "available_spot_count": 5,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
