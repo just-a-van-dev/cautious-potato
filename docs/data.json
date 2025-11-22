@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-22T13:16:54.576137-08:00",
+  "last_updated": "2025-11-22T13:37:42.418478-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -144,56 +144,6 @@
       "capacity": 45
     },
     {
-      "studio": "Ritual",
-      "name": "Slow Flow + Sound",
-      "booking_start_date": "2025-11-18 08:00",
-      "location": "West End",
-      "start_date": "2025-12-02",
-      "start_time": "08:00",
-      "available_spot_count": 17,
-      "capacity": 17
-    },
-    {
-      "studio": "Ritual",
-      "name": "Slow Flow + Sound",
-      "booking_start_date": "2025-11-25 08:00",
-      "location": "West End",
-      "start_date": "2025-12-09",
-      "start_time": "08:00",
-      "available_spot_count": 17,
-      "capacity": 17
-    },
-    {
-      "studio": "Ritual",
-      "name": "Slow Flow + Sound",
-      "booking_start_date": "2025-12-02 08:00",
-      "location": "West End",
-      "start_date": "2025-12-16",
-      "start_time": "08:00",
-      "available_spot_count": 17,
-      "capacity": 17
-    },
-    {
-      "studio": "Ritual",
-      "name": "Slow Flow + Sound",
-      "booking_start_date": "2025-12-09 08:00",
-      "location": "West End",
-      "start_date": "2025-12-23",
-      "start_time": "08:00",
-      "available_spot_count": 17,
-      "capacity": 17
-    },
-    {
-      "studio": "Ritual",
-      "name": "Slow Flow + Sound",
-      "booking_start_date": "2025-12-16 08:00",
-      "location": "West End",
-      "start_date": "2025-12-30",
-      "start_time": "08:00",
-      "available_spot_count": 17,
-      "capacity": 17
-    },
-    {
       "studio": "Spin Society",
       "name": "THEME: TWICE x aespa",
       "booking_start_date": "2025-11-15 12:00",
@@ -230,7 +180,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-25",
       "start_time": "06:00",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 45
     },
     {
@@ -250,7 +200,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-27",
       "start_time": "06:00",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 45
     },
     {
@@ -260,7 +210,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-27",
       "start_time": "09:45",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 45
     },
     {
@@ -300,7 +250,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-30",
       "start_time": "10:40",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 45
     },
     {
