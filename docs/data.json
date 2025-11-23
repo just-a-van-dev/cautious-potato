@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-22T15:38:49.346702-08:00",
+  "last_updated": "2025-11-22T17:49:36.426359-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -63,16 +63,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x 10YR with OG Dylan S",
-      "booking_start_date": "2025-10-23 10:00",
-      "location": "Main St",
-      "start_date": "2025-11-22",
-      "start_time": "10:00",
-      "available_spot_count": 0,
-      "capacity": 14
-    },
     {
       "studio": "Lagree West",
       "name": "Megaformer x 10YR with OG Mendy K",
@@ -140,7 +130,7 @@
       "location": "Kingsway",
       "start_date": "2025-11-29",
       "start_time": "13:45",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 45
     },
     {
@@ -180,7 +170,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-25",
       "start_time": "06:00",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 45
     },
     {
@@ -230,7 +220,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-28",
       "start_time": "12:30",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 45
     },
     {
@@ -250,7 +240,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-30",
       "start_time": "10:40",
-      "available_spot_count": 33,
+      "available_spot_count": 28,
       "capacity": 45
     },
     {
@@ -260,7 +250,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-01",
       "start_time": "18:40",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 45
     },
     {
@@ -270,7 +260,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-02",
       "start_time": "17:30",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -282,16 +272,6 @@
       "start_time": "09:45",
       "available_spot_count": 50,
       "capacity": 50
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - RIHANNA REMIX",
-      "booking_start_date": "2025-11-08 13:15",
-      "location": "Vancouver",
-      "start_date": "2025-11-22",
-      "start_time": "13:15",
-      "available_spot_count": 0,
-      "capacity": 9
     },
     {
       "studio": "Evolution",
