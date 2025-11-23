@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-23T12:41:25.371798-08:00",
+  "last_updated": "2025-11-23T13:17:18.512048-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -220,7 +220,17 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-28",
       "start_time": "12:30",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
+      "capacity": 45
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: Latin Beats x EDM",
+      "booking_start_date": "2025-11-20 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-11-28",
+      "start_time": "15:00",
+      "available_spot_count": 34,
       "capacity": 45
     },
     {
@@ -245,13 +255,33 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: MILLENNIAL MONDAY: POP X HIP HOP",
+      "booking_start_date": "2025-11-23 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-01",
+      "start_time": "09:45",
+      "available_spot_count": 44,
+      "capacity": 45
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: COUNTRY x POP",
       "booking_start_date": "2025-11-23 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-01",
       "start_time": "18:40",
-      "available_spot_count": 23,
+      "available_spot_count": 20,
       "capacity": 45
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: EDM: GRITTY x OBNOXIOUS - VOL 2",
+      "booking_start_date": "2025-11-24 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-02",
+      "start_time": "11:00",
+      "available_spot_count": 50,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -265,11 +295,31 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: Taylor Swift: Rep x TLOASG",
+      "booking_start_date": "2025-11-25 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-03",
+      "start_time": "06:00",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: Doechii x SZA x Doja Cat",
       "booking_start_date": "2025-11-26 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-04",
       "start_time": "09:45",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: Sweedish House Mafia x Lady Gaga",
+      "booking_start_date": "2025-11-27 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-05",
+      "start_time": "12:30",
       "available_spot_count": 50,
       "capacity": 50
     },
