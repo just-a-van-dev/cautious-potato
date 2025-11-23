@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-23T13:37:52.967062-08:00",
+  "last_updated": "2025-11-23T14:18:29.118277-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -132,6 +132,26 @@
       "start_time": "13:45",
       "available_spot_count": 31,
       "capacity": 45
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "*Daytime Deal* Full Body Workout With Headsets",
+      "booking_start_date": "2025-11-17 10:00",
+      "location": "Vancouver",
+      "start_date": "2025-11-24",
+      "start_time": "10:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "*Daytime Deal* Ass & Abs Class With Headsets",
+      "booking_start_date": "2025-11-17 14:00",
+      "location": "Vancouver",
+      "start_date": "2025-11-24",
+      "start_time": "14:00",
+      "available_spot_count": 7,
+      "capacity": 12
     },
     {
       "studio": "Spin Society",
