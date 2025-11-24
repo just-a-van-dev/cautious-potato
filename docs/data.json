@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-24T09:19:19.273668-08:00",
+  "last_updated": "2025-11-24T09:42:38.718224-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -130,7 +130,17 @@
       "location": "Kingsway",
       "start_date": "2025-11-29",
       "start_time": "13:45",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "Sweat for a Cause | The Build",
+      "booking_start_date": "2025-11-25 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-02",
+      "start_time": "06:10",
+      "available_spot_count": 45,
       "capacity": 45
     },
     {
@@ -140,7 +150,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-24",
       "start_time": "10:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -250,7 +260,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-30",
       "start_time": "10:40",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 45
     },
     {
