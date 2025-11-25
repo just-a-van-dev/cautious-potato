@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-25T14:20:31.412928-08:00",
+  "last_updated": "2025-11-25T14:42:25.475876-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -110,7 +110,7 @@
       "location": "Kitsilano",
       "start_date": "2025-12-04",
       "start_time": "13:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 16
     },
     {
@@ -360,6 +360,56 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-05",
       "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: Hannah Montana x The Cheetah Girls",
+      "booking_start_date": "2025-11-30 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-08",
+      "start_time": "07:15",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: Extreme EDM",
+      "booking_start_date": "2025-11-30 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-08",
+      "start_time": "16:20",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: Remixed Pop Hits",
+      "booking_start_date": "2025-12-01 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-09",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: Tate McRae x Zara Larsson",
+      "booking_start_date": "2025-12-01 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-09",
+      "start_time": "17:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ATEEZ x MONSTA X",
+      "booking_start_date": "2025-12-06 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-14",
+      "start_time": "11:50",
       "available_spot_count": 50,
       "capacity": 50
     },
