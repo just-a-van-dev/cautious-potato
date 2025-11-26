@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-26T11:15:51.740143-08:00",
+  "last_updated": "2025-11-26T11:36:55.620776-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -240,7 +240,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-27",
       "start_time": "09:45",
-      "available_spot_count": 27,
+      "available_spot_count": 28,
       "capacity": 45
     },
     {
@@ -260,7 +260,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-28",
       "start_time": "12:30",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 45
     },
     {
@@ -290,7 +290,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-30",
       "start_time": "10:40",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 45
     },
     {
@@ -300,7 +300,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-01",
       "start_time": "09:45",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 45
     },
     {
@@ -340,7 +340,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-03",
       "start_time": "06:00",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
