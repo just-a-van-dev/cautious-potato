@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-27T11:37:12.644198-08:00",
+  "last_updated": "2025-11-27T12:19:55.795005-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -18,7 +18,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-12-04",
       "start_time": "08:15",
-      "available_spot_count": 30,
+      "available_spot_count": 28,
       "capacity": 32
     },
     {
@@ -110,7 +110,7 @@
       "location": "Kitsilano",
       "start_date": "2025-11-28",
       "start_time": "16:30",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 26
     },
     {
@@ -174,6 +174,66 @@
       "capacity": 45
     },
     {
+      "studio": "Jaybird",
+      "name": "The Burn | Arms + Abs \u2014 Reformer \u2014 Happy Hour",
+      "booking_start_date": "2025-11-26 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-03",
+      "start_time": "09:00",
+      "available_spot_count": 12,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn | Arms + Abs \u2014 Reformer \u2014 Happy Hour",
+      "booking_start_date": "2025-12-03 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-10",
+      "start_time": "09:00",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn | Arms + Abs \u2014 Reformer \u2014 Happy Hour",
+      "booking_start_date": "2025-12-10 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-17",
+      "start_time": "09:00",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn | Arms + Abs \u2014 Reformer \u2014 Happy Hour",
+      "booking_start_date": "2025-12-17 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-24",
+      "start_time": "09:00",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn | Arms + Abs \u2014 Reformer \u2014 Happy Hour",
+      "booking_start_date": "2025-12-24 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-31",
+      "start_time": "09:00",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn | Arms + Abs \u2014 Reformer \u2014 Happy Hour",
+      "booking_start_date": "2025-12-31 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-07",
+      "start_time": "09:00",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
       "studio": "Lagree Studio",
       "name": "*Daytime Deal* Full Body Workout With Headsets",
       "booking_start_date": "2025-11-20 09:00",
@@ -201,6 +261,16 @@
       "start_date": "2025-11-28",
       "start_time": "09:00",
       "available_spot_count": 5,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "*Daytime Deal* Full Body Workout With Headsets",
+      "booking_start_date": "2025-11-21 10:00",
+      "location": "Vancouver",
+      "start_date": "2025-11-28",
+      "start_time": "10:00",
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
