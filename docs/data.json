@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-27T13:37:50.283432-08:00",
+  "last_updated": "2025-11-27T14:19:07.284907-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -100,7 +100,7 @@
       "location": "Kitsilano",
       "start_date": "2025-11-28",
       "start_time": "15:30",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 16
     },
     {
@@ -310,7 +310,7 @@
       "location": "Vancouver",
       "start_date": "2025-11-28",
       "start_time": "09:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
