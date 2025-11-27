@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-27T12:39:47.673276-08:00",
+  "last_updated": "2025-11-27T13:18:03.209752-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -196,10 +196,30 @@
     {
       "studio": "Jaybird",
       "name": "The Burn | Arms + Abs \u2014 Reformer \u2014 Happy Hour",
+      "booking_start_date": "2025-12-04 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-11",
+      "start_time": "12:15",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn | Arms + Abs \u2014 Reformer \u2014 Happy Hour",
       "booking_start_date": "2025-12-10 00:00",
       "location": "Kingsway",
       "start_date": "2025-12-17",
       "start_time": "09:00",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn | Arms + Abs \u2014 Reformer \u2014 Happy Hour",
+      "booking_start_date": "2025-12-11 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-18",
+      "start_time": "12:15",
       "available_spot_count": 20,
       "capacity": 20
     },
@@ -216,6 +236,16 @@
     {
       "studio": "Jaybird",
       "name": "The Burn | Arms + Abs \u2014 Reformer \u2014 Happy Hour",
+      "booking_start_date": "2025-12-18 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-25",
+      "start_time": "12:15",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn | Arms + Abs \u2014 Reformer \u2014 Happy Hour",
       "booking_start_date": "2025-12-24 00:00",
       "location": "Kingsway",
       "start_date": "2025-12-31",
@@ -226,10 +256,30 @@
     {
       "studio": "Jaybird",
       "name": "The Burn | Arms + Abs \u2014 Reformer \u2014 Happy Hour",
+      "booking_start_date": "2025-12-25 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-01",
+      "start_time": "12:15",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn | Arms + Abs \u2014 Reformer \u2014 Happy Hour",
       "booking_start_date": "2025-12-31 00:00",
       "location": "Kingsway",
       "start_date": "2026-01-07",
       "start_time": "09:00",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn | Arms + Abs \u2014 Reformer \u2014 Happy Hour",
+      "booking_start_date": "2026-01-01 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-08",
+      "start_time": "12:15",
       "available_spot_count": 20,
       "capacity": 20
     },
@@ -310,7 +360,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-27",
       "start_time": "18:40",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 45
     },
     {
@@ -460,6 +510,16 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-09",
       "start_time": "17:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: THEME: Hannah Montana x The Cheetah Girls",
+      "booking_start_date": "2025-12-02 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-10",
+      "start_time": "12:30",
       "available_spot_count": 50,
       "capacity": 50
     },
