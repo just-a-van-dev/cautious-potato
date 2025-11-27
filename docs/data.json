@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-27T06:44:24.686770-08:00",
+  "last_updated": "2025-11-27T07:20:44.415240-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-11-27",
       "start_time": "08:15",
-      "available_spot_count": 22,
+      "available_spot_count": 23,
       "capacity": 32
     },
     {
@@ -120,7 +120,7 @@
       "location": "Kitsilano",
       "start_date": "2025-11-28",
       "start_time": "17:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 16
     },
     {
@@ -240,7 +240,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-27",
       "start_time": "18:40",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 45
     },
     {
@@ -260,7 +260,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-28",
       "start_time": "15:00",
-      "available_spot_count": 25,
+      "available_spot_count": 26,
       "capacity": 45
     },
     {
@@ -290,7 +290,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-01",
       "start_time": "09:45",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 45
     },
     {
@@ -310,8 +310,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-02",
       "start_time": "11:00",
-      "available_spot_count": 35,
-      "capacity": 50
+      "available_spot_count": 30,
+      "capacity": 45
     },
     {
       "studio": "Spin Society",
@@ -320,8 +320,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-02",
       "start_time": "17:30",
-      "available_spot_count": 27,
-      "capacity": 50
+      "available_spot_count": 21,
+      "capacity": 45
     },
     {
       "studio": "Spin Society",
@@ -330,8 +330,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-03",
       "start_time": "06:00",
-      "available_spot_count": 35,
-      "capacity": 50
+      "available_spot_count": 30,
+      "capacity": 45
     },
     {
       "studio": "Spin Society",
@@ -340,7 +340,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-04",
       "start_time": "09:45",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
