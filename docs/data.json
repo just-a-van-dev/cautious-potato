@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-28T11:36:52.700227-08:00",
+  "last_updated": "2025-11-28T12:22:07.940960-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -90,7 +90,7 @@
       "location": "Kitsilano",
       "start_date": "2025-11-28",
       "start_time": "15:30",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 16
     },
     {
@@ -110,7 +110,7 @@
       "location": "Kitsilano",
       "start_date": "2025-11-28",
       "start_time": "17:30",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 16
     },
     {
@@ -140,7 +140,7 @@
       "location": "Main St",
       "start_date": "2025-12-19",
       "start_time": "14:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 14
     },
     {
@@ -190,68 +190,8 @@
       "location": "Vancouver",
       "start_date": "2025-11-28",
       "start_time": "13:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
-    },
-    {
-      "studio": "Ritual",
-      "name": "Vinyasa Slow Flow Yoga + Sound",
-      "booking_start_date": "2025-11-18 08:00",
-      "location": "West End",
-      "start_date": "2025-12-02",
-      "start_time": "08:00",
-      "available_spot_count": 16,
-      "capacity": 17
-    },
-    {
-      "studio": "Ritual",
-      "name": "Vinyasa Slow Flow Yoga + Sound",
-      "booking_start_date": "2025-11-25 08:00",
-      "location": "West End",
-      "start_date": "2025-12-09",
-      "start_time": "08:00",
-      "available_spot_count": 17,
-      "capacity": 17
-    },
-    {
-      "studio": "Ritual",
-      "name": "Vinyasa Slow Flow Yoga + Sound",
-      "booking_start_date": "2025-12-02 08:00",
-      "location": "West End",
-      "start_date": "2025-12-16",
-      "start_time": "08:00",
-      "available_spot_count": 17,
-      "capacity": 17
-    },
-    {
-      "studio": "Ritual",
-      "name": "Vinyasa Slow Flow Yoga + Sound",
-      "booking_start_date": "2025-12-09 08:00",
-      "location": "West End",
-      "start_date": "2025-12-23",
-      "start_time": "08:00",
-      "available_spot_count": 17,
-      "capacity": 17
-    },
-    {
-      "studio": "Ritual",
-      "name": "Vinyasa Slow Flow Yoga + Sound",
-      "booking_start_date": "2025-12-16 08:00",
-      "location": "West End",
-      "start_date": "2025-12-30",
-      "start_time": "08:00",
-      "available_spot_count": 17,
-      "capacity": 17
-    },
-    {
-      "studio": "Ritual",
-      "name": "Vinyasa Slow Flow Yoga + Sound",
-      "booking_start_date": "2025-12-23 08:00",
-      "location": "West End",
-      "start_date": "2026-01-06",
-      "start_time": "08:00",
-      "available_spot_count": 17,
-      "capacity": 17
     },
     {
       "studio": "Spin Society",
@@ -260,7 +200,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-28",
       "start_time": "12:30",
-      "available_spot_count": 17,
+      "available_spot_count": 15,
       "capacity": 45
     },
     {
@@ -270,7 +210,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-28",
       "start_time": "15:00",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 45
     },
     {
@@ -280,7 +220,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-28",
       "start_time": "18:40",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 45
     },
     {
@@ -330,7 +270,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-02",
       "start_time": "17:30",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 45
     },
     {
