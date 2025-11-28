@@ -70,6 +70,7 @@ FILTER_OUT = ["advanced class with headsets",
               "theme: rise + rave",
               "trx strength",
               "thrive (pilates + sculpt + light cardio)",
+              "vinyasa slow flow yoga + sound",
               "warm yin + aromatherapy",
               "warm yin yoga + aromatherapy",
               "yin yoga + aromatherapy"
