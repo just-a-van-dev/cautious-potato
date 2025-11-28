@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-28T02:44:54.348213-08:00",
+  "last_updated": "2025-11-28T03:17:55.780499-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -90,7 +90,7 @@
       "location": "Kitsilano",
       "start_date": "2025-11-28",
       "start_time": "15:30",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 16
     },
     {
@@ -270,7 +270,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-28",
       "start_time": "15:00",
-      "available_spot_count": 31,
+      "available_spot_count": 29,
       "capacity": 45
     },
     {
