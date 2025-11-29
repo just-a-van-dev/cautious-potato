@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-28T15:38:46.059251-08:00",
+  "last_updated": "2025-11-28T17:28:02.305121-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -65,56 +65,6 @@
   "sponsored": [
     {
       "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Fred Again",
-      "booking_start_date": "2025-11-21 00:00",
-      "location": "Kitsilano",
-      "start_date": "2025-11-28",
-      "start_time": "14:30",
-      "available_spot_count": 3,
-      "capacity": 16
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x 10YR with OG Katie McKenzie",
-      "booking_start_date": "2025-10-29 15:15",
-      "location": "Yaletown",
-      "start_date": "2025-11-28",
-      "start_time": "15:15",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Fred Again",
-      "booking_start_date": "2025-11-21 00:00",
-      "location": "Kitsilano",
-      "start_date": "2025-11-28",
-      "start_time": "15:30",
-      "available_spot_count": 3,
-      "capacity": 16
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mega Cardio Xpress- Arms/Abs+Tread x Fred Again",
-      "booking_start_date": "2025-11-21 00:00",
-      "location": "Kitsilano",
-      "start_date": "2025-11-28",
-      "start_time": "16:30",
-      "available_spot_count": 9,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Fred Again",
-      "booking_start_date": "2025-11-21 00:00",
-      "location": "Kitsilano",
-      "start_date": "2025-11-28",
-      "start_time": "17:30",
-      "available_spot_count": 0,
-      "capacity": 16
-    },
-    {
-      "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
       "booking_start_date": "2025-11-04 13:15",
       "location": "Kitsilano",
@@ -150,7 +100,7 @@
       "location": "Kingsway",
       "start_date": "2025-11-29",
       "start_time": "13:45",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 45
     },
     {
@@ -161,66 +111,6 @@
       "start_date": "2025-12-02",
       "start_time": "06:10",
       "available_spot_count": 35,
-      "capacity": 45
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Club Lagree x Full Body W/Headsets x Sahajan",
-      "booking_start_date": "2025-11-21 09:00",
-      "location": "Vancouver",
-      "start_date": "2025-11-28",
-      "start_time": "09:00",
-      "available_spot_count": 1,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "*Daytime Deal* Full Body Workout With Headsets",
-      "booking_start_date": "2025-11-21 10:00",
-      "location": "Vancouver",
-      "start_date": "2025-11-28",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "*Daytime Deal* Full Body Workout With Headsets",
-      "booking_start_date": "2025-11-21 13:00",
-      "location": "Vancouver",
-      "start_date": "2025-11-28",
-      "start_time": "13:00",
-      "available_spot_count": 9,
-      "capacity": 12
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: BUNT x Fred Again...",
-      "booking_start_date": "2025-11-20 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-28",
-      "start_time": "12:30",
-      "available_spot_count": 15,
-      "capacity": 45
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: Latin Beats x EDM",
-      "booking_start_date": "2025-11-20 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-28",
-      "start_time": "15:00",
-      "available_spot_count": 25,
-      "capacity": 45
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: DISNEY STARS! Jonas Bros x Hilary x Demi",
-      "booking_start_date": "2025-11-20 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-11-28",
-      "start_time": "18:40",
-      "available_spot_count": 0,
       "capacity": 45
     },
     {
@@ -280,7 +170,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-03",
       "start_time": "06:00",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 45
     },
     {
