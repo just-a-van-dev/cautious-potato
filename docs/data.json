@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-29T15:38:38.221763-08:00",
+  "last_updated": "2025-11-29T17:48:28.521577-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -95,16 +95,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn: Sweat for the DTES Women's Centre",
-      "booking_start_date": "2025-10-30 13:45",
-      "location": "Kingsway",
-      "start_date": "2025-11-29",
-      "start_time": "13:45",
-      "available_spot_count": 0,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
       "name": "Sweat for a Cause | The Build",
       "booking_start_date": "2025-11-25 00:00",
       "location": "Kingsway",
@@ -120,7 +110,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-11-30",
       "start_time": "10:40",
-      "available_spot_count": 0,
+      "available_spot_count": 2,
       "capacity": 45
     },
     {
@@ -160,7 +150,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-02",
       "start_time": "17:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 45
     },
     {
