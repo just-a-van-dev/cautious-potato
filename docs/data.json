@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-02T09:24:05.778269-08:00",
+  "last_updated": "2025-12-02T09:46:45.449589-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -80,7 +80,7 @@
       "location": "Kitsilano",
       "start_date": "2025-12-04",
       "start_time": "13:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 16
     },
     {
@@ -154,6 +154,26 @@
       "capacity": 12
     },
     {
+      "studio": "Lagree Studio",
+      "name": "*Daytime Deal* Full Body Workout With Headsets",
+      "booking_start_date": "2025-11-26 14:00",
+      "location": "Vancouver",
+      "start_date": "2025-12-03",
+      "start_time": "14:00",
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "*Daytime Deal* Full Body Workout With Headsets",
+      "booking_start_date": "2025-11-27 09:00",
+      "location": "Vancouver",
+      "start_date": "2025-12-04",
+      "start_time": "09:00",
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
       "studio": "Spin Society",
       "name": "THEME: EDM: GRITTY x OBNOXIOUS - VOL 2",
       "booking_start_date": "2025-11-24 12:00",
@@ -170,7 +190,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-02",
       "start_time": "17:30",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 45
     },
     {
@@ -230,7 +250,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-08",
       "start_time": "16:20",
-      "available_spot_count": 36,
+      "available_spot_count": 34,
       "capacity": 45
     },
     {
