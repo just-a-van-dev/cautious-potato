@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-02T11:40:32.092814-08:00",
+  "last_updated": "2025-12-02T12:25:49.812787-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -115,13 +115,33 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn \u2014 Reformer x KK BDAY x Crystal Ark",
+      "name": "The Burn \u2014 Reformer x KK BDAY",
       "booking_start_date": "2025-11-30 00:00",
       "location": "Kingsway",
       "start_date": "2025-12-07",
       "start_time": "08:00",
       "available_spot_count": 4,
       "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Build x KK BDAY",
+      "booking_start_date": "2025-11-30 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-07",
+      "start_time": "09:35",
+      "available_spot_count": 35,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x KK BDAY",
+      "booking_start_date": "2025-11-30 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-07",
+      "start_time": "10:55",
+      "available_spot_count": 7,
+      "capacity": 45
     },
     {
       "studio": "Lagree Studio",
@@ -150,7 +170,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-02",
       "start_time": "13:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -160,7 +180,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-02",
       "start_time": "15:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -200,7 +220,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-02",
       "start_time": "17:30",
-      "available_spot_count": 9,
+      "available_spot_count": 11,
       "capacity": 45
     },
     {
@@ -290,7 +310,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-10",
       "start_time": "12:30",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
