@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-02T11:19:28.873541-08:00",
+  "last_updated": "2025-12-02T11:40:32.092814-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -112,6 +112,16 @@
       "start_time": "06:10",
       "available_spot_count": 35,
       "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x KK BDAY x Crystal Ark",
+      "booking_start_date": "2025-11-30 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-07",
+      "start_time": "08:00",
+      "available_spot_count": 4,
+      "capacity": 20
     },
     {
       "studio": "Lagree Studio",
