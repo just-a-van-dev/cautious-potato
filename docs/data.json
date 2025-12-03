@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-03T11:18:27.920486-08:00",
+  "last_updated": "2025-12-03T11:39:27.863126-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-12-04",
       "start_time": "08:15",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 32
     },
     {
@@ -110,7 +110,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-07",
       "start_time": "08:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 20
     },
     {
@@ -160,7 +160,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-03",
       "start_time": "14:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -196,6 +196,16 @@
     {
       "studio": "Lagree Studio",
       "name": "*Daytime Deal* Full Body Workout With Headsets",
+      "booking_start_date": "2025-11-28 09:00",
+      "location": "Vancouver",
+      "start_date": "2025-12-05",
+      "start_time": "09:00",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "*Daytime Deal* Full Body Workout With Headsets",
       "booking_start_date": "2025-12-04 13:00",
       "location": "Vancouver",
       "start_date": "2025-12-11",
@@ -220,7 +230,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-03",
       "start_time": "06:00",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 45
     },
     {
@@ -280,7 +290,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-09",
       "start_time": "12:30",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 45
     },
     {
@@ -370,7 +380,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-05",
       "start_time": "08:45",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 10
     },
     {
