@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-04T06:48:03.439174-08:00",
+  "last_updated": "2025-12-04T07:24:30.404120-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-12-04",
       "start_time": "08:15",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 32
     },
     {
@@ -130,7 +130,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-07",
       "start_time": "10:55",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 45
     },
     {
@@ -140,7 +140,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-04",
       "start_time": "09:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -150,6 +150,16 @@
       "location": "Vancouver",
       "start_date": "2025-12-04",
       "start_time": "13:00",
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "*Daytime Deal* Full Body Workout With Headsets",
+      "booking_start_date": "2025-11-27 15:30",
+      "location": "Vancouver",
+      "start_date": "2025-12-04",
+      "start_time": "15:30",
       "available_spot_count": 8,
       "capacity": 12
     },
@@ -200,7 +210,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-05",
       "start_time": "12:30",
-      "available_spot_count": 16,
+      "available_spot_count": 17,
       "capacity": 45
     },
     {
