@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-04T11:40:14.939550-08:00",
+  "last_updated": "2025-12-04T12:24:08.929485-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -19,6 +19,16 @@
       "start_date": "2025-12-11",
       "start_time": "08:15",
       "available_spot_count": 31,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "COMMUNITY CLASS: meta",
+      "booking_start_date": "2025-12-04 10:45",
+      "location": "KITS - Vancouver",
+      "start_date": "2025-12-11",
+      "start_time": "10:45",
+      "available_spot_count": 32,
       "capacity": 32
     },
     {
@@ -280,7 +290,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-12",
       "start_time": "18:40",
-      "available_spot_count": 42,
+      "available_spot_count": 28,
       "capacity": 45
     },
     {
