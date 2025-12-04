@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-04T09:45:52.294101-08:00",
+  "last_updated": "2025-12-04T10:33:30.414171-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -130,7 +130,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-07",
       "start_time": "10:55",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 45
     },
     {
@@ -184,26 +184,6 @@
       "capacity": 12
     },
     {
-      "studio": "Lagree Studio",
-      "name": "*Daytime Deal* Full Body Workout With Headsets",
-      "booking_start_date": "2025-12-04 13:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-11",
-      "start_time": "13:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "*Daytime Deal* Ass & Abs Class With Headsets",
-      "booking_start_date": "2025-12-04 14:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-11",
-      "start_time": "14:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
       "studio": "Spin Society",
       "name": "THEME: Doechii x SZA x Doja Cat",
       "booking_start_date": "2025-11-26 12:00",
@@ -220,7 +200,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-05",
       "start_time": "12:30",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 45
     },
     {
@@ -240,7 +220,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-08",
       "start_time": "07:15",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 45
     },
     {
