@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-04T21:20:18.729031-08:00",
+  "last_updated": "2025-12-04T21:43:59.874075-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-12-11",
       "start_time": "08:15",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 32
     },
     {
@@ -110,7 +110,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-07",
       "start_time": "09:35",
-      "available_spot_count": 18,
+      "available_spot_count": 16,
       "capacity": 45
     },
     {
@@ -150,7 +150,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-05",
       "start_time": "12:30",
-      "available_spot_count": 18,
+      "available_spot_count": 19,
       "capacity": 45
     },
     {
@@ -220,7 +220,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-11",
       "start_time": "07:15",
-      "available_spot_count": 40,
+      "available_spot_count": 38,
       "capacity": 45
     },
     {
