@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-05T09:42:47.149420-08:00",
+  "last_updated": "2025-12-05T10:28:06.984676-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-12-11",
       "start_time": "08:15",
-      "available_spot_count": 25,
+      "available_spot_count": 26,
       "capacity": 32
     },
     {
@@ -160,7 +160,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-05",
       "start_time": "12:30",
-      "available_spot_count": 22,
+      "available_spot_count": 20,
       "capacity": 46
     },
     {
@@ -230,7 +230,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-11",
       "start_time": "07:15",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 46
     },
     {
@@ -260,7 +260,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-13",
       "start_time": "11:50",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 46
     },
     {
@@ -280,6 +280,26 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-15",
       "start_time": "09:45",
+      "available_spot_count": 46,
+      "capacity": 46
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: HIP-HOP & R&B WAKE-UP",
+      "booking_start_date": "2025-12-09 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-17",
+      "start_time": "06:00",
+      "available_spot_count": 46,
+      "capacity": 46
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ARIANA: X-MAS + HITS + LIVE",
+      "booking_start_date": "2025-12-11 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-19",
+      "start_time": "18:40",
       "available_spot_count": 46,
       "capacity": 46
     },
@@ -310,7 +330,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-05",
       "start_time": "18:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 10
     },
     {
@@ -360,7 +380,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-13",
       "start_time": "13:15",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
