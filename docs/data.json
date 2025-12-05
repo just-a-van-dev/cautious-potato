@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-05T07:22:39.594282-08:00",
+  "last_updated": "2025-12-05T07:44:19.129013-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -150,8 +150,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-05",
       "start_time": "12:30",
-      "available_spot_count": 20,
-      "capacity": 45
+      "available_spot_count": 21,
+      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -160,8 +160,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-05",
       "start_time": "18:40",
-      "available_spot_count": 2,
-      "capacity": 45
+      "available_spot_count": 4,
+      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -170,8 +170,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-08",
       "start_time": "07:15",
-      "available_spot_count": 30,
-      "capacity": 45
+      "available_spot_count": 31,
+      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -180,8 +180,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-08",
       "start_time": "16:20",
-      "available_spot_count": 23,
-      "capacity": 45
+      "available_spot_count": 24,
+      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -190,8 +190,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-09",
       "start_time": "12:30",
-      "available_spot_count": 37,
-      "capacity": 45
+      "available_spot_count": 38,
+      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -201,7 +201,7 @@
       "start_date": "2025-12-09",
       "start_time": "17:30",
       "available_spot_count": 0,
-      "capacity": 45
+      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -210,8 +210,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-10",
       "start_time": "12:30",
-      "available_spot_count": 28,
-      "capacity": 45
+      "available_spot_count": 29,
+      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -221,7 +221,7 @@
       "start_date": "2025-12-11",
       "start_time": "07:15",
       "available_spot_count": 38,
-      "capacity": 45
+      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -230,8 +230,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-12",
       "start_time": "18:40",
-      "available_spot_count": 17,
-      "capacity": 45
+      "available_spot_count": 18,
+      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -240,8 +240,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-13",
       "start_time": "09:30",
-      "available_spot_count": 45,
-      "capacity": 45
+      "available_spot_count": 46,
+      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -250,8 +250,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-13",
       "start_time": "11:50",
-      "available_spot_count": 38,
-      "capacity": 45
+      "available_spot_count": 39,
+      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -260,8 +260,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-14",
       "start_time": "11:50",
-      "available_spot_count": 43,
-      "capacity": 45
+      "available_spot_count": 44,
+      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -270,8 +270,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-15",
       "start_time": "09:45",
-      "available_spot_count": 45,
-      "capacity": 45
+      "available_spot_count": 46,
+      "capacity": 46
     },
     {
       "studio": "Evolution",
