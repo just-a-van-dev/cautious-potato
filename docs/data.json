@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-05T22:51:06.207560-08:00",
+  "last_updated": "2025-12-05T23:18:20.680069-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -110,7 +110,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-07",
       "start_time": "09:35",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 45
     },
     {
@@ -184,13 +184,23 @@
       "capacity": 20
     },
     {
+      "studio": "Lagree Studio",
+      "name": "*Daytime Deal* Full Body Workout With Headsets",
+      "booking_start_date": "2025-12-01 10:00",
+      "location": "Vancouver",
+      "start_date": "2025-12-08",
+      "start_time": "10:00",
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
       "studio": "Spin Society",
       "name": "THEME: Hannah Montana x The Cheetah Girls",
       "booking_start_date": "2025-11-30 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-08",
       "start_time": "07:15",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 46
     },
     {
@@ -200,7 +210,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-08",
       "start_time": "16:20",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 46
     },
     {
@@ -210,7 +220,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-09",
       "start_time": "12:30",
-      "available_spot_count": 38,
+      "available_spot_count": 39,
       "capacity": 46
     },
     {
@@ -240,7 +250,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-11",
       "start_time": "07:15",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 46
     },
     {
