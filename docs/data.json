@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-05T15:38:48.686408-08:00",
+  "last_updated": "2025-12-05T17:27:43.483323-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -124,63 +124,13 @@
       "capacity": 45
     },
     {
-      "studio": "Lagree Studio",
-      "name": "*Daytime Deal* Full Body Workout With Headsets",
-      "booking_start_date": "2025-11-28 09:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-05",
-      "start_time": "09:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "*Daytime Deal* Full Body Workout With Headsets",
-      "booking_start_date": "2025-11-28 12:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-05",
-      "start_time": "12:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "*Daytime Deal* Full Body Workout With Headsets",
-      "booking_start_date": "2025-11-28 13:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-05",
-      "start_time": "13:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: Sweedish House Mafia x Lady Gaga",
-      "booking_start_date": "2025-11-27 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-12-05",
-      "start_time": "12:30",
-      "available_spot_count": 17,
-      "capacity": 46
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: FIRST 10 YEARS: Beyonce - VOL 2",
-      "booking_start_date": "2025-11-27 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-12-05",
-      "start_time": "18:40",
-      "available_spot_count": 1,
-      "capacity": 46
-    },
-    {
       "studio": "Spin Society",
       "name": "THEME: Hannah Montana x The Cheetah Girls",
       "booking_start_date": "2025-11-30 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-08",
       "start_time": "07:15",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 46
     },
     {
@@ -190,7 +140,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-08",
       "start_time": "16:20",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 46
     },
     {
@@ -200,7 +150,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-09",
       "start_time": "12:30",
-      "available_spot_count": 38,
+      "available_spot_count": 39,
       "capacity": 46
     },
     {
@@ -230,7 +180,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-11",
       "start_time": "07:15",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 46
     },
     {
@@ -240,7 +190,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-12",
       "start_time": "18:40",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 46
     },
     {
@@ -250,7 +200,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-13",
       "start_time": "09:30",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 46
     },
     {
@@ -302,36 +252,6 @@
       "start_time": "18:40",
       "available_spot_count": 46,
       "capacity": 46
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - BIEBER FEVER",
-      "booking_start_date": "2025-11-21 07:45",
-      "location": "Vancouver",
-      "start_date": "2025-12-05",
-      "start_time": "07:45",
-      "available_spot_count": 2,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - BIEBER FEVER",
-      "booking_start_date": "2025-11-21 08:45",
-      "location": "Vancouver",
-      "start_date": "2025-12-05",
-      "start_time": "08:45",
-      "available_spot_count": 5,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - NEW JEANS",
-      "booking_start_date": "2025-11-21 18:30",
-      "location": "Vancouver",
-      "start_date": "2025-12-05",
-      "start_time": "18:30",
-      "available_spot_count": 3,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
