@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-06T21:18:43.164931-08:00",
+  "last_updated": "2025-12-06T21:40:38.577232-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -110,7 +110,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-07",
       "start_time": "09:35",
-      "available_spot_count": 1,
+      "available_spot_count": 3,
       "capacity": 45
     },
     {
@@ -120,7 +120,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-07",
       "start_time": "10:55",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 45
     },
     {
@@ -130,7 +130,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-11",
       "start_time": "12:15",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 20
     },
     {
@@ -185,6 +185,26 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body",
+      "booking_start_date": "2025-11-30 15:00",
+      "location": "Vancouver",
+      "start_date": "2025-12-07",
+      "start_time": "15:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body",
+      "booking_start_date": "2025-11-30 16:00",
+      "location": "Vancouver",
+      "start_date": "2025-12-07",
+      "start_time": "16:00",
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "*Daytime Deal* Full Body Workout With Headsets",
       "booking_start_date": "2025-12-01 10:00",
       "location": "Vancouver",
@@ -210,7 +230,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-08",
       "start_time": "16:20",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 46
     },
     {
@@ -290,7 +310,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-14",
       "start_time": "11:50",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 46
     },
     {
