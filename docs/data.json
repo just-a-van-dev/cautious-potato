@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-06T15:38:32.358349-08:00",
+  "last_updated": "2025-12-06T17:49:06.221273-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -18,7 +18,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-12-11",
       "start_time": "10:45",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 32
     },
     {
@@ -110,7 +110,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-07",
       "start_time": "09:35",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 45
     },
     {
@@ -130,7 +130,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-11",
       "start_time": "12:15",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 20
     },
     {
@@ -185,26 +185,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Full Body - Daytime Deal",
-      "booking_start_date": "2025-11-29 14:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-06",
-      "start_time": "14:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2025-11-29 15:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-06",
-      "start_time": "15:00",
-      "available_spot_count": 2,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "*Daytime Deal* Full Body Workout With Headsets",
       "booking_start_date": "2025-12-01 10:00",
       "location": "Vancouver",
@@ -230,7 +210,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-08",
       "start_time": "16:20",
-      "available_spot_count": 17,
+      "available_spot_count": 15,
       "capacity": 46
     },
     {
@@ -260,7 +240,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-10",
       "start_time": "12:30",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 46
     },
     {
@@ -280,7 +260,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-12",
       "start_time": "18:40",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 46
     },
     {
@@ -290,7 +270,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-13",
       "start_time": "09:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 46
     },
     {
@@ -310,7 +290,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-14",
       "start_time": "11:50",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 46
     },
     {
@@ -342,16 +322,6 @@
       "start_time": "18:40",
       "available_spot_count": 46,
       "capacity": 46
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - CALVIN HARRIS HITS",
-      "booking_start_date": "2025-11-22 13:15",
-      "location": "Vancouver",
-      "start_date": "2025-12-06",
-      "start_time": "13:15",
-      "available_spot_count": 0,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
