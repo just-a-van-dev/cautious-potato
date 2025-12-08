@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-08T10:32:19.596874-08:00",
+  "last_updated": "2025-12-08T11:17:33.898287-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -110,7 +110,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-12",
       "start_time": "07:00",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 20
     },
     {
@@ -120,7 +120,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-12",
       "start_time": "08:00",
-      "available_spot_count": 12,
+      "available_spot_count": 9,
       "capacity": 20
     },
     {
@@ -190,7 +190,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-08",
       "start_time": "12:00",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -230,7 +230,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-08",
       "start_time": "16:20",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 46
     },
     {
@@ -260,7 +260,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-10",
       "start_time": "12:30",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 46
     },
     {
@@ -280,7 +280,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-12",
       "start_time": "18:40",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 46
     },
     {
@@ -310,7 +310,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-14",
       "start_time": "11:50",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 46
     },
     {
