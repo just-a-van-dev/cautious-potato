@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-07T15:38:27.021180-08:00",
+  "last_updated": "2025-12-07T17:41:55.992010-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -95,36 +95,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn \u2014 Reformer x KK BDAY",
-      "booking_start_date": "2025-11-30 00:00",
-      "location": "Kingsway",
-      "start_date": "2025-12-07",
-      "start_time": "08:00",
-      "available_spot_count": 1,
-      "capacity": 20
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Build x KK BDAY",
-      "booking_start_date": "2025-11-30 00:00",
-      "location": "Kingsway",
-      "start_date": "2025-12-07",
-      "start_time": "09:35",
-      "available_spot_count": 0,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn x KK BDAY",
-      "booking_start_date": "2025-11-30 00:00",
-      "location": "Kingsway",
-      "start_date": "2025-12-07",
-      "start_time": "10:55",
-      "available_spot_count": 0,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn | Arms + Abs \u2014 Reformer (Heated) \u2014 HH",
       "booking_start_date": "2025-12-04 00:00",
       "location": "Kingsway",
@@ -185,32 +155,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2025-11-30 15:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-07",
-      "start_time": "15:00",
-      "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2025-11-30 16:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-07",
-      "start_time": "16:00",
-      "available_spot_count": 3,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Deal - Full Body With Headsets",
       "booking_start_date": "2025-12-01 10:00",
       "location": "Vancouver",
       "start_date": "2025-12-08",
       "start_time": "10:00",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 12
     },
     {
@@ -235,12 +185,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
+      "name": "Full Body With Headsets",
       "booking_start_date": "2025-12-02 15:30",
       "location": "Vancouver",
       "start_date": "2025-12-09",
       "start_time": "15:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -250,7 +200,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-08",
       "start_time": "07:15",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 46
     },
     {
@@ -260,7 +210,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-08",
       "start_time": "16:20",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 46
     },
     {
@@ -290,7 +240,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-10",
       "start_time": "12:30",
-      "available_spot_count": 24,
+      "available_spot_count": 22,
       "capacity": 46
     },
     {
@@ -300,7 +250,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-11",
       "start_time": "07:15",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 46
     },
     {
