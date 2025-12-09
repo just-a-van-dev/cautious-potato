@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-09T14:41:00.948142-08:00",
+  "last_updated": "2025-12-09T15:19:56.530980-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-12-11",
       "start_time": "08:15",
-      "available_spot_count": 24,
+      "available_spot_count": 22,
       "capacity": 32
     },
     {
@@ -180,7 +180,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-09",
       "start_time": "15:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 12
     },
     {
@@ -250,7 +250,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-10",
       "start_time": "12:30",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 50
     },
     {
@@ -260,7 +260,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-11",
       "start_time": "07:15",
-      "available_spot_count": 22,
+      "available_spot_count": 23,
       "capacity": 50
     },
     {
@@ -402,6 +402,66 @@
       "start_time": "08:20",
       "available_spot_count": 50,
       "capacity": 50
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Haus Party - Megaformer Fullbody",
+      "booking_start_date": "2025-12-06 11:00",
+      "location": "Vancouver Downtown",
+      "start_date": "2025-12-13",
+      "start_time": "11:00",
+      "available_spot_count": 3,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Haus Party - Megaformer Fullbody",
+      "booking_start_date": "2025-12-13 11:00",
+      "location": "Vancouver Downtown",
+      "start_date": "2025-12-20",
+      "start_time": "11:00",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Haus Party - Megaformer Fullbody",
+      "booking_start_date": "2025-12-20 11:00",
+      "location": "Vancouver Downtown",
+      "start_date": "2025-12-27",
+      "start_time": "11:00",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Haus Party - Megaformer Fullbody",
+      "booking_start_date": "2025-12-27 11:00",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-01-03",
+      "start_time": "11:00",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Haus Party - Megaformer Fullbody",
+      "booking_start_date": "2026-01-03 11:00",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-01-10",
+      "start_time": "11:00",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Haus Party - Megaformer Fullbody",
+      "booking_start_date": "2026-01-10 11:00",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-01-17",
+      "start_time": "11:00",
+      "available_spot_count": 10,
+      "capacity": 10
     },
     {
       "studio": "Evolution",
