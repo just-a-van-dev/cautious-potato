@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-08T15:39:41.950241-08:00",
+  "last_updated": "2025-12-08T17:40:49.619844-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -67,6 +67,16 @@
       "booking_start_date": "2026-01-08 08:15",
       "location": "KITS - Vancouver",
       "start_date": "2026-01-15",
+      "start_time": "08:15",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "COMMUNITY CLASS: meta",
+      "booking_start_date": "2026-01-15 08:15",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-01-22",
       "start_time": "08:15",
       "available_spot_count": 32,
       "capacity": 32
@@ -174,24 +184,14 @@
       "capacity": 20
     },
     {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Beginners Class With Headsets",
-      "booking_start_date": "2025-12-01 11:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-08",
-      "start_time": "11:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body Workout With Headsets",
-      "booking_start_date": "2025-12-01 12:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-08",
-      "start_time": "12:00",
-      "available_spot_count": 3,
-      "capacity": 12
+      "studio": "Jaybird",
+      "name": "The Burn | Arms + Abs \u2014 Reformer (Heated) \u2014 HH",
+      "booking_start_date": "2026-01-15 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-22",
+      "start_time": "12:15",
+      "available_spot_count": 20,
+      "capacity": 20
     },
     {
       "studio": "Lagree Studio",
@@ -205,33 +205,23 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body Workout With Headsets",
+      "booking_start_date": "2025-12-02 13:00",
+      "location": "Vancouver",
+      "start_date": "2025-12-09",
+      "start_time": "13:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Full Body With Headsets",
       "booking_start_date": "2025-12-02 15:30",
       "location": "Vancouver",
       "start_date": "2025-12-09",
       "start_time": "15:30",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 12
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: Hannah Montana x The Cheetah Girls",
-      "booking_start_date": "2025-11-30 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-12-08",
-      "start_time": "07:15",
-      "available_spot_count": 27,
-      "capacity": 46
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: Extreme EDM",
-      "booking_start_date": "2025-11-30 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-12-08",
-      "start_time": "16:20",
-      "available_spot_count": 2,
-      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -240,8 +230,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-09",
       "start_time": "12:30",
-      "available_spot_count": 34,
-      "capacity": 46
+      "available_spot_count": 36,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -250,8 +240,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-09",
       "start_time": "17:30",
-      "available_spot_count": 0,
-      "capacity": 46
+      "available_spot_count": 6,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -260,8 +250,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-10",
       "start_time": "12:30",
-      "available_spot_count": 20,
-      "capacity": 46
+      "available_spot_count": 24,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -270,8 +260,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-11",
       "start_time": "07:15",
-      "available_spot_count": 19,
-      "capacity": 46
+      "available_spot_count": 22,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -280,8 +270,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-12",
       "start_time": "18:40",
-      "available_spot_count": 1,
-      "capacity": 46
+      "available_spot_count": 5,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -290,8 +280,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-13",
       "start_time": "09:30",
-      "available_spot_count": 13,
-      "capacity": 46
+      "available_spot_count": 16,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -301,7 +291,7 @@
       "start_date": "2025-12-13",
       "start_time": "11:50",
       "available_spot_count": 0,
-      "capacity": 46
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -310,8 +300,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-14",
       "start_time": "11:50",
-      "available_spot_count": 7,
-      "capacity": 46
+      "available_spot_count": 11,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -320,8 +310,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-15",
       "start_time": "09:45",
-      "available_spot_count": 35,
-      "capacity": 46
+      "available_spot_count": 39,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -330,8 +320,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-17",
       "start_time": "06:00",
-      "available_spot_count": 44,
-      "capacity": 46
+      "available_spot_count": 48,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -340,8 +330,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-19",
       "start_time": "18:40",
-      "available_spot_count": 46,
-      "capacity": 46
+      "available_spot_count": 50,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -360,7 +350,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-12",
       "start_time": "07:45",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -370,7 +360,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-12",
       "start_time": "08:45",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
