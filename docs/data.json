@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-09T13:40:12.221810-08:00",
+  "last_updated": "2025-12-09T14:20:47.676684-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -92,6 +92,26 @@
       "start_time": "09:15",
       "available_spot_count": 0,
       "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Trainer Development",
+      "booking_start_date": "2025-12-08 13:45",
+      "location": "Gastown",
+      "start_date": "2025-12-15",
+      "start_time": "13:45",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Trainer Development",
+      "booking_start_date": "2025-12-10 14:00",
+      "location": "Gastown",
+      "start_date": "2025-12-17",
+      "start_time": "14:00",
+      "available_spot_count": 15,
+      "capacity": 15
     },
     {
       "studio": "Lagree West",
@@ -250,7 +270,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-12",
       "start_time": "18:40",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 50
     },
     {
@@ -305,6 +325,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: SABRINA CARPENTER x JUSTIN BIEBER",
+      "booking_start_date": "2025-12-11 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-19",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: ARIANA: X-MAS + HITS + LIVE",
       "booking_start_date": "2025-12-11 12:00",
       "location": "MOUNT PLEASANT",
@@ -315,10 +345,60 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: 2015 X 2025",
+      "name": "THEME: EVVIE & ALEX\u2019S WILD HOLIDAY RIDE",
+      "booking_start_date": "2025-12-12 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-20",
+      "start_time": "11:50",
+      "available_spot_count": 48,
+      "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BEYONCE X JAY Z",
+      "booking_start_date": "2025-12-13 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-21",
+      "start_time": "10:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ALEX\u2019S BIRTHDAY FAVES!",
+      "booking_start_date": "2025-12-15 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-23",
+      "start_time": "11:00",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: A VERY ALEX CHRISTMAS!",
+      "booking_start_date": "2025-12-15 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-23",
+      "start_time": "18:40",
+      "available_spot_count": 46,
+      "capacity": 46
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: 2005 X 2015 X 2025",
       "booking_start_date": "2025-12-21 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-29",
+      "start_time": "08:20",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: VEGAS RESIDENCIES X DJS VOL. 2",
+      "booking_start_date": "2025-12-22 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-30",
       "start_time": "08:20",
       "available_spot_count": 50,
       "capacity": 50
