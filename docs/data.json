@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-08T17:40:49.619844-08:00",
+  "last_updated": "2025-12-08T19:18:52.918189-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-12-11",
       "start_time": "08:15",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 32
     },
     {
@@ -100,7 +100,7 @@
       "location": "Main St",
       "start_date": "2025-12-19",
       "start_time": "14:15",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 14
     },
     {
@@ -112,6 +112,16 @@
       "start_time": "12:15",
       "available_spot_count": 12,
       "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "Teacher Development | The Build $18",
+      "booking_start_date": "2025-12-04 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-11",
+      "start_time": "14:00",
+      "available_spot_count": 45,
+      "capacity": 45
     },
     {
       "studio": "Jaybird",
@@ -230,7 +240,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-09",
       "start_time": "12:30",
-      "available_spot_count": 36,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -250,7 +260,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-10",
       "start_time": "12:30",
-      "available_spot_count": 24,
+      "available_spot_count": 22,
       "capacity": 50
     },
     {
@@ -260,7 +270,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-11",
       "start_time": "07:15",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 50
     },
     {
@@ -280,7 +290,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-13",
       "start_time": "09:30",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 49
     },
     {
@@ -300,7 +310,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-14",
       "start_time": "11:50",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 50
     },
     {
