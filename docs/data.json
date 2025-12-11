@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-11T12:43:08.794191-08:00",
+  "last_updated": "2025-12-11T13:23:12.597078-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -115,12 +115,32 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Megaformer x LUSH",
+      "booking_start_date": "2025-12-08 00:00",
+      "location": "Gastown",
+      "start_date": "2025-12-15",
+      "start_time": "09:00",
+      "available_spot_count": 0,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
       "name": "Trainer Development",
       "booking_start_date": "2025-12-08 13:45",
       "location": "Gastown",
       "start_date": "2025-12-15",
       "start_time": "13:45",
       "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Saje Wellness",
+      "booking_start_date": "2025-12-10 00:00",
+      "location": "Gastown",
+      "start_date": "2025-12-17",
+      "start_time": "11:00",
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -270,7 +290,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-11",
       "start_time": "14:00",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -350,7 +370,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-15",
       "start_time": "09:45",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -380,7 +400,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-19",
       "start_time": "18:40",
-      "available_spot_count": 32,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -405,6 +425,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: ILLENIUM x SEVEN LIONS x MARTIN GARRIX",
+      "booking_start_date": "2025-12-13 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-21",
+      "start_time": "13:00",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: ALEX\u2019S BIRTHDAY FAVES!",
       "booking_start_date": "2025-12-15 12:00",
       "location": "MOUNT PLEASANT",
@@ -422,6 +452,16 @@
       "start_time": "18:40",
       "available_spot_count": 46,
       "capacity": 46
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: \u2018TWAS THE NIGHT BEFORE XMAS",
+      "booking_start_date": "2025-12-16 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-24",
+      "start_time": "11:50",
+      "available_spot_count": 50,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
