@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-11T09:54:20.882097-08:00",
+  "last_updated": "2025-12-11T10:31:31.045924-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -38,7 +38,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-12-18",
       "start_time": "08:15",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 32
     },
     {
@@ -172,6 +172,36 @@
       "start_time": "18:15",
       "available_spot_count": 15,
       "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mega Cardio- Ass/Abs+Tread (55 Min)",
+      "booking_start_date": "2025-12-29 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-01-05",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mega Cardio- Ass/Abs+Tread (55 Min)",
+      "booking_start_date": "2026-01-05 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-01-12",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mega Cardio- Ass/Abs+Tread (55 Min)",
+      "booking_start_date": "2026-01-12 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-01-19",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
     },
     {
       "studio": "Jaybird",
@@ -500,7 +530,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-12",
       "start_time": "08:45",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 10
     },
     {
