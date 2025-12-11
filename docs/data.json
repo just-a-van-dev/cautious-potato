@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-10T15:39:31.997996-08:00",
+  "last_updated": "2025-12-10T17:43:50.512477-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -18,7 +18,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-12-11",
       "start_time": "10:45",
-      "available_spot_count": 19,
+      "available_spot_count": 17,
       "capacity": 32
     },
     {
@@ -170,7 +170,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-11",
       "start_time": "14:00",
-      "available_spot_count": 43,
+      "available_spot_count": 40,
       "capacity": 45
     },
     {
@@ -196,51 +196,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2025-12-03 07:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-10",
-      "start_time": "07:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2025-12-03 08:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-10",
-      "start_time": "08:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body Workout With Headsets",
-      "booking_start_date": "2025-12-03 09:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-10",
-      "start_time": "09:00",
-      "available_spot_count": 2,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body Workout With Headsets",
-      "booking_start_date": "2025-12-03 10:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-10",
-      "start_time": "10:00",
-      "available_spot_count": 3,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
       "booking_start_date": "2025-12-04 07:00",
       "location": "Vancouver",
       "start_date": "2025-12-11",
       "start_time": "07:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -250,7 +210,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-11",
       "start_time": "08:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -280,7 +240,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-11",
       "start_time": "07:15",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 50
     },
     {
@@ -330,7 +290,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-15",
       "start_time": "09:45",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -370,7 +330,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-20",
       "start_time": "11:50",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 49
     },
     {
@@ -484,6 +444,16 @@
       "capacity": 10
     },
     {
+      "studio": "Lagree Pulse",
+      "name": "Haus Party - Megaformer Fullbody",
+      "booking_start_date": "2026-01-17 11:00",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-01-24",
+      "start_time": "11:00",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
       "studio": "Evolution",
       "name": "Infrared Lagree - DUA LIPA X ARIANA GRANDE",
       "booking_start_date": "2025-11-28 07:45",
@@ -550,7 +520,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-19",
       "start_time": "18:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
