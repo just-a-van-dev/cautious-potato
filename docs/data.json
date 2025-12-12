@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-12T01:47:06.215463-08:00",
+  "last_updated": "2025-12-12T02:24:01.230543-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -100,7 +100,7 @@
       "location": "Gastown",
       "start_date": "2025-12-15",
       "start_time": "13:45",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
