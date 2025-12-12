@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-12T06:41:39.051416-08:00",
+  "last_updated": "2025-12-12T07:23:12.779984-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -270,7 +270,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-15",
       "start_time": "09:45",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -280,7 +280,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-17",
       "start_time": "06:00",
-      "available_spot_count": 20,
+      "available_spot_count": 18,
       "capacity": 50
     },
     {
@@ -290,7 +290,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-19",
       "start_time": "12:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -300,7 +300,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-19",
       "start_time": "18:40",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 50
     },
     {
