@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-12T09:43:30.600861-08:00",
+  "last_updated": "2025-12-12T10:32:42.657908-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -184,6 +184,16 @@
       "capacity": 20
     },
     {
+      "studio": "Jaybird",
+      "name": "Teacher Development | The Build $18",
+      "booking_start_date": "2025-12-11 00:00",
+      "location": "Yaletown",
+      "start_date": "2025-12-18",
+      "start_time": "13:30",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
       "studio": "Lagree Studio",
       "name": "Daytime Deal - Full Body Workout With Headsets",
       "booking_start_date": "2025-12-05 12:00",
@@ -200,7 +210,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-12",
       "start_time": "14:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -240,7 +250,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-13",
       "start_time": "09:30",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 49
     },
     {
@@ -300,7 +310,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-19",
       "start_time": "18:40",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 50
     },
     {
