@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-12T12:44:41.842675-08:00",
+  "last_updated": "2025-12-12T13:18:49.976558-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -240,7 +240,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-12",
       "start_time": "18:40",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 50
     },
     {
@@ -250,7 +250,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-13",
       "start_time": "09:30",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 49
     },
     {
@@ -270,7 +270,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-14",
       "start_time": "11:50",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -295,22 +295,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: SABRINA CARPENTER x JUSTIN BIEBER",
-      "booking_start_date": "2025-12-11 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-12-19",
-      "start_time": "12:30",
-      "available_spot_count": 35,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: ARIANA: X-MAS + HITS + LIVE",
       "booking_start_date": "2025-12-11 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-19",
       "start_time": "18:40",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 50
     },
     {
@@ -320,7 +310,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-20",
       "start_time": "11:50",
-      "available_spot_count": 30,
+      "available_spot_count": 28,
       "capacity": 49
     },
     {
