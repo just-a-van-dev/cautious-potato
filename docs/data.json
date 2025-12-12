@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-11T20:08:11.926628-08:00",
+  "last_updated": "2025-12-11T20:53:07.661652-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -182,6 +182,26 @@
       "start_time": "08:00",
       "available_spot_count": 0,
       "capacity": 20
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body Workout With Headsets",
+      "booking_start_date": "2025-12-05 12:00",
+      "location": "Vancouver",
+      "start_date": "2025-12-12",
+      "start_time": "12:00",
+      "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body Workout With Headsets",
+      "booking_start_date": "2025-12-05 14:00",
+      "location": "Vancouver",
+      "start_date": "2025-12-12",
+      "start_time": "14:00",
+      "available_spot_count": 8,
+      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
