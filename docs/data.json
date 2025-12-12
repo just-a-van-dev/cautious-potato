@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-11T15:40:17.249809-08:00",
+  "last_updated": "2025-12-11T17:43:23.391027-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -10,26 +10,6 @@
       "start_time": "18:00",
       "available_spot_count": 14,
       "capacity": 14
-    },
-    {
-      "studio": "Turf",
-      "name": "COMMUNITY CLASS: meta",
-      "booking_start_date": "2025-12-04 08:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2025-12-11",
-      "start_time": "08:15",
-      "available_spot_count": 21,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "COMMUNITY CLASS: meta",
-      "booking_start_date": "2025-12-04 10:45",
-      "location": "KITS - Vancouver",
-      "start_date": "2025-12-11",
-      "start_time": "10:45",
-      "available_spot_count": 17,
-      "capacity": 32
     },
     {
       "studio": "Turf",
@@ -93,16 +73,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2025-11-11 09:15",
-      "location": "Yaletown",
-      "start_date": "2025-12-11",
-      "start_time": "09:15",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
     {
       "studio": "Lagree West",
       "name": "Trainer Development",
@@ -225,16 +195,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "Teacher Development | The Build $18",
-      "booking_start_date": "2025-12-04 00:00",
-      "location": "Kingsway",
-      "start_date": "2025-12-11",
-      "start_time": "14:00",
-      "available_spot_count": 35,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn \u2014 Reformer x Umeglow",
       "booking_start_date": "2025-12-05 00:00",
       "location": "Kingsway",
@@ -252,46 +212,6 @@
       "start_time": "08:00",
       "available_spot_count": 0,
       "capacity": 20
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2025-12-04 07:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-11",
-      "start_time": "07:00",
-      "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2025-12-04 08:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-11",
-      "start_time": "08:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body Workout With Headsets",
-      "booking_start_date": "2025-12-04 09:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-11",
-      "start_time": "09:00",
-      "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Ass & Abs Class With Headsets",
-      "booking_start_date": "2025-12-04 14:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-11",
-      "start_time": "14:00",
-      "available_spot_count": 6,
-      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -315,22 +235,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: BEYONC\u00c9 X DESTINY\u2019S CHILD",
-      "booking_start_date": "2025-12-03 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-12-11",
-      "start_time": "07:15",
-      "available_spot_count": 28,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: EDM: GRITTY x OBNOXIOUS - VOL 3",
       "booking_start_date": "2025-12-04 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-12",
       "start_time": "18:40",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 50
     },
     {
@@ -370,7 +280,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-15",
       "start_time": "09:45",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -400,7 +310,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-19",
       "start_time": "18:40",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 50
     },
     {
@@ -560,7 +470,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-12",
       "start_time": "07:45",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -570,7 +480,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-12",
       "start_time": "08:45",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 10
     },
     {
