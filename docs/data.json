@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-14T10:28:16.142136-08:00",
+  "last_updated": "2025-12-14T10:50:34.201143-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -165,6 +165,16 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body",
+      "booking_start_date": "2025-12-07 14:00",
+      "location": "Vancouver",
+      "start_date": "2025-12-14",
+      "start_time": "14:00",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Full Body x Biimil Popup",
       "booking_start_date": "2025-12-13 14:00",
       "location": "Vancouver",
@@ -250,7 +260,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-21",
       "start_time": "10:40",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 50
     },
     {
@@ -260,7 +270,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-21",
       "start_time": "13:00",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 50
     },
     {
