@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-14T14:41:27.705558-08:00",
+  "last_updated": "2025-12-14T15:18:45.068172-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -280,7 +280,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-21",
       "start_time": "13:00",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 50
     },
     {
@@ -311,6 +311,36 @@
       "start_date": "2025-12-24",
       "start_time": "11:50",
       "available_spot_count": 48,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: 2025 K-POP WRAP UP",
+      "booking_start_date": "2025-12-18 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-26",
+      "start_time": "08:20",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: POP x EDM | TAYLOR SWIFT x THE CHAINSMOKERS",
+      "booking_start_date": "2025-12-18 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-26",
+      "start_time": "10:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: K-POP BEAT DROPS",
+      "booking_start_date": "2025-12-19 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-27",
+      "start_time": "10:40",
+      "available_spot_count": 50,
       "capacity": 50
     },
     {
