@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-14T10:50:34.201143-08:00",
+  "last_updated": "2025-12-14T11:16:01.340539-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -270,7 +270,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-21",
       "start_time": "13:00",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 50
     },
     {
@@ -330,7 +330,7 @@
       "location": "Vancouver Downtown",
       "start_date": "2025-12-20",
       "start_time": "11:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
