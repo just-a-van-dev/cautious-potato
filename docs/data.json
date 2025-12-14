@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-13T15:39:22.577108-08:00",
+  "last_updated": "2025-12-13T17:49:34.832273-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -73,16 +73,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Trainer Development",
-      "booking_start_date": "2025-12-06 00:00",
-      "location": "Kitsilano",
-      "start_date": "2025-12-13",
-      "start_time": "17:00",
-      "available_spot_count": 14,
-      "capacity": 16
-    },
     {
       "studio": "Lagree West",
       "name": "Megaformer x LUSH",
@@ -180,7 +170,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-20",
       "start_time": "14:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -205,32 +195,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: NICKLEBACK X CREED VOL II",
-      "booking_start_date": "2025-12-05 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-12-13",
-      "start_time": "09:30",
-      "available_spot_count": 13,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: 2025 POP WRAP-UP",
-      "booking_start_date": "2025-12-05 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-12-13",
-      "start_time": "11:50",
-      "available_spot_count": 1,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: ATEEZ x MONSTA X",
       "booking_start_date": "2025-12-06 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-14",
       "start_time": "11:50",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 50
     },
     {
@@ -250,7 +220,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-17",
       "start_time": "06:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 50
     },
     {
@@ -280,7 +250,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-21",
       "start_time": "10:40",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -290,7 +260,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-21",
       "start_time": "13:00",
-      "available_spot_count": 25,
+      "available_spot_count": 22,
       "capacity": 50
     },
     {
@@ -346,21 +316,11 @@
     {
       "studio": "Lagree Pulse",
       "name": "Haus Party - Megaformer Fullbody",
-      "booking_start_date": "2025-12-06 11:00",
-      "location": "Vancouver Downtown",
-      "start_date": "2025-12-13",
-      "start_time": "11:00",
-      "available_spot_count": 1,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Haus Party - Megaformer Fullbody",
       "booking_start_date": "2025-12-13 11:00",
       "location": "Vancouver Downtown",
       "start_date": "2025-12-20",
       "start_time": "11:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -411,16 +371,6 @@
       "start_date": "2026-01-24",
       "start_time": "11:00",
       "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - BRITNEY SPEARS",
-      "booking_start_date": "2025-11-29 13:15",
-      "location": "Vancouver",
-      "start_date": "2025-12-13",
-      "start_time": "13:15",
-      "available_spot_count": 2,
       "capacity": 10
     },
     {
