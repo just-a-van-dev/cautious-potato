@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-15T11:20:14.666876-08:00",
+  "last_updated": "2025-12-15T11:41:14.753839-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -90,7 +90,7 @@
       "location": "Gastown",
       "start_date": "2025-12-15",
       "start_time": "13:45",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 15
     },
     {
@@ -220,7 +220,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-16",
       "start_time": "09:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -270,7 +270,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-20",
       "start_time": "15:00",
-      "available_spot_count": 11,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -360,7 +360,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-21",
       "start_time": "10:40",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 50
     },
     {
