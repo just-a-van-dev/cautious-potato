@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-16T12:45:59.602358-08:00",
+  "last_updated": "2025-12-16T13:20:58.475658-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -160,7 +160,7 @@
       "location": "Yaletown",
       "start_date": "2025-12-21",
       "start_time": "08:15",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
@@ -430,7 +430,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-24",
       "start_time": "11:50",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
