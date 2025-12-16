@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-16T07:45:17.092841-08:00",
+  "last_updated": "2025-12-16T08:29:48.279580-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -18,7 +18,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-12-18",
       "start_time": "08:15",
-      "available_spot_count": 18,
+      "available_spot_count": 19,
       "capacity": 32
     },
     {
@@ -270,7 +270,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-12-18",
       "start_time": "17:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 32
     },
     {
