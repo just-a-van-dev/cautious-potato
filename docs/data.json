@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-15T20:09:39.092984-08:00",
+  "last_updated": "2025-12-15T20:55:12.045066-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -175,22 +175,32 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body Workout With Headsets",
-      "booking_start_date": "2025-12-09 09:00",
+      "name": "Daytime Deal - Full Body",
+      "booking_start_date": "2025-12-09 07:00",
       "location": "Vancouver",
       "start_date": "2025-12-16",
-      "start_time": "09:00",
-      "available_spot_count": 7,
+      "start_time": "07:00",
+      "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body",
+      "booking_start_date": "2025-12-09 08:00",
+      "location": "Vancouver",
+      "start_date": "2025-12-16",
+      "start_time": "08:00",
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
       "studio": "Lagree Studio",
       "name": "Daytime Deal - Full Body Workout With Headsets",
-      "booking_start_date": "2025-12-09 10:00",
+      "booking_start_date": "2025-12-09 09:00",
       "location": "Vancouver",
       "start_date": "2025-12-16",
-      "start_time": "10:00",
-      "available_spot_count": 4,
+      "start_time": "09:00",
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -210,7 +220,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-16",
       "start_time": "13:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -330,7 +340,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-23",
       "start_time": "11:00",
-      "available_spot_count": 39,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -340,7 +350,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-23",
       "start_time": "18:40",
-      "available_spot_count": 13,
+      "available_spot_count": 10,
       "capacity": 46
     },
     {
