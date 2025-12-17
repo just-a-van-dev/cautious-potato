@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-16T15:40:47.952208-08:00",
+  "last_updated": "2025-12-16T17:40:18.167026-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -100,7 +100,7 @@
       "location": "Gastown",
       "start_date": "2025-12-17",
       "start_time": "14:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
@@ -166,9 +166,9 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2025-12-09 06:00",
+      "booking_start_date": "2025-12-10 06:00",
       "location": "Vancouver",
-      "start_date": "2025-12-16",
+      "start_date": "2025-12-17",
       "start_time": "06:00",
       "available_spot_count": 6,
       "capacity": 12
@@ -176,51 +176,61 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2025-12-09 07:00",
+      "booking_start_date": "2025-12-10 07:00",
       "location": "Vancouver",
-      "start_date": "2025-12-16",
+      "start_date": "2025-12-17",
       "start_time": "07:00",
-      "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2025-12-09 08:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-16",
-      "start_time": "08:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body Workout With Headsets",
-      "booking_start_date": "2025-12-09 09:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-16",
-      "start_time": "09:00",
       "available_spot_count": 5,
       "capacity": 12
     },
     {
       "studio": "Lagree Studio",
       "name": "Daytime Deal - Full Body Workout With Headsets",
-      "booking_start_date": "2025-12-09 12:00",
+      "booking_start_date": "2025-12-10 09:00",
       "location": "Vancouver",
-      "start_date": "2025-12-16",
-      "start_time": "12:00",
-      "available_spot_count": 3,
+      "start_date": "2025-12-17",
+      "start_time": "09:00",
+      "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daily Deal - Ass and Abs Workout With Headsets",
+      "booking_start_date": "2025-12-10 11:00",
+      "location": "Vancouver",
+      "start_date": "2025-12-17",
+      "start_time": "11:00",
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
       "studio": "Lagree Studio",
       "name": "Daytime Deal - Full Body Workout With Headsets",
-      "booking_start_date": "2025-12-09 13:00",
+      "booking_start_date": "2025-12-10 14:00",
       "location": "Vancouver",
-      "start_date": "2025-12-16",
+      "start_date": "2025-12-17",
+      "start_time": "14:00",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body Workout With Headsets",
+      "booking_start_date": "2025-12-11 09:00",
+      "location": "Vancouver",
+      "start_date": "2025-12-18",
+      "start_time": "09:00",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body Workout With Headsets",
+      "booking_start_date": "2025-12-11 13:00",
+      "location": "Vancouver",
+      "start_date": "2025-12-18",
       "start_time": "13:00",
-      "available_spot_count": 4,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -252,16 +262,6 @@
       "start_time": "12:00",
       "available_spot_count": 12,
       "capacity": 12
-    },
-    {
-      "studio": "Ritual",
-      "name": "Slow Flow Vinyasa + Sound",
-      "booking_start_date": "2025-12-02 08:00",
-      "location": "West End",
-      "start_date": "2025-12-16",
-      "start_time": "08:00",
-      "available_spot_count": 12,
-      "capacity": 17
     },
     {
       "studio": "Ritual",
@@ -340,7 +340,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-12-18",
       "start_time": "17:15",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 32
     },
     {
@@ -410,7 +410,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-23",
       "start_time": "11:00",
-      "available_spot_count": 23,
+      "available_spot_count": 21,
       "capacity": 50
     },
     {
@@ -430,7 +430,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-24",
       "start_time": "11:50",
-      "available_spot_count": 41,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
