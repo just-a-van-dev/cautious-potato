@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-17T08:56:46.335814-08:00",
+  "last_updated": "2025-12-17T09:26:22.769974-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -200,7 +200,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-17",
       "start_time": "10:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -220,7 +220,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-17",
       "start_time": "14:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -280,7 +280,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-24",
       "start_time": "09:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
