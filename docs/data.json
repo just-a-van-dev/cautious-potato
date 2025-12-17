@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-17T13:41:49.389493-08:00",
+  "last_updated": "2025-12-17T14:20:51.190228-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -176,6 +176,106 @@
     {
       "studio": "Jaybird",
       "name": "The Burn x Magic Scoop",
+      "booking_start_date": "2025-12-13 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-20",
+      "start_time": "08:15",
+      "available_spot_count": 26,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Magic Scoop",
+      "booking_start_date": "2025-12-13 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-20",
+      "start_time": "09:25",
+      "available_spot_count": 2,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Build x Magic Scoop",
+      "booking_start_date": "2025-12-13 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-20",
+      "start_time": "09:35",
+      "available_spot_count": 24,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Magic Scoop",
+      "booking_start_date": "2025-12-13 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-20",
+      "start_time": "10:25",
+      "available_spot_count": 3,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Bird x Magic Scoop",
+      "booking_start_date": "2025-12-13 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-20",
+      "start_time": "10:55",
+      "available_spot_count": 23,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Magic Scoop",
+      "booking_start_date": "2025-12-13 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-20",
+      "start_time": "11:25",
+      "available_spot_count": 11,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x Magic Scoop",
+      "booking_start_date": "2025-12-13 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-20",
+      "start_time": "12:15",
+      "available_spot_count": 24,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Magic Scoop",
+      "booking_start_date": "2025-12-13 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-20",
+      "start_time": "12:25",
+      "available_spot_count": 7,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Magic Scoop",
+      "booking_start_date": "2025-12-13 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-20",
+      "start_time": "13:25",
+      "available_spot_count": 6,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Balance x Magic Scoop",
+      "booking_start_date": "2025-12-13 00:00",
+      "location": "Kingsway",
+      "start_date": "2025-12-20",
+      "start_time": "13:30",
+      "available_spot_count": 35,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x Magic Scoop",
       "booking_start_date": "2025-12-14 00:00",
       "location": "Yaletown",
       "start_date": "2025-12-21",
@@ -240,7 +340,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-18",
       "start_time": "09:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
