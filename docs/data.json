@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-18T13:18:05.689519-08:00",
+  "last_updated": "2025-12-18T13:39:13.235157-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -18,7 +18,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-12-18",
       "start_time": "08:15",
-      "available_spot_count": 17,
+      "available_spot_count": 20,
       "capacity": 32
     },
     {
@@ -230,7 +230,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "12:25",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -590,7 +590,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-19",
       "start_time": "18:40",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 50
     },
     {
@@ -699,6 +699,16 @@
       "booking_start_date": "2025-12-21 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-29",
+      "start_time": "09:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: NYE PRE-GAME",
+      "booking_start_date": "2025-12-23 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2025-12-31",
       "start_time": "09:30",
       "available_spot_count": 50,
       "capacity": 50
