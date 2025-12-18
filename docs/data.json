@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-17T15:41:27.120559-08:00",
+  "last_updated": "2025-12-17T17:40:24.512527-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -18,7 +18,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-12-18",
       "start_time": "08:15",
-      "available_spot_count": 20,
+      "available_spot_count": 21,
       "capacity": 32
     },
     {
@@ -83,26 +83,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Saje Wellness",
-      "booking_start_date": "2025-12-10 00:00",
-      "location": "Gastown",
-      "start_date": "2025-12-17",
-      "start_time": "11:00",
-      "available_spot_count": 3,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Trainer Development",
-      "booking_start_date": "2025-12-10 14:00",
-      "location": "Gastown",
-      "start_date": "2025-12-17",
-      "start_time": "14:00",
-      "available_spot_count": 13,
-      "capacity": 15
-    },
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
@@ -180,7 +160,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "08:15",
-      "available_spot_count": 26,
+      "available_spot_count": 24,
       "capacity": 45
     },
     {
@@ -190,7 +170,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "09:25",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 20
     },
     {
@@ -210,7 +190,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "10:25",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 20
     },
     {
@@ -240,7 +220,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "12:15",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 45
     },
     {
@@ -260,7 +240,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "13:25",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 20
     },
     {
@@ -282,56 +262,6 @@
       "start_time": "08:15",
       "available_spot_count": 20,
       "capacity": 36
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2025-12-10 06:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-17",
-      "start_time": "06:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body Workout With Headsets",
-      "booking_start_date": "2025-12-10 09:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-17",
-      "start_time": "09:00",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal  - Full Body Workout With Headsets",
-      "booking_start_date": "2025-12-10 10:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-17",
-      "start_time": "10:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Ass and Abs Workout With Headsets",
-      "booking_start_date": "2025-12-10 11:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-17",
-      "start_time": "11:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body Workout With Headsets",
-      "booking_start_date": "2025-12-10 14:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-17",
-      "start_time": "14:00",
-      "available_spot_count": 11,
-      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -360,7 +290,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-20",
       "start_time": "14:00",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -380,7 +310,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-24",
       "start_time": "08:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -410,7 +340,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-24",
       "start_time": "11:00",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -430,7 +360,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-24",
       "start_time": "13:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -534,23 +464,13 @@
       "capacity": 17
     },
     {
-      "studio": "Hustle",
-      "name": "CONNECT x LULULEMON SURPRISE",
-      "booking_start_date": "2025-12-09 11:00",
-      "location": "Mount Pleasant",
-      "start_date": "2025-12-17",
-      "start_time": "11:00",
-      "available_spot_count": 0,
-      "capacity": 18
-    },
-    {
       "studio": "Turf",
       "name": "meta mat werk x Better Life Foundation",
       "booking_start_date": "2025-12-11 17:15",
       "location": "KITS - Vancouver",
       "start_date": "2025-12-18",
       "start_time": "17:15",
-      "available_spot_count": 17,
+      "available_spot_count": 18,
       "capacity": 32
     },
     {
@@ -562,16 +482,6 @@
       "start_time": "06:00",
       "available_spot_count": 0,
       "capacity": 22
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: HIP-HOP & R&B WAKE-UP",
-      "booking_start_date": "2025-12-09 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-12-17",
-      "start_time": "06:00",
-      "available_spot_count": 8,
-      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -620,7 +530,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-23",
       "start_time": "11:00",
-      "available_spot_count": 15,
+      "available_spot_count": 12,
       "capacity": 50
     },
     {
@@ -640,7 +550,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-24",
       "start_time": "11:50",
-      "available_spot_count": 27,
+      "available_spot_count": 24,
       "capacity": 50
     },
     {
@@ -754,13 +664,23 @@
       "capacity": 10
     },
     {
+      "studio": "Lagree Pulse",
+      "name": "Haus Party - Megaformer Fullbody",
+      "booking_start_date": "2026-01-24 11:00",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-01-31",
+      "start_time": "11:00",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
       "studio": "Evolution",
       "name": "Infrared Lagree - HOLIDAY JAMS",
       "booking_start_date": "2025-12-05 07:45",
       "location": "Vancouver",
       "start_date": "2025-12-19",
       "start_time": "07:45",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
@@ -800,7 +720,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-27",
       "start_time": "13:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 10
     }
   ]
