@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-18T01:50:16.457963-08:00",
+  "last_updated": "2025-12-18T02:24:18.975565-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -160,7 +160,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "08:15",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 45
     },
     {
@@ -220,7 +220,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "12:15",
-      "available_spot_count": 20,
+      "available_spot_count": 21,
       "capacity": 45
     },
     {
