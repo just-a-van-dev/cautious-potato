@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-19T13:18:59.742845-08:00",
+  "last_updated": "2025-12-19T13:40:11.544405-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -80,7 +80,7 @@
       "location": "Main St",
       "start_date": "2025-12-19",
       "start_time": "14:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 14
     },
     {
@@ -140,7 +140,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "08:15",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 45
     },
     {
@@ -420,7 +420,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-19",
       "start_time": "18:40",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 50
     },
     {
