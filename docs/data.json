@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-18T17:43:24.523333-08:00",
+  "last_updated": "2025-12-18T19:24:19.092072-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -140,7 +140,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "08:15",
-      "available_spot_count": 20,
+      "available_spot_count": 18,
       "capacity": 45
     },
     {
@@ -160,7 +160,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "09:35",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 45
     },
     {
@@ -170,7 +170,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "10:25",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 20
     },
     {
@@ -180,7 +180,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "10:55",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 45
     },
     {
@@ -230,7 +230,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "13:30",
-      "available_spot_count": 30,
+      "available_spot_count": 31,
       "capacity": 45
     },
     {
@@ -250,7 +250,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-19",
       "start_time": "09:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -260,7 +260,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-19",
       "start_time": "10:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -270,7 +270,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-19",
       "start_time": "11:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -350,7 +350,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-24",
       "start_time": "12:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -530,7 +530,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-12-19",
       "start_time": "06:00",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 22
     },
     {
@@ -551,7 +551,7 @@
       "start_date": "2025-12-20",
       "start_time": "11:50",
       "available_spot_count": 0,
-      "capacity": 49
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -600,7 +600,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-24",
       "start_time": "11:50",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 50
     },
     {
@@ -610,7 +610,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-26",
       "start_time": "08:20",
-      "available_spot_count": 39,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -620,7 +620,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-26",
       "start_time": "10:40",
-      "available_spot_count": 5,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -660,6 +660,16 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-31",
       "start_time": "09:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: FRED AGAIN..X HIP HOP",
+      "booking_start_date": "2025-12-28 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-01-05",
+      "start_time": "09:45",
       "available_spot_count": 50,
       "capacity": 50
     },
@@ -740,7 +750,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-19",
       "start_time": "07:45",
-      "available_spot_count": 5,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -750,7 +760,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-19",
       "start_time": "08:45",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
