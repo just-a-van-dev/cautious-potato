@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-19T05:33:20.888450-08:00",
+  "last_updated": "2025-12-19T06:21:36.538159-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -140,7 +140,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "08:15",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 45
     },
     {
@@ -160,7 +160,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "09:35",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 45
     },
     {
@@ -410,7 +410,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-12-19",
       "start_time": "06:00",
-      "available_spot_count": 1,
+      "available_spot_count": 3,
       "capacity": 22
     },
     {
