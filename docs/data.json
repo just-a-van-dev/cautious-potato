@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-19T15:39:41.717426-08:00",
+  "last_updated": "2025-12-19T17:38:21.964338-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -75,16 +75,6 @@
   "sponsored": [
     {
       "studio": "Lagree West",
-      "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2025-11-19 14:15",
-      "location": "Main St",
-      "start_date": "2025-12-19",
-      "start_time": "14:15",
-      "available_spot_count": 0,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
       "name": "Happy Hour Megaformer X Rihanna",
       "booking_start_date": "2025-12-22 00:00",
       "location": "Gastown",
@@ -140,7 +130,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "08:15",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 45
     },
     {
@@ -150,7 +140,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "09:25",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 20
     },
     {
@@ -180,7 +170,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "10:55",
-      "available_spot_count": 19,
+      "available_spot_count": 21,
       "capacity": 45
     },
     {
@@ -190,7 +180,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "11:25",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 20
     },
     {
@@ -200,7 +190,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "12:15",
-      "available_spot_count": 16,
+      "available_spot_count": 14,
       "capacity": 45
     },
     {
@@ -220,7 +210,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "13:25",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 20
     },
     {
@@ -240,7 +230,7 @@
       "location": "Yaletown",
       "start_date": "2025-12-21",
       "start_time": "08:15",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 36
     },
     {
@@ -252,26 +242,6 @@
       "start_time": "06:00",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2025-12-12 09:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-19",
-      "start_time": "09:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body With Headsets",
-      "booking_start_date": "2025-12-12 14:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-19",
-      "start_time": "14:00",
-      "available_spot_count": 7,
-      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -404,26 +374,6 @@
       "capacity": 25
     },
     {
-      "studio": "Turf",
-      "name": "Strengthen x WIRTH Foundation",
-      "booking_start_date": "2025-12-12 06:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2025-12-19",
-      "start_time": "06:00",
-      "available_spot_count": 4,
-      "capacity": 22
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: ARIANA: X-MAS + HITS + LIVE",
-      "booking_start_date": "2025-12-11 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-12-19",
-      "start_time": "18:40",
-      "available_spot_count": 7,
-      "capacity": 50
-    },
-    {
       "studio": "Spin Society",
       "name": "THEME: EVVIE & ALEX\u2019S WILD HOLIDAY RIDE",
       "booking_start_date": "2025-12-12 12:00",
@@ -480,7 +430,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-24",
       "start_time": "11:50",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -490,7 +440,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-26",
       "start_time": "08:20",
-      "available_spot_count": 29,
+      "available_spot_count": 24,
       "capacity": 50
     },
     {
@@ -621,36 +571,6 @@
       "start_date": "2026-01-31",
       "start_time": "11:00",
       "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - HOLIDAY JAMS",
-      "booking_start_date": "2025-12-05 07:45",
-      "location": "Vancouver",
-      "start_date": "2025-12-19",
-      "start_time": "07:45",
-      "available_spot_count": 5,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - HOLIDAY JAMS",
-      "booking_start_date": "2025-12-05 08:45",
-      "location": "Vancouver",
-      "start_date": "2025-12-19",
-      "start_time": "08:45",
-      "available_spot_count": 2,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - DOJA CAT",
-      "booking_start_date": "2025-12-05 18:30",
-      "location": "Vancouver",
-      "start_date": "2025-12-19",
-      "start_time": "18:30",
-      "available_spot_count": 3,
       "capacity": 10
     },
     {
