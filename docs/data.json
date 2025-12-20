@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-20T09:16:38.375651-08:00",
+  "last_updated": "2025-12-20T09:39:34.130513-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -160,7 +160,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "10:25",
-      "available_spot_count": 3,
+      "available_spot_count": 0,
       "capacity": 20
     },
     {
@@ -170,7 +170,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "10:55",
-      "available_spot_count": 22,
+      "available_spot_count": 20,
       "capacity": 45
     },
     {
@@ -180,7 +180,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "11:25",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 20
     },
     {
@@ -190,7 +190,7 @@
       "location": "Kingsway",
       "start_date": "2025-12-20",
       "start_time": "12:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 45
     },
     {
@@ -230,7 +230,7 @@
       "location": "Yaletown",
       "start_date": "2025-12-21",
       "start_time": "08:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 36
     },
     {
@@ -440,7 +440,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-26",
       "start_time": "08:20",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 50
     },
     {
@@ -510,7 +510,7 @@
       "location": "Vancouver Downtown",
       "start_date": "2025-12-20",
       "start_time": "11:00",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
