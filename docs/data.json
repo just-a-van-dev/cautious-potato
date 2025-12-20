@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-20T14:19:05.939886-08:00",
+  "last_updated": "2025-12-20T14:40:53.072266-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -230,7 +230,7 @@
       "location": "Yaletown",
       "start_date": "2025-12-21",
       "start_time": "08:15",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 36
     },
     {
