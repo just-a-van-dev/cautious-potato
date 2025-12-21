@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-21T13:39:12.554097-08:00",
+  "last_updated": "2025-12-21T14:19:35.154869-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -230,7 +230,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-25",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -300,7 +300,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-26",
       "start_time": "08:20",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 50
     },
     {
@@ -340,7 +340,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-29",
       "start_time": "09:30",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 50
     },
     {
@@ -351,6 +351,26 @@
       "start_date": "2025-12-31",
       "start_time": "09:30",
       "available_spot_count": 44,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: HIP HOP REMIXED",
+      "booking_start_date": "2025-12-24 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-01-01",
+      "start_time": "09:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: NEXT 10 YEARS: Beyonc\u00e9 (2009-2019)",
+      "booking_start_date": "2025-12-25 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-01-02",
+      "start_time": "18:40",
+      "available_spot_count": 50,
       "capacity": 50
     },
     {
