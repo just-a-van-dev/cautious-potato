@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-21T14:42:37.893525-08:00",
+  "last_updated": "2025-12-21T15:18:55.743466-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -245,7 +245,7 @@
     },
     {
       "studio": "Turf",
-      "name": "POST TURKEY META + WEIGHTS",
+      "name": "POST TURKEY MAT WERK + WEIGHTS",
       "booking_start_date": "2025-12-19 10:45",
       "location": "KITS - Vancouver",
       "start_date": "2025-12-26",
@@ -310,7 +310,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-26",
       "start_time": "08:20",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 50
     },
     {
@@ -340,7 +340,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-29",
       "start_time": "08:20",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -350,7 +350,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-29",
       "start_time": "09:30",
-      "available_spot_count": 29,
+      "available_spot_count": 27,
       "capacity": 50
     },
     {
