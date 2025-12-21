@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-20T17:49:17.027698-08:00",
+  "last_updated": "2025-12-20T19:38:50.336699-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -120,7 +120,7 @@
       "location": "Yaletown",
       "start_date": "2025-12-21",
       "start_time": "08:15",
-      "available_spot_count": 12,
+      "available_spot_count": 15,
       "capacity": 36
     },
     {
@@ -250,7 +250,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-21",
       "start_time": "10:40",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -260,7 +260,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-21",
       "start_time": "13:00",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -300,7 +300,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-26",
       "start_time": "08:20",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 50
     },
     {
