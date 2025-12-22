@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-22T11:17:34.920888-08:00",
+  "last_updated": "2025-12-22T11:38:34.162443-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -70,7 +70,7 @@
       "location": "Gastown",
       "start_date": "2025-12-29",
       "start_time": "16:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 15
     },
     {
@@ -92,6 +92,26 @@
       "start_time": "18:15",
       "available_spot_count": 12,
       "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
+      "booking_start_date": "2025-12-09 15:15",
+      "location": "Kitsilano",
+      "start_date": "2026-01-08",
+      "start_time": "15:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
+      "booking_start_date": "2025-12-15 15:15",
+      "location": "Main St",
+      "start_date": "2026-01-14",
+      "start_time": "15:15",
+      "available_spot_count": 14,
+      "capacity": 14
     },
     {
       "studio": "Lagree West",
@@ -200,7 +220,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-24",
       "start_time": "11:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 12
     },
     {
@@ -230,7 +250,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-25",
       "start_time": "10:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -260,7 +280,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-25",
       "start_time": "13:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
