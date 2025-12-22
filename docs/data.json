@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-21T17:48:48.760584-08:00",
+  "last_updated": "2025-12-21T19:42:59.669090-08:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -90,7 +90,7 @@
       "location": "Gastown",
       "start_date": "2025-12-29",
       "start_time": "17:15",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 15
     },
     {
@@ -130,7 +130,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-22",
       "start_time": "09:00",
-      "available_spot_count": 7,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -180,7 +180,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-24",
       "start_time": "08:00",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -195,7 +195,7 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Full Body With Headsets x Sahajan",
+      "name": "Club Lagree Full Body With Headsets x Sahajan",
       "booking_start_date": "2025-12-17 10:00",
       "location": "Vancouver",
       "start_date": "2025-12-24",
@@ -250,7 +250,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-25",
       "start_time": "11:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -290,7 +290,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2025-12-26",
       "start_time": "10:45",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 32
     },
     {
@@ -360,7 +360,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-29",
       "start_time": "08:20",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
@@ -370,7 +370,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-29",
       "start_time": "09:30",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 50
     },
     {
