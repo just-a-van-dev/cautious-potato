@@ -1,16 +1,6 @@
 {
-  "last_updated": "2025-12-22T10:31:45.996509-08:00",
+  "last_updated": "2025-12-22T11:17:34.920888-08:00",
   "special": [
-    {
-      "studio": "Lagree West",
-      "name": "Private Session",
-      "booking_start_date": "2025-12-18 18:00",
-      "location": "Main St",
-      "start_date": "2026-01-17",
-      "start_time": "18:00",
-      "available_spot_count": 4,
-      "capacity": 14
-    },
     {
       "studio": "Turf",
       "name": "COMMUNITY CLASS: meta",
@@ -190,7 +180,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-24",
       "start_time": "09:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -250,7 +240,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-25",
       "start_time": "11:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -360,7 +350,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-29",
       "start_time": "08:20",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
