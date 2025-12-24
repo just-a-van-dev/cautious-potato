@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-23T15:40:37.727104-08:00",
+  "last_updated": "2025-12-23T17:42:38.703400-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -145,46 +145,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body With Headsets",
-      "booking_start_date": "2025-12-16 13:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-23",
-      "start_time": "13:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2025-12-16 15:30",
-      "location": "Vancouver",
-      "start_date": "2025-12-23",
-      "start_time": "15:30",
-      "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2025-12-16 16:30",
-      "location": "Vancouver",
-      "start_date": "2025-12-23",
-      "start_time": "16:30",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2025-12-16 17:30",
-      "location": "Vancouver",
-      "start_date": "2025-12-23",
-      "start_time": "17:30",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Full Body x Sahajan",
       "booking_start_date": "2025-12-17 08:00",
       "location": "Vancouver",
@@ -230,7 +190,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-24",
       "start_time": "12:00",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -240,7 +200,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-24",
       "start_time": "13:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 12
     },
     {
@@ -305,26 +265,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: ALEX\u2019S BIRTHDAY FAVES!",
-      "booking_start_date": "2025-12-15 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-12-23",
-      "start_time": "11:00",
-      "available_spot_count": 2,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: A VERY ALEX CHRISTMAS!",
-      "booking_start_date": "2025-12-15 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-12-23",
-      "start_time": "18:40",
-      "available_spot_count": 0,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: \u2018TWAS THE NIGHT BEFORE XMAS",
       "booking_start_date": "2025-12-16 12:00",
       "location": "MOUNT PLEASANT",
@@ -370,7 +310,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-29",
       "start_time": "08:20",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -390,7 +330,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-31",
       "start_time": "09:30",
-      "available_spot_count": 16,
+      "available_spot_count": 11,
       "capacity": 50
     },
     {
