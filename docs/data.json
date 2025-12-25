@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-24T17:44:38.331356-08:00",
+  "last_updated": "2025-12-24T19:26:53.710863-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -150,7 +150,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-25",
       "start_time": "10:00",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -160,7 +160,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-25",
       "start_time": "11:00",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -240,7 +240,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-29",
       "start_time": "08:20",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -270,7 +270,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-01",
       "start_time": "09:30",
-      "available_spot_count": 36,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
