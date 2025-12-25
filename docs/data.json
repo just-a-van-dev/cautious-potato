@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-24T15:40:41.393091-08:00",
+  "last_updated": "2025-12-24T17:44:38.331356-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -120,7 +120,7 @@
       "location": "Main St",
       "start_date": "2026-01-14",
       "start_time": "15:15",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 14
     },
     {
@@ -146,71 +146,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Full Body x Sahajan",
-      "booking_start_date": "2025-12-17 08:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-24",
-      "start_time": "08:00",
-      "available_spot_count": 0,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Full Body x Sahajan",
-      "booking_start_date": "2025-12-17 09:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-24",
-      "start_time": "09:00",
-      "available_spot_count": 0,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Club Lagree Full Body x Sahajan",
-      "booking_start_date": "2025-12-17 10:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-24",
-      "start_time": "10:00",
-      "available_spot_count": 0,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Full Body x Sahajan",
-      "booking_start_date": "2025-12-17 11:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-24",
-      "start_time": "11:00",
-      "available_spot_count": 1,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Full Body x Sahajan",
-      "booking_start_date": "2025-12-17 12:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-24",
-      "start_time": "12:00",
-      "available_spot_count": 1,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Full Body x Sahajan",
-      "booking_start_date": "2025-12-17 13:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-24",
-      "start_time": "13:00",
-      "available_spot_count": 0,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Full Body x Sahajan",
       "booking_start_date": "2025-12-18 10:00",
       "location": "Vancouver",
       "start_date": "2025-12-25",
       "start_time": "10:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 12
     },
     {
@@ -220,7 +160,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-25",
       "start_time": "11:00",
-      "available_spot_count": 2,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -262,16 +202,6 @@
       "start_time": "10:45",
       "available_spot_count": 0,
       "capacity": 32
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: \u2018TWAS THE NIGHT BEFORE XMAS",
-      "booking_start_date": "2025-12-16 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-12-24",
-      "start_time": "11:50",
-      "available_spot_count": 2,
-      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -340,7 +270,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-01",
       "start_time": "09:30",
-      "available_spot_count": 38,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -439,6 +369,16 @@
       "booking_start_date": "2026-01-24 11:00",
       "location": "Vancouver Downtown",
       "start_date": "2026-01-31",
+      "start_time": "11:00",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Haus Party - Megaformer Fullbody",
+      "booking_start_date": "2026-01-31 11:00",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-02-07",
       "start_time": "11:00",
       "available_spot_count": 10,
       "capacity": 10
