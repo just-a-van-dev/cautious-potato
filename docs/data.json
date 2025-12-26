@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-26T13:39:31.451070-08:00",
+  "last_updated": "2025-12-26T14:20:12.725003-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -260,7 +260,7 @@
       "location": "Vancouver Downtown",
       "start_date": "2025-12-27",
       "start_time": "11:00",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
