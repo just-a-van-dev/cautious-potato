@@ -1,16 +1,6 @@
 {
-  "last_updated": "2025-12-25T15:40:42.630516-08:00",
+  "last_updated": "2025-12-25T17:44:00.015375-08:00",
   "special": [
-    {
-      "studio": "Turf",
-      "name": "COMMUNITY CLASS: meta",
-      "booking_start_date": "2025-12-18 08:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2025-12-25",
-      "start_time": "08:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
     {
       "studio": "Turf",
       "name": "2026 Strengthen SLAY",
@@ -144,46 +134,6 @@
       "capacity": 36
     },
     {
-      "studio": "Lagree Studio",
-      "name": "Full Body x Sahajan",
-      "booking_start_date": "2025-12-18 10:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-25",
-      "start_time": "10:00",
-      "available_spot_count": 0,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Full Body x Sahajan",
-      "booking_start_date": "2025-12-18 11:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-25",
-      "start_time": "11:00",
-      "available_spot_count": 0,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Full Body x Sahajan",
-      "booking_start_date": "2025-12-18 12:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-25",
-      "start_time": "12:00",
-      "available_spot_count": 0,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Full Body x Sahajan",
-      "booking_start_date": "2025-12-18 13:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-25",
-      "start_time": "13:00",
-      "available_spot_count": 0,
-      "capacity": 12
-    },
-    {
       "studio": "Ritual",
       "name": "New Year Intentions - Ritual Mini Retreat",
       "booking_start_date": "2025-12-19 14:00",
@@ -240,7 +190,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-29",
       "start_time": "08:20",
-      "available_spot_count": 23,
+      "available_spot_count": 20,
       "capacity": 50
     },
     {
@@ -270,7 +220,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-01",
       "start_time": "09:30",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 50
     },
     {
@@ -280,7 +230,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-02",
       "start_time": "18:40",
-      "available_spot_count": 33,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -390,7 +340,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-27",
       "start_time": "13:15",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
