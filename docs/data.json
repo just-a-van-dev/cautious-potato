@@ -1,6 +1,16 @@
 {
-  "last_updated": "2025-12-27T11:37:28.500641-08:00",
+  "last_updated": "2025-12-27T12:22:47.587678-08:00",
   "special": [
+    {
+      "studio": "Ritual",
+      "name": "Movement, Gentle Wim Hof and Meditation",
+      "booking_start_date": "2025-12-14 13:45",
+      "location": "West End",
+      "start_date": "2025-12-28",
+      "start_time": "13:45",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
     {
       "studio": "Turf",
       "name": "2026 Strengthen SLAY",
@@ -160,7 +170,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-29",
       "start_time": "08:20",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 50
     },
     {
@@ -270,7 +280,7 @@
       "location": "Vancouver Downtown",
       "start_date": "2026-01-03",
       "start_time": "11:00",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
