@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-27T12:42:48.874423-08:00",
+  "last_updated": "2025-12-27T13:18:21.024605-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -80,7 +80,7 @@
       "location": "Gastown",
       "start_date": "2025-12-29",
       "start_time": "16:15",
-      "available_spot_count": 4,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -110,7 +110,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-08",
       "start_time": "15:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 16
     },
     {
@@ -120,7 +120,7 @@
       "location": "Main St",
       "start_date": "2026-01-14",
       "start_time": "15:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 14
     },
     {
@@ -170,7 +170,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-29",
       "start_time": "08:20",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 50
     },
     {
