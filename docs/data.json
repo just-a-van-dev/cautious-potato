@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-27T14:42:41.350191-08:00",
+  "last_updated": "2025-12-27T15:19:07.014237-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -8,7 +8,7 @@
       "location": "West End",
       "start_date": "2025-12-28",
       "start_time": "13:45",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 15
     },
     {
@@ -170,7 +170,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-29",
       "start_time": "08:20",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 50
     },
     {
@@ -280,7 +280,7 @@
       "location": "Vancouver Downtown",
       "start_date": "2026-01-03",
       "start_time": "11:00",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
