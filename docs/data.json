@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-27T13:18:21.024605-08:00",
+  "last_updated": "2025-12-27T13:39:20.094601-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -18,7 +18,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-01-01",
       "start_time": "08:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 24
     },
     {
@@ -90,7 +90,7 @@
       "location": "Gastown",
       "start_date": "2025-12-29",
       "start_time": "17:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 15
     },
     {
@@ -210,7 +210,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-02",
       "start_time": "18:40",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 50
     },
     {
