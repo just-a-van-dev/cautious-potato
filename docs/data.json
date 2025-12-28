@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-28T09:18:08.693700-08:00",
+  "last_updated": "2025-12-28T09:41:34.233342-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -80,7 +80,7 @@
       "location": "Gastown",
       "start_date": "2025-12-29",
       "start_time": "16:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 15
     },
     {
