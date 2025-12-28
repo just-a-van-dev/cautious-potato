@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-27T15:40:24.163069-08:00",
+  "last_updated": "2025-12-27T17:54:19.788492-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -8,7 +8,7 @@
       "location": "West End",
       "start_date": "2025-12-28",
       "start_time": "13:45",
-      "available_spot_count": 14,
+      "available_spot_count": 8,
       "capacity": 15
     },
     {
@@ -18,7 +18,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-01-01",
       "start_time": "08:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 24
     },
     {
@@ -90,7 +90,7 @@
       "location": "Gastown",
       "start_date": "2025-12-29",
       "start_time": "17:15",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 15
     },
     {
@@ -155,22 +155,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: K-POP BEAT DROPS",
-      "booking_start_date": "2025-12-19 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-12-27",
-      "start_time": "10:40",
-      "available_spot_count": 2,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: 2005 X 2015 X 2025",
       "booking_start_date": "2025-12-21 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-29",
       "start_time": "08:20",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 50
     },
     {
@@ -252,16 +242,6 @@
       "start_time": "18:40",
       "available_spot_count": 50,
       "capacity": 50
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - 90's R&B",
-      "booking_start_date": "2025-12-13 13:15",
-      "location": "Vancouver",
-      "start_date": "2025-12-27",
-      "start_time": "13:15",
-      "available_spot_count": 0,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
