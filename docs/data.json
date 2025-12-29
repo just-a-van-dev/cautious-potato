@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-28T21:53:16.972547-08:00",
+  "last_updated": "2025-12-28T22:36:06.259648-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -160,7 +160,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-29",
       "start_time": "15:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -250,7 +250,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-05",
       "start_time": "09:45",
-      "available_spot_count": 45,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
@@ -285,7 +285,7 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: ILLENIUM x SEVEN LIONS x GARRIX Vol. 2",
+      "name": "THEME: ILLENIUM x SEVEN LIONS x GARRIX (Vol. 2)",
       "booking_start_date": "2026-01-03 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-11",
@@ -325,7 +325,7 @@
     },
     {
       "studio": "Evolution",
-      "name": "Infrared Lagree - Themed",
+      "name": "Infrared Lagree - RIHANNA ENERGY",
       "booking_start_date": "2026-01-14 09:45",
       "location": "Vancouver",
       "start_date": "2026-01-28",
