@@ -1,16 +1,6 @@
 {
-  "last_updated": "2025-12-28T15:40:48.972066-08:00",
+  "last_updated": "2025-12-28T17:52:44.836101-08:00",
   "special": [
-    {
-      "studio": "Ritual",
-      "name": "Movement, Gentle Wim Hof and Meditation",
-      "booking_start_date": "2025-12-14 13:45",
-      "location": "West End",
-      "start_date": "2025-12-28",
-      "start_time": "13:45",
-      "available_spot_count": 5,
-      "capacity": 15
-    },
     {
       "studio": "Turf",
       "name": "2026 Strengthen SLAY",
@@ -80,7 +70,7 @@
       "location": "Gastown",
       "start_date": "2025-12-29",
       "start_time": "16:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -90,7 +80,7 @@
       "location": "Gastown",
       "start_date": "2025-12-29",
       "start_time": "17:15",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 15
     },
     {
@@ -160,7 +150,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-29",
       "start_time": "14:00",
-      "available_spot_count": 6,
+      "available_spot_count": 0,
       "capacity": 12
     },
     {
@@ -184,6 +174,16 @@
       "capacity": 12
     },
     {
+      "studio": "Lagree Studio",
+      "name": "Ass and Abs With Headsets",
+      "booking_start_date": "2025-12-24 11:00",
+      "location": "Vancouver",
+      "start_date": "2025-12-31",
+      "start_time": "11:00",
+      "available_spot_count": 5,
+      "capacity": 12
+    },
+    {
       "studio": "Ritual",
       "name": "New Year Intentions - Ritual Mini Retreat",
       "booking_start_date": "2025-12-19 14:00",
@@ -200,7 +200,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-29",
       "start_time": "08:20",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 50
     },
     {
@@ -250,7 +250,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-05",
       "start_time": "09:45",
-      "available_spot_count": 49,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
