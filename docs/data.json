@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-29T11:38:16.237504-08:00",
+  "last_updated": "2025-12-29T12:24:42.306732-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -80,17 +80,7 @@
       "location": "Gastown",
       "start_date": "2025-12-29",
       "start_time": "17:15",
-      "available_spot_count": 7,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer X Rihanna",
-      "booking_start_date": "2025-12-22 00:00",
-      "location": "Gastown",
-      "start_date": "2025-12-29",
-      "start_time": "18:15",
-      "available_spot_count": 13,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -140,7 +130,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-29",
       "start_time": "13:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -260,7 +250,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-06",
       "start_time": "06:00",
-      "available_spot_count": 50,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
