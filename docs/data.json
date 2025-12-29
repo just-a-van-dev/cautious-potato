@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-28T21:28:53.083970-08:00",
+  "last_updated": "2025-12-28T21:53:16.972547-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -200,7 +200,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2025-12-29",
       "start_time": "08:20",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 50
     },
     {
@@ -280,6 +280,16 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-09",
       "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ILLENIUM x SEVEN LIONS x GARRIX Vol. 2",
+      "booking_start_date": "2026-01-03 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-01-11",
+      "start_time": "13:00",
       "available_spot_count": 50,
       "capacity": 50
     },
