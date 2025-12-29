@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-29T11:16:41.600695-08:00",
+  "last_updated": "2025-12-29T11:38:16.237504-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-01-01",
       "start_time": "08:15",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 24
     },
     {
@@ -140,7 +140,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-29",
       "start_time": "13:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
