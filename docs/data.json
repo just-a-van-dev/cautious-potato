@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-30T12:24:05.204518-08:00",
+  "last_updated": "2025-12-30T12:44:33.880910-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -145,12 +145,42 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body With Headsets",
+      "booking_start_date": "2025-12-24 09:00",
+      "location": "Vancouver",
+      "start_date": "2025-12-31",
+      "start_time": "09:00",
+      "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Ass and Abs With Headsets",
       "booking_start_date": "2025-12-24 11:00",
       "location": "Vancouver",
       "start_date": "2025-12-31",
       "start_time": "11:00",
       "available_spot_count": 0,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body With Headsets",
+      "booking_start_date": "2025-12-24 13:00",
+      "location": "Vancouver",
+      "start_date": "2025-12-31",
+      "start_time": "13:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body With Headsets",
+      "booking_start_date": "2025-12-24 14:00",
+      "location": "Vancouver",
+      "start_date": "2025-12-31",
+      "start_time": "14:00",
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -200,7 +230,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-05",
       "start_time": "09:45",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -220,7 +250,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-07",
       "start_time": "06:00",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
