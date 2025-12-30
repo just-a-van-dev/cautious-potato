@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-29T15:40:36.969426-08:00",
+  "last_updated": "2025-12-29T17:45:01.209027-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-01-01",
       "start_time": "08:15",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 24
     },
     {
@@ -60,29 +60,19 @@
       "start_time": "08:15",
       "available_spot_count": 32,
       "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "COMMUNITY CLASS: meta",
+      "booking_start_date": "2026-02-05 08:15",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-02-12",
+      "start_time": "08:15",
+      "available_spot_count": 32,
+      "capacity": 32
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer X Rihanna",
-      "booking_start_date": "2025-12-22 00:00",
-      "location": "Gastown",
-      "start_date": "2025-12-29",
-      "start_time": "16:15",
-      "available_spot_count": 2,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer X Rihanna",
-      "booking_start_date": "2025-12-22 00:00",
-      "location": "Gastown",
-      "start_date": "2025-12-29",
-      "start_time": "17:15",
-      "available_spot_count": 5,
-      "capacity": 15
-    },
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
@@ -125,46 +115,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body With Headsets",
-      "booking_start_date": "2025-12-22 13:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-29",
-      "start_time": "13:00",
-      "available_spot_count": 1,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Ass & Abs Class With Headsets",
-      "booking_start_date": "2025-12-22 14:00",
-      "location": "Vancouver",
-      "start_date": "2025-12-29",
-      "start_time": "14:00",
-      "available_spot_count": 2,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body Workout With Headsets",
-      "booking_start_date": "2025-12-22 15:30",
-      "location": "Vancouver",
-      "start_date": "2025-12-29",
-      "start_time": "15:30",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2025-12-22 16:30",
-      "location": "Vancouver",
-      "start_date": "2025-12-29",
-      "start_time": "16:30",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Ass and Abs With Headsets",
       "booking_start_date": "2025-12-24 11:00",
       "location": "Vancouver",
@@ -182,26 +132,6 @@
       "start_time": "14:00",
       "available_spot_count": 23,
       "capacity": 25
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: 2005 X 2015 X 2025",
-      "booking_start_date": "2025-12-21 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-12-29",
-      "start_time": "08:20",
-      "available_spot_count": 16,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: 2025 EDM WRAP-UP",
-      "booking_start_date": "2025-12-21 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2025-12-29",
-      "start_time": "09:30",
-      "available_spot_count": 5,
-      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -240,7 +170,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-05",
       "start_time": "09:45",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -250,7 +180,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-06",
       "start_time": "06:00",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
