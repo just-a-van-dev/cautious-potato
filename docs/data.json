@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-30T15:40:12.116801-08:00",
+  "last_updated": "2025-12-30T17:45:17.410324-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-01-01",
       "start_time": "08:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 24
     },
     {
@@ -116,26 +116,6 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2025-12-23 16:30",
-      "location": "Vancouver",
-      "start_date": "2025-12-30",
-      "start_time": "16:30",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2025-12-23 18:30",
-      "location": "Vancouver",
-      "start_date": "2025-12-30",
-      "start_time": "18:30",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
       "booking_start_date": "2025-12-24 07:00",
       "location": "Vancouver",
       "start_date": "2025-12-31",
@@ -150,7 +130,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-31",
       "start_time": "09:00",
-      "available_spot_count": 5,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -160,7 +140,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-31",
       "start_time": "11:00",
-      "available_spot_count": 0,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -180,7 +160,7 @@
       "location": "Vancouver",
       "start_date": "2025-12-31",
       "start_time": "14:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -230,7 +210,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-05",
       "start_time": "09:45",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -250,7 +230,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-07",
       "start_time": "06:00",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
