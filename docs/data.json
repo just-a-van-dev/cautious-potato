@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-01T11:17:46.734300-08:00",
+  "last_updated": "2026-01-01T11:38:44.502349-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -114,6 +114,46 @@
       "capacity": 36
     },
     {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body With Headsets",
+      "booking_start_date": "2025-12-25 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-01-01",
+      "start_time": "13:00",
+      "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body",
+      "booking_start_date": "2025-12-25 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-01-01",
+      "start_time": "18:30",
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body",
+      "booking_start_date": "2025-12-26 07:00",
+      "location": "Vancouver",
+      "start_date": "2026-01-02",
+      "start_time": "07:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body",
+      "booking_start_date": "2025-12-26 17:30",
+      "location": "Vancouver",
+      "start_date": "2026-01-02",
+      "start_time": "17:30",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
       "studio": "Ritual",
       "name": "New Year Intentions - Ritual Mini Retreat",
       "booking_start_date": "2025-12-19 14:00",
@@ -210,7 +250,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-07",
       "start_time": "09:45",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
