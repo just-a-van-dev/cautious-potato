@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-01T21:26:00.934388-08:00",
+  "last_updated": "2026-01-01T21:49:16.616743-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -111,6 +111,26 @@
       "start_date": "2026-01-02",
       "start_time": "07:00",
       "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body",
+      "booking_start_date": "2025-12-26 08:00",
+      "location": "Vancouver",
+      "start_date": "2026-01-02",
+      "start_time": "08:00",
+      "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body With Headsets",
+      "booking_start_date": "2025-12-26 11:00",
+      "location": "Vancouver",
+      "start_date": "2026-01-02",
+      "start_time": "11:00",
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
