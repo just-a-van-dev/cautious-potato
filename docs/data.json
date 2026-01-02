@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-02T14:44:59.581210-08:00",
+  "last_updated": "2026-01-02T15:19:30.093003-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -75,12 +75,312 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2025-12-29 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-01-05",
+      "start_time": "06:15",
+      "available_spot_count": 0,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2025-12-29 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-01-05",
+      "start_time": "07:15",
+      "available_spot_count": 2,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2025-12-29 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-01-05",
+      "start_time": "12:15",
+      "available_spot_count": 13,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2025-12-29 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-01-05",
+      "start_time": "13:15",
+      "available_spot_count": 15,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2025-12-29 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-01-05",
+      "start_time": "14:15",
+      "available_spot_count": 13,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2025-12-30 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-01-06",
+      "start_time": "05:15",
+      "available_spot_count": 10,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2025-12-30 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-01-06",
+      "start_time": "07:15",
+      "available_spot_count": 3,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2025-12-30 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-01-06",
+      "start_time": "12:15",
+      "available_spot_count": 13,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2025-12-30 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-01-06",
+      "start_time": "13:15",
+      "available_spot_count": 13,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2025-12-30 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-01-06",
+      "start_time": "14:15",
+      "available_spot_count": 19,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2025-12-31 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-01-07",
+      "start_time": "05:15",
+      "available_spot_count": 9,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2025-12-31 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-01-07",
+      "start_time": "06:15",
+      "available_spot_count": 0,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2025-12-31 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-01-07",
+      "start_time": "12:15",
+      "available_spot_count": 17,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2025-12-31 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-01-07",
+      "start_time": "13:15",
+      "available_spot_count": 16,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2025-12-31 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-01-07",
+      "start_time": "14:15",
+      "available_spot_count": 15,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2026-01-01 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-01-08",
+      "start_time": "05:15",
+      "available_spot_count": 12,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2026-01-01 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-01-08",
+      "start_time": "06:15",
+      "available_spot_count": 3,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2026-01-01 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-01-08",
+      "start_time": "07:15",
+      "available_spot_count": 5,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2026-01-01 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-01-08",
+      "start_time": "12:15",
+      "available_spot_count": 17,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2026-01-01 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-01-08",
+      "start_time": "13:15",
+      "available_spot_count": 16,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2026-01-01 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-01-08",
+      "start_time": "14:15",
+      "available_spot_count": 17,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
       "booking_start_date": "2025-12-09 15:15",
       "location": "Kitsilano",
       "start_date": "2026-01-08",
       "start_time": "15:15",
       "available_spot_count": 0,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2026-01-02 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-01-09",
+      "start_time": "05:15",
+      "available_spot_count": 12,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2026-01-02 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-01-09",
+      "start_time": "06:15",
+      "available_spot_count": 5,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2026-01-02 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-01-09",
+      "start_time": "12:15",
+      "available_spot_count": 16,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2026-01-02 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-01-09",
+      "start_time": "13:15",
+      "available_spot_count": 13,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2026-01-02 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-01-09",
+      "start_time": "14:15",
+      "available_spot_count": 17,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2026-01-03 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-01-10",
+      "start_time": "07:00",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2026-01-03 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-01-10",
+      "start_time": "08:00",
+      "available_spot_count": 9,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2026-01-04 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-01-11",
+      "start_time": "07:00",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2026-01-04 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-01-11",
+      "start_time": "08:00",
+      "available_spot_count": 16,
       "capacity": 16
     },
     {
@@ -170,7 +470,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-02",
       "start_time": "18:40",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 50
     },
     {
@@ -220,7 +520,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-11",
       "start_time": "13:00",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
