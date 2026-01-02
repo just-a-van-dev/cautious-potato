@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-02T14:20:31.339009-08:00",
+  "last_updated": "2026-01-02T14:44:59.581210-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -63,6 +63,16 @@
     }
   ],
   "sponsored": [
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2025-12-29 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-01-05",
+      "start_time": "05:15",
+      "available_spot_count": 12,
+      "capacity": 16
+    },
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
@@ -180,7 +190,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-06",
       "start_time": "06:00",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
