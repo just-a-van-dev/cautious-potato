@@ -1,16 +1,6 @@
 {
-  "last_updated": "2026-01-01T15:41:29.932731-08:00",
+  "last_updated": "2026-01-01T17:46:43.931241-08:00",
   "special": [
-    {
-      "studio": "Turf",
-      "name": "2026 Strengthen",
-      "booking_start_date": "2025-12-25 08:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-01-01",
-      "start_time": "08:15",
-      "available_spot_count": 15,
-      "capacity": 24
-    },
     {
       "studio": "Turf",
       "name": "COMMUNITY CLASS: meta",
@@ -18,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-01-08",
       "start_time": "08:15",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 32
     },
     {
@@ -115,32 +105,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body With Headsets",
-      "booking_start_date": "2025-12-25 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-01",
-      "start_time": "13:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2025-12-25 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-01-01",
-      "start_time": "18:30",
-      "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Deal - Full Body",
       "booking_start_date": "2025-12-26 07:00",
       "location": "Vancouver",
       "start_date": "2026-01-02",
       "start_time": "07:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -165,16 +135,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: HIP HOP REMIXED",
-      "booking_start_date": "2025-12-24 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-01-01",
-      "start_time": "09:30",
-      "available_spot_count": 10,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: NEXT 10 YEARS: Beyonc\u00e9 (2009-2019)",
       "booking_start_date": "2025-12-25 12:00",
       "location": "MOUNT PLEASANT",
@@ -190,7 +150,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-05",
       "start_time": "09:45",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -220,7 +180,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-09",
       "start_time": "18:40",
-      "available_spot_count": 23,
+      "available_spot_count": 21,
       "capacity": 50
     },
     {
