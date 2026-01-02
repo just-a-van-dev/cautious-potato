@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-01T20:41:30.741341-08:00",
+  "last_updated": "2026-01-01T21:26:00.934388-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -120,7 +120,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-02",
       "start_time": "17:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -180,7 +180,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-09",
       "start_time": "18:40",
-      "available_spot_count": 13,
+      "available_spot_count": 10,
       "capacity": 50
     },
     {
