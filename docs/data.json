@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-03T00:50:39.964132-08:00",
+  "last_updated": "2026-01-03T01:20:31.103866-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -320,7 +320,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-09",
       "start_time": "12:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
