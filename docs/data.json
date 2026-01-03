@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-02T23:39:49.699927-08:00",
+  "last_updated": "2026-01-03T00:27:48.859141-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -110,7 +110,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-05",
       "start_time": "13:15",
-      "available_spot_count": 15,
+      "available_spot_count": 16,
       "capacity": 20
     },
     {
@@ -310,7 +310,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-09",
       "start_time": "06:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 16
     },
     {
