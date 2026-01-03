@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-03T10:52:07.439925-08:00",
+  "last_updated": "2026-01-03T11:15:53.022366-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -70,7 +70,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-05",
       "start_time": "05:15",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 16
     },
     {
@@ -380,7 +380,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-11",
       "start_time": "08:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 16
     },
     {
@@ -460,7 +460,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-05",
       "start_time": "09:45",
-      "available_spot_count": 21,
+      "available_spot_count": 22,
       "capacity": 50
     },
     {
@@ -470,7 +470,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-06",
       "start_time": "06:00",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
