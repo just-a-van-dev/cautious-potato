@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-03T10:29:11.435834-08:00",
+  "last_updated": "2026-01-03T10:52:07.439925-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -404,6 +404,16 @@
       "capacity": 20
     },
     {
+      "studio": "Lagree West",
+      "name": "Team Class with Tabatha C",
+      "booking_start_date": "2026-02-02 00:00",
+      "location": "Gastown",
+      "start_date": "2026-02-09",
+      "start_time": "19:15",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
       "studio": "Jaybird",
       "name": "Sweat for a Cause | By Donation | The Build",
       "booking_start_date": "2026-01-16 00:00",
@@ -430,7 +440,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-05",
       "start_time": "15:30",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -450,7 +460,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-05",
       "start_time": "09:45",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 50
     },
     {
