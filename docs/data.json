@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-03T09:17:50.530790-08:00",
+  "last_updated": "2026-01-03T09:40:45.896474-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -110,7 +110,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-05",
       "start_time": "13:15",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 20
     },
     {
@@ -412,6 +412,26 @@
       "start_time": "06:00",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deals - Full Body Workout With Headsets",
+      "booking_start_date": "2025-12-29 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-01-05",
+      "start_time": "09:00",
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deals- Full Body Workout With Headsets",
+      "booking_start_date": "2025-12-29 15:30",
+      "location": "Vancouver",
+      "start_date": "2026-01-05",
+      "start_time": "15:30",
+      "available_spot_count": 10,
+      "capacity": 12
     },
     {
       "studio": "Ritual",
