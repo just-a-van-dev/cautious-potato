@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-04T10:30:02.107574-08:00",
+  "last_updated": "2026-01-04T10:52:28.509503-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -195,6 +195,26 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Happy Hour Mega x Marissa\u2019s Birthday Bash \ud83c\udf82",
+      "booking_start_date": "2025-12-31 00:00",
+      "location": "Gastown",
+      "start_date": "2026-01-07",
+      "start_time": "10:00",
+      "available_spot_count": 8,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Mega x Marissa\u2019s Birthday Bash \ud83c\udf82",
+      "booking_start_date": "2025-12-31 00:00",
+      "location": "Gastown",
+      "start_date": "2026-01-07",
+      "start_time": "11:00",
+      "available_spot_count": 9,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
       "name": "Megaformer x Atelier Elan Coffee",
       "booking_start_date": "2025-12-31 00:00",
       "location": "Yaletown",
@@ -350,7 +370,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-10",
       "start_time": "07:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 16
     },
     {
