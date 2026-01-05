@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-04T21:42:39.188830-08:00",
+  "last_updated": "2026-01-04T22:39:48.138509-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -80,7 +80,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-05",
       "start_time": "06:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 16
     },
     {
@@ -90,7 +90,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-05",
       "start_time": "07:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 16
     },
     {
@@ -100,16 +100,6 @@
       "location": "Yaletown",
       "start_date": "2026-01-05",
       "start_time": "12:15",
-      "available_spot_count": 6,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Atelier Elan Coffee",
-      "booking_start_date": "2025-12-29 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-01-05",
-      "start_time": "13:15",
       "available_spot_count": 5,
       "capacity": 20
     },
@@ -119,8 +109,18 @@
       "booking_start_date": "2025-12-29 00:00",
       "location": "Yaletown",
       "start_date": "2026-01-05",
+      "start_time": "13:15",
+      "available_spot_count": 4,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Atelier Elan Coffee",
+      "booking_start_date": "2025-12-29 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-01-05",
       "start_time": "14:15",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 20
     },
     {
@@ -150,7 +150,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-06",
       "start_time": "12:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -220,7 +220,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-07",
       "start_time": "12:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -340,7 +340,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-09",
       "start_time": "12:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -450,7 +450,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-05",
       "start_time": "08:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -470,7 +470,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-05",
       "start_time": "10:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -530,7 +530,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-05",
       "start_time": "09:45",
-      "available_spot_count": 12,
+      "available_spot_count": 9,
       "capacity": 50
     },
     {
