@@ -16,9 +16,13 @@ TARGET_NAMES = [
     "—",
 ]
 
-FILTER_OUT = ["advanced class with headsets",
+FILTER_OUT = ["advanced with headsets",
+              "advanced class with headsets",
+              "advanced with headsets",
               "advanced workout with headsets",
+              "ass & abs with headsets",
               "ass & abs class with headsets",
+              "ass and abs with headsets",
               "ass and abs class with headsets",
               "ass and abs workout with headsets",
               "beginners class with headsets",
@@ -94,18 +98,6 @@ FILTER_OUT = ["advanced class with headsets",
               "warm yin yoga + aromatherapy",
               "yin yoga + aromatherapy"
               ]
-THROW_BACK_SUFFIX = ["x 2015 throwbacks 🪩",
-                     "x 2016 throwbacks 🪩",
-                     "x 2017 throwbacks 🪩",
-                     "x 2018 throwbacks 🪩",
-                     "x 2019 throwbacks 🪩",
-                     "x 2020 throwbacks 🪩",
-                     "x 2021 throwbacks 🪩",
-                     "x 2022 throwbacks 🪩",
-                     "x 2023 throwbacks 🪩",
-                     "x 2024 throwbacks 🪩",
-                     "x 2025 hits 🪩",
-                     ]
 
 
 # === Placeholders for your real logic ===
@@ -120,11 +112,6 @@ def is_sponsored_class(class_data) -> bool:
     name = class_data.get("name").lower().strip()
     if "happy hour" in name:
         name = name.replace("happy hour", "").strip()
-    if "throwbacks" in name or "hits" in name:
-        for suffix in THROW_BACK_SUFFIX:
-            if suffix in name:
-                name = name.replace(suffix, "").strip()
-                break
 
     if any(target == name for target in FILTER_OUT):
         return False
