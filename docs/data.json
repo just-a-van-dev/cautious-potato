@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-06T08:57:45.668200-08:00",
+  "last_updated": "2026-01-06T09:28:56.833825-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -150,7 +150,7 @@
       "location": "Gastown",
       "start_date": "2026-01-07",
       "start_time": "10:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -170,7 +170,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-07",
       "start_time": "12:15",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 20
     },
     {
@@ -325,7 +325,7 @@
     },
     {
       "studio": "Lagree West",
-      "name": "Megaformer x Blume Superfood",
+      "name": "Megaformer x Blume Superfoods",
       "booking_start_date": "2026-01-03 00:00",
       "location": "Gastown",
       "start_date": "2026-01-10",
@@ -345,7 +345,7 @@
     },
     {
       "studio": "Lagree West",
-      "name": "Megaformer x Blume Superfood",
+      "name": "Megaformer x Blume Superfoods",
       "booking_start_date": "2026-01-03 00:00",
       "location": "Gastown",
       "start_date": "2026-01-10",
@@ -355,7 +355,7 @@
     },
     {
       "studio": "Lagree West",
-      "name": "Megaformer Classic x Blume Superfood",
+      "name": "Megaformer Classic x Blume Superfoods",
       "booking_start_date": "2026-01-03 00:00",
       "location": "Gastown",
       "start_date": "2026-01-10",
@@ -365,12 +365,22 @@
     },
     {
       "studio": "Lagree West",
-      "name": "Megaformer x Blume Superfood",
+      "name": "Megaformer x Blume Superfoods",
       "booking_start_date": "2026-01-03 00:00",
       "location": "Gastown",
       "start_date": "2026-01-10",
       "start_time": "11:00",
       "available_spot_count": 3,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Blume Superfoods",
+      "booking_start_date": "2026-01-03 00:00",
+      "location": "Gastown",
+      "start_date": "2026-01-10",
+      "start_time": "12:00",
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -422,6 +432,26 @@
       "start_time": "19:15",
       "available_spot_count": 15,
       "capacity": 15
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x Innisfree",
+      "booking_start_date": "2026-01-10 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-01-17",
+      "start_time": "10:55",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Innisfree",
+      "booking_start_date": "2026-01-10 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-17",
+      "start_time": "11:25",
+      "available_spot_count": 20,
+      "capacity": 20
     },
     {
       "studio": "Jaybird",
