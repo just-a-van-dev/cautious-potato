@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-06T13:42:51.925181-08:00",
+  "last_updated": "2026-01-06T14:22:47.663832-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-01-08",
       "start_time": "08:15",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 32
     },
     {
@@ -170,7 +170,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-07",
       "start_time": "12:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 20
     },
     {
@@ -290,7 +290,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-09",
       "start_time": "12:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 20
     },
     {
@@ -360,7 +360,7 @@
       "location": "Gastown",
       "start_date": "2026-01-10",
       "start_time": "10:00",
-      "available_spot_count": 4,
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -535,16 +535,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Advanced With Headsets",
-      "booking_start_date": "2025-12-31 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-07",
-      "start_time": "12:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Deal - Full Body Workout With Headsets",
       "booking_start_date": "2025-12-31 13:00",
       "location": "Vancouver",
@@ -570,7 +560,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-08",
       "start_time": "09:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -580,17 +570,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-12",
       "start_time": "11:00",
-      "available_spot_count": 11,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Ass & Abs With Headsets",
-      "booking_start_date": "2026-01-05 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-12",
-      "start_time": "14:00",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -605,191 +585,11 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Ass and Abs With Headsets",
-      "booking_start_date": "2026-01-07 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-14",
-      "start_time": "11:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Advanced With Headsets",
-      "booking_start_date": "2026-01-07 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-14",
-      "start_time": "12:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Ass & Abs With Headsets",
-      "booking_start_date": "2026-01-08 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-15",
-      "start_time": "14:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Full Body x Club Lagree x Scentuals",
       "booking_start_date": "2026-01-11 12:00",
       "location": "Vancouver",
       "start_date": "2026-01-18",
       "start_time": "12:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Ass and Abs With Headsets",
-      "booking_start_date": "2026-01-14 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-21",
-      "start_time": "11:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Advanced With Headsets",
-      "booking_start_date": "2026-01-14 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-21",
-      "start_time": "12:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Ass & Abs With Headsets",
-      "booking_start_date": "2026-01-15 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-22",
-      "start_time": "14:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Ass and Abs With Headsets",
-      "booking_start_date": "2026-01-21 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-28",
-      "start_time": "11:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Advanced With Headsets",
-      "booking_start_date": "2026-01-21 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-28",
-      "start_time": "12:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Ass & Abs With Headsets",
-      "booking_start_date": "2026-01-22 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-29",
-      "start_time": "14:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Ass and Abs With Headsets",
-      "booking_start_date": "2026-01-28 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-04",
-      "start_time": "11:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Advanced With Headsets",
-      "booking_start_date": "2026-01-28 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-04",
-      "start_time": "12:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Ass & Abs With Headsets",
-      "booking_start_date": "2026-01-29 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-05",
-      "start_time": "14:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Ass and Abs With Headsets",
-      "booking_start_date": "2026-02-04 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-11",
-      "start_time": "11:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Advanced With Headsets",
-      "booking_start_date": "2026-02-04 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-11",
-      "start_time": "12:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Ass & Abs With Headsets",
-      "booking_start_date": "2026-02-05 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-12",
-      "start_time": "14:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Ass and Abs With Headsets",
-      "booking_start_date": "2026-02-11 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-18",
-      "start_time": "11:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Advanced With Headsets",
-      "booking_start_date": "2026-02-11 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-18",
-      "start_time": "12:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Ass & Abs With Headsets",
-      "booking_start_date": "2026-02-12 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-19",
-      "start_time": "14:00",
       "available_spot_count": 12,
       "capacity": 12
     },
@@ -930,7 +730,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-07",
       "start_time": "09:45",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
