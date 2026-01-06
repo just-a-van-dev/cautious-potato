@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-06T14:46:51.471593-08:00",
+  "last_updated": "2026-01-06T15:21:02.660921-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -130,7 +130,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-07",
       "start_time": "05:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 16
     },
     {
@@ -160,7 +160,7 @@
       "location": "Gastown",
       "start_date": "2026-01-07",
       "start_time": "11:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 15
     },
     {
@@ -190,7 +190,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-07",
       "start_time": "14:15",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 20
     },
     {
@@ -315,6 +315,36 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Megaformer x Peacasa",
+      "booking_start_date": "2026-01-02 00:00",
+      "location": "Gastown",
+      "start_date": "2026-01-09",
+      "start_time": "16:15",
+      "available_spot_count": 9,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Peacasa",
+      "booking_start_date": "2026-01-02 00:00",
+      "location": "Gastown",
+      "start_date": "2026-01-09",
+      "start_time": "17:15",
+      "available_spot_count": 5,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Peacasa",
+      "booking_start_date": "2026-01-02 00:00",
+      "location": "Gastown",
+      "start_date": "2026-01-09",
+      "start_time": "18:15",
+      "available_spot_count": 9,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
       "name": "Megaformer x Atelier Elan Coffee",
       "booking_start_date": "2026-01-03 00:00",
       "location": "Kitsilano",
@@ -370,7 +400,7 @@
       "location": "Gastown",
       "start_date": "2026-01-10",
       "start_time": "11:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 15
     },
     {
@@ -530,7 +560,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-07",
       "start_time": "11:00",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -550,7 +580,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-07",
       "start_time": "14:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -570,7 +600,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-12",
       "start_time": "11:00",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -580,7 +610,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-12",
       "start_time": "16:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
