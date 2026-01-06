@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-06T11:39:55.964847-08:00",
+  "last_updated": "2026-01-06T12:24:47.533645-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -100,7 +100,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-06",
       "start_time": "12:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 20
     },
     {
@@ -110,7 +110,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-06",
       "start_time": "13:15",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 20
     },
     {
@@ -150,7 +150,7 @@
       "location": "Gastown",
       "start_date": "2026-01-07",
       "start_time": "10:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -160,7 +160,7 @@
       "location": "Gastown",
       "start_date": "2026-01-07",
       "start_time": "11:00",
-      "available_spot_count": 8,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -230,7 +230,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-08",
       "start_time": "12:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 20
     },
     {
@@ -390,7 +390,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-11",
       "start_time": "07:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 16
     },
     {
@@ -640,7 +640,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-13",
       "start_time": "09:45",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
