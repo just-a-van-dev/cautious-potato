@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-07T06:50:27.631875-08:00",
+  "last_updated": "2026-01-07T07:26:32.840475-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-01-08",
       "start_time": "08:15",
-      "available_spot_count": 17,
+      "available_spot_count": 18,
       "capacity": 32
     },
     {
@@ -510,7 +510,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-14",
       "start_time": "06:15",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
