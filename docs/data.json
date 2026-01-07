@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-07T14:22:10.876617-08:00",
+  "last_updated": "2026-01-07T14:45:59.621668-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -1115,6 +1115,26 @@
     },
     {
       "studio": "Jaybird",
+      "name": "The Build - Happy Hour x Blume Superfoods",
+      "booking_start_date": "2026-01-06 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-13",
+      "start_time": "06:10",
+      "available_spot_count": 44,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Build - Happy Hour x Blume Superfoods",
+      "booking_start_date": "2026-01-07 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-14",
+      "start_time": "09:30",
+      "available_spot_count": 44,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
       "name": "The Build x Blume Superfoods",
       "booking_start_date": "2026-01-09 00:00",
       "location": "Yaletown",
@@ -1155,6 +1175,26 @@
     },
     {
       "studio": "Jaybird",
+      "name": "The Burn x Blume Superfoods",
+      "booking_start_date": "2026-01-13 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-20",
+      "start_time": "18:40",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Balance x Blume Superfoods",
+      "booking_start_date": "2026-01-14 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-21",
+      "start_time": "20:00",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
       "name": "Sweat for a Cause | By Donation | The Build",
       "booking_start_date": "2026-01-16 00:00",
       "location": "Yaletown",
@@ -1172,6 +1212,16 @@
       "start_time": "20:00",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Build x Blume Superfoods",
+      "booking_start_date": "2026-01-23 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-30",
+      "start_time": "07:30",
+      "available_spot_count": 45,
+      "capacity": 45
     },
     {
       "studio": "Lagree Studio",
@@ -1360,7 +1410,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-14",
       "start_time": "16:20",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
