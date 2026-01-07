@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-07T12:48:53.670984-08:00",
+  "last_updated": "2026-01-07T13:20:29.314523-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-01-08",
       "start_time": "08:15",
-      "available_spot_count": 19,
+      "available_spot_count": 20,
       "capacity": 32
     },
     {
@@ -140,7 +140,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-07",
       "start_time": "14:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 20
     },
     {
@@ -190,7 +190,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-08",
       "start_time": "13:15",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -580,7 +580,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-14",
       "start_time": "13:30",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 16
     },
     {
@@ -1110,7 +1110,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-12",
       "start_time": "12:05",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 36
     },
     {
@@ -1230,7 +1230,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-08",
       "start_time": "09:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -1240,7 +1240,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-08",
       "start_time": "11:00",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -1420,6 +1420,16 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-20",
       "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: WAKE UP WITH DISCO LINES x ILLENIUM",
+      "booking_start_date": "2026-01-13 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-01-21",
+      "start_time": "06:00",
       "available_spot_count": 50,
       "capacity": 50
     },
