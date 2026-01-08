@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08T13:21:51.816963-08:00",
+  "last_updated": "2026-01-08T13:43:35.043540-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-01-08",
       "start_time": "08:15",
-      "available_spot_count": 20,
+      "available_spot_count": 24,
       "capacity": 32
     },
     {
@@ -150,7 +150,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-09",
       "start_time": "05:15",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 16
     },
     {
@@ -1050,7 +1050,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-13",
       "start_time": "06:10",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 45
     },
     {
@@ -1350,6 +1350,16 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-21",
       "start_time": "06:00",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: 1D x SOLO CAREERS",
+      "booking_start_date": "2026-01-14 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-01-22",
+      "start_time": "09:45",
       "available_spot_count": 50,
       "capacity": 50
     },
