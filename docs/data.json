@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08T07:50:44.445831-08:00",
+  "last_updated": "2026-01-08T08:30:37.637109-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -110,7 +110,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-08",
       "start_time": "12:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 20
     },
     {
@@ -140,7 +140,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-08",
       "start_time": "15:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 16
     },
     {
@@ -460,7 +460,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-14",
       "start_time": "06:15",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -570,7 +570,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-15",
       "start_time": "07:15",
-      "available_spot_count": 6,
+      "available_spot_count": 3,
       "capacity": 20
     },
     {
@@ -640,7 +640,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-16",
       "start_time": "07:15",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -650,7 +650,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-16",
       "start_time": "08:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -1185,6 +1185,16 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-01-01 15:30",
+      "location": "Vancouver",
+      "start_date": "2026-01-08",
+      "start_time": "15:30",
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Daytime Deal - Full Body",
       "booking_start_date": "2026-01-02 06:00",
       "location": "Vancouver",
@@ -1201,26 +1211,6 @@
       "start_date": "2026-01-09",
       "start_time": "07:00",
       "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-01-02 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-09",
-      "start_time": "10:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-01-02 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-09",
-      "start_time": "11:00",
-      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -1320,7 +1310,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-17",
       "start_time": "13:00",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
