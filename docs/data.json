@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08T05:40:46.919750-08:00",
+  "last_updated": "2026-01-08T06:26:27.746913-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -560,7 +560,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-15",
       "start_time": "06:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 20
     },
     {
@@ -570,7 +570,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-15",
       "start_time": "07:15",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -620,7 +620,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-15",
       "start_time": "15:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 16
     },
     {
@@ -640,7 +640,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-16",
       "start_time": "07:15",
-      "available_spot_count": 20,
+      "available_spot_count": 18,
       "capacity": 20
     },
     {
@@ -650,7 +650,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-16",
       "start_time": "08:15",
-      "available_spot_count": 18,
+      "available_spot_count": 15,
       "capacity": 20
     },
     {
@@ -670,7 +670,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-16",
       "start_time": "13:30",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 16
     },
     {
@@ -1050,7 +1050,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-13",
       "start_time": "06:10",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 45
     },
     {
