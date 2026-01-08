@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-07T23:24:48.792907-08:00",
+  "last_updated": "2026-01-07T23:44:27.290868-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -580,7 +580,7 @@
       "location": "Gastown",
       "start_date": "2026-01-15",
       "start_time": "10:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
@@ -1180,7 +1180,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-08",
       "start_time": "12:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -1220,7 +1220,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-09",
       "start_time": "11:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
