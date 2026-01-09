@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09T12:25:20.024463-08:00",
+  "last_updated": "2026-01-09T12:46:54.841839-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -80,7 +80,7 @@
       "location": "Gastown",
       "start_date": "2026-01-09",
       "start_time": "17:15",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 15
     },
     {
@@ -490,7 +490,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-17",
       "start_time": "13:00",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
