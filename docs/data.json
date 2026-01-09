@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09T11:20:04.630579-08:00",
+  "last_updated": "2026-01-09T11:40:46.459103-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -130,7 +130,7 @@
       "location": "Gastown",
       "start_date": "2026-01-10",
       "start_time": "11:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -250,7 +250,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-13",
       "start_time": "06:10",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 45
     },
     {
@@ -390,7 +390,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-09",
       "start_time": "12:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -480,7 +480,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-16",
       "start_time": "12:30",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
