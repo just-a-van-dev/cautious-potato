@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09T12:46:54.841839-08:00",
+  "last_updated": "2026-01-09T13:21:14.117149-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-01-15",
       "start_time": "08:15",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 32
     },
     {
@@ -190,7 +190,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-22",
       "start_time": "12:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -270,7 +270,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-16",
       "start_time": "06:00",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 36
     },
     {
@@ -490,7 +490,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-17",
       "start_time": "13:00",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -560,7 +560,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-21",
       "start_time": "09:45",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
