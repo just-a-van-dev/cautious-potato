@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09T13:41:58.972347-08:00",
+  "last_updated": "2026-01-09T14:21:37.571015-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -100,7 +100,7 @@
       "location": "Gastown",
       "start_date": "2026-01-10",
       "start_time": "08:00",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -110,7 +110,7 @@
       "location": "Gastown",
       "start_date": "2026-01-10",
       "start_time": "09:00",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 15
     },
     {
@@ -240,7 +240,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-12",
       "start_time": "12:05",
-      "available_spot_count": 27,
+      "available_spot_count": 24,
       "capacity": 36
     },
     {
@@ -335,6 +335,16 @@
     },
     {
       "studio": "Jaybird",
+      "name": "The Balance - Teacher Development $18",
+      "booking_start_date": "2026-01-16 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-23",
+      "start_time": "20:00",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
       "name": "The Balance x Blume Superfoods",
       "booking_start_date": "2026-01-16 00:00",
       "location": "Yaletown",
@@ -342,6 +352,16 @@
       "start_time": "20:00",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Balance - Teacher Development $18",
+      "booking_start_date": "2026-01-17 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-24",
+      "start_time": "15:00",
+      "available_spot_count": 45,
+      "capacity": 45
     },
     {
       "studio": "Jaybird",
@@ -400,7 +420,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-12",
       "start_time": "11:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -440,7 +460,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-09",
       "start_time": "18:40",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -480,7 +500,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-16",
       "start_time": "12:30",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -490,7 +510,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-17",
       "start_time": "13:00",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
