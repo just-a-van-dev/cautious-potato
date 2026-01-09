@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08T20:40:20.380425-08:00",
+  "last_updated": "2026-01-08T21:25:42.616191-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -100,7 +100,7 @@
       "location": "Gastown",
       "start_date": "2026-01-10",
       "start_time": "08:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -170,7 +170,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-15",
       "start_time": "14:15",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 16
     },
     {
@@ -460,7 +460,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-14",
       "start_time": "16:20",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 50
     },
     {
