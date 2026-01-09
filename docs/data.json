@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09T07:47:22.262810-08:00",
+  "last_updated": "2026-01-09T08:29:05.864816-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -70,7 +70,7 @@
       "location": "Gastown",
       "start_date": "2026-01-09",
       "start_time": "16:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -90,7 +90,7 @@
       "location": "Gastown",
       "start_date": "2026-01-09",
       "start_time": "18:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -110,7 +110,7 @@
       "location": "Gastown",
       "start_date": "2026-01-10",
       "start_time": "09:00",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 15
     },
     {
@@ -130,7 +130,7 @@
       "location": "Gastown",
       "start_date": "2026-01-10",
       "start_time": "11:00",
-      "available_spot_count": 0,
+      "available_spot_count": 2,
       "capacity": 15
     },
     {
@@ -140,7 +140,7 @@
       "location": "Gastown",
       "start_date": "2026-01-10",
       "start_time": "12:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 15
     },
     {
@@ -180,7 +180,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-17",
       "start_time": "14:30",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 20
     },
     {
