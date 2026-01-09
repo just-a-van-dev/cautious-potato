@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09T08:29:05.864816-08:00",
+  "last_updated": "2026-01-09T08:56:45.089328-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -80,7 +80,7 @@
       "location": "Gastown",
       "start_date": "2026-01-09",
       "start_time": "17:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -150,7 +150,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-13",
       "start_time": "13:15",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 16
     },
     {
@@ -270,7 +270,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-16",
       "start_time": "06:00",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 36
     },
     {
