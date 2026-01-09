@@ -112,6 +112,10 @@ def is_sponsored_class(class_data) -> bool:
     name = class_data.get("name").lower().strip()
     if "happy hour" in name:
         name = name.replace("happy hour", "").strip()
+    if "x blume superbelly" in name:
+        name = name.replace("x blume superbelly", "").strip()
+    if "x atelier elan coffee" in name:
+        name = name.replace("x atelier elan coffee", "").strip()
 
     if any(target == name for target in FILTER_OUT):
         return False
