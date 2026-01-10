@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-10T11:15:50.423346-08:00",
+  "last_updated": "2026-01-10T11:37:52.420048-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -250,7 +250,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-17",
       "start_time": "10:55",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 36
     },
     {
@@ -490,7 +490,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-14",
       "start_time": "09:45",
-      "available_spot_count": 2,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
