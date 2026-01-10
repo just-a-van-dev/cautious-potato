@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09T15:41:47.307249-08:00",
+  "last_updated": "2026-01-09T17:43:59.592404-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -8,7 +8,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-01-15",
       "start_time": "08:15",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 32
     },
     {
@@ -65,42 +65,12 @@
   "sponsored": [
     {
       "studio": "Lagree West",
-      "name": "Megaformer x Peacasa",
-      "booking_start_date": "2026-01-02 00:00",
-      "location": "Gastown",
-      "start_date": "2026-01-09",
-      "start_time": "16:15",
-      "available_spot_count": 2,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Peacasa",
-      "booking_start_date": "2026-01-02 00:00",
-      "location": "Gastown",
-      "start_date": "2026-01-09",
-      "start_time": "17:15",
-      "available_spot_count": 1,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Peacasa",
-      "booking_start_date": "2026-01-02 00:00",
-      "location": "Gastown",
-      "start_date": "2026-01-09",
-      "start_time": "18:15",
-      "available_spot_count": 5,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
       "name": "Megaformer x Blume Superfoods",
       "booking_start_date": "2026-01-03 00:00",
       "location": "Gastown",
       "start_date": "2026-01-10",
       "start_time": "08:00",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 15
     },
     {
@@ -170,7 +140,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-15",
       "start_time": "14:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 16
     },
     {
@@ -375,46 +345,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2026-01-02 06:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-09",
-      "start_time": "06:00",
-      "available_spot_count": 11,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2026-01-02 07:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-09",
-      "start_time": "07:00",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-01-02 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-09",
-      "start_time": "10:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-01-02 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-09",
-      "start_time": "12:00",
-      "available_spot_count": 3,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Beginner With Headsets",
       "booking_start_date": "2026-01-05 11:00",
       "location": "Vancouver",
@@ -452,16 +382,6 @@
       "start_time": "14:00",
       "available_spot_count": 21,
       "capacity": 25
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: USHER x JUSTIN BIEBER",
-      "booking_start_date": "2026-01-01 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-01-09",
-      "start_time": "18:40",
-      "available_spot_count": 0,
-      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -510,7 +430,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-17",
       "start_time": "13:00",
-      "available_spot_count": 30,
+      "available_spot_count": 27,
       "capacity": 50
     },
     {
