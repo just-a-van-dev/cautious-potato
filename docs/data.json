@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09T20:08:56.615082-08:00",
+  "last_updated": "2026-01-09T20:54:05.195590-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -70,7 +70,7 @@
       "location": "Gastown",
       "start_date": "2026-01-10",
       "start_time": "08:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 15
     },
     {
@@ -140,7 +140,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-15",
       "start_time": "14:15",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 16
     },
     {
@@ -220,7 +220,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-13",
       "start_time": "06:10",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 45
     },
     {
@@ -230,7 +230,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-14",
       "start_time": "09:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 45
     },
     {
