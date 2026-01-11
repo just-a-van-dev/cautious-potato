@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-11T08:48:17.169094-08:00",
+  "last_updated": "2026-01-11T09:18:03.380404-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -170,7 +170,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-13",
       "start_time": "06:10",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 45
     },
     {
@@ -321,6 +321,26 @@
       "start_date": "2026-01-12",
       "start_time": "12:00",
       "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal Ass & Abs With Headsets",
+      "booking_start_date": "2026-01-05 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-01-12",
+      "start_time": "14:00",
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-01-05 15:30",
+      "location": "Vancouver",
+      "start_date": "2026-01-12",
+      "start_time": "15:30",
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
