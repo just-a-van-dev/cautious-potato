@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-12T15:17:44.105967-08:00",
+  "last_updated": "2026-01-12T15:39:33.947084-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -70,7 +70,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-13",
       "start_time": "13:15",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 16
     },
     {
@@ -170,7 +170,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-13",
       "start_time": "06:10",
-      "available_spot_count": 20,
+      "available_spot_count": 21,
       "capacity": 45
     },
     {
@@ -180,7 +180,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-14",
       "start_time": "09:30",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 45
     },
     {
@@ -375,6 +375,46 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body",
+      "booking_start_date": "2026-01-07 07:00",
+      "location": "Vancouver",
+      "start_date": "2026-01-14",
+      "start_time": "07:00",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-01-07 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-01-14",
+      "start_time": "09:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-01-07 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-01-14",
+      "start_time": "10:00",
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-01-07 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-01-14",
+      "start_time": "13:00",
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Full Body x Scentuals",
       "booking_start_date": "2026-01-09 06:00",
       "location": "Vancouver",
@@ -400,7 +440,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-19",
       "start_time": "15:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -470,7 +510,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-19",
       "start_time": "16:20",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -560,6 +600,16 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-26",
       "start_time": "17:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: OLIVIA RODRIGO x PARAMORE",
+      "booking_start_date": "2026-01-20 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-01-28",
+      "start_time": "06:00",
       "available_spot_count": 50,
       "capacity": 50
     },
