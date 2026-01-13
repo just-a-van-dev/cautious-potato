@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-13T13:43:41.568698-08:00",
+  "last_updated": "2026-01-13T14:23:18.634945-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -115,6 +115,16 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
+      "booking_start_date": "2026-01-23 00:00",
+      "location": "Gastown",
+      "start_date": "2026-01-30",
+      "start_time": "16:15",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
       "name": "Team Class with Tabatha C",
       "booking_start_date": "2026-02-02 00:00",
       "location": "Gastown",
@@ -140,7 +150,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-14",
       "start_time": "09:30",
-      "available_spot_count": 22,
+      "available_spot_count": 23,
       "capacity": 45
     },
     {
@@ -460,7 +470,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-14",
       "start_time": "16:20",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 50
     },
     {
