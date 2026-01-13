@@ -114,6 +114,10 @@ def is_sponsored_class(class_data) -> bool:
         name = name.replace("happy hour", "").strip()
     if "x blume superbelly" in name:
         name = name.replace("x blume superbelly", "").strip()
+    if "x blume superfoods" in name:
+        name = name.replace("x blume superfoods", "").strip()
+    if "xatelier elan coffee" in name:
+        name = name.replace("xatelier elan coffee", "").strip()
     if "x atelier elan coffee" in name:
         name = name.replace("x atelier elan coffee", "").strip()
 
