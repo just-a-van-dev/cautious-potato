@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-14T11:40:50.075899-08:00",
+  "last_updated": "2026-01-14T12:22:02.866265-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -100,7 +100,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-22",
       "start_time": "16:15",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 26
     },
     {
@@ -170,7 +170,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-17",
       "start_time": "09:25",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 20
     },
     {
@@ -370,7 +370,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-14",
       "start_time": "13:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -530,7 +530,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-22",
       "start_time": "09:45",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
