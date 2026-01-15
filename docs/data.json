@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-15T12:48:46.861295-08:00",
+  "last_updated": "2026-01-15T13:22:21.051157-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -360,7 +360,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-16",
       "start_time": "06:00",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -440,7 +440,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-16",
       "start_time": "12:30",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 50
     },
     {
@@ -460,7 +460,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-19",
       "start_time": "07:15",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 50
     },
     {
@@ -470,7 +470,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-19",
       "start_time": "16:20",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 50
     },
     {
@@ -520,7 +520,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-23",
       "start_time": "18:40",
-      "available_spot_count": 36,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -590,6 +590,46 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-29",
       "start_time": "06:00",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME : TBT - COUNTRY EDITION",
+      "booking_start_date": "2026-01-21 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-01-29",
+      "start_time": "09:45",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: DRAKE x CALVIN HARRIS",
+      "booking_start_date": "2026-01-22 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-01-30",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: CARDI B x MEGAN THEE STALLION",
+      "booking_start_date": "2026-01-22 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-01-30",
+      "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: TOP 40 POP x EDM",
+      "booking_start_date": "2026-01-26 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-02-03",
+      "start_time": "12:30",
       "available_spot_count": 50,
       "capacity": 50
     },
