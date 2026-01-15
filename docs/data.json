@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-14T23:45:23.390342-08:00",
+  "last_updated": "2026-01-15T00:32:08.750636-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -210,7 +210,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-17",
       "start_time": "12:15",
-      "available_spot_count": 16,
+      "available_spot_count": 13,
       "capacity": 45
     },
     {
@@ -250,7 +250,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-22",
       "start_time": "06:10",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 45
     },
     {
