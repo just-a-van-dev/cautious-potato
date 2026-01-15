@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-14T15:40:02.414907-08:00",
+  "last_updated": "2026-01-14T17:46:30.663988-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -76,16 +76,6 @@
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2025-12-15 15:15",
-      "location": "Main St",
-      "start_date": "2026-01-14",
-      "start_time": "15:15",
-      "available_spot_count": 0,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Sweat for a Cause/By Donation",
       "booking_start_date": "2025-12-23 12:15",
       "location": "Yaletown",
       "start_date": "2026-01-22",
@@ -135,16 +125,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Build - Happy Hour x Blume Superfoods",
-      "booking_start_date": "2026-01-07 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-01-14",
-      "start_time": "09:30",
-      "available_spot_count": 19,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn \u2014 Reformer x Innisfree",
       "booking_start_date": "2026-01-10 00:00",
       "location": "Kingsway",
@@ -170,7 +150,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-17",
       "start_time": "09:25",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 20
     },
     {
@@ -210,7 +190,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-17",
       "start_time": "10:55",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 45
     },
     {
@@ -240,7 +220,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-17",
       "start_time": "12:25",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 20
     },
     {
@@ -250,7 +230,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-17",
       "start_time": "13:25",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -325,62 +305,22 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2026-01-07 07:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-14",
-      "start_time": "07:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-01-07 10:00",
+      "booking_start_date": "2026-01-08 09:00",
       "location": "Vancouver",
-      "start_date": "2026-01-14",
-      "start_time": "10:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Ass and Abs With Headsets",
-      "booking_start_date": "2026-01-07 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-14",
-      "start_time": "11:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Advanced With Headsets",
-      "booking_start_date": "2026-01-07 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-14",
-      "start_time": "12:00",
+      "start_date": "2026-01-15",
+      "start_time": "09:00",
       "available_spot_count": 7,
       "capacity": 12
     },
     {
       "studio": "Lagree Studio",
       "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-01-07 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-14",
-      "start_time": "13:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-01-08 09:00",
+      "booking_start_date": "2026-01-08 10:00",
       "location": "Vancouver",
       "start_date": "2026-01-15",
-      "start_time": "09:00",
-      "available_spot_count": 8,
+      "start_time": "10:00",
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -390,7 +330,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-15",
       "start_time": "11:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -400,7 +340,17 @@
       "location": "Vancouver",
       "start_date": "2026-01-15",
       "start_time": "13:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal Ass & Abs With Headsets",
+      "booking_start_date": "2026-01-08 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-01-15",
+      "start_time": "14:00",
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -410,7 +360,37 @@
       "location": "Vancouver",
       "start_date": "2026-01-16",
       "start_time": "06:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body",
+      "booking_start_date": "2026-01-09 07:00",
+      "location": "Vancouver",
+      "start_date": "2026-01-16",
+      "start_time": "07:00",
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-01-09 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-01-16",
+      "start_time": "09:00",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-01-09 11:00",
+      "location": "Vancouver",
+      "start_date": "2026-01-16",
+      "start_time": "11:00",
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -442,16 +422,6 @@
       "start_time": "14:00",
       "available_spot_count": 16,
       "capacity": 25
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME : MACKLEMORE X PITBULL X USHER",
-      "booking_start_date": "2026-01-06 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-01-14",
-      "start_time": "16:20",
-      "available_spot_count": 11,
-      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -500,7 +470,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-19",
       "start_time": "16:20",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 50
     },
     {
@@ -622,16 +592,6 @@
       "start_time": "06:00",
       "available_spot_count": 50,
       "capacity": 50
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - DRAKE & FRIENDS",
-      "booking_start_date": "2025-12-31 09:45",
-      "location": "Vancouver",
-      "start_date": "2026-01-14",
-      "start_time": "09:45",
-      "available_spot_count": 3,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
