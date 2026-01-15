@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-15T02:25:56.144247-08:00",
+  "last_updated": "2026-01-15T02:50:35.638598-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -100,7 +100,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-23",
       "start_time": "12:15",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 26
     },
     {
