@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-15T06:50:37.858815-08:00",
+  "last_updated": "2026-01-15T07:26:44.991510-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -250,7 +250,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-22",
       "start_time": "06:10",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 45
     },
     {
@@ -320,7 +320,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-15",
       "start_time": "10:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -490,7 +490,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-21",
       "start_time": "06:00",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -530,7 +530,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-25",
       "start_time": "11:50",
-      "available_spot_count": 50,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
