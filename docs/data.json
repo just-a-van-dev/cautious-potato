@@ -1,6 +1,16 @@
 {
-  "last_updated": "2026-01-16T08:57:23.472049-08:00",
+  "last_updated": "2026-01-16T09:28:22.586458-08:00",
   "special": [
+    {
+      "studio": "Jaybird",
+      "name": "Friends + Family | Mat",
+      "booking_start_date": "2026-01-19 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-26",
+      "start_time": "13:30",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
     {
       "studio": "Turf",
       "name": "meta + Mat Werk 45",
@@ -8,7 +18,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-01-22",
       "start_time": "08:15",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 32
     },
     {
@@ -200,7 +210,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-17",
       "start_time": "10:55",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 45
     },
     {
@@ -250,7 +260,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-17",
       "start_time": "13:30",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 45
     },
     {
@@ -290,6 +300,16 @@
       "location": "Kingsway",
       "start_date": "2026-01-24",
       "start_time": "15:00",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "Friends + Family | Mat",
+      "booking_start_date": "2026-01-19 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-26",
+      "start_time": "13:30",
       "available_spot_count": 45,
       "capacity": 45
     },
@@ -340,7 +360,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-16",
       "start_time": "09:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -460,7 +480,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-23",
       "start_time": "16:20",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
