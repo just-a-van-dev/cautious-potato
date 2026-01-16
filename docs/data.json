@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-16T11:38:14.542202-08:00",
+  "last_updated": "2026-01-16T12:22:16.039651-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -90,7 +90,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-22",
       "start_time": "16:15",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 26
     },
     {
@@ -100,7 +100,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-23",
       "start_time": "12:15",
-      "available_spot_count": 23,
+      "available_spot_count": 21,
       "capacity": 26
     },
     {
@@ -160,7 +160,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-17",
       "start_time": "08:15",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 45
     },
     {
@@ -210,7 +210,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-17",
       "start_time": "10:55",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 45
     },
     {
@@ -260,7 +260,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-17",
       "start_time": "13:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 45
     },
     {
@@ -310,6 +310,16 @@
       "location": "Kingsway",
       "start_date": "2026-01-26",
       "start_time": "13:30",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "Teacher Development - The Bowls $18",
+      "booking_start_date": "2026-01-22 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-29",
+      "start_time": "10:45",
       "available_spot_count": 45,
       "capacity": 45
     },
@@ -410,7 +420,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-16",
       "start_time": "12:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 50
     },
     {
@@ -430,7 +440,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-19",
       "start_time": "07:15",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 50
     },
     {
@@ -480,7 +490,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-23",
       "start_time": "16:20",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -730,7 +740,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-21",
       "start_time": "09:45",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
