@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-15T19:39:59.693260-08:00",
+  "last_updated": "2026-01-15T20:40:27.247722-08:00",
   "special": [
     {
       "studio": "Turf",
@@ -70,7 +70,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-22",
       "start_time": "12:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 20
     },
     {
@@ -112,6 +112,26 @@
       "start_time": "19:15",
       "available_spot_count": 15,
       "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
+      "booking_start_date": "2026-01-13 05:15",
+      "location": "Kitsilano",
+      "start_date": "2026-02-12",
+      "start_time": "05:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
+      "booking_start_date": "2026-01-19 20:15",
+      "location": "Main St",
+      "start_date": "2026-02-18",
+      "start_time": "20:15",
+      "available_spot_count": 14,
+      "capacity": 14
     },
     {
       "studio": "Jaybird",
@@ -230,7 +250,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-17",
       "start_time": "13:30",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 45
     },
     {
@@ -320,7 +340,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-16",
       "start_time": "09:00",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -420,7 +440,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-21",
       "start_time": "06:00",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
@@ -440,7 +460,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-23",
       "start_time": "16:20",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
