@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-16T20:07:00.190288-08:00",
+  "last_updated": "2026-01-16T20:52:06.094777-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -170,7 +170,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-17",
       "start_time": "09:25",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 20
     },
     {
@@ -180,7 +180,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-17",
       "start_time": "09:35",
-      "available_spot_count": 14,
+      "available_spot_count": 15,
       "capacity": 45
     },
     {
@@ -260,7 +260,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-17",
       "start_time": "13:30",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 45
     },
     {
@@ -370,7 +370,7 @@
       "location": "West End",
       "start_date": "2026-01-18",
       "start_time": "14:00",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 25
     },
     {
