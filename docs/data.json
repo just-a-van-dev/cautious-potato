@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-17T11:37:40.293874-08:00",
+  "last_updated": "2026-01-17T12:22:59.072687-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -240,7 +240,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-17",
       "start_time": "12:25",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 20
     },
     {
@@ -260,7 +260,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-17",
       "start_time": "13:30",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 45
     },
     {
@@ -355,12 +355,22 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-01-12 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-01-19",
+      "start_time": "13:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Club Lagree x Full Body With Headsets x Scentuals",
       "booking_start_date": "2026-01-12 15:30",
       "location": "Vancouver",
       "start_date": "2026-01-19",
       "start_time": "15:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -380,7 +390,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-17",
       "start_time": "13:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 50
     },
     {
@@ -440,7 +450,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-23",
       "start_time": "16:20",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
@@ -460,7 +470,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-25",
       "start_time": "11:50",
-      "available_spot_count": 48,
+      "available_spot_count": 30,
       "capacity": 50
     },
     {
