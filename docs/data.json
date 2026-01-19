@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-19T08:30:46.704860-08:00",
+  "last_updated": "2026-01-19T09:23:46.871871-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -8,7 +8,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-26",
       "start_time": "13:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 45
     },
     {
@@ -100,7 +100,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-23",
       "start_time": "12:15",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 26
     },
     {
@@ -112,6 +112,16 @@
       "start_time": "16:15",
       "available_spot_count": 15,
       "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
+      "booking_start_date": "2026-01-09 07:00",
+      "location": "Yaletown",
+      "start_date": "2026-02-08",
+      "start_time": "07:00",
+      "available_spot_count": 20,
+      "capacity": 20
     },
     {
       "studio": "Lagree West",
@@ -190,7 +200,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-26",
       "start_time": "13:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 45
     },
     {
@@ -250,7 +260,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-19",
       "start_time": "15:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 12
     },
     {
@@ -270,7 +280,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-20",
       "start_time": "10:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -330,7 +340,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-22",
       "start_time": "09:45",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 50
     },
     {
@@ -390,7 +400,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-26",
       "start_time": "17:30",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 50
     },
     {
