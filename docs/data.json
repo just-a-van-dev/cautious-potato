@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-19T07:51:02.357485-08:00",
+  "last_updated": "2026-01-19T08:30:46.704860-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -245,7 +245,7 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Club Lagree x Full Body With Headsets x Scentuals",
+      "name": "Club Lagree x Full Body With Headsets x Slow Jams",
       "booking_start_date": "2026-01-12 15:30",
       "location": "Vancouver",
       "start_date": "2026-01-19",
@@ -270,7 +270,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-20",
       "start_time": "10:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -390,7 +390,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-26",
       "start_time": "17:30",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 50
     },
     {
