@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-19T12:46:17.323641-08:00",
+  "last_updated": "2026-01-19T13:20:07.186088-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -8,7 +8,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-26",
       "start_time": "13:30",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 45
     },
     {
@@ -200,7 +200,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-26",
       "start_time": "13:30",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 45
     },
     {
@@ -294,6 +294,16 @@
       "capacity": 12
     },
     {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-01-27 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-02-03",
+      "start_time": "13:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
       "studio": "Spin Society",
       "name": "THEME: RIHANNA x CALVIN HARRIS",
       "booking_start_date": "2026-01-11 12:00",
@@ -310,7 +320,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-19",
       "start_time": "16:20",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 49
     },
     {
@@ -380,7 +390,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-26",
       "start_time": "07:15",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -400,7 +410,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-26",
       "start_time": "17:30",
-      "available_spot_count": 6,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
