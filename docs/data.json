@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-19T21:54:34.186462-08:00",
+  "last_updated": "2026-01-19T22:37:21.944557-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -90,7 +90,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-22",
       "start_time": "12:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 20
     },
     {
@@ -271,6 +271,26 @@
       "start_date": "2026-01-20",
       "start_time": "10:00",
       "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-01-13 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-01-20",
+      "start_time": "14:00",
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Club Lagree x Full Body (Headsets) x R&B x Sahajan",
+      "booking_start_date": "2026-01-19 15:30",
+      "location": "Vancouver",
+      "start_date": "2026-01-26",
+      "start_time": "15:30",
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
