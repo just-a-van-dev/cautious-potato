@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-20T14:24:16.314123-08:00",
+  "last_updated": "2026-01-20T14:44:37.510316-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -440,7 +440,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-21",
       "start_time": "06:00",
-      "available_spot_count": 31,
+      "available_spot_count": 32,
       "capacity": 49
     },
     {
@@ -520,7 +520,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-28",
       "start_time": "06:00",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
