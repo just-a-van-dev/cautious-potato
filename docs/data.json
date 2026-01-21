@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-21T10:42:57.811886-08:00",
+  "last_updated": "2026-01-21T11:27:00.289289-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -18,7 +18,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-01-22",
       "start_time": "08:15",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 32
     },
     {
@@ -190,7 +190,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-23",
       "start_time": "20:00",
-      "available_spot_count": 43,
+      "available_spot_count": 44,
       "capacity": 45
     },
     {
@@ -450,7 +450,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-27",
       "start_time": "09:30",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 45
     },
     {
@@ -700,7 +700,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-28",
       "start_time": "18:00",
-      "available_spot_count": 19,
+      "available_spot_count": 17,
       "capacity": 20
     },
     {
@@ -710,7 +710,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-28",
       "start_time": "18:40",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 45
     },
     {
@@ -810,7 +810,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-22",
       "start_time": "09:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -890,7 +890,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "08:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -1020,7 +1020,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-22",
       "start_time": "09:45",
-      "available_spot_count": 21,
+      "available_spot_count": 19,
       "capacity": 48
     },
     {
@@ -1031,7 +1031,7 @@
       "start_date": "2026-01-23",
       "start_time": "16:20",
       "available_spot_count": 15,
-      "capacity": 49
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -1041,7 +1041,7 @@
       "start_date": "2026-01-23",
       "start_time": "18:40",
       "available_spot_count": 0,
-      "capacity": 50
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -1051,7 +1051,7 @@
       "start_date": "2026-01-25",
       "start_time": "11:50",
       "available_spot_count": 0,
-      "capacity": 50
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1060,8 +1060,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-26",
       "start_time": "07:15",
-      "available_spot_count": 36,
-      "capacity": 49
+      "available_spot_count": 35,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -1070,8 +1070,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-26",
       "start_time": "12:30",
-      "available_spot_count": 40,
-      "capacity": 49
+      "available_spot_count": 41,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -1090,7 +1090,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-28",
       "start_time": "06:00",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
