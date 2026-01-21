@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-21T07:32:39.692856-08:00",
+  "last_updated": "2026-01-21T08:48:56.302515-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -110,7 +110,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-23",
       "start_time": "12:15",
-      "available_spot_count": 14,
+      "available_spot_count": 15,
       "capacity": 26
     },
     {
@@ -170,7 +170,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-22",
       "start_time": "06:10",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 45
     },
     {
@@ -270,7 +270,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-26",
       "start_time": "09:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 45
     },
     {
@@ -330,7 +330,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-26",
       "start_time": "16:00",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 45
     },
     {
@@ -395,6 +395,336 @@
     },
     {
       "studio": "Jaybird",
+      "name": "The Burn  \u2014 Reformer (Heated) x Poppi",
+      "booking_start_date": "2026-01-20 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-27",
+      "start_time": "06:00",
+      "available_spot_count": 11,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Build  \u2014 Happy Hour x Poppi",
+      "booking_start_date": "2026-01-20 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-27",
+      "start_time": "06:10",
+      "available_spot_count": 40,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn  \u2014 Reformer (Heated) x Poppi",
+      "booking_start_date": "2026-01-20 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-27",
+      "start_time": "07:00",
+      "available_spot_count": 16,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x Poppi",
+      "booking_start_date": "2026-01-20 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-27",
+      "start_time": "07:30",
+      "available_spot_count": 43,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Booty x Poppi",
+      "booking_start_date": "2026-01-20 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-27",
+      "start_time": "09:30",
+      "available_spot_count": 40,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn  \u2014 Reformer (Heated) x Poppi",
+      "booking_start_date": "2026-01-20 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-27",
+      "start_time": "10:00",
+      "available_spot_count": 14,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Build x Poppi",
+      "booking_start_date": "2026-01-20 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-27",
+      "start_time": "12:00",
+      "available_spot_count": 41,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn  \u2014 Reformer (Heated) x Poppi",
+      "booking_start_date": "2026-01-20 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-27",
+      "start_time": "12:15",
+      "available_spot_count": 17,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer \u2014Happy Hour x Poppi",
+      "booking_start_date": "2026-01-20 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-27",
+      "start_time": "15:45",
+      "available_spot_count": 15,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Happy Hour x Poppi",
+      "booking_start_date": "2026-01-20 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-27",
+      "start_time": "16:00",
+      "available_spot_count": 39,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Poppi",
+      "booking_start_date": "2026-01-20 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-27",
+      "start_time": "17:00",
+      "available_spot_count": 14,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Bird x Poppi",
+      "booking_start_date": "2026-01-20 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-27",
+      "start_time": "17:20",
+      "available_spot_count": 28,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Poppi",
+      "booking_start_date": "2026-01-20 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-27",
+      "start_time": "18:00",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x Poppi",
+      "booking_start_date": "2026-01-20 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-27",
+      "start_time": "18:40",
+      "available_spot_count": 41,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Poppi",
+      "booking_start_date": "2026-01-20 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-27",
+      "start_time": "19:00",
+      "available_spot_count": 17,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Balance x All is Well x Poppi",
+      "booking_start_date": "2026-01-20 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-27",
+      "start_time": "20:00",
+      "available_spot_count": 32,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Poppi",
+      "booking_start_date": "2026-01-21 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-28",
+      "start_time": "06:00",
+      "available_spot_count": 17,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x Poppi",
+      "booking_start_date": "2026-01-21 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-28",
+      "start_time": "06:10",
+      "available_spot_count": 40,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Poppi",
+      "booking_start_date": "2026-01-21 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-28",
+      "start_time": "07:00",
+      "available_spot_count": 18,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x Poppi",
+      "booking_start_date": "2026-01-21 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-28",
+      "start_time": "07:30",
+      "available_spot_count": 42,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Poppi",
+      "booking_start_date": "2026-01-21 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-28",
+      "start_time": "08:00",
+      "available_spot_count": 17,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Build  \u2014 Happy Hour x Poppi",
+      "booking_start_date": "2026-01-21 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-28",
+      "start_time": "09:30",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Poppi",
+      "booking_start_date": "2026-01-21 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-28",
+      "start_time": "10:00",
+      "available_spot_count": 14,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x Poppi",
+      "booking_start_date": "2026-01-21 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-28",
+      "start_time": "12:00",
+      "available_spot_count": 41,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer \u2014 Happy Hour x Poppi",
+      "booking_start_date": "2026-01-21 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-28",
+      "start_time": "12:15",
+      "available_spot_count": 17,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Poppi",
+      "booking_start_date": "2026-01-21 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-28",
+      "start_time": "15:45",
+      "available_spot_count": 18,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn  \u2014 Happy Hour x Poppi",
+      "booking_start_date": "2026-01-21 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-28",
+      "start_time": "16:00",
+      "available_spot_count": 43,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Poppi",
+      "booking_start_date": "2026-01-21 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-28",
+      "start_time": "17:00",
+      "available_spot_count": 14,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Booty x Poppi",
+      "booking_start_date": "2026-01-21 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-28",
+      "start_time": "17:20",
+      "available_spot_count": 44,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Poppi",
+      "booking_start_date": "2026-01-21 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-28",
+      "start_time": "18:00",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Bird x Poppi",
+      "booking_start_date": "2026-01-21 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-28",
+      "start_time": "18:40",
+      "available_spot_count": 41,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Poppi",
+      "booking_start_date": "2026-01-21 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-28",
+      "start_time": "19:00",
+      "available_spot_count": 19,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Balance x Poppi",
+      "booking_start_date": "2026-01-21 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-01-28",
+      "start_time": "20:00",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
       "name": "Teacher Development - The Bowls $18",
       "booking_start_date": "2026-01-22 00:00",
       "location": "Kingsway",
@@ -430,7 +760,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-21",
       "start_time": "10:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -450,7 +780,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-21",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -495,6 +825,16 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body",
+      "booking_start_date": "2026-01-16 07:00",
+      "location": "Vancouver",
+      "start_date": "2026-01-23",
+      "start_time": "07:00",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Club Lagree x Full Body (Headsets) x R&B x Sahajan",
       "booking_start_date": "2026-01-19 15:30",
       "location": "Vancouver",
@@ -510,7 +850,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "07:00",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -600,7 +940,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "17:30",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -620,7 +960,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "19:30",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -805,26 +1145,6 @@
     },
     {
       "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-01-14 09:00",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-01-21",
-      "start_time": "09:00",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-01-15 09:00",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-01-22",
-      "start_time": "09:00",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
       "name": "Megaformer + Stretch",
       "booking_start_date": "2026-01-16 09:15",
       "location": "Vancouver Downtown",
@@ -876,10 +1196,40 @@
     {
       "studio": "Lagree Pulse",
       "name": "Booty + Abs",
-      "booking_start_date": "2026-01-22 09:00",
+      "booking_start_date": "2026-01-22 12:15",
       "location": "Vancouver Downtown",
       "start_date": "2026-01-29",
-      "start_time": "09:00",
+      "start_time": "12:15",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Booty + Abs",
+      "booking_start_date": "2026-01-22 17:30",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-01-29",
+      "start_time": "17:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Booty + Abs",
+      "booking_start_date": "2026-01-23 12:15",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-01-30",
+      "start_time": "12:15",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Megaformer + Stretch",
+      "booking_start_date": "2026-01-23 18:30",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-01-30",
+      "start_time": "18:30",
       "available_spot_count": 10,
       "capacity": 10
     },
@@ -926,20 +1276,40 @@
     {
       "studio": "Lagree Pulse",
       "name": "Booty + Abs",
-      "booking_start_date": "2026-01-29 09:00",
+      "booking_start_date": "2026-01-29 12:15",
       "location": "Vancouver Downtown",
       "start_date": "2026-02-05",
-      "start_time": "09:00",
+      "start_time": "12:15",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Booty + Abs",
+      "booking_start_date": "2026-01-29 17:30",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-02-05",
+      "start_time": "17:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Booty + Abs",
+      "booking_start_date": "2026-01-30 12:15",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-02-06",
+      "start_time": "12:15",
       "available_spot_count": 10,
       "capacity": 10
     },
     {
       "studio": "Lagree Pulse",
       "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-01-30 09:15",
+      "booking_start_date": "2026-01-30 18:30",
       "location": "Vancouver Downtown",
       "start_date": "2026-02-06",
-      "start_time": "09:15",
+      "start_time": "18:30",
       "available_spot_count": 10,
       "capacity": 10
     },
@@ -986,20 +1356,40 @@
     {
       "studio": "Lagree Pulse",
       "name": "Booty + Abs",
-      "booking_start_date": "2026-02-05 09:00",
+      "booking_start_date": "2026-02-05 12:15",
       "location": "Vancouver Downtown",
       "start_date": "2026-02-12",
-      "start_time": "09:00",
+      "start_time": "12:15",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Booty + Abs",
+      "booking_start_date": "2026-02-05 17:30",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-02-12",
+      "start_time": "17:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Booty + Abs",
+      "booking_start_date": "2026-02-06 12:15",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-02-13",
+      "start_time": "12:15",
       "available_spot_count": 10,
       "capacity": 10
     },
     {
       "studio": "Lagree Pulse",
       "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-02-06 09:15",
+      "booking_start_date": "2026-02-06 18:30",
       "location": "Vancouver Downtown",
       "start_date": "2026-02-13",
-      "start_time": "09:15",
+      "start_time": "18:30",
       "available_spot_count": 10,
       "capacity": 10
     },
@@ -1046,20 +1436,40 @@
     {
       "studio": "Lagree Pulse",
       "name": "Booty + Abs",
-      "booking_start_date": "2026-02-12 09:00",
+      "booking_start_date": "2026-02-12 12:15",
       "location": "Vancouver Downtown",
       "start_date": "2026-02-19",
-      "start_time": "09:00",
+      "start_time": "12:15",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Booty + Abs",
+      "booking_start_date": "2026-02-12 17:30",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-02-19",
+      "start_time": "17:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Booty + Abs",
+      "booking_start_date": "2026-02-13 12:15",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-02-20",
+      "start_time": "12:15",
       "available_spot_count": 10,
       "capacity": 10
     },
     {
       "studio": "Lagree Pulse",
       "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-02-13 09:15",
+      "booking_start_date": "2026-02-13 18:30",
       "location": "Vancouver Downtown",
       "start_date": "2026-02-20",
-      "start_time": "09:15",
+      "start_time": "18:30",
       "available_spot_count": 10,
       "capacity": 10
     },
@@ -1106,20 +1516,40 @@
     {
       "studio": "Lagree Pulse",
       "name": "Booty + Abs",
-      "booking_start_date": "2026-02-19 09:00",
+      "booking_start_date": "2026-02-19 12:15",
       "location": "Vancouver Downtown",
       "start_date": "2026-02-26",
-      "start_time": "09:00",
+      "start_time": "12:15",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Booty + Abs",
+      "booking_start_date": "2026-02-19 17:30",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-02-26",
+      "start_time": "17:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Booty + Abs",
+      "booking_start_date": "2026-02-20 12:15",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-02-27",
+      "start_time": "12:15",
       "available_spot_count": 10,
       "capacity": 10
     },
     {
       "studio": "Lagree Pulse",
       "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-02-20 09:15",
+      "booking_start_date": "2026-02-20 18:30",
       "location": "Vancouver Downtown",
       "start_date": "2026-02-27",
-      "start_time": "09:15",
+      "start_time": "18:30",
       "available_spot_count": 10,
       "capacity": 10
     },
@@ -1166,20 +1596,40 @@
     {
       "studio": "Lagree Pulse",
       "name": "Booty + Abs",
-      "booking_start_date": "2026-02-26 09:00",
+      "booking_start_date": "2026-02-26 12:15",
       "location": "Vancouver Downtown",
       "start_date": "2026-03-05",
-      "start_time": "09:00",
+      "start_time": "12:15",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Booty + Abs",
+      "booking_start_date": "2026-02-26 17:30",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-03-05",
+      "start_time": "17:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Booty + Abs",
+      "booking_start_date": "2026-02-27 12:15",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-03-06",
+      "start_time": "12:15",
       "available_spot_count": 10,
       "capacity": 10
     },
     {
       "studio": "Lagree Pulse",
       "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-02-27 09:15",
+      "booking_start_date": "2026-02-27 18:30",
       "location": "Vancouver Downtown",
       "start_date": "2026-03-06",
-      "start_time": "09:15",
+      "start_time": "18:30",
       "available_spot_count": 10,
       "capacity": 10
     },
