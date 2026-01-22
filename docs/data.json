@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-21T19:48:07.336562-08:00",
+  "last_updated": "2026-01-21T20:48:54.325540-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -18,7 +18,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-01-22",
       "start_time": "08:15",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 32
     },
     {
@@ -90,7 +90,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-22",
       "start_time": "12:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 20
     },
     {
@@ -210,7 +210,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-24",
       "start_time": "15:00",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 45
     },
     {
@@ -250,7 +250,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-26",
       "start_time": "07:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 45
     },
     {
@@ -360,7 +360,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-26",
       "start_time": "17:20",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 45
     },
     {
@@ -690,7 +690,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-28",
       "start_time": "12:00",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 45
     },
     {
@@ -700,7 +700,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-28",
       "start_time": "12:05",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 36
     },
     {
@@ -790,7 +790,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-28",
       "start_time": "18:40",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 36
     },
     {
@@ -820,7 +820,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-28",
       "start_time": "20:00",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 36
     },
     {
@@ -1100,7 +1100,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-22",
       "start_time": "12:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -1160,7 +1160,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-26",
       "start_time": "15:30",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -1180,7 +1180,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "08:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -1220,7 +1220,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "12:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -1260,7 +1260,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "17:30",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -1452,506 +1452,6 @@
       "start_time": "12:30",
       "available_spot_count": 50,
       "capacity": 50
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-01-16 09:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-01-23",
-      "start_time": "09:15",
-      "available_spot_count": 8,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-01-17 12:00",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-01-24",
-      "start_time": "12:00",
-      "available_spot_count": 5,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-01-20 18:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-01-27",
-      "start_time": "18:15",
-      "available_spot_count": 9,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-01-21 11:00",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-01-28",
-      "start_time": "11:00",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-01-21 16:30",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-01-28",
-      "start_time": "16:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-01-22 12:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-01-29",
-      "start_time": "12:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-01-22 17:30",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-01-29",
-      "start_time": "17:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-01-23 12:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-01-30",
-      "start_time": "12:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-01-23 18:30",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-01-30",
-      "start_time": "18:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-01-24 12:00",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-01-31",
-      "start_time": "12:00",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-01-27 18:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-03",
-      "start_time": "18:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-01-28 11:00",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-04",
-      "start_time": "11:00",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-01-28 16:30",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-04",
-      "start_time": "16:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-01-29 12:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-05",
-      "start_time": "12:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-01-29 17:30",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-05",
-      "start_time": "17:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-01-30 12:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-06",
-      "start_time": "12:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-01-30 18:30",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-06",
-      "start_time": "18:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-01-31 12:00",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-07",
-      "start_time": "12:00",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-02-03 18:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-10",
-      "start_time": "18:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-02-04 11:00",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-11",
-      "start_time": "11:00",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-02-04 16:30",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-11",
-      "start_time": "16:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-02-05 12:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-12",
-      "start_time": "12:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-02-05 17:30",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-12",
-      "start_time": "17:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-02-06 12:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-13",
-      "start_time": "12:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-02-06 18:30",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-13",
-      "start_time": "18:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-02-07 12:00",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-14",
-      "start_time": "12:00",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-02-10 18:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-17",
-      "start_time": "18:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-02-11 11:00",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-18",
-      "start_time": "11:00",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-02-11 16:30",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-18",
-      "start_time": "16:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-02-12 12:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-19",
-      "start_time": "12:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-02-12 17:30",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-19",
-      "start_time": "17:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-02-13 12:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-20",
-      "start_time": "12:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-02-13 18:30",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-20",
-      "start_time": "18:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-02-14 12:00",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-21",
-      "start_time": "12:00",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-02-17 18:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-24",
-      "start_time": "18:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-02-18 11:00",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-25",
-      "start_time": "11:00",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-02-18 16:30",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-25",
-      "start_time": "16:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-02-19 12:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-26",
-      "start_time": "12:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-02-19 17:30",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-26",
-      "start_time": "17:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-02-20 12:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-27",
-      "start_time": "12:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-02-20 18:30",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-27",
-      "start_time": "18:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-02-21 12:00",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-02-28",
-      "start_time": "12:00",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-02-24 18:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-03-03",
-      "start_time": "18:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-02-25 11:00",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-03-04",
-      "start_time": "11:00",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-02-25 16:30",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-03-04",
-      "start_time": "16:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-02-26 12:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-03-05",
-      "start_time": "12:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-02-26 17:30",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-03-05",
-      "start_time": "17:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Booty + Abs",
-      "booking_start_date": "2026-02-27 12:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-03-06",
-      "start_time": "12:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-02-27 18:30",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-03-06",
-      "start_time": "18:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer + Stretch",
-      "booking_start_date": "2026-02-28 12:00",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-03-07",
-      "start_time": "12:00",
-      "available_spot_count": 10,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
