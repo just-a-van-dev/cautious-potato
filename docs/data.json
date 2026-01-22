@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-21T20:48:54.325540-08:00",
+  "last_updated": "2026-01-21T21:28:51.501107-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -8,7 +8,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-26",
       "start_time": "13:30",
-      "available_spot_count": 40,
+      "available_spot_count": 36,
       "capacity": 45
     },
     {
@@ -100,7 +100,7 @@
       "location": "Kitsilano",
       "start_date": "2026-01-22",
       "start_time": "16:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 26
     },
     {
@@ -190,7 +190,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-23",
       "start_time": "06:00",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 36
     },
     {
@@ -250,7 +250,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-26",
       "start_time": "07:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 45
     },
     {
@@ -300,7 +300,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-26",
       "start_time": "12:00",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 45
     },
     {
@@ -320,7 +320,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-26",
       "start_time": "13:30",
-      "available_spot_count": 40,
+      "available_spot_count": 36,
       "capacity": 45
     },
     {
@@ -380,7 +380,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-26",
       "start_time": "18:40",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 45
     },
     {
@@ -590,7 +590,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-28",
       "start_time": "06:00",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 20
     },
     {
@@ -620,7 +620,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-28",
       "start_time": "07:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 36
     },
     {
@@ -650,7 +650,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-28",
       "start_time": "09:15",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 36
     },
     {
@@ -660,7 +660,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-28",
       "start_time": "09:30",
-      "available_spot_count": 44,
+      "available_spot_count": 45,
       "capacity": 45
     },
     {
@@ -700,7 +700,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-28",
       "start_time": "12:05",
-      "available_spot_count": 24,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
@@ -800,7 +800,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-28",
       "start_time": "18:40",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 45
     },
     {
@@ -1170,7 +1170,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "07:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -1270,7 +1270,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "18:30",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -1294,13 +1294,33 @@
       "capacity": 12
     },
     {
+      "studio": "Hustle",
+      "name": "MAMA MOVE TEST DAY- current attendees only",
+      "booking_start_date": "2026-01-23 14:00",
+      "location": "Mount Pleasant",
+      "start_date": "2026-01-31",
+      "start_time": "14:00",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Hustle",
+      "name": "MAMA MOVE TEST DAY- current attendees only",
+      "booking_start_date": "2026-01-23 15:00",
+      "location": "Mount Pleasant",
+      "start_date": "2026-01-31",
+      "start_time": "15:00",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
       "studio": "Spin Society",
       "name": "THEME: 1D x SOLO CAREERS",
       "booking_start_date": "2026-01-14 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-22",
       "start_time": "09:45",
-      "available_spot_count": 25,
+      "available_spot_count": 26,
       "capacity": 48
     },
     {
@@ -1310,7 +1330,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-23",
       "start_time": "16:20",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 48
     },
     {
@@ -1350,7 +1370,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-26",
       "start_time": "12:30",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 48
     },
     {
