@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-22T22:35:44.166595-08:00",
+  "last_updated": "2026-01-22T23:25:56.796163-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -18,7 +18,7 @@
       "location": "West End",
       "start_date": "2026-01-26",
       "start_time": "16:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 17
     },
     {
@@ -360,7 +360,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-27",
       "start_time": "07:30",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 45
     },
     {
@@ -410,7 +410,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-27",
       "start_time": "12:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -520,7 +520,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-28",
       "start_time": "06:10",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 45
     },
     {
@@ -560,7 +560,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-28",
       "start_time": "08:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -620,7 +620,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-28",
       "start_time": "12:05",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 36
     },
     {
@@ -760,7 +760,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-29",
       "start_time": "06:00",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -800,7 +800,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-29",
       "start_time": "10:45",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 36
     },
     {
@@ -1160,7 +1160,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "18:30",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -1320,7 +1320,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-30",
       "start_time": "16:20",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
@@ -1360,7 +1360,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-28",
       "start_time": "09:45",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
