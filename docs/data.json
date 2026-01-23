@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-23T06:26:59.286434-08:00",
+  "last_updated": "2026-01-23T06:53:02.158650-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -18,7 +18,7 @@
       "location": "West End",
       "start_date": "2026-01-26",
       "start_time": "16:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 17
     },
     {
@@ -28,7 +28,7 @@
       "location": "West End",
       "start_date": "2026-02-02",
       "start_time": "16:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 17
     }
   ],
@@ -50,7 +50,7 @@
       "location": "Gastown",
       "start_date": "2026-01-30",
       "start_time": "16:15",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 15
     },
     {
@@ -550,7 +550,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-28",
       "start_time": "07:30",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 45
     },
     {
