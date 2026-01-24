@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-24T13:39:52.105716-08:00",
+  "last_updated": "2026-01-24T14:20:18.617959-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -590,7 +590,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-28",
       "start_time": "12:05",
-      "available_spot_count": 16,
+      "available_spot_count": 17,
       "capacity": 36
     },
     {
@@ -790,7 +790,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-29",
       "start_time": "16:00",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 36
     },
     {
@@ -810,7 +810,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-29",
       "start_time": "18:40",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 36
     },
     {
@@ -984,13 +984,23 @@
       "capacity": 36
     },
     {
+      "studio": "Jaybird",
+      "name": "The Burn + ALO",
+      "booking_start_date": "2026-02-23 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-03-02",
+      "start_time": "07:30",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
       "studio": "Lagree Studio",
       "name": "Club Lagree x Full Body(Headsets) x R&B x Sahajan",
       "booking_start_date": "2026-01-19 15:30",
       "location": "Vancouver",
       "start_date": "2026-01-26",
       "start_time": "15:30",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -1160,7 +1170,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-26",
       "start_time": "07:15",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 48
     },
     {
@@ -1200,7 +1210,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-28",
       "start_time": "09:45",
-      "available_spot_count": 35,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -1230,7 +1240,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-30",
       "start_time": "12:30",
-      "available_spot_count": 40,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
