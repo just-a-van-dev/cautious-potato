@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-23T15:42:57.983446-08:00",
+  "last_updated": "2026-01-23T17:44:35.289738-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -18,7 +18,7 @@
       "location": "West End",
       "start_date": "2026-01-26",
       "start_time": "16:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 17
     },
     {
@@ -33,16 +33,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Mega Cardio- Arms/Abs + Tread x Blume SuperBelly",
-      "booking_start_date": "2026-01-16 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-01-23",
-      "start_time": "12:15",
-      "available_spot_count": 1,
-      "capacity": 26
-    },
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
@@ -102,26 +92,6 @@
       "start_time": "20:15",
       "available_spot_count": 6,
       "capacity": 14
-    },
-    {
-      "studio": "Jaybird",
-      "name": "Sweat for a Cause | The Build",
-      "booking_start_date": "2026-01-16 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-01-23",
-      "start_time": "06:00",
-      "available_spot_count": 20,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Balance - Teacher Development $18",
-      "booking_start_date": "2026-01-16 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-01-23",
-      "start_time": "14:30",
-      "available_spot_count": 39,
-      "capacity": 45
     },
     {
       "studio": "Jaybird",
@@ -260,7 +230,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-26",
       "start_time": "16:00",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 45
     },
     {
@@ -400,7 +370,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-27",
       "start_time": "12:00",
-      "available_spot_count": 33,
+      "available_spot_count": 31,
       "capacity": 45
     },
     {
@@ -450,7 +420,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-27",
       "start_time": "17:20",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 45
     },
     {
@@ -490,7 +460,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-27",
       "start_time": "20:00",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 45
     },
     {
@@ -540,7 +510,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-28",
       "start_time": "07:30",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -570,7 +540,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-28",
       "start_time": "09:15",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 36
     },
     {
@@ -580,7 +550,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-28",
       "start_time": "09:30",
-      "available_spot_count": 44,
+      "available_spot_count": 42,
       "capacity": 45
     },
     {
@@ -600,7 +570,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-28",
       "start_time": "10:45",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 36
     },
     {
@@ -610,7 +580,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-28",
       "start_time": "12:00",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 45
     },
     {
@@ -700,7 +670,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-28",
       "start_time": "18:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -720,7 +690,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-28",
       "start_time": "18:40",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 45
     },
     {
@@ -830,7 +800,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-29",
       "start_time": "17:20",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -890,7 +860,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-30",
       "start_time": "10:45",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 36
     },
     {
@@ -900,7 +870,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-30",
       "start_time": "12:05",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 36
     },
     {
@@ -910,7 +880,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-30",
       "start_time": "16:00",
-      "available_spot_count": 19,
+      "available_spot_count": 17,
       "capacity": 36
     },
     {
@@ -1005,46 +975,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2026-01-16 07:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-23",
-      "start_time": "07:00",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-01-16 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-23",
-      "start_time": "09:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-01-16 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-23",
-      "start_time": "10:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-01-16 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-23",
-      "start_time": "14:00",
-      "available_spot_count": 3,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Club Lagree x Full Body (Headsets) x R&B x Sahajan",
       "booking_start_date": "2026-01-19 15:30",
       "location": "Vancouver",
@@ -1090,7 +1020,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "10:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -1140,7 +1070,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "16:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -1150,7 +1080,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "17:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -1160,7 +1090,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "18:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -1202,26 +1132,6 @@
       "start_time": "15:00",
       "available_spot_count": 15,
       "capacity": 16
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: 80s x 2010s",
-      "booking_start_date": "2026-01-15 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-01-23",
-      "start_time": "16:20",
-      "available_spot_count": 4,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: EDM: GRITTY x OBNOXIOUS - VOL 8",
-      "booking_start_date": "2026-01-15 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-01-23",
-      "start_time": "18:40",
-      "available_spot_count": 5,
-      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -1270,7 +1180,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-28",
       "start_time": "06:00",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
@@ -1290,7 +1200,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-29",
       "start_time": "06:00",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 50
     },
     {
