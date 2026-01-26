@@ -121,6 +121,8 @@ def is_sponsored_class(class_data) -> bool:
         name = name.replace("xatelier elan coffee", "").strip()
     if "x atelier elan coffee" in name:
         name = name.replace("x atelier elan coffee", "").strip()
+    if "x poppi" in name:
+        name = name.replace("x poppi", "").strip()
 
     if any(target == name for target in FILTER_OUT):
         return False
