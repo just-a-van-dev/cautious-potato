@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-27T00:34:02.548033-08:00",
+  "last_updated": "2026-01-27T01:33:30.248446-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -370,7 +370,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "13:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
