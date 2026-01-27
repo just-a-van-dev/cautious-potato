@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-27T05:48:25.358154-08:00",
+  "last_updated": "2026-01-27T06:30:42.215785-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -80,7 +80,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-27",
       "start_time": "06:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 20
     },
     {
@@ -90,7 +90,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-27",
       "start_time": "06:10",
-      "available_spot_count": 23,
+      "available_spot_count": 21,
       "capacity": 45
     },
     {
@@ -100,7 +100,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-27",
       "start_time": "07:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 20
     },
     {
@@ -370,7 +370,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
