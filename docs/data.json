@@ -1,26 +1,6 @@
 {
-  "last_updated": "2026-01-26T15:45:33.188544-08:00",
+  "last_updated": "2026-01-26T17:53:59.035236-08:00",
   "special": [
-    {
-      "studio": "Jaybird",
-      "name": "Friends + Family | Mat",
-      "booking_start_date": "2026-01-19 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-01-26",
-      "start_time": "13:30",
-      "available_spot_count": 29,
-      "capacity": 45
-    },
-    {
-      "studio": "Ritual",
-      "name": "Community Class | Power Yoga in support of Iran",
-      "booking_start_date": "2026-01-12 16:00",
-      "location": "West End",
-      "start_date": "2026-01-26",
-      "start_time": "16:00",
-      "available_spot_count": 0,
-      "capacity": 17
-    },
     {
       "studio": "Ritual",
       "name": "Community Class | Flow Yoga in support of Iran",
@@ -28,7 +8,7 @@
       "location": "West End",
       "start_date": "2026-02-02",
       "start_time": "16:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 17
     }
   ],
@@ -95,72 +75,12 @@
     },
     {
       "studio": "Jaybird",
-      "name": "Friends + Family | Mat",
-      "booking_start_date": "2026-01-19 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-01-26",
-      "start_time": "13:30",
-      "available_spot_count": 29,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn  \u2014 Reformer (Heated) x Poppi",
-      "booking_start_date": "2026-01-19 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-01-26",
-      "start_time": "15:45",
-      "available_spot_count": 2,
-      "capacity": 20
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Build  \u2014 Happy Hour x Poppi",
-      "booking_start_date": "2026-01-19 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-01-26",
-      "start_time": "16:00",
-      "available_spot_count": 17,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn  \u2014 Reformer (Heated) x Poppi",
-      "booking_start_date": "2026-01-19 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-01-26",
-      "start_time": "17:00",
-      "available_spot_count": 10,
-      "capacity": 20
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn  \u2014 Reformer (Heated) x Poppi",
-      "booking_start_date": "2026-01-19 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-01-26",
-      "start_time": "18:05",
-      "available_spot_count": 10,
-      "capacity": 20
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn  \u2014 Reformer (Heated) x Poppi",
-      "booking_start_date": "2026-01-19 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-01-26",
-      "start_time": "19:10",
-      "available_spot_count": 6,
-      "capacity": 20
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn  \u2014 Reformer (Heated) x Poppi",
       "booking_start_date": "2026-01-20 00:00",
       "location": "Kingsway",
       "start_date": "2026-01-27",
       "start_time": "06:00",
-      "available_spot_count": 4,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -190,7 +110,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-27",
       "start_time": "08:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 20
     },
     {
@@ -220,7 +140,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-28",
       "start_time": "06:00",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 36
     },
     {
@@ -230,7 +150,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-28",
       "start_time": "09:30",
-      "available_spot_count": 38,
+      "available_spot_count": 39,
       "capacity": 45
     },
     {
@@ -240,7 +160,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-28",
       "start_time": "10:45",
-      "available_spot_count": 18,
+      "available_spot_count": 19,
       "capacity": 36
     },
     {
@@ -260,7 +180,7 @@
       "location": "Kingsway",
       "start_date": "2026-01-28",
       "start_time": "16:00",
-      "available_spot_count": 34,
+      "available_spot_count": 32,
       "capacity": 45
     },
     {
@@ -310,7 +230,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-30",
       "start_time": "18:40",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 36
     },
     {
@@ -385,36 +305,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2026-01-19 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-26",
-      "start_time": "08:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-01-19 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-26",
-      "start_time": "09:00",
-      "available_spot_count": 3,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Club Lagree x Full Body(Headsets) x R&B x Sahajan",
-      "booking_start_date": "2026-01-19 15:30",
-      "location": "Vancouver",
-      "start_date": "2026-01-26",
-      "start_time": "15:30",
-      "available_spot_count": 1,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Full Body x Smart Sweets",
       "booking_start_date": "2026-01-20 07:00",
       "location": "Vancouver",
@@ -430,7 +320,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "08:00",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -440,7 +330,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "09:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -450,7 +340,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "10:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 12
     },
     {
@@ -460,7 +350,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "11:00",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -490,7 +380,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-27",
       "start_time": "14:00",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -550,7 +440,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-01-31",
       "start_time": "14:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 16
     },
     {
@@ -562,36 +452,6 @@
       "start_time": "15:00",
       "available_spot_count": 15,
       "capacity": 16
-    },
-    {
-      "studio": "Spin Society",
-      "name": "HEME: ARIANA GRANDE x NICKI MINAJ",
-      "booking_start_date": "2026-01-18 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-01-26",
-      "start_time": "07:15",
-      "available_spot_count": 31,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: RHIANNA X REZZ",
-      "booking_start_date": "2026-01-18 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-01-26",
-      "start_time": "12:30",
-      "available_spot_count": 28,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: RUFUS DU SOL x ODESZA x TINLICKER",
-      "booking_start_date": "2026-01-18 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-01-26",
-      "start_time": "17:30",
-      "available_spot_count": 0,
-      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -610,7 +470,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-28",
       "start_time": "09:45",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 50
     },
     {
@@ -650,7 +510,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-30",
       "start_time": "16:20",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 50
     },
     {
@@ -710,7 +570,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-28",
       "start_time": "09:45",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 10
     },
     {
