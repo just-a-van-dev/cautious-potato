@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-27T12:24:17.941447-08:00",
+  "last_updated": "2026-01-27T12:47:21.651768-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -140,7 +140,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-28",
       "start_time": "06:00",
-      "available_spot_count": 21,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
@@ -550,7 +550,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-30",
       "start_time": "16:20",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
