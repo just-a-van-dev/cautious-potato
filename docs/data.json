@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:33:24.777448-08:00",
+  "last_updated": "2026-01-28T01:34:57.569649-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -20,7 +20,7 @@
       "location": "Gastown",
       "start_date": "2026-01-30",
       "start_time": "16:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -330,7 +330,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-28",
       "start_time": "09:45",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 49
     },
     {
