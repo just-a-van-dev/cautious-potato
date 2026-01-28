@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-27T21:53:33.980803-08:00",
+  "last_updated": "2026-01-27T22:37:17.975352-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -100,7 +100,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-28",
       "start_time": "10:45",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 36
     },
     {
@@ -320,7 +320,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-28",
       "start_time": "06:00",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 49
     },
     {
@@ -340,7 +340,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-29",
       "start_time": "06:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 49
     },
     {
@@ -401,6 +401,26 @@
       "start_date": "2026-02-03",
       "start_time": "12:30",
       "available_spot_count": 48,
+      "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: Hip Hop x Latin House",
+      "booking_start_date": "2026-01-27 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-02-04",
+      "start_time": "09:45",
+      "available_spot_count": 45,
+      "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: Bad Bunny + Friends",
+      "booking_start_date": "2026-01-27 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-02-04",
+      "start_time": "16:20",
+      "available_spot_count": 44,
       "capacity": 49
     },
     {
