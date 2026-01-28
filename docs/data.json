@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T14:28:04.707280-08:00",
+  "last_updated": "2026-01-28T14:55:46.555009-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -180,7 +180,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-02",
       "start_time": "08:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 20
     },
     {
@@ -460,8 +460,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-02",
       "start_time": "07:15",
-      "available_spot_count": 43,
-      "capacity": 49
+      "available_spot_count": 41,
+      "capacity": 47
     },
     {
       "studio": "Spin Society",
@@ -470,8 +470,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-03",
       "start_time": "12:30",
-      "available_spot_count": 47,
-      "capacity": 49
+      "available_spot_count": 45,
+      "capacity": 47
     },
     {
       "studio": "Spin Society",
@@ -480,8 +480,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-04",
       "start_time": "09:45",
-      "available_spot_count": 41,
-      "capacity": 49
+      "available_spot_count": 39,
+      "capacity": 47
     },
     {
       "studio": "Spin Society",
@@ -490,8 +490,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-04",
       "start_time": "16:20",
-      "available_spot_count": 43,
-      "capacity": 49
+      "available_spot_count": 41,
+      "capacity": 47
     },
     {
       "studio": "Spin Society",
@@ -500,8 +500,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-05",
       "start_time": "09:45",
-      "available_spot_count": 47,
-      "capacity": 49
+      "available_spot_count": 44,
+      "capacity": 47
     },
     {
       "studio": "Spin Society",
@@ -510,8 +510,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-05",
       "start_time": "12:30",
-      "available_spot_count": 48,
-      "capacity": 49
+      "available_spot_count": 46,
+      "capacity": 47
     },
     {
       "studio": "Spin Society",
@@ -520,8 +520,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-05",
       "start_time": "17:30",
-      "available_spot_count": 47,
-      "capacity": 49
+      "available_spot_count": 45,
+      "capacity": 47
     },
     {
       "studio": "Spin Society",
@@ -530,8 +530,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-06",
       "start_time": "18:40",
-      "available_spot_count": 46,
-      "capacity": 49
+      "available_spot_count": 44,
+      "capacity": 47
     },
     {
       "studio": "Spin Society",
