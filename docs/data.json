@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T14:55:46.555009-08:00",
+  "last_updated": "2026-01-28T15:27:57.536308-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -130,7 +130,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-29",
       "start_time": "09:15",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 36
     },
     {
@@ -410,8 +410,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-29",
       "start_time": "06:00",
-      "available_spot_count": 0,
-      "capacity": 48
+      "available_spot_count": 1,
+      "capacity": 47
     },
     {
       "studio": "Spin Society",
@@ -430,7 +430,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-30",
       "start_time": "12:30",
-      "available_spot_count": 7,
+      "available_spot_count": 9,
       "capacity": 47
     },
     {
@@ -540,8 +540,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-08",
       "start_time": "09:30",
-      "available_spot_count": 49,
-      "capacity": 49
+      "available_spot_count": 47,
+      "capacity": 47
     },
     {
       "studio": "Spin Society",
@@ -550,8 +550,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-09",
       "start_time": "07:15",
-      "available_spot_count": 49,
-      "capacity": 49
+      "available_spot_count": 47,
+      "capacity": 47
     },
     {
       "studio": "Spin Society",
@@ -560,8 +560,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-11",
       "start_time": "06:00",
-      "available_spot_count": 50,
-      "capacity": 50
+      "available_spot_count": 47,
+      "capacity": 47
     },
     {
       "studio": "Evolution",
