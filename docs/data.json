@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T13:29:37.056865-08:00",
+  "last_updated": "2026-01-28T13:55:20.749857-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -290,7 +290,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-29",
       "start_time": "11:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -480,7 +480,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-04",
       "start_time": "09:45",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 49
     },
     {
@@ -500,7 +500,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-05",
       "start_time": "09:45",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 49
     },
     {
@@ -520,7 +520,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-05",
       "start_time": "17:30",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 49
     },
     {
