@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T07:05:10.232143-08:00",
+  "last_updated": "2026-01-29T08:01:20.976350-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -80,7 +80,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-29",
       "start_time": "09:15",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 36
     },
     {
@@ -120,7 +120,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-30",
       "start_time": "18:40",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 36
     },
     {
@@ -200,7 +200,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-29",
       "start_time": "10:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -230,7 +230,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-30",
       "start_time": "11:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -400,7 +400,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-04",
       "start_time": "16:20",
-      "available_spot_count": 38,
+      "available_spot_count": 36,
       "capacity": 47
     },
     {
@@ -410,7 +410,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-05",
       "start_time": "09:45",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 47
     },
     {
