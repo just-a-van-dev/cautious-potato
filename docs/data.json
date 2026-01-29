@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T14:56:47.522953-08:00",
+  "last_updated": "2026-01-29T15:32:01.863334-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -140,7 +140,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-30",
       "start_time": "06:00",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 36
     },
     {
@@ -270,7 +270,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-30",
       "start_time": "10:00",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -365,7 +365,7 @@
     },
     {
       "studio": "Turf",
-      "name": "MAMMA MIA meta + mat werk (60)",
+      "name": "MAMMA MIA \ud83d\udc1a meta + mat werk (60)",
       "booking_start_date": "2026-02-01 11:00",
       "location": "KITS - Vancouver",
       "start_date": "2026-02-08",
@@ -375,13 +375,23 @@
     },
     {
       "studio": "Turf",
-      "name": "Hannah Montana x Miley: meta + mat werk (60)",
+      "name": "Hannah Montana x Miley \ud83c\udfa4meta + mat werk (60)",
       "booking_start_date": "2026-02-08 11:00",
       "location": "KITS - Vancouver",
       "start_date": "2026-02-15",
       "start_time": "11:00",
       "available_spot_count": 34,
       "capacity": 34
+    },
+    {
+      "studio": "Turf",
+      "name": "REMIX \ud83e\udea9 Strengthen x Body Werk",
+      "booking_start_date": "2026-02-14 08:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-02-21",
+      "start_time": "08:00",
+      "available_spot_count": 24,
+      "capacity": 24
     },
     {
       "studio": "Spin Society",
@@ -400,7 +410,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-29",
       "start_time": "09:45",
-      "available_spot_count": 37,
+      "available_spot_count": 38,
       "capacity": 47
     },
     {
@@ -470,7 +480,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-04",
       "start_time": "16:20",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 47
     },
     {
@@ -520,7 +530,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-08",
       "start_time": "09:30",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 47
     },
     {
