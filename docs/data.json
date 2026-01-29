@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T03:30:58.151008-08:00",
+  "last_updated": "2026-01-29T04:58:30.947085-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -320,7 +320,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-29",
       "start_time": "06:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 47
     },
     {
