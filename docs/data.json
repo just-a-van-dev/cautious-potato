@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T08:40:01.475718-08:00",
+  "last_updated": "2026-01-30T09:33:54.074363-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -220,7 +220,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-30",
       "start_time": "12:05",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 36
     },
     {
@@ -250,7 +250,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-06",
       "start_time": "09:30",
-      "available_spot_count": 38,
+      "available_spot_count": 36,
       "capacity": 45
     },
     {
@@ -425,6 +425,16 @@
     },
     {
       "studio": "Turf",
+      "name": "REMIX\ud83e\udea9 Mat Werk x Flow (45)",
+      "booking_start_date": "2026-01-30 16:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-02-06",
+      "start_time": "16:00",
+      "available_spot_count": 30,
+      "capacity": 30
+    },
+    {
+      "studio": "Turf",
       "name": "MAMMA MIA \ud83d\udc1a meta + mat werk (60)",
       "booking_start_date": "2026-02-01 11:00",
       "location": "KITS - Vancouver",
@@ -480,7 +490,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-30",
       "start_time": "18:40",
-      "available_spot_count": 0,
+      "available_spot_count": 2,
       "capacity": 47
     },
     {
@@ -560,7 +570,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-06",
       "start_time": "18:40",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 47
     },
     {
