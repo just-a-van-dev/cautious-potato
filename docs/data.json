@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T15:32:01.863334-08:00",
+  "last_updated": "2026-01-29T18:03:55.387980-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -20,7 +20,7 @@
       "location": "Gastown",
       "start_date": "2026-01-30",
       "start_time": "16:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 15
     },
     {
@@ -65,6 +65,36 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Megaformer x Planks & Kisses",
+      "booking_start_date": "2026-02-07 00:00",
+      "location": "Gastown",
+      "start_date": "2026-02-14",
+      "start_time": "08:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Planks & Kisses",
+      "booking_start_date": "2026-02-07 00:00",
+      "location": "Gastown",
+      "start_date": "2026-02-14",
+      "start_time": "09:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer Classic x Planks & Kisses",
+      "booking_start_date": "2026-02-07 00:00",
+      "location": "Gastown",
+      "start_date": "2026-02-14",
+      "start_time": "10:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
       "name": "Megaformer x Y2K Heartbreak \ud83d\udc94",
       "booking_start_date": "2026-02-07 00:00",
       "location": "Yaletown",
@@ -75,6 +105,16 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Megaformer x Planks & Kisses",
+      "booking_start_date": "2026-02-07 00:00",
+      "location": "Gastown",
+      "start_date": "2026-02-14",
+      "start_time": "11:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
       "name": "Megaformer x Y2K Heartbreak \ud83d\udc94",
       "booking_start_date": "2026-02-07 00:00",
       "location": "Yaletown",
@@ -82,6 +122,16 @@
       "start_time": "11:00",
       "available_spot_count": 20,
       "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Planks & Kisses",
+      "booking_start_date": "2026-02-07 00:00",
+      "location": "Gastown",
+      "start_date": "2026-02-14",
+      "start_time": "12:00",
+      "available_spot_count": 15,
+      "capacity": 15
     },
     {
       "studio": "Lagree West",
@@ -105,6 +155,46 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Megaformer x Galentine's on the Mega",
+      "booking_start_date": "2026-02-08 00:00",
+      "location": "Gastown",
+      "start_date": "2026-02-15",
+      "start_time": "11:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Galentine's on the Mega",
+      "booking_start_date": "2026-02-08 00:00",
+      "location": "Gastown",
+      "start_date": "2026-02-15",
+      "start_time": "12:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Galentine's on the Mega",
+      "booking_start_date": "2026-02-08 00:00",
+      "location": "Gastown",
+      "start_date": "2026-02-15",
+      "start_time": "13:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Galentine's on the Mega",
+      "booking_start_date": "2026-02-08 00:00",
+      "location": "Gastown",
+      "start_date": "2026-02-15",
+      "start_time": "14:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
       "booking_start_date": "2026-01-19 20:15",
       "location": "Main St",
@@ -116,31 +206,11 @@
     {
       "studio": "Jaybird",
       "name": "The Build - Happy Hour x Poppi",
-      "booking_start_date": "2026-01-22 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-01-29",
-      "start_time": "09:15",
-      "available_spot_count": 19,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
-      "name": "Teacher Development - The Bowls $18",
-      "booking_start_date": "2026-01-22 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-01-29",
-      "start_time": "10:45",
-      "available_spot_count": 43,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Build - Happy Hour x Poppi",
       "booking_start_date": "2026-01-23 00:00",
       "location": "Yaletown",
       "start_date": "2026-01-30",
       "start_time": "06:00",
-      "available_spot_count": 27,
+      "available_spot_count": 29,
       "capacity": 36
     },
     {
@@ -160,7 +230,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-30",
       "start_time": "18:40",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 36
     },
     {
@@ -236,41 +306,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-01-22 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-29",
-      "start_time": "10:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-01-22 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-29",
-      "start_time": "11:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-01-22 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-29",
-      "start_time": "13:00",
-      "available_spot_count": 3,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
       "booking_start_date": "2026-01-23 10:00",
       "location": "Vancouver",
       "start_date": "2026-01-30",
       "start_time": "10:00",
-      "available_spot_count": 3,
+      "available_spot_count": 0,
       "capacity": 12
     },
     {
@@ -280,7 +320,7 @@
       "location": "Vancouver",
       "start_date": "2026-01-30",
       "start_time": "11:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 12
     },
     {
@@ -365,6 +405,16 @@
     },
     {
       "studio": "Turf",
+      "name": "Taylor Swift \u26a1\ufe0f Drake: meta x Mat Werk 45",
+      "booking_start_date": "2026-01-29 09:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-02-05",
+      "start_time": "09:30",
+      "available_spot_count": 21,
+      "capacity": 34
+    },
+    {
+      "studio": "Turf",
       "name": "MAMMA MIA \ud83d\udc1a meta + mat werk (60)",
       "booking_start_date": "2026-02-01 11:00",
       "location": "KITS - Vancouver",
@@ -395,32 +445,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: EMMIT FENN x GESAFFELSTEIN",
-      "booking_start_date": "2026-01-21 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-01-29",
-      "start_time": "06:00",
-      "available_spot_count": 8,
-      "capacity": 47
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME : TBT - COUNTRY EDITION",
-      "booking_start_date": "2026-01-21 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-01-29",
-      "start_time": "09:45",
-      "available_spot_count": 38,
-      "capacity": 47
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: DRAKE x CALVIN HARRIS",
       "booking_start_date": "2026-01-22 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-30",
       "start_time": "12:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 47
     },
     {
@@ -430,7 +460,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-30",
       "start_time": "16:20",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 47
     },
     {
@@ -470,7 +500,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-04",
       "start_time": "09:45",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 47
     },
     {
@@ -480,7 +510,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-04",
       "start_time": "16:20",
-      "available_spot_count": 32,
+      "available_spot_count": 29,
       "capacity": 47
     },
     {
@@ -500,7 +530,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-05",
       "start_time": "12:30",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 47
     },
     {
@@ -510,7 +540,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-05",
       "start_time": "17:30",
-      "available_spot_count": 22,
+      "available_spot_count": 18,
       "capacity": 47
     },
     {
@@ -520,7 +550,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-06",
       "start_time": "18:40",
-      "available_spot_count": 31,
+      "available_spot_count": 28,
       "capacity": 47
     },
     {
