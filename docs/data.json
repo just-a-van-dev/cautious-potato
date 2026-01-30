@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T06:42:46.729147-08:00",
+  "last_updated": "2026-01-30T07:35:14.222089-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -250,7 +250,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-06",
       "start_time": "09:30",
-      "available_spot_count": 42,
+      "available_spot_count": 39,
       "capacity": 45
     },
     {
@@ -400,7 +400,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-01-31",
       "start_time": "14:00",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 16
     },
     {
@@ -470,7 +470,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-30",
       "start_time": "16:20",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 47
     },
     {
