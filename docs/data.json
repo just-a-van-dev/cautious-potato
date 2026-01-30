@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T13:49:34.358316-08:00",
+  "last_updated": "2026-01-30T14:26:49.577687-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -65,6 +65,36 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Happy Hour x Galentine's on the Mega \ud83d\udc83\ud83c\udffb",
+      "booking_start_date": "2026-02-05 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-02-12",
+      "start_time": "14:15",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Galentine's on the Mega \ud83d\udc83\ud83c\udffb",
+      "booking_start_date": "2026-02-05 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-02-12",
+      "start_time": "15:15",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Galentine's on the Mega \ud83d\udc83\ud83c\udffb",
+      "booking_start_date": "2026-02-05 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-02-12",
+      "start_time": "16:15",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
       "booking_start_date": "2026-02-06 00:00",
       "location": "Gastown",
@@ -72,6 +102,16 @@
       "start_time": "09:00",
       "available_spot_count": 15,
       "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Heartbreak Holds\ud83d\udc94",
+      "booking_start_date": "2026-02-07 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-02-14",
+      "start_time": "07:00",
+      "available_spot_count": 20,
+      "capacity": 20
     },
     {
       "studio": "Lagree West",
@@ -85,6 +125,16 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Megaformer x Heartbreak Holds\ud83d\udc94",
+      "booking_start_date": "2026-02-07 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-02-14",
+      "start_time": "08:00",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
       "name": "Megaformer x Planks & Kisses",
       "booking_start_date": "2026-02-07 00:00",
       "location": "Gastown",
@@ -92,6 +142,16 @@
       "start_time": "09:00",
       "available_spot_count": 15,
       "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer Classic x Heartbreak Holds\ud83d\udc94",
+      "booking_start_date": "2026-02-07 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-02-14",
+      "start_time": "09:00",
+      "available_spot_count": 20,
+      "capacity": 20
     },
     {
       "studio": "Lagree West",
@@ -132,6 +192,16 @@
       "start_time": "11:00",
       "available_spot_count": 20,
       "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mega Cardio Arms/Abs/Tread x Cupid's Core \ud83d\udc98",
+      "booking_start_date": "2026-02-07 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-02-14",
+      "start_time": "11:15",
+      "available_spot_count": 26,
+      "capacity": 26
     },
     {
       "studio": "Lagree West",
@@ -205,6 +275,26 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Happy Hour x All\u2019s Fair in Love & Lagree",
+      "booking_start_date": "2026-02-08 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-02-15",
+      "start_time": "16:30",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour x All\u2019s Fair in Love & Lagree",
+      "booking_start_date": "2026-02-08 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-02-15",
+      "start_time": "17:30",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
       "booking_start_date": "2026-01-19 20:15",
       "location": "Main St",
@@ -240,7 +330,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-30",
       "start_time": "18:40",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 36
     },
     {
@@ -430,7 +520,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-05",
       "start_time": "09:30",
-      "available_spot_count": 12,
+      "available_spot_count": 9,
       "capacity": 34
     },
     {
@@ -632,6 +722,46 @@
       "start_time": "06:00",
       "available_spot_count": 47,
       "capacity": 47
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: SABRINA CARPENTER x JOHN SUMMITT",
+      "booking_start_date": "2026-02-05 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-02-13",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: HILARY DUFF + AVRIL LAVIGNE",
+      "booking_start_date": "2026-02-05 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-02-13",
+      "start_time": "16:20",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: LOVE SONGS x BREAKUP SONGS",
+      "booking_start_date": "2026-02-05 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-02-13",
+      "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: EDM: GRITTY x OBNOXIOUS - VOL 2",
+      "booking_start_date": "2026-02-07 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-02-15",
+      "start_time": "11:50",
+      "available_spot_count": 50,
+      "capacity": 50
     },
     {
       "studio": "Evolution",
