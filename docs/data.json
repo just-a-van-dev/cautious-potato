@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T15:25:53.368050-08:00",
+  "last_updated": "2026-01-30T15:49:20.401562-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -350,7 +350,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-06",
       "start_time": "09:30",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 45
     },
     {
@@ -520,7 +520,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-05",
       "start_time": "09:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 34
     },
     {
@@ -610,7 +610,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-30",
       "start_time": "18:40",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 47
     },
     {
@@ -650,7 +650,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-04",
       "start_time": "16:20",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 47
     },
     {
@@ -680,7 +680,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-05",
       "start_time": "17:30",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 47
     },
     {
