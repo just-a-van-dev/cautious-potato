@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T10:43:02.613596-08:00",
+  "last_updated": "2026-01-30T11:31:58.481507-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -250,7 +250,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-06",
       "start_time": "09:30",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 45
     },
     {
@@ -445,6 +445,16 @@
     },
     {
       "studio": "Turf",
+      "name": "ANTI-VALENTINE \ud83d\udda4meta x MN",
+      "booking_start_date": "2026-02-06 09:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-02-13",
+      "start_time": "09:30",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
       "name": "Hannah Montana x Miley \ud83c\udfa4meta + mat werk (60)",
       "booking_start_date": "2026-02-08 11:00",
       "location": "KITS - Vancouver",
@@ -452,6 +462,16 @@
       "start_time": "11:00",
       "available_spot_count": 34,
       "capacity": 34
+    },
+    {
+      "studio": "Turf",
+      "name": "NOTHIN but 90's \ud83d\udcbf meta x MN",
+      "booking_start_date": "2026-02-13 09:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-02-20",
+      "start_time": "09:30",
+      "available_spot_count": 32,
+      "capacity": 32
     },
     {
       "studio": "Turf",
@@ -470,7 +490,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-30",
       "start_time": "12:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 47
     },
     {
@@ -530,7 +550,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-04",
       "start_time": "16:20",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 47
     },
     {
