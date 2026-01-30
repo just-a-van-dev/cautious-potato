@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T07:35:14.222089-08:00",
+  "last_updated": "2026-01-30T08:40:01.475718-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -220,7 +220,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-30",
       "start_time": "12:05",
-      "available_spot_count": 20,
+      "available_spot_count": 21,
       "capacity": 36
     },
     {
@@ -230,7 +230,7 @@
       "location": "Yaletown",
       "start_date": "2026-01-30",
       "start_time": "18:40",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 36
     },
     {
@@ -250,7 +250,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-06",
       "start_time": "09:30",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 45
     },
     {
@@ -420,7 +420,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-05",
       "start_time": "09:30",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 34
     },
     {
@@ -470,7 +470,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-30",
       "start_time": "16:20",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 47
     },
     {
@@ -530,17 +530,17 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-05",
       "start_time": "09:45",
-      "available_spot_count": 41,
+      "available_spot_count": 39,
       "capacity": 47
     },
     {
       "studio": "Spin Society",
-      "name": "HEME: DRAKE x THE WKND",
+      "name": "THEME: DRAKE x THE WKND",
       "booking_start_date": "2026-01-28 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-05",
       "start_time": "12:30",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 47
     },
     {
@@ -560,7 +560,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-06",
       "start_time": "18:40",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 47
     },
     {
