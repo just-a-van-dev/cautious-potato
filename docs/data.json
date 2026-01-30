@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T23:39:51.212709-08:00",
+  "last_updated": "2026-01-30T00:39:12.538760-08:00",
   "special": [
     {
       "studio": "Ritual",
@@ -30,7 +30,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-08",
       "start_time": "07:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 20
     },
     {
@@ -250,7 +250,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-06",
       "start_time": "09:30",
-      "available_spot_count": 45,
+      "available_spot_count": 43,
       "capacity": 45
     },
     {
@@ -460,7 +460,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-30",
       "start_time": "12:30",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 47
     },
     {
@@ -470,7 +470,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-01-30",
       "start_time": "16:20",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 47
     },
     {
@@ -560,7 +560,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-06",
       "start_time": "18:40",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 47
     },
     {
