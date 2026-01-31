@@ -1,6 +1,16 @@
 {
-  "last_updated": "2026-01-30T15:49:20.401562-08:00",
+  "last_updated": "2026-01-30T17:59:56.152592-08:00",
   "special": [
+    {
+      "studio": "Jaybird",
+      "name": "The Balance + ALO Community Class",
+      "booking_start_date": "2026-02-14 17:45",
+      "location": "Yaletown",
+      "start_date": "2026-02-21",
+      "start_time": "17:45",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
     {
       "studio": "Ritual",
       "name": "Community Class | Flow Yoga in support of Iran",
@@ -13,16 +23,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2025-12-31 16:15",
-      "location": "Gastown",
-      "start_date": "2026-01-30",
-      "start_time": "16:15",
-      "available_spot_count": 0,
-      "capacity": 15
-    },
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
@@ -305,36 +305,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Build - Happy Hour x Poppi",
-      "booking_start_date": "2026-01-23 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-01-30",
-      "start_time": "06:00",
-      "available_spot_count": 27,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Build - Happy Hour x Poppi",
-      "booking_start_date": "2026-01-23 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-01-30",
-      "start_time": "12:05",
-      "available_spot_count": 15,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Build - Happy Hour x Poppi",
-      "booking_start_date": "2026-01-23 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-01-30",
-      "start_time": "18:40",
-      "available_spot_count": 12,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn \u2014 Reformer x Crown Affair",
       "booking_start_date": "2026-01-26 00:00",
       "location": "Kingsway",
@@ -350,7 +320,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-06",
       "start_time": "09:30",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 45
     },
     {
@@ -405,6 +375,26 @@
     },
     {
       "studio": "Jaybird",
+      "name": "The Balance + ALO Community Class",
+      "booking_start_date": "2026-02-14 17:45",
+      "location": "Yaletown",
+      "start_date": "2026-02-21",
+      "start_time": "17:45",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn + ALO",
+      "booking_start_date": "2026-02-16 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-02-23",
+      "start_time": "07:30",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
       "name": "The Burn + ALO",
       "booking_start_date": "2026-02-23 00:00",
       "location": "Yaletown",
@@ -412,26 +402,6 @@
       "start_time": "07:30",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2026-01-23 07:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-30",
-      "start_time": "07:00",
-      "available_spot_count": 3,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-01-23 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-01-30",
-      "start_time": "09:00",
-      "available_spot_count": 3,
-      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -500,7 +470,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-01-31",
       "start_time": "14:00",
-      "available_spot_count": 11,
+      "available_spot_count": 16,
       "capacity": 16
     },
     {
@@ -510,7 +480,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-01-31",
       "start_time": "15:00",
-      "available_spot_count": 14,
+      "available_spot_count": 16,
       "capacity": 16
     },
     {
@@ -520,7 +490,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-05",
       "start_time": "09:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 34
     },
     {
@@ -530,7 +500,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-06",
       "start_time": "16:00",
-      "available_spot_count": 30,
+      "available_spot_count": 28,
       "capacity": 30
     },
     {
@@ -585,36 +555,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: DRAKE x CALVIN HARRIS",
-      "booking_start_date": "2026-01-22 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-01-30",
-      "start_time": "12:30",
-      "available_spot_count": 0,
-      "capacity": 47
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: PITBULL x USHER x NE-YO",
-      "booking_start_date": "2026-01-22 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-01-30",
-      "start_time": "16:20",
-      "available_spot_count": 0,
-      "capacity": 47
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: CARDI B x MEGAN THEE STALLION",
-      "booking_start_date": "2026-01-22 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-01-30",
-      "start_time": "18:40",
-      "available_spot_count": 3,
-      "capacity": 47
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: ZEDD x DUA LIPA",
       "booking_start_date": "2026-01-25 12:00",
       "location": "MOUNT PLEASANT",
@@ -630,7 +570,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-03",
       "start_time": "12:30",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 47
     },
     {
@@ -650,7 +590,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-04",
       "start_time": "16:20",
-      "available_spot_count": 20,
+      "available_spot_count": 21,
       "capacity": 47
     },
     {
@@ -670,7 +610,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-05",
       "start_time": "12:30",
-      "available_spot_count": 38,
+      "available_spot_count": 35,
       "capacity": 47
     },
     {
@@ -680,7 +620,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-05",
       "start_time": "17:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 47
     },
     {
