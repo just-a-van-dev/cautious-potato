@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T09:38:05.995075-08:00",
+  "last_updated": "2026-02-02T10:44:29.464417-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -320,7 +320,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-06",
       "start_time": "09:30",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 45
     },
     {
@@ -440,7 +440,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-02",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -565,6 +565,16 @@
     },
     {
       "studio": "Turf",
+      "name": "REMIX \ud83e\udea9 meta x Mat Werk ft. Karley + Keira",
+      "booking_start_date": "2026-01-20 07:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-02-19",
+      "start_time": "07:00",
+      "available_spot_count": 31,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
       "name": "Viral Hits 02 \ud83d\udcbf meta x MN",
       "booking_start_date": "2026-01-21 09:30",
       "location": "KITS - Vancouver",
@@ -580,7 +590,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-21",
       "start_time": "08:00",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 24
     },
     {
@@ -630,7 +640,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-04",
       "start_time": "16:20",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 47
     },
     {
@@ -690,7 +700,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-09",
       "start_time": "07:15",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 47
     },
     {
