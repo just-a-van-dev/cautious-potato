@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T14:54:46.660368-08:00",
+  "last_updated": "2026-02-04T15:29:04.035124-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -117,6 +117,16 @@
       "studio": "Lagree West",
       "name": "Happy Hour Megaformer x SmartSweets",
       "booking_start_date": "2026-02-06 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-02-13",
+      "start_time": "05:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x SmartSweets",
+      "booking_start_date": "2026-02-06 00:00",
       "location": "Yaletown",
       "start_date": "2026-02-13",
       "start_time": "05:15",
@@ -132,6 +142,16 @@
       "start_time": "09:00",
       "available_spot_count": 15,
       "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x SmartSweets",
+      "booking_start_date": "2026-02-06 00:00",
+      "location": "Main St",
+      "start_date": "2026-02-13",
+      "start_time": "14:15",
+      "available_spot_count": 14,
+      "capacity": 14
     },
     {
       "studio": "Lagree West",
@@ -267,11 +287,31 @@
       "studio": "Lagree West",
       "name": "Happy Hour Megaformer x SmartSweets",
       "booking_start_date": "2026-02-07 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-02-14",
+      "start_time": "15:30",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x SmartSweets",
+      "booking_start_date": "2026-02-07 00:00",
       "location": "Yaletown",
       "start_date": "2026-02-14",
       "start_time": "16:30",
       "available_spot_count": 20,
       "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x SmartSweets",
+      "booking_start_date": "2026-02-07 00:00",
+      "location": "Main St",
+      "start_date": "2026-02-14",
+      "start_time": "17:00",
+      "available_spot_count": 14,
+      "capacity": 14
     },
     {
       "studio": "Lagree West",
@@ -282,6 +322,16 @@
       "start_time": "07:00",
       "available_spot_count": 20,
       "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x SmartSweets",
+      "booking_start_date": "2026-02-08 00:00",
+      "location": "Main St",
+      "start_date": "2026-02-15",
+      "start_time": "07:00",
+      "available_spot_count": 14,
+      "capacity": 14
     },
     {
       "studio": "Lagree West",
@@ -322,6 +372,16 @@
       "start_time": "14:00",
       "available_spot_count": 15,
       "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x SmartSweets",
+      "booking_start_date": "2026-02-08 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-02-15",
+      "start_time": "14:30",
+      "available_spot_count": 16,
+      "capacity": 16
     },
     {
       "studio": "Lagree West",
@@ -370,7 +430,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-06",
       "start_time": "09:30",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 45
     },
     {
@@ -402,6 +462,16 @@
       "start_time": "07:30",
       "available_spot_count": 32,
       "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "Teacher Development | The Burn $18",
+      "booking_start_date": "2026-02-04 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-02-11",
+      "start_time": "14:30",
+      "available_spot_count": 45,
+      "capacity": 45
     },
     {
       "studio": "Jaybird",
@@ -760,7 +830,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-04",
       "start_time": "09:45",
-      "available_spot_count": 24,
+      "available_spot_count": 26,
       "capacity": 46
     },
     {
@@ -770,7 +840,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-04",
       "start_time": "16:20",
-      "available_spot_count": 9,
+      "available_spot_count": 6,
       "capacity": 46
     },
     {
