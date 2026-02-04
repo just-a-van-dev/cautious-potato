@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T06:12:40.017755-08:00",
+  "last_updated": "2026-02-04T07:08:22.213842-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -110,7 +110,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-12",
       "start_time": "16:15",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 20
     },
     {
@@ -340,7 +340,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-06",
       "start_time": "09:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 45
     },
     {
@@ -620,7 +620,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-13",
       "start_time": "09:30",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 32
     },
     {
@@ -800,6 +800,26 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-15",
       "start_time": "11:50",
+      "available_spot_count": 46,
+      "capacity": 46
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: DRAKE x KENDRICK x CHILDISH GAMBINO",
+      "booking_start_date": "2026-02-08 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-02-16",
+      "start_time": "08:20",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: EMINEM x MARIAH CAREY",
+      "booking_start_date": "2026-02-09 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-02-17",
+      "start_time": "12:30",
       "available_spot_count": 46,
       "capacity": 46
     },
