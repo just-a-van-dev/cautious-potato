@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T11:57:49.662616-08:00",
+  "last_updated": "2026-02-04T12:43:23.409633-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -111,6 +111,16 @@
       "start_date": "2026-02-12",
       "start_time": "16:15",
       "available_spot_count": 19,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x SmartSweets",
+      "booking_start_date": "2026-02-06 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-02-13",
+      "start_time": "05:15",
+      "available_spot_count": 20,
       "capacity": 20
     },
     {
@@ -250,6 +260,26 @@
       "location": "Yaletown",
       "start_date": "2026-02-14",
       "start_time": "13:00",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x SmartSweets",
+      "booking_start_date": "2026-02-07 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-02-14",
+      "start_time": "16:30",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x SmartSweets",
+      "booking_start_date": "2026-02-08 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-02-15",
+      "start_time": "07:00",
       "available_spot_count": 20,
       "capacity": 20
     },
@@ -500,7 +530,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-05",
       "start_time": "14:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -570,7 +600,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-11",
       "start_time": "12:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -670,7 +700,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-13",
       "start_time": "09:30",
-      "available_spot_count": 26,
+      "available_spot_count": 24,
       "capacity": 32
     },
     {
@@ -750,7 +780,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-05",
       "start_time": "09:45",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 46
     },
     {
