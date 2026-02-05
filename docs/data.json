@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T15:53:32.320408-08:00",
+  "last_updated": "2026-02-04T18:06:23.365237-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -7,6 +7,16 @@
       "booking_start_date": "2026-02-14 17:45",
       "location": "Yaletown",
       "start_date": "2026-02-21",
+      "start_time": "17:45",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Balance + ALO Community Class",
+      "booking_start_date": "2026-03-14 17:45",
+      "location": "Yaletown",
+      "start_date": "2026-03-21",
       "start_time": "17:45",
       "available_spot_count": 36,
       "capacity": 36
@@ -110,7 +120,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-12",
       "start_time": "16:15",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 20
     },
     {
@@ -430,7 +440,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-06",
       "start_time": "09:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 45
     },
     {
@@ -445,6 +455,16 @@
     },
     {
       "studio": "Jaybird",
+      "name": "The Build - Happy Hour x Innisfree",
+      "booking_start_date": "2026-01-31 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-02-07",
+      "start_time": "17:45",
+      "available_spot_count": 27,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
       "name": "Sweat for a Cause | The Breath",
       "booking_start_date": "2026-02-01 00:00",
       "location": "Kingsway",
@@ -452,6 +472,16 @@
       "start_time": "17:45",
       "available_spot_count": 39,
       "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn - Reformer x Innisfree",
+      "booking_start_date": "2026-02-02 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-02-09",
+      "start_time": "08:00",
+      "available_spot_count": 16,
+      "capacity": 20
     },
     {
       "studio": "Jaybird",
@@ -534,44 +564,14 @@
       "capacity": 36
     },
     {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2026-01-28 07:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-04",
-      "start_time": "07:00",
-      "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2026-01-28 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-04",
-      "start_time": "08:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-01-28 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-04",
-      "start_time": "09:00",
-      "available_spot_count": 3,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Advanced (Min 30 Classes) With Headsets",
-      "booking_start_date": "2026-01-28 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-04",
-      "start_time": "12:00",
-      "available_spot_count": 4,
-      "capacity": 12
+      "studio": "Jaybird",
+      "name": "The Balance + ALO Community Class",
+      "booking_start_date": "2026-03-14 17:45",
+      "location": "Yaletown",
+      "start_date": "2026-03-21",
+      "start_time": "17:45",
+      "available_spot_count": 36,
+      "capacity": 36
     },
     {
       "studio": "Lagree Studio",
@@ -600,7 +600,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-05",
       "start_time": "14:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -610,7 +610,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-05",
       "start_time": "15:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -670,7 +670,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-11",
       "start_time": "12:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -825,32 +825,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: Hip Hop x Latin House",
-      "booking_start_date": "2026-01-27 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-02-04",
-      "start_time": "09:45",
-      "available_spot_count": 26,
-      "capacity": 46
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: Bad Bunny + Friends",
-      "booking_start_date": "2026-01-27 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-02-04",
-      "start_time": "16:20",
-      "available_spot_count": 7,
-      "capacity": 46
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: KENDRICK LAMAR x BEYONC\u00c9",
       "booking_start_date": "2026-01-28 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-05",
       "start_time": "09:45",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 46
     },
     {
@@ -870,7 +850,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-05",
       "start_time": "17:30",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 47
     },
     {
