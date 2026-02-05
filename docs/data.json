@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T14:57:25.347947-08:00",
+  "last_updated": "2026-02-05T15:30:08.596502-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -23,6 +23,26 @@
     }
   ],
   "sponsored": [
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x C\u00fcR Laser and Skin",
+      "booking_start_date": "2026-01-30 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-02-06",
+      "start_time": "14:15",
+      "available_spot_count": 17,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer Classic x C\u00fcR Laser and Skin",
+      "booking_start_date": "2026-01-30 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-02-06",
+      "start_time": "15:15",
+      "available_spot_count": 1,
+      "capacity": 20
+    },
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
@@ -440,7 +460,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-06",
       "start_time": "09:30",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 45
     },
     {
@@ -620,7 +640,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-06",
       "start_time": "07:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
