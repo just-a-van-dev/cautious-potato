@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T11:55:43.158959-08:00",
+  "last_updated": "2026-02-06T12:35:04.615880-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -50,7 +50,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-08",
       "start_time": "07:00",
-      "available_spot_count": 4,
+      "available_spot_count": 1,
       "capacity": 20
     },
     {
@@ -180,7 +180,7 @@
       "location": "Main St",
       "start_date": "2026-02-13",
       "start_time": "14:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 14
     },
     {
@@ -220,7 +220,7 @@
       "location": "Gastown",
       "start_date": "2026-02-14",
       "start_time": "09:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 15
     },
     {
@@ -635,6 +635,16 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-01-30 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-02-06",
+      "start_time": "13:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Advanced (Min 30 Classes) With Headsets",
       "booking_start_date": "2026-02-04 12:00",
       "location": "Vancouver",
@@ -720,7 +730,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-12",
       "start_time": "08:15",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 32
     },
     {
@@ -730,7 +740,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-13",
       "start_time": "09:30",
-      "available_spot_count": 21,
+      "available_spot_count": 19,
       "capacity": 32
     },
     {
@@ -740,7 +750,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-15",
       "start_time": "11:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 34
     },
     {
@@ -830,7 +840,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-13",
       "start_time": "12:30",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 45
     },
     {
