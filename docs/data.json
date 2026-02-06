@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T05:00:47.829392-08:00",
+  "last_updated": "2026-02-06T06:11:46.235069-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -210,7 +210,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-14",
       "start_time": "08:00",
-      "available_spot_count": 20,
+      "available_spot_count": 17,
       "capacity": 20
     },
     {
@@ -220,7 +220,7 @@
       "location": "Gastown",
       "start_date": "2026-02-14",
       "start_time": "09:00",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 15
     },
     {
@@ -230,7 +230,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-14",
       "start_time": "09:00",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 20
     },
     {
@@ -240,7 +240,7 @@
       "location": "Gastown",
       "start_date": "2026-02-14",
       "start_time": "10:00",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 15
     },
     {
@@ -250,7 +250,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-14",
       "start_time": "10:00",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -260,7 +260,7 @@
       "location": "Gastown",
       "start_date": "2026-02-14",
       "start_time": "11:00",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 15
     },
     {
@@ -280,7 +280,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-14",
       "start_time": "11:15",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 26
     },
     {
@@ -630,7 +630,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-06",
       "start_time": "12:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
