@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T23:07:58.204861-08:00",
+  "last_updated": "2026-02-06T23:51:26.270235-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -120,7 +120,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-12",
       "start_time": "16:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -250,7 +250,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-14",
       "start_time": "11:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 20
     },
     {
@@ -440,7 +440,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-07",
       "start_time": "17:45",
-      "available_spot_count": 17,
+      "available_spot_count": 19,
       "capacity": 36
     },
     {
