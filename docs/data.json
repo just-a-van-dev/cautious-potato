@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T15:50:13.726962-08:00",
+  "last_updated": "2026-02-06T18:02:07.776604-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -25,32 +25,12 @@
   "sponsored": [
     {
       "studio": "Lagree West",
-      "name": "Megaformer x C\u00fcR Laser and Skin",
-      "booking_start_date": "2026-01-30 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-06",
-      "start_time": "14:15",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer Classic x C\u00fcR Laser and Skin",
-      "booking_start_date": "2026-01-30 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-06",
-      "start_time": "15:15",
-      "available_spot_count": 1,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
       "booking_start_date": "2026-01-09 07:00",
       "location": "Yaletown",
       "start_date": "2026-02-08",
       "start_time": "07:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 20
     },
     {
@@ -60,7 +40,7 @@
       "location": "Gastown",
       "start_date": "2026-02-08",
       "start_time": "12:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -70,7 +50,7 @@
       "location": "Gastown",
       "start_date": "2026-02-08",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -130,7 +110,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-12",
       "start_time": "15:15",
-      "available_spot_count": 15,
+      "available_spot_count": 16,
       "capacity": 20
     },
     {
@@ -150,7 +130,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-13",
       "start_time": "05:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 16
     },
     {
@@ -170,7 +150,7 @@
       "location": "Gastown",
       "start_date": "2026-02-13",
       "start_time": "09:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 15
     },
     {
@@ -180,7 +160,7 @@
       "location": "Main St",
       "start_date": "2026-02-13",
       "start_time": "14:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 14
     },
     {
@@ -250,7 +230,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-14",
       "start_time": "10:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -260,7 +240,7 @@
       "location": "Gastown",
       "start_date": "2026-02-14",
       "start_time": "11:00",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 15
     },
     {
@@ -300,7 +280,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-14",
       "start_time": "12:00",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 20
     },
     {
@@ -455,32 +435,12 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn x Crown Affair",
-      "booking_start_date": "2026-01-30 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-02-06",
-      "start_time": "09:30",
-      "available_spot_count": 3,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
-      "name": "Teacher Development | The Balance $18",
-      "booking_start_date": "2026-01-30 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-06",
-      "start_time": "14:30",
-      "available_spot_count": 27,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Build - Happy Hour x Innisfree",
       "booking_start_date": "2026-01-31 00:00",
       "location": "Yaletown",
       "start_date": "2026-02-07",
       "start_time": "17:45",
-      "available_spot_count": 18,
+      "available_spot_count": 20,
       "capacity": 36
     },
     {
@@ -490,7 +450,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-08",
       "start_time": "17:45",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 45
     },
     {
@@ -500,7 +460,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-09",
       "start_time": "08:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -595,56 +555,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2026-01-30 07:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-06",
-      "start_time": "07:00",
-      "available_spot_count": 9,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-01-30 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-06",
-      "start_time": "09:00",
-      "available_spot_count": 3,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-01-30 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-06",
-      "start_time": "10:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-01-30 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-06",
-      "start_time": "12:00",
-      "available_spot_count": 2,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-01-30 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-06",
-      "start_time": "13:00",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Advanced (Min 30 Classes) With Headsets",
       "booking_start_date": "2026-02-04 12:00",
       "location": "Vancouver",
@@ -705,16 +615,6 @@
     },
     {
       "studio": "Turf",
-      "name": "REMIX\ud83e\udea9 Mat Werk x Flow (45)",
-      "booking_start_date": "2026-01-30 16:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-02-06",
-      "start_time": "16:00",
-      "available_spot_count": 6,
-      "capacity": 30
-    },
-    {
-      "studio": "Turf",
       "name": "MAMMA MIA \ud83d\udc1a meta + mat werk (60)",
       "booking_start_date": "2026-02-01 11:00",
       "location": "KITS - Vancouver",
@@ -740,7 +640,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-13",
       "start_time": "09:30",
-      "available_spot_count": 19,
+      "available_spot_count": 17,
       "capacity": 32
     },
     {
@@ -795,16 +695,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: EDM: GRITTY x OBNOXIOUS - VOL 9",
-      "booking_start_date": "2026-01-29 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-02-06",
-      "start_time": "18:40",
-      "available_spot_count": 7,
-      "capacity": 45
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: KESHA x BRITNEY x MILEY",
       "booking_start_date": "2026-01-31 12:00",
       "location": "MOUNT PLEASANT",
@@ -850,7 +740,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-13",
       "start_time": "16:20",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 45
     },
     {
