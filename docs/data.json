@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T15:30:41.858284-08:00",
+  "last_updated": "2026-02-07T18:35:14.431964-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -30,7 +30,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-08",
       "start_time": "07:00",
-      "available_spot_count": 0,
+      "available_spot_count": 2,
       "capacity": 20
     },
     {
@@ -40,7 +40,7 @@
       "location": "Gastown",
       "start_date": "2026-02-08",
       "start_time": "12:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -120,7 +120,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-12",
       "start_time": "16:15",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -160,7 +160,7 @@
       "location": "Main St",
       "start_date": "2026-02-13",
       "start_time": "14:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 14
     },
     {
@@ -220,7 +220,7 @@
       "location": "Gastown",
       "start_date": "2026-02-14",
       "start_time": "10:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 15
     },
     {
@@ -250,7 +250,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-14",
       "start_time": "11:00",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 20
     },
     {
@@ -280,7 +280,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-14",
       "start_time": "12:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 20
     },
     {
@@ -290,7 +290,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-14",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 4,
       "capacity": 20
     },
     {
@@ -310,7 +310,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-14",
       "start_time": "16:30",
-      "available_spot_count": 17,
+      "available_spot_count": 15,
       "capacity": 20
     },
     {
@@ -340,7 +340,7 @@
       "location": "Main St",
       "start_date": "2026-02-15",
       "start_time": "07:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 14
     },
     {
@@ -390,7 +390,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-15",
       "start_time": "14:30",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 16
     },
     {
@@ -435,22 +435,12 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Build - Happy Hour x Innisfree",
-      "booking_start_date": "2026-01-31 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-07",
-      "start_time": "17:45",
-      "available_spot_count": 15,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
       "name": "Sweat for a Cause | The Breath",
       "booking_start_date": "2026-02-01 00:00",
       "location": "Kingsway",
       "start_date": "2026-02-08",
       "start_time": "17:45",
-      "available_spot_count": 38,
+      "available_spot_count": 36,
       "capacity": 45
     },
     {
@@ -470,7 +460,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-10",
       "start_time": "07:30",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 36
     },
     {
@@ -552,6 +542,36 @@
       "start_time": "17:45",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body",
+      "booking_start_date": "2026-02-01 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-02-08",
+      "start_time": "10:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-02-02 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-02-09",
+      "start_time": "09:00",
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-02-02 15:30",
+      "location": "Vancouver",
+      "start_date": "2026-02-09",
+      "start_time": "15:30",
+      "available_spot_count": 7,
+      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -640,7 +660,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-13",
       "start_time": "09:30",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 32
     },
     {
@@ -650,7 +670,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-15",
       "start_time": "11:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 34
     },
     {
@@ -710,7 +730,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-09",
       "start_time": "07:15",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 44
     },
     {
@@ -720,7 +740,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-11",
       "start_time": "06:00",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 45
     },
     {
@@ -740,7 +760,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-13",
       "start_time": "16:20",
-      "available_spot_count": 20,
+      "available_spot_count": 14,
       "capacity": 45
     },
     {
@@ -760,7 +780,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-15",
       "start_time": "11:50",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 45
     },
     {
