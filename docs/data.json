@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T11:46:20.798083-08:00",
+  "last_updated": "2026-02-08T12:28:31.498765-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -120,7 +120,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-12",
       "start_time": "16:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 20
     },
     {
@@ -330,7 +330,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-15",
       "start_time": "07:00",
-      "available_spot_count": 13,
+      "available_spot_count": 10,
       "capacity": 20
     },
     {
@@ -820,7 +820,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-15",
       "start_time": "11:50",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 44
     },
     {
@@ -830,7 +830,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-16",
       "start_time": "08:20",
-      "available_spot_count": 44,
+      "available_spot_count": 42,
       "capacity": 44
     },
     {
@@ -870,8 +870,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-22",
       "start_time": "11:50",
-      "available_spot_count": 46,
-      "capacity": 46
+      "available_spot_count": 44,
+      "capacity": 44
     },
     {
       "studio": "Spin Society",
@@ -880,8 +880,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-22",
       "start_time": "13:00",
-      "available_spot_count": 45,
-      "capacity": 45
+      "available_spot_count": 44,
+      "capacity": 44
     },
     {
       "studio": "Lagree Pulse",
@@ -950,7 +950,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-13",
       "start_time": "18:30",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
