@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T12:54:35.109901-08:00",
+  "last_updated": "2026-02-08T13:27:21.733008-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -310,7 +310,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-14",
       "start_time": "16:30",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -360,7 +360,7 @@
       "location": "Gastown",
       "start_date": "2026-02-15",
       "start_time": "12:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 15
     },
     {
@@ -450,7 +450,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-09",
       "start_time": "08:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 20
     },
     {
@@ -780,7 +780,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-11",
       "start_time": "06:00",
-      "available_spot_count": 22,
+      "available_spot_count": 23,
       "capacity": 44
     },
     {
@@ -820,7 +820,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-15",
       "start_time": "11:50",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 44
     },
     {
@@ -830,7 +830,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-16",
       "start_time": "08:20",
-      "available_spot_count": 39,
+      "available_spot_count": 37,
       "capacity": 44
     },
     {
