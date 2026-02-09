@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T15:37:20.255395-08:00",
+  "last_updated": "2026-02-08T18:13:40.055157-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -26,56 +26,6 @@
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2026-01-09 07:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-08",
-      "start_time": "07:00",
-      "available_spot_count": 4,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Rebound Protein",
-      "booking_start_date": "2026-02-01 00:00",
-      "location": "Gastown",
-      "start_date": "2026-02-08",
-      "start_time": "12:00",
-      "available_spot_count": 1,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Rebound Protein",
-      "booking_start_date": "2026-02-01 00:00",
-      "location": "Gastown",
-      "start_date": "2026-02-08",
-      "start_time": "13:00",
-      "available_spot_count": 4,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Rebound Protein",
-      "booking_start_date": "2026-02-01 00:00",
-      "location": "Gastown",
-      "start_date": "2026-02-08",
-      "start_time": "14:00",
-      "available_spot_count": 2,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Team Class with Tabatha C",
-      "booking_start_date": "2026-02-02 00:00",
-      "location": "Gastown",
-      "start_date": "2026-02-09",
-      "start_time": "19:15",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Sweat for a Cause/By Donation",
       "booking_start_date": "2026-01-13 05:15",
       "location": "Kitsilano",
       "start_date": "2026-02-12",
@@ -90,7 +40,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-12",
       "start_time": "13:15",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 20
     },
     {
@@ -100,7 +50,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-12",
       "start_time": "14:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -260,7 +210,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-14",
       "start_time": "11:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 26
     },
     {
@@ -270,7 +220,7 @@
       "location": "Gastown",
       "start_date": "2026-02-14",
       "start_time": "12:00",
-      "available_spot_count": 11,
+      "available_spot_count": 9,
       "capacity": 15
     },
     {
@@ -330,7 +280,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-15",
       "start_time": "07:00",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 20
     },
     {
@@ -340,7 +290,7 @@
       "location": "Main St",
       "start_date": "2026-02-15",
       "start_time": "07:00",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 14
     },
     {
@@ -350,7 +300,7 @@
       "location": "Gastown",
       "start_date": "2026-02-15",
       "start_time": "11:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 15
     },
     {
@@ -370,7 +320,7 @@
       "location": "Gastown",
       "start_date": "2026-02-15",
       "start_time": "13:00",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
@@ -390,7 +340,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-15",
       "start_time": "14:30",
-      "available_spot_count": 14,
+      "available_spot_count": 15,
       "capacity": 16
     },
     {
@@ -400,7 +350,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-15",
       "start_time": "16:30",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 20
     },
     {
@@ -410,7 +360,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-15",
       "start_time": "17:30",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 20
     },
     {
@@ -435,22 +385,12 @@
     },
     {
       "studio": "Jaybird",
-      "name": "Sweat for a Cause | The Breath",
-      "booking_start_date": "2026-02-01 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-02-08",
-      "start_time": "17:45",
-      "available_spot_count": 39,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn - Reformer x Innisfree",
       "booking_start_date": "2026-02-02 00:00",
       "location": "Kingsway",
       "start_date": "2026-02-09",
       "start_time": "08:00",
-      "available_spot_count": 5,
+      "available_spot_count": 2,
       "capacity": 20
     },
     {
@@ -460,7 +400,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-10",
       "start_time": "07:30",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 36
     },
     {
@@ -546,11 +486,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2026-02-01 10:00",
+      "booking_start_date": "2026-02-02 08:00",
       "location": "Vancouver",
-      "start_date": "2026-02-08",
-      "start_time": "10:00",
-      "available_spot_count": 6,
+      "start_date": "2026-02-09",
+      "start_time": "08:00",
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -560,7 +500,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-09",
       "start_time": "09:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -580,7 +520,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-10",
       "start_time": "09:00",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -590,7 +530,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-10",
       "start_time": "10:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -674,14 +614,14 @@
       "capacity": 12
     },
     {
-      "studio": "Turf",
-      "name": "MAMMA MIA \ud83d\udc1a meta + mat werk (60)",
-      "booking_start_date": "2026-02-01 11:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-02-08",
-      "start_time": "11:00",
-      "available_spot_count": 0,
-      "capacity": 34
+      "studio": "Lagree Studio",
+      "name": "Advanced (Min 30 Classes) With Headsets",
+      "booking_start_date": "2026-03-18 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-03-25",
+      "start_time": "12:00",
+      "available_spot_count": 12,
+      "capacity": 12
     },
     {
       "studio": "Turf",
@@ -755,16 +695,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: KESHA x BRITNEY x MILEY",
-      "booking_start_date": "2026-01-31 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-02-08",
-      "start_time": "09:30",
-      "available_spot_count": 3,
-      "capacity": 44
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: ODESZA x BILLIE EILISH",
       "booking_start_date": "2026-02-01 12:00",
       "location": "MOUNT PLEASANT",
@@ -800,7 +730,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-13",
       "start_time": "16:20",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 44
     },
     {
@@ -830,7 +760,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-16",
       "start_time": "08:20",
-      "available_spot_count": 32,
+      "available_spot_count": 29,
       "capacity": 44
     },
     {
@@ -950,7 +880,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-13",
       "start_time": "18:30",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 10
     },
     {
