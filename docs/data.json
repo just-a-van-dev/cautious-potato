@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T06:53:00.878413-08:00",
+  "last_updated": "2026-02-09T07:56:30.302612-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -170,7 +170,7 @@
       "location": "Gastown",
       "start_date": "2026-02-14",
       "start_time": "10:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -490,7 +490,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-09",
       "start_time": "08:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -500,7 +500,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-09",
       "start_time": "09:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -690,7 +690,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-09",
       "start_time": "07:15",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 44
     },
     {
@@ -740,7 +740,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-15",
       "start_time": "11:50",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 44
     },
     {
@@ -831,6 +831,16 @@
       "start_date": "2026-02-13",
       "start_time": "18:30",
       "available_spot_count": 8,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Upper Body + Abs",
+      "booking_start_date": "2026-02-09 10:00",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-02-16",
+      "start_time": "10:00",
+      "available_spot_count": 10,
       "capacity": 10
     },
     {
