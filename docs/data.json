@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T05:53:13.528037-08:00",
+  "last_updated": "2026-02-09T06:53:00.878413-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -390,7 +390,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-09",
       "start_time": "08:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 20
     },
     {
@@ -490,7 +490,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-09",
       "start_time": "08:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -690,7 +690,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-09",
       "start_time": "07:15",
-      "available_spot_count": 33,
+      "available_spot_count": 34,
       "capacity": 44
     },
     {
@@ -802,6 +802,16 @@
       "start_time": "13:00",
       "available_spot_count": 44,
       "capacity": 44
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BAD BUNNY X CARDI B",
+      "booking_start_date": "2026-02-15 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-02-23",
+      "start_time": "07:15",
+      "available_spot_count": 45,
+      "capacity": 45
     },
     {
       "studio": "Spin Society",
