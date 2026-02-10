@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T08:38:17.100339-08:00",
+  "last_updated": "2026-02-10T10:02:02.039330-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -100,7 +100,7 @@
       "location": "Gastown",
       "start_date": "2026-02-13",
       "start_time": "09:00",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -140,7 +140,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-14",
       "start_time": "08:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 20
     },
     {
@@ -170,7 +170,7 @@
       "location": "Gastown",
       "start_date": "2026-02-14",
       "start_time": "10:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 15
     },
     {
@@ -430,7 +430,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-17",
       "start_time": "10:45",
-      "available_spot_count": 34,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -490,7 +490,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-10",
       "start_time": "10:00",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -500,7 +500,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-10",
       "start_time": "11:00",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -520,7 +520,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-11",
       "start_time": "07:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -630,7 +630,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-12",
       "start_time": "08:15",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 32
     },
     {
@@ -660,7 +660,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-19",
       "start_time": "07:00",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 32
     },
     {
@@ -694,6 +694,16 @@
       "capacity": 32
     },
     {
+      "studio": "Turf",
+      "name": "BIEBER FEVER x Mat Werk (60)",
+      "booking_start_date": "2026-01-30 12:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-03-01",
+      "start_time": "12:30",
+      "available_spot_count": 29,
+      "capacity": 30
+    },
+    {
       "studio": "Spin Society",
       "name": "THEME: ANYMA x R\u00dcF\u00dcS DU SOL",
       "booking_start_date": "2026-02-03 12:00",
@@ -710,7 +720,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-13",
       "start_time": "12:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 45
     },
     {
