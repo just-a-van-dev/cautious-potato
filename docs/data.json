@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T11:38:25.587173-08:00",
+  "last_updated": "2026-02-10T12:44:30.190337-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -40,7 +40,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-12",
       "start_time": "13:15",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 20
     },
     {
@@ -280,7 +280,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-15",
       "start_time": "07:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 20
     },
     {
@@ -510,7 +510,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-10",
       "start_time": "13:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -570,6 +570,16 @@
       "location": "Vancouver",
       "start_date": "2026-02-12",
       "start_time": "10:00",
+      "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-02-05 11:00",
+      "location": "Vancouver",
+      "start_date": "2026-02-12",
+      "start_time": "11:00",
       "available_spot_count": 6,
       "capacity": 12
     },
@@ -680,7 +690,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-19",
       "start_time": "07:00",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 32
     },
     {
@@ -700,7 +710,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-21",
       "start_time": "08:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 24
     },
     {
@@ -730,7 +740,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-11",
       "start_time": "06:00",
-      "available_spot_count": 20,
+      "available_spot_count": 21,
       "capacity": 45
     },
     {
@@ -860,7 +870,7 @@
       "location": "Vancouver Downtown",
       "start_date": "2026-02-13",
       "start_time": "18:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
