@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T14:40:31.124632-08:00",
+  "last_updated": "2026-02-10T15:38:10.766932-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -120,7 +120,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-14",
       "start_time": "07:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -170,7 +170,7 @@
       "location": "Gastown",
       "start_date": "2026-02-14",
       "start_time": "10:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -250,7 +250,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-14",
       "start_time": "15:30",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 16
     },
     {
@@ -320,7 +320,7 @@
       "location": "Gastown",
       "start_date": "2026-02-15",
       "start_time": "13:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 15
     },
     {
@@ -372,6 +372,26 @@
       "start_time": "20:15",
       "available_spot_count": 0,
       "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mega Cardio Xpress- Arms/Abs x Body Energy Club",
+      "booking_start_date": "2026-02-16 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-02-23",
+      "start_time": "08:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Body Energy Club",
+      "booking_start_date": "2026-02-16 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-02-23",
+      "start_time": "09:15",
+      "available_spot_count": 16,
+      "capacity": 16
     },
     {
       "studio": "Lagree West",
@@ -430,7 +450,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-17",
       "start_time": "10:45",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 36
     },
     {
@@ -570,7 +590,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-12",
       "start_time": "10:00",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -580,7 +600,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-12",
       "start_time": "11:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -790,7 +810,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-16",
       "start_time": "08:20",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 45
     },
     {
