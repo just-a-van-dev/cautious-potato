@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T10:02:02.039330-08:00",
+  "last_updated": "2026-02-10T11:38:25.587173-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -140,7 +140,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-14",
       "start_time": "08:00",
-      "available_spot_count": 5,
+      "available_spot_count": 2,
       "capacity": 20
     },
     {
@@ -260,7 +260,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-14",
       "start_time": "16:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -330,7 +330,7 @@
       "location": "Gastown",
       "start_date": "2026-02-15",
       "start_time": "14:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
@@ -350,7 +350,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-15",
       "start_time": "16:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -410,7 +410,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-12",
       "start_time": "14:00",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 36
     },
     {
@@ -430,7 +430,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-17",
       "start_time": "10:45",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 36
     },
     {
@@ -520,7 +520,17 @@
       "location": "Vancouver",
       "start_date": "2026-02-11",
       "start_time": "07:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body",
+      "booking_start_date": "2026-02-04 08:00",
+      "location": "Vancouver",
+      "start_date": "2026-02-11",
+      "start_time": "08:00",
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -540,17 +550,27 @@
       "location": "Vancouver",
       "start_date": "2026-02-11",
       "start_time": "12:00",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
       "studio": "Lagree Studio",
       "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-02-04 14:00",
+      "booking_start_date": "2026-02-05 09:00",
       "location": "Vancouver",
-      "start_date": "2026-02-11",
-      "start_time": "14:00",
-      "available_spot_count": 5,
+      "start_date": "2026-02-12",
+      "start_time": "09:00",
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-02-05 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-02-12",
+      "start_time": "10:00",
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -626,27 +646,27 @@
     {
       "studio": "Turf",
       "name": "90's RnB x meta (45)",
-      "booking_start_date": "2026-01-13 08:15",
+      "booking_start_date": "2026-02-05 08:15",
       "location": "KITS - Vancouver",
       "start_date": "2026-02-12",
       "start_time": "08:15",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 32
     },
     {
       "studio": "Turf",
       "name": "Viral Hits 01 \ud83d\udcbf meta x MN",
-      "booking_start_date": "2026-01-14 09:30",
+      "booking_start_date": "2026-02-06 09:30",
       "location": "KITS - Vancouver",
       "start_date": "2026-02-13",
       "start_time": "09:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 32
     },
     {
       "studio": "Turf",
       "name": "Hannah Montana x Miley \ud83c\udfa4meta + mat werk (60)",
-      "booking_start_date": "2026-01-16 11:00",
+      "booking_start_date": "2026-02-08 11:00",
       "location": "KITS - Vancouver",
       "start_date": "2026-02-15",
       "start_time": "11:00",
@@ -710,7 +730,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-11",
       "start_time": "06:00",
-      "available_spot_count": 22,
+      "available_spot_count": 20,
       "capacity": 45
     },
     {
