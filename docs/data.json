@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T12:02:20.708800-08:00",
+  "last_updated": "2026-02-11T13:03:47.851560-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -60,7 +60,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-12",
       "start_time": "14:15",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 20
     },
     {
@@ -70,7 +70,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-12",
       "start_time": "15:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -490,7 +490,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-12",
       "start_time": "14:00",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 36
     },
     {
@@ -525,6 +525,66 @@
     },
     {
       "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Yogi Tea",
+      "booking_start_date": "2026-02-08 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-02-15",
+      "start_time": "08:15",
+      "available_spot_count": 14,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Yogi Tea",
+      "booking_start_date": "2026-02-08 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-02-15",
+      "start_time": "11:25",
+      "available_spot_count": 16,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer \u2014 Happy Hour x Yogi Tea",
+      "booking_start_date": "2026-02-08 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-02-15",
+      "start_time": "13:25",
+      "available_spot_count": 16,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer (Heated) x Yogi Tea",
+      "booking_start_date": "2026-02-08 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-02-15",
+      "start_time": "15:45",
+      "available_spot_count": 19,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer (Heated) x Yogi Tea",
+      "booking_start_date": "2026-02-08 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-02-15",
+      "start_time": "16:45",
+      "available_spot_count": 14,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x Yogi Tea",
+      "booking_start_date": "2026-02-08 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-02-15",
+      "start_time": "17:45",
+      "available_spot_count": 40,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
       "name": "Teacher Development | The Burn $18",
       "booking_start_date": "2026-02-09 00:00",
       "location": "Yaletown",
@@ -540,7 +600,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-17",
       "start_time": "10:45",
-      "available_spot_count": 23,
+      "available_spot_count": 24,
       "capacity": 36
     },
     {
@@ -670,7 +730,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-12",
       "start_time": "11:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -700,7 +760,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-13",
       "start_time": "07:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -830,7 +890,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-12",
       "start_time": "08:15",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 32
     },
     {
@@ -950,7 +1010,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-15",
       "start_time": "11:50",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 45
     },
     {
@@ -980,7 +1040,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-19",
       "start_time": "17:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 45
     },
     {
