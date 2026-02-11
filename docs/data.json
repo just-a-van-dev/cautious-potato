@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T18:19:30.674730-08:00",
+  "last_updated": "2026-02-10T18:26:21.451840-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -160,7 +160,7 @@
       "location": "Gastown",
       "start_date": "2026-02-14",
       "start_time": "09:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -950,7 +950,7 @@
       "location": "Vancouver Downtown",
       "start_date": "2026-02-13",
       "start_time": "18:30",
-      "available_spot_count": 4,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
