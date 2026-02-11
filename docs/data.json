@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T15:38:10.766932-08:00",
+  "last_updated": "2026-02-10T18:19:30.674730-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -20,6 +20,16 @@
       "start_time": "17:45",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn + ALO Community Class",
+      "booking_start_date": "2026-03-20 16:00",
+      "location": "Kingsway",
+      "start_date": "2026-03-27",
+      "start_time": "16:00",
+      "available_spot_count": 45,
+      "capacity": 45
     }
   ],
   "sponsored": [
@@ -70,7 +80,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-12",
       "start_time": "16:15",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 20
     },
     {
@@ -100,7 +110,7 @@
       "location": "Gastown",
       "start_date": "2026-02-13",
       "start_time": "09:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -170,7 +180,7 @@
       "location": "Gastown",
       "start_date": "2026-02-14",
       "start_time": "10:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 15
     },
     {
@@ -210,7 +220,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-14",
       "start_time": "11:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 26
     },
     {
@@ -250,7 +260,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-14",
       "start_time": "15:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 16
     },
     {
@@ -330,7 +340,7 @@
       "location": "Gastown",
       "start_date": "2026-02-15",
       "start_time": "14:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 15
     },
     {
@@ -395,6 +405,66 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Megaformer Ass + Abs x Body Energy Club",
+      "booking_start_date": "2026-02-16 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-02-23",
+      "start_time": "10:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Body Energy Club",
+      "booking_start_date": "2026-02-16 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-02-23",
+      "start_time": "11:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mega Cardio-Ass/Abs+Tread x Body Energy Club",
+      "booking_start_date": "2026-02-16 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-02-23",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Body Energy Club",
+      "booking_start_date": "2026-02-16 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-02-23",
+      "start_time": "13:30",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Body Energy Club",
+      "booking_start_date": "2026-02-16 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-02-23",
+      "start_time": "14:30",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Body Energy Club",
+      "booking_start_date": "2026-02-16 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-02-23",
+      "start_time": "15:30",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
       "booking_start_date": "2026-03-12 00:00",
       "location": "Gastown",
@@ -402,16 +472,6 @@
       "start_time": "15:15",
       "available_spot_count": 15,
       "capacity": 15
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Build - Happy Hour x Crown Affair",
-      "booking_start_date": "2026-02-03 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-10",
-      "start_time": "07:30",
-      "available_spot_count": 11,
-      "capacity": 36
     },
     {
       "studio": "Jaybird",
@@ -440,7 +500,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-16",
       "start_time": "13:35",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 36
     },
     {
@@ -504,34 +564,14 @@
       "capacity": 36
     },
     {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body Workout With Headsets",
-      "booking_start_date": "2026-02-03 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-10",
-      "start_time": "10:00",
-      "available_spot_count": 2,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-02-03 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-10",
-      "start_time": "11:00",
-      "available_spot_count": 1,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-02-03 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-10",
-      "start_time": "13:00",
-      "available_spot_count": 7,
-      "capacity": 12
+      "studio": "Jaybird",
+      "name": "The Burn + ALO Community Class",
+      "booking_start_date": "2026-03-20 16:00",
+      "location": "Kingsway",
+      "start_date": "2026-03-27",
+      "start_time": "16:00",
+      "available_spot_count": 45,
+      "capacity": 45
     },
     {
       "studio": "Lagree Studio",
@@ -550,7 +590,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-11",
       "start_time": "08:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -590,7 +630,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-12",
       "start_time": "10:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -601,6 +641,26 @@
       "start_date": "2026-02-12",
       "start_time": "11:00",
       "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Full Body x Smart Sweets",
+      "booking_start_date": "2026-02-07 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-02-14",
+      "start_time": "14:00",
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Full Body x Smart Sweets",
+      "booking_start_date": "2026-02-07 16:00",
+      "location": "Vancouver",
+      "start_date": "2026-02-14",
+      "start_time": "16:00",
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -690,7 +750,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-13",
       "start_time": "09:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 32
     },
     {
@@ -710,7 +770,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-19",
       "start_time": "07:00",
-      "available_spot_count": 23,
+      "available_spot_count": 21,
       "capacity": 32
     },
     {
@@ -750,7 +810,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-03-01",
       "start_time": "12:30",
-      "available_spot_count": 28,
+      "available_spot_count": 24,
       "capacity": 30
     },
     {
@@ -760,7 +820,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-11",
       "start_time": "06:00",
-      "available_spot_count": 21,
+      "available_spot_count": 23,
       "capacity": 45
     },
     {
@@ -770,7 +830,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-13",
       "start_time": "12:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 45
     },
     {
@@ -780,7 +840,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-13",
       "start_time": "16:20",
-      "available_spot_count": 8,
+      "available_spot_count": 5,
       "capacity": 45
     },
     {
@@ -810,7 +870,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-16",
       "start_time": "08:20",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 45
     },
     {
@@ -890,7 +950,7 @@
       "location": "Vancouver Downtown",
       "start_date": "2026-02-13",
       "start_time": "18:30",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
@@ -939,6 +999,16 @@
       "booking_start_date": "2026-03-13 18:30",
       "location": "Vancouver Downtown",
       "start_date": "2026-03-20",
+      "start_time": "18:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Upper Body + Abs",
+      "booking_start_date": "2026-03-20 18:30",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-03-27",
       "start_time": "18:30",
       "available_spot_count": 10,
       "capacity": 10
