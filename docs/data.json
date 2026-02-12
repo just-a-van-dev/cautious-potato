@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T01:51:19.734541-08:00",
+  "last_updated": "2026-02-12T02:46:31.339757-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -290,7 +290,7 @@
       "location": "Main St",
       "start_date": "2026-02-14",
       "start_time": "17:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 14
     },
     {
