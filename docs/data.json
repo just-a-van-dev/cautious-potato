@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T23:53:53.523090-08:00",
+  "last_updated": "2026-02-14T00:33:37.208828-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -80,7 +80,7 @@
       "location": "Gastown",
       "start_date": "2026-02-14",
       "start_time": "09:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -220,7 +220,7 @@
       "location": "Main St",
       "start_date": "2026-02-15",
       "start_time": "07:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 14
     },
     {
@@ -640,7 +640,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-15",
       "start_time": "15:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -720,7 +720,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-14",
       "start_time": "12:30",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 30
     },
     {
