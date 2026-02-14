@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T09:26:10.605635-08:00",
+  "last_updated": "2026-02-14T09:51:11.105095-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -140,7 +140,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-14",
       "start_time": "11:15",
-      "available_spot_count": 5,
+      "available_spot_count": 2,
       "capacity": 26
     },
     {
@@ -160,7 +160,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-14",
       "start_time": "12:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 20
     },
     {
@@ -240,7 +240,7 @@
       "location": "Gastown",
       "start_date": "2026-02-15",
       "start_time": "12:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -400,7 +400,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-14",
       "start_time": "08:15",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 36
     },
     {
@@ -430,7 +430,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-15",
       "start_time": "08:15",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -750,7 +750,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-20",
       "start_time": "09:30",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 32
     },
     {
@@ -831,7 +831,7 @@
       "start_date": "2026-02-20",
       "start_time": "18:40",
       "available_spot_count": 0,
-      "capacity": 45
+      "capacity": 44
     },
     {
       "studio": "Spin Society",
