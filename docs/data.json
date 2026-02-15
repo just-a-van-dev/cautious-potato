@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T15:48:09.252128-08:00",
+  "last_updated": "2026-02-14T20:12:55.784116-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -8,7 +8,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-21",
       "start_time": "17:45",
-      "available_spot_count": 36,
+      "available_spot_count": 6,
       "capacity": 36
     },
     {
@@ -45,166 +45,6 @@
   "sponsored": [
     {
       "studio": "Lagree West",
-      "name": "Megaformer x Heartbreak Holds\ud83d\udc94",
-      "booking_start_date": "2026-02-07 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-14",
-      "start_time": "07:00",
-      "available_spot_count": 5,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Planks & Kisses",
-      "booking_start_date": "2026-02-07 00:00",
-      "location": "Gastown",
-      "start_date": "2026-02-14",
-      "start_time": "08:00",
-      "available_spot_count": 4,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Heartbreak Holds\ud83d\udc94",
-      "booking_start_date": "2026-02-07 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-14",
-      "start_time": "08:00",
-      "available_spot_count": 5,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Planks & Kisses",
-      "booking_start_date": "2026-02-07 00:00",
-      "location": "Gastown",
-      "start_date": "2026-02-14",
-      "start_time": "09:00",
-      "available_spot_count": 1,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer Classic x Heartbreak Holds\ud83d\udc94",
-      "booking_start_date": "2026-02-07 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-14",
-      "start_time": "09:00",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer Classic x Planks & Kisses",
-      "booking_start_date": "2026-02-07 00:00",
-      "location": "Gastown",
-      "start_date": "2026-02-14",
-      "start_time": "10:00",
-      "available_spot_count": 1,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Y2K Heartbreak \ud83d\udc94",
-      "booking_start_date": "2026-02-07 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-14",
-      "start_time": "10:00",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Planks & Kisses",
-      "booking_start_date": "2026-02-07 00:00",
-      "location": "Gastown",
-      "start_date": "2026-02-14",
-      "start_time": "11:00",
-      "available_spot_count": 3,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Y2K Heartbreak \ud83d\udc94",
-      "booking_start_date": "2026-02-07 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-14",
-      "start_time": "11:00",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mega Cardio Arms/Abs/Tread x Cupid's Core \ud83d\udc98",
-      "booking_start_date": "2026-02-07 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-02-14",
-      "start_time": "11:15",
-      "available_spot_count": 2,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Planks & Kisses",
-      "booking_start_date": "2026-02-07 00:00",
-      "location": "Gastown",
-      "start_date": "2026-02-14",
-      "start_time": "12:00",
-      "available_spot_count": 6,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer Ass+Abs x Y2K Heartbreak \ud83d\udc94",
-      "booking_start_date": "2026-02-07 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-14",
-      "start_time": "12:00",
-      "available_spot_count": 4,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Y2K Heartbreak \ud83d\udc94",
-      "booking_start_date": "2026-02-07 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-14",
-      "start_time": "13:00",
-      "available_spot_count": 2,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x SmartSweets",
-      "booking_start_date": "2026-02-07 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-02-14",
-      "start_time": "15:30",
-      "available_spot_count": 2,
-      "capacity": 16
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x SmartSweets",
-      "booking_start_date": "2026-02-07 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-14",
-      "start_time": "16:30",
-      "available_spot_count": 3,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x SmartSweets",
-      "booking_start_date": "2026-02-07 00:00",
-      "location": "Main St",
-      "start_date": "2026-02-14",
-      "start_time": "17:00",
-      "available_spot_count": 0,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
       "name": "Megaformer x SmartSweets",
       "booking_start_date": "2026-02-08 00:00",
       "location": "Yaletown",
@@ -220,7 +60,7 @@
       "location": "Main St",
       "start_date": "2026-02-15",
       "start_time": "07:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 14
     },
     {
@@ -230,7 +70,7 @@
       "location": "Gastown",
       "start_date": "2026-02-15",
       "start_time": "11:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 15
     },
     {
@@ -240,7 +80,7 @@
       "location": "Gastown",
       "start_date": "2026-02-15",
       "start_time": "12:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 15
     },
     {
@@ -250,7 +90,7 @@
       "location": "Gastown",
       "start_date": "2026-02-15",
       "start_time": "13:00",
-      "available_spot_count": 6,
+      "available_spot_count": 0,
       "capacity": 15
     },
     {
@@ -260,7 +100,7 @@
       "location": "Gastown",
       "start_date": "2026-02-15",
       "start_time": "14:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -270,7 +110,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-15",
       "start_time": "14:30",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 16
     },
     {
@@ -280,7 +120,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-15",
       "start_time": "16:30",
-      "available_spot_count": 5,
+      "available_spot_count": 7,
       "capacity": 20
     },
     {
@@ -395,42 +235,12 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Bird x Yogi Tea",
-      "booking_start_date": "2026-02-07 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-14",
-      "start_time": "08:15",
-      "available_spot_count": 11,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn x Yogi Tea",
-      "booking_start_date": "2026-02-07 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-14",
-      "start_time": "12:15",
-      "available_spot_count": 16,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Balance x Yogi Tea",
-      "booking_start_date": "2026-02-07 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-14",
-      "start_time": "17:45",
-      "available_spot_count": 20,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn \u2014 Reformer x Yogi Tea",
       "booking_start_date": "2026-02-08 00:00",
       "location": "Kingsway",
       "start_date": "2026-02-15",
       "start_time": "08:15",
-      "available_spot_count": 4,
+      "available_spot_count": 1,
       "capacity": 20
     },
     {
@@ -440,7 +250,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-15",
       "start_time": "11:25",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 20
     },
     {
@@ -450,7 +260,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-15",
       "start_time": "13:25",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -480,7 +290,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-15",
       "start_time": "17:45",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 45
     },
     {
@@ -540,7 +350,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-21",
       "start_time": "17:45",
-      "available_spot_count": 36,
+      "available_spot_count": 6,
       "capacity": 36
     },
     {
@@ -594,44 +404,14 @@
       "capacity": 45
     },
     {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2026-02-07 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-14",
-      "start_time": "13:00",
-      "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Full Body x Smart Sweets",
-      "booking_start_date": "2026-02-07 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-14",
-      "start_time": "14:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2026-02-07 15:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-14",
-      "start_time": "15:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Full Body x Smart Sweets",
-      "booking_start_date": "2026-02-07 16:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-14",
-      "start_time": "16:00",
-      "available_spot_count": 0,
-      "capacity": 12
+      "studio": "Jaybird",
+      "name": "The Bowls x All is Well",
+      "booking_start_date": "2026-03-24 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-03-31",
+      "start_time": "20:00",
+      "available_spot_count": 45,
+      "capacity": 45
     },
     {
       "studio": "Lagree Studio",
@@ -715,22 +495,12 @@
     },
     {
       "studio": "Turf",
-      "name": "GIRL ANTHEMS \ud83d\udc96 meta+Mat Werk (60)",
-      "booking_start_date": "2026-02-07 12:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-02-14",
-      "start_time": "12:30",
-      "available_spot_count": 5,
-      "capacity": 30
-    },
-    {
-      "studio": "Turf",
       "name": "Hannah Montana x Miley \ud83c\udfa4meta + mat werk (60)",
       "booking_start_date": "2026-02-08 11:00",
       "location": "KITS - Vancouver",
       "start_date": "2026-02-15",
       "start_time": "11:00",
-      "available_spot_count": 0,
+      "available_spot_count": 7,
       "capacity": 34
     },
     {
@@ -740,7 +510,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-19",
       "start_time": "07:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 32
     },
     {
@@ -850,7 +620,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-22",
       "start_time": "13:00",
-      "available_spot_count": 37,
+      "available_spot_count": 29,
       "capacity": 45
     },
     {
