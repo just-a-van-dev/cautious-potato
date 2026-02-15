@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T09:25:45.455996-08:00",
+  "last_updated": "2026-02-15T09:52:07.584502-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -70,7 +70,7 @@
       "location": "Gastown",
       "start_date": "2026-02-15",
       "start_time": "11:00",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -260,7 +260,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-15",
       "start_time": "13:25",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -320,7 +320,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-17",
       "start_time": "10:45",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 36
     },
     {
@@ -500,7 +500,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-15",
       "start_time": "11:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 34
     },
     {
@@ -560,8 +560,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-15",
       "start_time": "11:50",
-      "available_spot_count": 5,
-      "capacity": 45
+      "available_spot_count": 6,
+      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -571,7 +571,7 @@
       "start_date": "2026-02-16",
       "start_time": "08:20",
       "available_spot_count": 0,
-      "capacity": 45
+      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -580,8 +580,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-17",
       "start_time": "12:30",
-      "available_spot_count": 35,
-      "capacity": 45
+      "available_spot_count": 36,
+      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -591,7 +591,7 @@
       "start_date": "2026-02-19",
       "start_time": "17:30",
       "available_spot_count": 0,
-      "capacity": 45
+      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -601,7 +601,7 @@
       "start_date": "2026-02-20",
       "start_time": "18:40",
       "available_spot_count": 0,
-      "capacity": 45
+      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -611,7 +611,7 @@
       "start_date": "2026-02-22",
       "start_time": "11:50",
       "available_spot_count": 0,
-      "capacity": 45
+      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -620,8 +620,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-22",
       "start_time": "13:00",
-      "available_spot_count": 20,
-      "capacity": 45
+      "available_spot_count": 21,
+      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -630,8 +630,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-23",
       "start_time": "07:15",
-      "available_spot_count": 45,
-      "capacity": 45
+      "available_spot_count": 46,
+      "capacity": 46
     },
     {
       "studio": "Spin Society",
@@ -640,8 +640,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-23",
       "start_time": "09:45",
-      "available_spot_count": 45,
-      "capacity": 45
+      "available_spot_count": 46,
+      "capacity": 46
     },
     {
       "studio": "Lagree Pulse",
