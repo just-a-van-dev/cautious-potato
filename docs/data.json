@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T23:39:16.665377-08:00",
+  "last_updated": "2026-02-15T00:34:23.657680-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -70,7 +70,7 @@
       "location": "Gastown",
       "start_date": "2026-02-15",
       "start_time": "11:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -80,7 +80,7 @@
       "location": "Gastown",
       "start_date": "2026-02-15",
       "start_time": "12:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -100,7 +100,7 @@
       "location": "Gastown",
       "start_date": "2026-02-15",
       "start_time": "14:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -120,7 +120,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-15",
       "start_time": "16:30",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 20
     },
     {
@@ -160,7 +160,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-23",
       "start_time": "09:15",
-      "available_spot_count": 16,
+      "available_spot_count": 14,
       "capacity": 16
     },
     {
@@ -200,7 +200,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-23",
       "start_time": "13:30",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 16
     },
     {
@@ -330,7 +330,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-20",
       "start_time": "13:30",
-      "available_spot_count": 35,
+      "available_spot_count": 36,
       "capacity": 36
     },
     {
@@ -500,7 +500,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-15",
       "start_time": "11:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 34
     },
     {
@@ -560,7 +560,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-15",
       "start_time": "11:50",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 45
     },
     {
