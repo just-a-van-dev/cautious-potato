@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T12:32:26.418571-08:00",
+  "last_updated": "2026-02-16T13:29:14.608732-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -150,7 +150,7 @@
       "location": "Kingsway",
       "start_date": "2026-02-16",
       "start_time": "13:35",
-      "available_spot_count": 31,
+      "available_spot_count": 28,
       "capacity": 45
     },
     {
@@ -160,7 +160,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-16",
       "start_time": "13:35",
-      "available_spot_count": 9,
+      "available_spot_count": 6,
       "capacity": 36
     },
     {
@@ -210,7 +210,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-23",
       "start_time": "07:30",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 36
     },
     {
@@ -290,7 +290,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-17",
       "start_time": "09:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -310,7 +310,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-17",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -410,7 +410,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-20",
       "start_time": "09:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 32
     },
     {
@@ -450,7 +450,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-16",
       "start_time": "08:20",
-      "available_spot_count": 7,
+      "available_spot_count": 11,
       "capacity": 48
     },
     {
@@ -510,7 +510,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-23",
       "start_time": "07:15",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 46
     },
     {
@@ -521,6 +521,16 @@
       "start_date": "2026-02-23",
       "start_time": "09:45",
       "available_spot_count": 37,
+      "capacity": 46
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: KARAOKE SING-ALONG SONGS",
+      "booking_start_date": "2026-02-19 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-02-27",
+      "start_time": "18:40",
+      "available_spot_count": 46,
       "capacity": 46
     },
     {
