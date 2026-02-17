@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T15:38:20.395954-08:00",
+  "last_updated": "2026-02-16T18:08:24.308147-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -60,7 +60,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-23",
       "start_time": "08:15",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 26
     },
     {
@@ -80,7 +80,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-23",
       "start_time": "10:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 16
     },
     {
@@ -90,7 +90,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-23",
       "start_time": "11:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 16
     },
     {
@@ -145,26 +145,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "Teacher Development | The Burn $18",
-      "booking_start_date": "2026-02-09 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-02-16",
-      "start_time": "13:35",
-      "available_spot_count": 28,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
-      "name": "Teacher Development | The Burn $18",
-      "booking_start_date": "2026-02-09 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-16",
-      "start_time": "13:35",
-      "available_spot_count": 6,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Booty x Crown Affair",
       "booking_start_date": "2026-02-10 00:00",
       "location": "Yaletown",
@@ -180,7 +160,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-20",
       "start_time": "13:30",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 36
     },
     {
@@ -210,7 +190,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-23",
       "start_time": "07:30",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 36
     },
     {
@@ -265,36 +245,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Deal Beginners Class With Headsets",
-      "booking_start_date": "2026-02-09 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-16",
-      "start_time": "11:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2026-02-09 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-02-16",
-      "start_time": "18:30",
-      "available_spot_count": 10,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-02-10 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-17",
-      "start_time": "09:00",
-      "available_spot_count": 2,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Deal Full Body With Headsets",
       "booking_start_date": "2026-02-10 11:00",
       "location": "Vancouver",
@@ -320,12 +270,22 @@
       "location": "Vancouver",
       "start_date": "2026-02-18",
       "start_time": "12:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
       "studio": "Lagree Studio",
-      "name": "Club Lagree - Full Body",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-02-11 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-02-18",
+      "start_time": "14:00",
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Club Lagree Full Body x Sahajan x R&B",
       "booking_start_date": "2026-02-13 19:30",
       "location": "Vancouver",
       "start_date": "2026-02-20",
@@ -445,22 +405,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: DRAKE x KENDRICK x CHILDISH GAMBINO",
-      "booking_start_date": "2026-02-08 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-02-16",
-      "start_time": "08:20",
-      "available_spot_count": 11,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: EMINEM x MARIAH CAREY",
       "booking_start_date": "2026-02-09 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-17",
       "start_time": "12:30",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 48
     },
     {
@@ -520,7 +470,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-23",
       "start_time": "09:45",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 46
     },
     {
