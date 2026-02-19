@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T21:58:49.276699-08:00",
+  "last_updated": "2026-02-18T23:11:30.849085-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -50,7 +50,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-23",
       "start_time": "08:15",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 26
     },
     {
@@ -110,7 +110,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-23",
       "start_time": "14:30",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 16
     },
     {
@@ -250,7 +250,17 @@
       "location": "Vancouver",
       "start_date": "2026-02-19",
       "start_time": "08:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-02-12 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-02-19",
+      "start_time": "10:00",
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -270,7 +280,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-20",
       "start_time": "07:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -390,7 +400,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-19",
       "start_time": "07:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 32
     },
     {
@@ -440,7 +450,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-03-07",
       "start_time": "09:30",
-      "available_spot_count": 14,
+      "available_spot_count": 11,
       "capacity": 25
     },
     {
