@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T08:53:47.201433-08:00",
+  "last_updated": "2026-02-19T09:50:29.297695-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -160,7 +160,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-20",
       "start_time": "16:00",
-      "available_spot_count": 25,
+      "available_spot_count": 26,
       "capacity": 36
     },
     {
@@ -460,8 +460,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-19",
       "start_time": "17:30",
-      "available_spot_count": 4,
-      "capacity": 46
+      "available_spot_count": 7,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -470,8 +470,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-20",
       "start_time": "18:40",
-      "available_spot_count": 0,
-      "capacity": 46
+      "available_spot_count": 2,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -520,8 +520,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-27",
       "start_time": "18:40",
-      "available_spot_count": 39,
-      "capacity": 46
+      "available_spot_count": 41,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
