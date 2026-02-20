@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-20T04:59:40.857949-08:00",
+  "last_updated": "2026-02-20T06:03:54.248070-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -270,7 +270,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-20",
       "start_time": "07:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -470,7 +470,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-23",
       "start_time": "07:15",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 47
     },
     {
