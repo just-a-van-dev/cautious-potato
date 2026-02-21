@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-20T15:31:50.763967-08:00",
+  "last_updated": "2026-02-20T18:01:26.471907-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -50,7 +50,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-23",
       "start_time": "08:15",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 26
     },
     {
@@ -70,7 +70,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-23",
       "start_time": "10:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 16
     },
     {
@@ -130,7 +130,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-16",
       "start_time": "11:15",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 20
     },
     {
@@ -150,7 +150,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-19",
       "start_time": "15:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 16
     },
     {
@@ -162,26 +162,6 @@
       "start_time": "08:15",
       "available_spot_count": 14,
       "capacity": 14
-    },
-    {
-      "studio": "Jaybird",
-      "name": "Teacher Development | The Burn $18",
-      "booking_start_date": "2026-02-13 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-20",
-      "start_time": "13:30",
-      "available_spot_count": 15,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
-      "name": "Sweat for a Cause | The Burn",
-      "booking_start_date": "2026-02-13 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-20",
-      "start_time": "16:00",
-      "available_spot_count": 19,
-      "capacity": 36
     },
     {
       "studio": "Jaybird",
@@ -264,43 +244,23 @@
       "capacity": 45
     },
     {
+      "studio": "Jaybird",
+      "name": "The Burn + ALO",
+      "booking_start_date": "2026-03-30 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-04-06",
+      "start_time": "07:30",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
       "studio": "Lagree Studio",
       "name": "Daytime Deal - Full Body",
-      "booking_start_date": "2026-02-13 07:00",
+      "booking_start_date": "2026-02-14 12:00",
       "location": "Vancouver",
-      "start_date": "2026-02-20",
-      "start_time": "07:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-02-13 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-20",
-      "start_time": "09:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Beginners Class With Headsets",
-      "booking_start_date": "2026-02-13 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-20",
-      "start_time": "14:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Club Lagree Full Body x Sahajan x R&B",
-      "booking_start_date": "2026-02-13 19:30",
-      "location": "Vancouver",
-      "start_date": "2026-02-20",
-      "start_time": "19:30",
-      "available_spot_count": 3,
+      "start_date": "2026-02-21",
+      "start_time": "12:00",
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -395,16 +355,6 @@
     },
     {
       "studio": "Turf",
-      "name": "Viral Hits 02 \ud83d\udcbf meta x MN",
-      "booking_start_date": "2026-01-21 09:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-02-20",
-      "start_time": "09:30",
-      "available_spot_count": 7,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "REMIX \ud83e\udea9 Strengthen x Body Werk",
       "booking_start_date": "2026-01-22 08:00",
       "location": "KITS - Vancouver",
@@ -430,7 +380,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-03-01",
       "start_time": "12:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 30
     },
     {
@@ -442,16 +392,6 @@
       "start_time": "09:30",
       "available_spot_count": 3,
       "capacity": 25
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: FRED AGAIN.. x ODESZA",
-      "booking_start_date": "2026-02-12 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-02-20",
-      "start_time": "18:40",
-      "available_spot_count": 7,
-      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -480,7 +420,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-23",
       "start_time": "07:15",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 47
     },
     {
@@ -490,7 +430,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-23",
       "start_time": "09:45",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 48
     },
     {
@@ -581,16 +521,6 @@
       "start_date": "2026-04-03",
       "start_time": "18:30",
       "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - DOJA CAT X DUA LIPA",
-      "booking_start_date": "2026-02-06 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-02-20",
-      "start_time": "18:30",
-      "available_spot_count": 6,
       "capacity": 10
     },
     {
