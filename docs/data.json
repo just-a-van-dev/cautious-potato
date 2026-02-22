@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22T13:25:38.087259-08:00",
+  "last_updated": "2026-02-22T13:48:27.402700-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -100,7 +100,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-23",
       "start_time": "14:30",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 16
     },
     {
@@ -290,7 +290,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-24",
       "start_time": "10:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -450,7 +450,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-23",
       "start_time": "09:45",
-      "available_spot_count": 20,
+      "available_spot_count": 21,
       "capacity": 48
     },
     {
@@ -471,6 +471,16 @@
       "start_date": "2026-03-03",
       "start_time": "12:30",
       "available_spot_count": 49,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BADASS TRACKS BY BADASS WOMEN - VOL 1",
+      "booking_start_date": "2026-02-26 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-03-06",
+      "start_time": "18:40",
+      "available_spot_count": 50,
       "capacity": 50
     },
     {
