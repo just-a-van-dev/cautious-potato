@@ -1,16 +1,6 @@
 {
-  "last_updated": "2026-02-21T15:47:22.035614-08:00",
+  "last_updated": "2026-02-21T18:10:47.629491-08:00",
   "special": [
-    {
-      "studio": "Jaybird",
-      "name": "The Balance + ALO Community Class",
-      "booking_start_date": "2026-02-14 17:45",
-      "location": "Yaletown",
-      "start_date": "2026-02-21",
-      "start_time": "17:45",
-      "available_spot_count": 0,
-      "capacity": 36
-    },
     {
       "studio": "Jaybird",
       "name": "The Balance + ALO Community Class",
@@ -90,7 +80,7 @@
       "location": "Kitsilano",
       "start_date": "2026-02-23",
       "start_time": "12:15",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 26
     },
     {
@@ -165,16 +155,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Balance + ALO Community Class",
-      "booking_start_date": "2026-02-14 17:45",
-      "location": "Yaletown",
-      "start_date": "2026-02-21",
-      "start_time": "17:45",
-      "available_spot_count": 0,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn + ALO",
       "booking_start_date": "2026-02-16 00:00",
       "location": "Yaletown",
@@ -190,7 +170,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-24",
       "start_time": "07:30",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 36
     },
     {
@@ -255,6 +235,26 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Deal Ass & Abs Class With Headsets",
+      "booking_start_date": "2026-02-16 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-02-23",
+      "start_time": "14:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-02-16 15:30",
+      "location": "Vancouver",
+      "start_date": "2026-02-23",
+      "start_time": "15:30",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Advanced (Min 30 Classes) With Headsets",
       "booking_start_date": "2026-02-18 12:00",
       "location": "Vancouver",
@@ -265,12 +265,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Ass & Abs With Headsets - Filmed Class",
+      "name": "Filmed Class - Ass & Abs With Headsets",
       "booking_start_date": "2026-02-19 14:00",
       "location": "Vancouver",
       "start_date": "2026-02-26",
       "start_time": "14:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -345,16 +345,6 @@
     },
     {
       "studio": "Turf",
-      "name": "REMIX \ud83e\udea9 Strengthen x Body Werk",
-      "booking_start_date": "2026-01-22 08:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-02-21",
-      "start_time": "08:00",
-      "available_spot_count": 3,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
       "name": "Karley + Dina REMIX \ud83e\udea9  meta mat werk (60)",
       "booking_start_date": "2026-01-29 11:00",
       "location": "KITS - Vancouver",
@@ -410,7 +400,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-23",
       "start_time": "07:15",
-      "available_spot_count": 20,
+      "available_spot_count": 17,
       "capacity": 47
     },
     {
@@ -460,7 +450,7 @@
       "location": "Vancouver Downtown",
       "start_date": "2026-02-27",
       "start_time": "18:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
