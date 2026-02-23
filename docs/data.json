@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23T09:39:12.354316-08:00",
+  "last_updated": "2026-02-23T11:03:28.678199-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -180,7 +180,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-02",
       "start_time": "07:30",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 36
     },
     {
@@ -240,7 +240,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-23",
       "start_time": "14:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -285,12 +285,32 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Deal - Full Body",
+      "booking_start_date": "2026-02-18 08:00",
+      "location": "Vancouver",
+      "start_date": "2026-02-25",
+      "start_time": "08:00",
+      "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Advanced (Min 30 Classes) With Headsets",
       "booking_start_date": "2026-02-18 12:00",
       "location": "Vancouver",
       "start_date": "2026-02-25",
       "start_time": "12:00",
       "available_spot_count": 4,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-02-18 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-02-25",
+      "start_time": "13:00",
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
