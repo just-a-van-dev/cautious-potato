@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23T15:07:44.724347-08:00",
+  "last_updated": "2026-02-23T15:53:04.897730-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -175,6 +175,16 @@
     },
     {
       "studio": "Jaybird",
+      "name": "Teacher Development | The Burn $18",
+      "booking_start_date": "2026-02-18 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-02-25",
+      "start_time": "14:30",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
       "name": "The Burn + ALO",
       "booking_start_date": "2026-02-23 00:00",
       "location": "Yaletown",
@@ -270,7 +280,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-24",
       "start_time": "10:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -290,7 +300,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-25",
       "start_time": "08:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -330,7 +340,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-27",
       "start_time": "19:30",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -460,7 +470,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-02-23",
       "start_time": "09:45",
-      "available_spot_count": 11,
+      "available_spot_count": 13,
       "capacity": 48
     },
     {
