@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23T13:09:36.518515-08:00",
+  "last_updated": "2026-02-23T14:07:30.304691-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -170,7 +170,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-24",
       "start_time": "07:30",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
@@ -250,7 +250,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-23",
       "start_time": "15:30",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 12
     },
     {
@@ -404,6 +404,16 @@
       "capacity": 12
     },
     {
+      "studio": "Ritual",
+      "name": "Spring Equinox | Renewal in Motion",
+      "booking_start_date": "2025-12-29 14:00",
+      "location": "West End",
+      "start_date": "2026-03-29",
+      "start_time": "14:00",
+      "available_spot_count": 25,
+      "capacity": 25
+    },
+    {
       "studio": "Turf",
       "name": "Karley + Dina REMIX \ud83e\udea9  meta mat werk (60)",
       "booking_start_date": "2026-01-29 11:00",
@@ -530,7 +540,7 @@
       "location": "Vancouver Downtown",
       "start_date": "2026-02-27",
       "start_time": "18:30",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
