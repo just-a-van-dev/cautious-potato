@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T12:36:18.342371-08:00",
+  "last_updated": "2026-02-24T13:35:44.844571-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -38,7 +38,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-01",
       "start_time": "18:00",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 12
     }
   ],
@@ -102,6 +102,16 @@
       "start_time": "07:30",
       "available_spot_count": 0,
       "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "Teacher Development | The Burn $18",
+      "booking_start_date": "2026-02-23 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-03-02",
+      "start_time": "14:30",
+      "available_spot_count": 45,
+      "capacity": 45
     },
     {
       "studio": "Jaybird",
@@ -260,7 +270,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-01",
       "start_time": "18:00",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -410,7 +420,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-04",
       "start_time": "18:40",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 47
     },
     {
