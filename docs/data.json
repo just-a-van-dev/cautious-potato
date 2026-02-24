@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T06:50:00.500588-08:00",
+  "last_updated": "2026-02-24T07:58:41.681629-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -80,7 +80,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-24",
       "start_time": "07:30",
-      "available_spot_count": 17,
+      "available_spot_count": 14,
       "capacity": 36
     },
     {
@@ -176,11 +176,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-02-17 13:00",
+      "booking_start_date": "2026-02-17 12:00",
       "location": "Vancouver",
       "start_date": "2026-02-24",
-      "start_time": "13:00",
-      "available_spot_count": 2,
+      "start_time": "12:00",
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
