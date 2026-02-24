@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23T20:29:38.081579-08:00",
+  "last_updated": "2026-02-23T21:43:04.774070-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -80,7 +80,7 @@
       "location": "Yaletown",
       "start_date": "2026-02-24",
       "start_time": "07:30",
-      "available_spot_count": 20,
+      "available_spot_count": 18,
       "capacity": 36
     },
     {
@@ -175,6 +175,16 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-02-17 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-02-24",
+      "start_time": "13:00",
+      "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Daytime Deal - Full Body",
       "booking_start_date": "2026-02-18 08:00",
       "location": "Vancouver",
@@ -205,7 +215,27 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Filmed Class - Ass & Abs With Headsets",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-02-19 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-02-26",
+      "start_time": "09:00",
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Deal Full Body With Headsets",
+      "booking_start_date": "2026-02-19 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-02-26",
+      "start_time": "10:00",
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Filmed Class - Ass & Abs Headsets Daytime Deal",
       "booking_start_date": "2026-02-19 14:00",
       "location": "Vancouver",
       "start_date": "2026-02-26",
