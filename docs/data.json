@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T07:58:41.681629-08:00",
+  "last_updated": "2026-02-24T09:13:28.015140-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -60,7 +60,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-19",
       "start_time": "15:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 16
     },
     {
@@ -160,7 +160,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-24",
       "start_time": "10:00",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -230,7 +230,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-26",
       "start_time": "10:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -250,7 +250,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-27",
       "start_time": "19:30",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -345,7 +345,7 @@
     },
     {
       "studio": "Turf",
-      "name": "BIEBER FEVER x Mat Werk (60)",
+      "name": "BIEBER FEVER x Meta & Mat Werk (60)",
       "booking_start_date": "2026-01-30 12:30",
       "location": "KITS - Vancouver",
       "start_date": "2026-03-01",
@@ -390,7 +390,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-03",
       "start_time": "12:30",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 47
     },
     {
