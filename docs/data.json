@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T11:48:15.278496-08:00",
+  "last_updated": "2026-02-24T12:36:18.342371-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -34,10 +34,10 @@
     {
       "studio": "Lagree Studio",
       "name": "Instructor Training (Free Class)",
-      "booking_start_date": "2026-02-21 17:00",
+      "booking_start_date": "2026-02-22 18:00",
       "location": "Vancouver",
-      "start_date": "2026-02-28",
-      "start_time": "17:00",
+      "start_date": "2026-03-01",
+      "start_time": "18:00",
       "available_spot_count": 12,
       "capacity": 12
     }
@@ -250,16 +250,16 @@
       "location": "Vancouver",
       "start_date": "2026-02-27",
       "start_time": "19:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
       "studio": "Lagree Studio",
       "name": "Instructor Training (Free Class)",
-      "booking_start_date": "2026-02-21 17:00",
+      "booking_start_date": "2026-02-22 18:00",
       "location": "Vancouver",
-      "start_date": "2026-02-28",
-      "start_time": "17:00",
+      "start_date": "2026-03-01",
+      "start_time": "18:00",
       "available_spot_count": 12,
       "capacity": 12
     },
@@ -410,7 +410,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-04",
       "start_time": "18:40",
-      "available_spot_count": 45,
+      "available_spot_count": 40,
       "capacity": 47
     },
     {
@@ -460,7 +460,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-27",
       "start_time": "18:30",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 10
     },
     {
