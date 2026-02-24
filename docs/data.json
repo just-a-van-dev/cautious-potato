@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T10:30:53.317304-08:00",
+  "last_updated": "2026-02-24T11:48:15.278496-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -30,6 +30,16 @@
       "start_time": "15:00",
       "available_spot_count": 45,
       "capacity": 45
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Instructor Training (Free Class)",
+      "booking_start_date": "2026-02-21 17:00",
+      "location": "Vancouver",
+      "start_date": "2026-02-28",
+      "start_time": "17:00",
+      "available_spot_count": 12,
+      "capacity": 12
     }
   ],
   "sponsored": [
@@ -82,16 +92,6 @@
       "start_time": "07:30",
       "available_spot_count": 14,
       "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
-      "name": "Teacher Development | The Burn $18",
-      "booking_start_date": "2026-02-18 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-02-25",
-      "start_time": "14:30",
-      "available_spot_count": 45,
-      "capacity": 45
     },
     {
       "studio": "Jaybird",
@@ -170,7 +170,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-24",
       "start_time": "11:00",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -180,7 +180,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-24",
       "start_time": "12:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -251,6 +251,16 @@
       "start_date": "2026-02-27",
       "start_time": "19:30",
       "available_spot_count": 4,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Instructor Training (Free Class)",
+      "booking_start_date": "2026-02-21 17:00",
+      "location": "Vancouver",
+      "start_date": "2026-02-28",
+      "start_time": "17:00",
+      "available_spot_count": 12,
       "capacity": 12
     },
     {
@@ -450,7 +460,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-27",
       "start_time": "18:30",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
