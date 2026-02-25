@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T15:32:07.562876-08:00",
+  "last_updated": "2026-02-24T18:10:05.282765-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -85,16 +85,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Build - Happy Hour x All is Well",
-      "booking_start_date": "2026-02-17 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-02-24",
-      "start_time": "07:30",
-      "available_spot_count": 14,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn + ALO",
       "booking_start_date": "2026-02-23 00:00",
       "location": "Yaletown",
@@ -165,36 +155,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body Workout With Headsets",
-      "booking_start_date": "2026-02-17 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-24",
-      "start_time": "10:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-02-17 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-24",
-      "start_time": "11:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-02-17 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-24",
-      "start_time": "12:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Deal - Full Body",
       "booking_start_date": "2026-02-18 08:00",
       "location": "Vancouver",
@@ -220,7 +180,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-25",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -250,7 +210,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-26",
       "start_time": "14:00",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -420,7 +380,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-04",
       "start_time": "18:40",
-      "available_spot_count": 38,
+      "available_spot_count": 35,
       "capacity": 47
     },
     {
