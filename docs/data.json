@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T09:59:19.633334-08:00",
+  "last_updated": "2026-02-26T11:04:48.987721-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -110,7 +110,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-19",
       "start_time": "15:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 16
     },
     {
@@ -141,6 +141,16 @@
       "start_date": "2026-03-02",
       "start_time": "14:30",
       "available_spot_count": 44,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x Innisfree",
+      "booking_start_date": "2026-02-24 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-03-03",
+      "start_time": "18:40",
+      "available_spot_count": 42,
       "capacity": 45
     },
     {
@@ -220,7 +230,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-26",
       "start_time": "11:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -251,16 +261,6 @@
       "start_date": "2026-02-27",
       "start_time": "09:00",
       "available_spot_count": 9,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Workout With Headsets",
-      "booking_start_date": "2026-02-20 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-02-27",
-      "start_time": "11:00",
-      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -440,7 +440,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-04",
       "start_time": "18:40",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 47
     },
     {
