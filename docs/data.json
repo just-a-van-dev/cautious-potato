@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T08:59:02.411103-08:00",
+  "last_updated": "2026-02-26T09:59:19.633334-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -43,6 +43,46 @@
     }
   ],
   "sponsored": [
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x ProPOP",
+      "booking_start_date": "2026-03-01 00:00",
+      "location": "Gastown",
+      "start_date": "2026-03-08",
+      "start_time": "14:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x ProPOP",
+      "booking_start_date": "2026-03-01 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-03-08",
+      "start_time": "16:30",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x ProPOP",
+      "booking_start_date": "2026-03-01 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-03-08",
+      "start_time": "16:30",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer Classic x ProPOP",
+      "booking_start_date": "2026-03-01 00:00",
+      "location": "Main St",
+      "start_date": "2026-03-08",
+      "start_time": "17:30",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
@@ -180,7 +220,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-26",
       "start_time": "11:00",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -400,7 +440,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-04",
       "start_time": "18:40",
-      "available_spot_count": 26,
+      "available_spot_count": 22,
       "capacity": 47
     },
     {
@@ -461,7 +501,7 @@
       "start_date": "2026-02-27",
       "start_time": "18:30",
       "available_spot_count": 2,
-      "capacity": 10
+      "capacity": 9
     },
     {
       "studio": "Evolution",
