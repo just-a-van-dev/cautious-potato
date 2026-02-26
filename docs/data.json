@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T01:11:52.973409-08:00",
+  "last_updated": "2026-02-26T02:11:30.606135-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -230,7 +230,7 @@
       "location": "Vancouver",
       "start_date": "2026-02-27",
       "start_time": "13:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
