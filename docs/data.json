@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T13:53:45.620892-08:00",
+  "last_updated": "2026-02-27T14:24:23.201100-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -161,6 +161,16 @@
       "start_date": "2026-03-03",
       "start_time": "18:40",
       "available_spot_count": 39,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "Teacher Development | The Bird $18",
+      "booking_start_date": "2026-03-14 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-03-21",
+      "start_time": "15:00",
+      "available_spot_count": 45,
       "capacity": 45
     },
     {
@@ -670,7 +680,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-02",
       "start_time": "06:00",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 47
     },
     {
