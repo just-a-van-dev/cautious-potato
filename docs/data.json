@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T15:25:34.114113-08:00",
+  "last_updated": "2026-02-27T15:47:42.497007-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -161,6 +161,26 @@
       "start_date": "2026-03-03",
       "start_time": "18:40",
       "available_spot_count": 39,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Bowls x All is Well",
+      "booking_start_date": "2026-02-24 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-03-03",
+      "start_time": "20:00",
+      "available_spot_count": 29,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "Teacher Development | The Burn $18",
+      "booking_start_date": "2026-02-27 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-03-06",
+      "start_time": "13:30",
+      "available_spot_count": 45,
       "capacity": 45
     },
     {
@@ -710,7 +730,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-06",
       "start_time": "16:20",
-      "available_spot_count": 36,
+      "available_spot_count": 34,
       "capacity": 47
     },
     {
