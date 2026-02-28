@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T08:27:29.021227-08:00",
+  "last_updated": "2026-02-28T08:50:36.608802-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -80,7 +80,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-08",
       "start_time": "16:30",
-      "available_spot_count": 20,
+      "available_spot_count": 18,
       "capacity": 20
     },
     {
@@ -620,7 +620,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-02-28",
       "start_time": "11:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 32
     },
     {
