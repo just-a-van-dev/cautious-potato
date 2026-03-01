@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T20:33:35.044961-08:00",
+  "last_updated": "2026-02-28T21:52:25.226327-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -160,7 +160,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-03",
       "start_time": "18:40",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 45
     },
     {
@@ -720,7 +720,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-08",
       "start_time": "11:50",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 48
     },
     {
