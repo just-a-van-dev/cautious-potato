@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T12:42:14.528523-08:00",
+  "last_updated": "2026-03-02T13:34:18.686632-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -130,7 +130,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-02",
       "start_time": "14:30",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 45
     },
     {
@@ -140,7 +140,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-03",
       "start_time": "18:40",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 45
     },
     {
@@ -670,7 +670,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-03",
       "start_time": "12:30",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 47
     },
     {
@@ -690,7 +690,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-06",
       "start_time": "16:20",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 47
     },
     {
@@ -710,7 +710,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-08",
       "start_time": "11:50",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 48
     },
     {
@@ -720,7 +720,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-09",
       "start_time": "06:00",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 47
     },
     {
@@ -780,6 +780,16 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-13",
       "start_time": "18:40",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: JAY Z X LINKIN PARK",
+      "booking_start_date": "2026-03-06 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-03-14",
+      "start_time": "13:00",
       "available_spot_count": 48,
       "capacity": 48
     },
