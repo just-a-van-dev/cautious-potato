@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T00:46:22.466445-08:00",
+  "last_updated": "2026-03-02T01:51:19.690807-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -60,7 +60,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-08",
       "start_time": "16:30",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -670,7 +670,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-03",
       "start_time": "12:30",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 47
     },
     {
