@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T14:54:59.173488-08:00",
+  "last_updated": "2026-03-02T15:27:42.964138-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -510,7 +510,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-02",
       "start_time": "15:30",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -632,6 +632,16 @@
       "start_time": "12:00",
       "available_spot_count": 12,
       "capacity": 12
+    },
+    {
+      "studio": "Ritual",
+      "name": "Thrive (pilates + cardio + sculpt)",
+      "booking_start_date": "2025-12-03 16:30",
+      "location": "West End",
+      "start_date": "2026-03-03",
+      "start_time": "16:30",
+      "available_spot_count": 19,
+      "capacity": 25
     },
     {
       "studio": "Ritual",
