@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T18:10:01.287166-08:00",
+  "last_updated": "2026-03-02T20:25:40.570511-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -70,7 +70,7 @@
       "location": "Main St",
       "start_date": "2026-03-08",
       "start_time": "17:30",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 14
     },
     {
@@ -120,7 +120,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-03",
       "start_time": "18:40",
-      "available_spot_count": 9,
+      "available_spot_count": 5,
       "capacity": 45
     },
     {
@@ -130,7 +130,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-03",
       "start_time": "20:00",
-      "available_spot_count": 19,
+      "available_spot_count": 22,
       "capacity": 45
     },
     {
@@ -500,7 +500,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-04",
       "start_time": "06:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -520,17 +520,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-07",
       "start_time": "08:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Instructor Training Drop in Class",
-      "booking_start_date": "2026-03-03 15:30",
-      "location": "Vancouver",
-      "start_date": "2026-03-10",
-      "start_time": "15:30",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -550,6 +540,16 @@
       "location": "Vancouver",
       "start_date": "2026-03-11",
       "start_time": "15:30",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Instructor Training Drop in Class",
+      "booking_start_date": "2026-03-07 08:00",
+      "location": "Vancouver",
+      "start_date": "2026-03-14",
+      "start_time": "08:00",
       "available_spot_count": 12,
       "capacity": 12
     },
