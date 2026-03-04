@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T11:57:07.629392-08:00",
+  "last_updated": "2026-03-04T12:37:07.458712-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -75,6 +75,16 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Mid-Day\u00a0Mega Cardio- Arms/Abs+Tread (55 Min)",
+      "booking_start_date": "2026-03-04 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-03-11",
+      "start_time": "09:15",
+      "available_spot_count": 17,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
       "name": "Happy Hour Mega Cardio Xpress- Arms/Abs+Tread (45)",
       "booking_start_date": "2026-03-05 00:00",
       "location": "Kitsilano",
@@ -90,6 +100,16 @@
       "location": "Kitsilano",
       "start_date": "2026-03-12",
       "start_time": "16:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mid-Day\u00a0Mega Cardio- Arms/Abs+Tread (55 Min)",
+      "booking_start_date": "2026-03-06 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-03-13",
+      "start_time": "12:15",
       "available_spot_count": 26,
       "capacity": 26
     },
@@ -122,6 +142,26 @@
       "start_time": "11:15",
       "available_spot_count": 11,
       "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mid-Day\u00a0Mega Cardio- Arms/Abs+Tread (55 Min)",
+      "booking_start_date": "2026-03-09 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-03-16",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mid-Day\u00a0Mega Cardio- Arms/Abs+Tread (55 Min)",
+      "booking_start_date": "2026-03-11 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-03-18",
+      "start_time": "09:15",
+      "available_spot_count": 26,
+      "capacity": 26
     },
     {
       "studio": "Lagree West",
@@ -165,6 +205,16 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Mid-Day\u00a0Mega Cardio- Arms/Abs+Tread (55 Min)",
+      "booking_start_date": "2026-03-13 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-03-20",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
       "name": "Happy Hour Mega Cardio Xpress- Arms/Abs+Tread (45)",
       "booking_start_date": "2026-03-13 00:00",
       "location": "Kitsilano",
@@ -185,6 +235,16 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Mid-Day\u00a0Mega Cardio- Arms/Abs+Tread (55 Min)",
+      "booking_start_date": "2026-03-16 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-03-23",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
       "booking_start_date": "2026-02-22 08:15",
       "location": "Main St",
@@ -192,6 +252,16 @@
       "start_time": "08:15",
       "available_spot_count": 4,
       "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mid-Day\u00a0Mega Cardio- Arms/Abs+Tread (55 Min)",
+      "booking_start_date": "2026-03-18 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-03-25",
+      "start_time": "09:15",
+      "available_spot_count": 26,
+      "capacity": 26
     },
     {
       "studio": "Lagree West",
@@ -210,6 +280,16 @@
       "location": "Kitsilano",
       "start_date": "2026-03-26",
       "start_time": "16:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mid-Day\u00a0Mega Cardio- Arms/Abs+Tread (55 Min)",
+      "booking_start_date": "2026-03-20 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-03-27",
+      "start_time": "12:15",
       "available_spot_count": 26,
       "capacity": 26
     },
@@ -235,6 +315,26 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Mid-Day\u00a0Mega Cardio- Arms/Abs+Tread (55 Min)",
+      "booking_start_date": "2026-03-23 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-03-30",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mid-Day\u00a0Mega Cardio- Arms/Abs+Tread (55 Min)",
+      "booking_start_date": "2026-03-25 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-04-01",
+      "start_time": "09:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
       "name": "Happy Hour Mega Cardio Xpress- Arms/Abs+Tread (45)",
       "booking_start_date": "2026-03-26 00:00",
       "location": "Kitsilano",
@@ -250,6 +350,16 @@
       "location": "Kitsilano",
       "start_date": "2026-04-02",
       "start_time": "16:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mid-Day\u00a0Mega Cardio- Arms/Abs+Tread (55 Min)",
+      "booking_start_date": "2026-03-27 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-04-03",
+      "start_time": "12:15",
       "available_spot_count": 26,
       "capacity": 26
     },
@@ -275,6 +385,26 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Mid-Day\u00a0Mega Cardio- Arms/Abs+Tread (55 Min)",
+      "booking_start_date": "2026-03-30 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-04-06",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mid-Day\u00a0Mega Cardio- Arms/Abs+Tread (55 Min)",
+      "booking_start_date": "2026-04-01 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-04-08",
+      "start_time": "09:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
       "name": "Happy Hour Mega Cardio Xpress- Arms/Abs+Tread (45)",
       "booking_start_date": "2026-04-02 00:00",
       "location": "Kitsilano",
@@ -290,6 +420,16 @@
       "location": "Kitsilano",
       "start_date": "2026-04-09",
       "start_time": "16:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mid-Day\u00a0Mega Cardio- Arms/Abs+Tread (55 Min)",
+      "booking_start_date": "2026-04-03 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-04-10",
+      "start_time": "12:15",
       "available_spot_count": 26,
       "capacity": 26
     },
@@ -315,6 +455,26 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Mid-Day\u00a0Mega Cardio- Arms/Abs+Tread (55 Min)",
+      "booking_start_date": "2026-04-06 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-04-13",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mid-Day\u00a0Mega Cardio- Arms/Abs+Tread (55 Min)",
+      "booking_start_date": "2026-04-08 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-04-15",
+      "start_time": "09:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
       "name": "Happy Hour Mega Cardio Xpress- Arms/Abs+Tread (45)",
       "booking_start_date": "2026-04-09 00:00",
       "location": "Kitsilano",
@@ -330,6 +490,16 @@
       "location": "Kitsilano",
       "start_date": "2026-04-16",
       "start_time": "16:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mid-Day\u00a0Mega Cardio- Arms/Abs+Tread (55 Min)",
+      "booking_start_date": "2026-04-10 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-04-17",
+      "start_time": "12:15",
       "available_spot_count": 26,
       "capacity": 26
     },
@@ -750,7 +920,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-11",
       "start_time": "12:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -930,7 +1100,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-12",
       "start_time": "17:30",
-      "available_spot_count": 47,
+      "available_spot_count": 38,
       "capacity": 48
     },
     {
