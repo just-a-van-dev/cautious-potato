@@ -1,7 +1,13 @@
 import asyncio
 import aiohttp
 from datetime import datetime, timedelta, timezone
-
+TUNNEL = "tunnel"
+TUNNEL_CLASSES = [
+"heated mat pilates",
+"heated reformer full body burn",
+"heated reformer sculpt & stretch",
+"reformer full body burn",
+]
 TARGET_NAMES = [
     "sweat for a cause",
     "train",
@@ -71,6 +77,7 @@ FILTER_OUT = ["advanced with headsets",
               "meta + weights 45",
               "meta x mn",
               "mid-day mega cardio- arms/abs+tread (55 min)",
+              "mid-day\u00a0mega cardio- arms/abs+tread (55 min)",
               "postpartum +baby: control + core",
               "postpartum +baby: strength",
               "prenatal pilates + core",
@@ -114,10 +121,16 @@ def is_free_class(class_data) -> bool:
     return class_data.get("is_free_class")
 
 
-def is_sponsored_class(class_data) -> bool:
+def is_sponsored_class(class_data, studio_name) -> bool:
     """Stub - replace with your real logic"""
 
+
     name = class_data.get("name").lower().strip()
+    # Tunnel has different naming conventions
+    if studio_name.lower() == TUNNEL:
+        return name not in TUNNEL_CLASSES
+
+
     if "happy hour" in name:
         name = name.replace("happy hour", "").strip()
     if "x blume superbelly" in name:
@@ -193,7 +206,7 @@ async def fetch_studio_data(studios: dict, days=45):
 
             if is_free_class(cls):
                 SPECIAL_CLASSES.append(record)
-            if is_sponsored_class(cls):
+            if is_sponsored_class(cls, studio_name):
                 SPONSORED_CLASSES.append(record)
 
     return SPECIAL_CLASSES, SPONSORED_CLASSES
