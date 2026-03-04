@@ -13,7 +13,8 @@ studio_base_urls = {
     "Turf": "https://ourturf.marianatek.com/api/customer/v1/classes?page_size=500&location=48717&region=48541",
     "Spin Society": "https://spinsociety-hustle.marianatek.com/api/customer/v1/classes?page_size=500&location=48719&region=48541",
     "Lagree Pulse": "https://lagreepulse.marianatek.com/api/customer/v1/classes?page_size=500&location=48717&region=48541",
-    "Evolution": "https://evolutionfitness.marianatek.com/api/customer/v1/classes?page_size=500&location=48717&region=48541"
+    "Evolution": "https://evolutionfitness.marianatek.com/api/customer/v1/classes?page_size=500&location=48717&region=48541",
+    "Tunnel": "https://tunnelpilates.marianatek.com/api/customer/v1/classes?page_size=500&location=48718&region=48541"
 }
 
 result = asyncio.run(fetch_studio_data(studio_base_urls, days=45))
