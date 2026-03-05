@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T08:09:37.760361-08:00",
+  "last_updated": "2026-03-05T10:26:31.198796-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -130,7 +130,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-06",
       "start_time": "13:30",
-      "available_spot_count": 35,
+      "available_spot_count": 36,
       "capacity": 45
     },
     {
@@ -490,7 +490,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-05",
       "start_time": "13:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -500,7 +500,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-05",
       "start_time": "15:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -530,7 +530,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-06",
       "start_time": "13:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -540,7 +540,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-06",
       "start_time": "14:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -550,7 +550,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-07",
       "start_time": "08:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -630,7 +630,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-09",
       "start_time": "06:00",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 47
     },
     {
@@ -640,7 +640,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-09",
       "start_time": "07:15",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 47
     },
     {
@@ -660,7 +660,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-12",
       "start_time": "09:45",
-      "available_spot_count": 39,
+      "available_spot_count": 37,
       "capacity": 48
     },
     {
@@ -670,7 +670,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-12",
       "start_time": "17:30",
-      "available_spot_count": 17,
+      "available_spot_count": 18,
       "capacity": 48
     },
     {
@@ -715,7 +715,7 @@
     },
     {
       "studio": "Evolution",
-      "name": "Infrared Lagree - Themed",
+      "name": "Infrared Lagree - TATE MCRAE X CHARLI XCX",
       "booking_start_date": "2026-02-20 18:30",
       "location": "Vancouver",
       "start_date": "2026-03-06",
@@ -725,7 +725,7 @@
     },
     {
       "studio": "Evolution",
-      "name": "Infrared Lagree - Themed",
+      "name": "Infrared Lagree - 90S HIP HOP X R&B",
       "booking_start_date": "2026-02-27 18:30",
       "location": "Vancouver",
       "start_date": "2026-03-13",
@@ -735,7 +735,7 @@
     },
     {
       "studio": "Evolution",
-      "name": "Infrared Lagree - Themed",
+      "name": "Infrared Lagree - JOHN SUMMIT VS FRED AGAIN..",
       "booking_start_date": "2026-03-06 18:30",
       "location": "Vancouver",
       "start_date": "2026-03-20",
@@ -745,7 +745,7 @@
     },
     {
       "studio": "Evolution",
-      "name": "Infrared Lagree - Themed",
+      "name": "Infrared Lagree - BAD BUNNY X REGGAETON",
       "booking_start_date": "2026-03-13 18:30",
       "location": "Vancouver",
       "start_date": "2026-03-27",
