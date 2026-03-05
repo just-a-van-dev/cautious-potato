@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T10:26:31.198796-08:00",
+  "last_updated": "2026-03-05T11:43:00.543532-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -120,7 +120,7 @@
       "location": "Main St",
       "start_date": "2026-03-24",
       "start_time": "08:15",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 14
     },
     {
@@ -490,7 +490,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-05",
       "start_time": "13:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -505,12 +505,32 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-02-27 07:00",
+      "location": "Vancouver",
+      "start_date": "2026-03-06",
+      "start_time": "07:00",
+      "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-02-27 09:00",
       "location": "Vancouver",
       "start_date": "2026-03-06",
       "start_time": "09:00",
       "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-02-27 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-03-06",
+      "start_time": "10:00",
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -600,7 +620,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-06",
       "start_time": "16:20",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 47
     },
     {
@@ -660,7 +680,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-12",
       "start_time": "09:45",
-      "available_spot_count": 37,
+      "available_spot_count": 34,
       "capacity": 48
     },
     {
@@ -710,6 +730,36 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-16",
       "start_time": "09:45",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: 2006 x 2016 HITS",
+      "booking_start_date": "2026-03-09 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-03-17",
+      "start_time": "07:15",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME; 2006 x 2016",
+      "booking_start_date": "2026-03-11 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-03-19",
+      "start_time": "09:45",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: OPPOSITES: BIG BEAT DROPS x STEADY EDM",
+      "booking_start_date": "2026-03-12 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-03-20",
+      "start_time": "18:40",
       "available_spot_count": 50,
       "capacity": 50
     },
