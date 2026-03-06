@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T09:35:05.679258-08:00",
+  "last_updated": "2026-03-06T10:47:02.252380-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -124,13 +124,43 @@
       "capacity": 14
     },
     {
+      "studio": "Lagree West",
+      "name": "Mid-Day Mega Cardio Xpress- Ass/Abs+Tread (45)",
+      "booking_start_date": "2026-03-27 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-04-03",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mid-Day Mega Cardio Xpress- Ass/Abs+Tread (45)",
+      "booking_start_date": "2026-04-03 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-04-10",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mid-Day Mega Cardio Xpress- Ass/Abs+Tread (45)",
+      "booking_start_date": "2026-04-10 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-04-17",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
       "studio": "Jaybird",
       "name": "Teacher Development | The Burn $18",
       "booking_start_date": "2026-02-27 00:00",
       "location": "Kingsway",
       "start_date": "2026-03-06",
       "start_time": "13:30",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 45
     },
     {
@@ -496,6 +526,16 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-02-27 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-03-06",
+      "start_time": "12:00",
+      "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-02-27 13:00",
       "location": "Vancouver",
       "start_date": "2026-03-06",
@@ -520,7 +560,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-07",
       "start_time": "08:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -610,7 +650,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-09",
       "start_time": "07:15",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 47
     },
     {
