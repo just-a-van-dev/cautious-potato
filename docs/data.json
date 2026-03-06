@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T15:50:47.632613-08:00",
+  "last_updated": "2026-03-05T18:06:10.677377-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -60,7 +60,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-08",
       "start_time": "16:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 16
     },
     {
@@ -80,48 +80,8 @@
       "location": "Main St",
       "start_date": "2026-03-08",
       "start_time": "17:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-03-05 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-03-12",
-      "start_time": "08:15",
-      "available_spot_count": 18,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-03-05 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-03-12",
-      "start_time": "16:15",
-      "available_spot_count": 21,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-03-06 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-03-13",
-      "start_time": "16:30",
-      "available_spot_count": 25,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-03-09 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-03-16",
-      "start_time": "08:15",
-      "available_spot_count": 26,
-      "capacity": 26
     },
     {
       "studio": "Lagree West",
@@ -132,16 +92,6 @@
       "start_time": "11:15",
       "available_spot_count": 9,
       "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-03-12 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-03-19",
-      "start_time": "08:15",
-      "available_spot_count": 26,
-      "capacity": 26
     },
     {
       "studio": "Lagree West",
@@ -160,38 +110,8 @@
       "location": "Kitsilano",
       "start_date": "2026-03-19",
       "start_time": "15:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 16
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-03-12 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-03-19",
-      "start_time": "16:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-03-13 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-03-20",
-      "start_time": "16:30",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-03-16 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-03-23",
-      "start_time": "08:15",
-      "available_spot_count": 26,
-      "capacity": 26
     },
     {
       "studio": "Lagree West",
@@ -204,163 +124,13 @@
       "capacity": 14
     },
     {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-03-19 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-03-26",
-      "start_time": "08:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-03-19 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-03-26",
-      "start_time": "16:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-03-20 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-03-27",
-      "start_time": "16:30",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-03-23 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-03-30",
-      "start_time": "08:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-03-26 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-04-02",
-      "start_time": "08:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-03-26 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-04-02",
-      "start_time": "16:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-03-27 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-04-03",
-      "start_time": "16:30",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-03-30 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-04-06",
-      "start_time": "08:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-04-02 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-04-09",
-      "start_time": "08:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-04-02 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-04-09",
-      "start_time": "16:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-04-03 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-04-10",
-      "start_time": "16:30",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-04-06 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-04-13",
-      "start_time": "08:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-04-09 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-04-16",
-      "start_time": "08:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-04-09 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-04-16",
-      "start_time": "16:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs+Tread (45)",
-      "booking_start_date": "2026-04-10 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-04-17",
-      "start_time": "16:30",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
       "studio": "Jaybird",
       "name": "Teacher Development | The Burn $18",
       "booking_start_date": "2026-02-27 00:00",
       "location": "Kingsway",
       "start_date": "2026-03-06",
       "start_time": "13:30",
-      "available_spot_count": 31,
+      "available_spot_count": 29,
       "capacity": 45
     },
     {
@@ -705,42 +475,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk-Intermediate (Min 10 Classes)",
-      "booking_start_date": "2026-02-26 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-05",
-      "start_time": "08:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "DaytimePerk Full Body With Headsets",
-      "booking_start_date": "2026-02-26 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-05",
-      "start_time": "13:00",
-      "available_spot_count": 3,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk - Full Body With Headsets",
-      "booking_start_date": "2026-02-26 15:30",
-      "location": "Vancouver",
-      "start_date": "2026-03-05",
-      "start_time": "15:30",
-      "available_spot_count": 2,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk  - Full Body",
       "booking_start_date": "2026-02-27 07:00",
       "location": "Vancouver",
       "start_date": "2026-03-06",
       "start_time": "07:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -756,21 +496,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-02-27 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-06",
-      "start_time": "10:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-02-27 13:00",
       "location": "Vancouver",
       "start_date": "2026-03-06",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -800,7 +530,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-11",
       "start_time": "15:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -880,7 +610,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-09",
       "start_time": "07:15",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 47
     },
     {
@@ -900,7 +630,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-12",
       "start_time": "09:45",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 48
     },
     {
@@ -910,7 +640,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-12",
       "start_time": "17:30",
-      "available_spot_count": 16,
+      "available_spot_count": 13,
       "capacity": 48
     },
     {
@@ -920,7 +650,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-13",
       "start_time": "16:20",
-      "available_spot_count": 38,
+      "available_spot_count": 33,
       "capacity": 48
     },
     {
@@ -930,7 +660,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-13",
       "start_time": "18:40",
-      "available_spot_count": 9,
+      "available_spot_count": 2,
       "capacity": 48
     },
     {
@@ -1022,26 +752,6 @@
       "start_time": "18:30",
       "available_spot_count": 10,
       "capacity": 10
-    },
-    {
-      "studio": "Tunnel",
-      "name": "The Sahajan Session Heated Mat",
-      "booking_start_date": "2026-02-26 17:30",
-      "location": "Vancouver",
-      "start_date": "2026-03-05",
-      "start_time": "17:30",
-      "available_spot_count": 0,
-      "capacity": 11
-    },
-    {
-      "studio": "Tunnel",
-      "name": "The Sahajan Session Heated Reformer",
-      "booking_start_date": "2026-02-26 17:30",
-      "location": "Vancouver",
-      "start_date": "2026-03-05",
-      "start_time": "17:30",
-      "available_spot_count": 1,
-      "capacity": 11
     }
   ]
 }
