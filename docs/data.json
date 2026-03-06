@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T13:29:37.830012-08:00",
+  "last_updated": "2026-03-06T13:53:53.479635-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -555,6 +555,16 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-02-27 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-03-06",
+      "start_time": "18:30",
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Instructor Training Drop in Class",
       "booking_start_date": "2026-02-28 08:00",
       "location": "Vancouver",
@@ -680,7 +690,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-10",
       "start_time": "07:15",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 47
     },
     {
@@ -730,7 +740,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-14",
       "start_time": "13:00",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 48
     },
     {
