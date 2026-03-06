@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T10:47:02.252380-08:00",
+  "last_updated": "2026-03-06T11:34:02.417485-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -160,7 +160,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-06",
       "start_time": "13:30",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 45
     },
     {
@@ -540,7 +540,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-06",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -602,6 +602,26 @@
       "start_time": "09:30",
       "available_spot_count": 0,
       "capacity": 25
+    },
+    {
+      "studio": "Turf",
+      "name": "meta x See You Sundae",
+      "booking_start_date": "2026-02-19 09:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-03-21",
+      "start_time": "09:30",
+      "available_spot_count": 34,
+      "capacity": 34
+    },
+    {
+      "studio": "Turf",
+      "name": "meta + mat werk x See You Sundae",
+      "booking_start_date": "2026-02-19 11:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-03-21",
+      "start_time": "11:00",
+      "available_spot_count": 32,
+      "capacity": 32
     },
     {
       "studio": "Spin Society",
@@ -670,7 +690,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-12",
       "start_time": "09:45",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 48
     },
     {
