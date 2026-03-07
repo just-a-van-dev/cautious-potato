@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T12:26:18.395233-08:00",
+  "last_updated": "2026-03-07T12:49:07.375045-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -60,7 +60,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-08",
       "start_time": "16:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 16
     },
     {
@@ -172,6 +172,46 @@
       "start_time": "17:45",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Body Energy Club",
+      "booking_start_date": "2026-03-16 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-03-23",
+      "start_time": "08:00",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer \u2014 HH x Body Energy Club",
+      "booking_start_date": "2026-03-16 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-03-23",
+      "start_time": "09:00",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Build x Body Energy Club",
+      "booking_start_date": "2026-03-16 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-03-23",
+      "start_time": "09:30",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Body Energy Club",
+      "booking_start_date": "2026-03-16 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-03-23",
+      "start_time": "10:00",
+      "available_spot_count": 20,
+      "capacity": 20
     },
     {
       "studio": "Jaybird",
