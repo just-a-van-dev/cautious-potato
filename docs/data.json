@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T15:45:35.862972-08:00",
+  "last_updated": "2026-03-07T18:09:00.171321-08:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -70,7 +70,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-08",
       "start_time": "16:30",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -90,7 +90,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-16",
       "start_time": "11:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -535,22 +535,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Instructor Training Drop in Class",
-      "booking_start_date": "2026-02-28 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-07",
-      "start_time": "08:00",
-      "available_spot_count": 9,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk  - Full Body",
       "booking_start_date": "2026-03-02 08:00",
       "location": "Vancouver",
       "start_date": "2026-03-09",
       "start_time": "08:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -570,7 +560,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-09",
       "start_time": "14:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -615,22 +605,12 @@
     },
     {
       "studio": "Turf",
-      "name": "Core + Pour: TurF at La Marzocco",
-      "booking_start_date": "2026-02-05 09:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-03-07",
-      "start_time": "09:30",
-      "available_spot_count": 2,
-      "capacity": 25
-    },
-    {
-      "studio": "Turf",
       "name": "meta x See You Sundae",
       "booking_start_date": "2026-02-19 09:30",
       "location": "KITS - Vancouver",
       "start_date": "2026-03-21",
       "start_time": "09:30",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 34
     },
     {
@@ -680,8 +660,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-10",
       "start_time": "07:15",
-      "available_spot_count": 34,
-      "capacity": 47
+      "available_spot_count": 35,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -690,7 +670,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-12",
       "start_time": "09:45",
-      "available_spot_count": 26,
+      "available_spot_count": 24,
       "capacity": 48
     },
     {
@@ -710,7 +690,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-13",
       "start_time": "16:20",
-      "available_spot_count": 19,
+      "available_spot_count": 17,
       "capacity": 48
     },
     {
@@ -730,7 +710,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-14",
       "start_time": "13:00",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 48
     },
     {
@@ -740,8 +720,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-16",
       "start_time": "09:45",
-      "available_spot_count": 50,
-      "capacity": 50
+      "available_spot_count": 49,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -750,8 +730,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-17",
       "start_time": "07:15",
-      "available_spot_count": 50,
-      "capacity": 50
+      "available_spot_count": 48,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -760,8 +740,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-19",
       "start_time": "09:45",
-      "available_spot_count": 50,
-      "capacity": 50
+      "available_spot_count": 48,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -770,8 +750,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-20",
       "start_time": "18:40",
-      "available_spot_count": 50,
-      "capacity": 50
+      "available_spot_count": 48,
+      "capacity": 48
     },
     {
       "studio": "Lagree Pulse",
