@@ -61,6 +61,7 @@ FILTER_OUT = ["advanced with headsets",
               "mcx-arms/abs+tread",
               "mega cardio xpress",
               "mega cardio xpress- ass/abs+tread (45 min)",
+              "mega cardio xpress- ass/abs+tread (45)",
               "mega cardio xpress- arms/abs+tread (45 min)",
               "mega cardio xpress- arms/abs+tread (45)",
               "mega cardio- arms/abs+tread",
@@ -76,9 +77,6 @@ FILTER_OUT = ["advanced with headsets",
               "meta + mat werk 60 min",
               "meta + weights 45",
               "meta x mn",
-              "mid-day mega cardio xpress- arms/abs+tread (45)",
-              "mid-day mega cardio- arms/abs+tread (55 min)",
-              "mid-day\u00a0mega cardio- arms/abs+tread (55 min)",
               "postpartum +baby: control + core",
               "postpartum +baby: strength",
               "prenatal pilates + core",
@@ -134,16 +132,9 @@ def is_sponsored_class(class_data, studio_name) -> bool:
 
     if "happy hour" in name:
         name = name.replace("happy hour", "").strip()
-    if "x blume superbelly" in name:
-        name = name.replace("x blume superbelly", "").strip()
-    if "x blume superfoods" in name:
-        name = name.replace("x blume superfoods", "").strip()
-    if "xatelier elan coffee" in name:
-        name = name.replace("xatelier elan coffee", "").strip()
-    if "x atelier elan coffee" in name:
-        name = name.replace("x atelier elan coffee", "").strip()
-    if "x poppi" in name:
-        name = name.replace("x poppi", "").strip()
+
+    if "mid-day" in name:
+        name = name.replace("mid-day", "").strip()
 
     if any(target == name for target in FILTER_OUT):
         return False
