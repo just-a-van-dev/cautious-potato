@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T13:27:14.068890-07:00",
+  "last_updated": "2026-03-08T13:50:49.881263-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -70,7 +70,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-08",
       "start_time": "16:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -540,7 +540,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-10",
       "start_time": "09:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -590,7 +590,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-03-21",
       "start_time": "09:30",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 34
     },
     {
@@ -602,6 +602,16 @@
       "start_time": "11:00",
       "available_spot_count": 28,
       "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "LONG WEEKEND CO-TEACH META PARTY",
+      "booking_start_date": "2026-03-29 09:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-04-05",
+      "start_time": "09:30",
+      "available_spot_count": 34,
+      "capacity": 34
     },
     {
       "studio": "Spin Society",
@@ -620,7 +630,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-09",
       "start_time": "06:00",
-      "available_spot_count": 27,
+      "available_spot_count": 28,
       "capacity": 48
     },
     {
@@ -630,7 +640,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-09",
       "start_time": "07:15",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 48
     },
     {
