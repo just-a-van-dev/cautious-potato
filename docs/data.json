@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T14:53:24.271694-07:00",
+  "last_updated": "2026-03-10T15:29:33.393482-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -129,6 +129,26 @@
       "booking_start_date": "2026-03-16 00:00",
       "location": "Kingsway",
       "start_date": "2026-03-23",
+      "start_time": "07:00",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x Body Energy Club",
+      "booking_start_date": "2026-03-16 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-03-23",
+      "start_time": "07:30",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Body Energy Club",
+      "booking_start_date": "2026-03-16 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-03-23",
       "start_time": "08:00",
       "available_spot_count": 20,
       "capacity": 20
@@ -159,6 +179,46 @@
       "booking_start_date": "2026-03-16 00:00",
       "location": "Kingsway",
       "start_date": "2026-03-23",
+      "start_time": "10:00",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer (Heated) x Body Energy Club",
+      "booking_start_date": "2026-03-17 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-03-24",
+      "start_time": "07:00",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x Body Energy Club",
+      "booking_start_date": "2026-03-17 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-03-24",
+      "start_time": "07:30",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Booty x Body Energy Club",
+      "booking_start_date": "2026-03-17 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-03-24",
+      "start_time": "09:30",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer (Heated) x Body Energy Club",
+      "booking_start_date": "2026-03-17 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-03-24",
       "start_time": "10:00",
       "available_spot_count": 20,
       "capacity": 20
@@ -540,7 +600,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-11",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
