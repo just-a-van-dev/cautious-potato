@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T16:32:34.023731-07:00",
+  "last_updated": "2026-03-09T19:02:33.228988-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -82,6 +82,26 @@
       "start_time": "08:15",
       "available_spot_count": 0,
       "capacity": 14
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x RANI Lounge",
+      "booking_start_date": "2026-03-06 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-03-13",
+      "start_time": "16:00",
+      "available_spot_count": 28,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x RANI Lounge",
+      "booking_start_date": "2026-03-06 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-03-13",
+      "start_time": "17:20",
+      "available_spot_count": 24,
+      "capacity": 36
     },
     {
       "studio": "Jaybird",
@@ -466,51 +486,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-03-02 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-09",
-      "start_time": "09:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-03-02 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-09",
-      "start_time": "10:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-03-02 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-09",
-      "start_time": "13:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-03-03 09:00",
       "location": "Vancouver",
       "start_date": "2026-03-10",
       "start_time": "09:00",
       "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Workout With Headsets",
-      "booking_start_date": "2026-03-03 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-10",
-      "start_time": "10:00",
-      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -590,7 +570,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-03-21",
       "start_time": "09:30",
-      "available_spot_count": 4,
+      "available_spot_count": 1,
       "capacity": 34
     },
     {
@@ -600,7 +580,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-03-21",
       "start_time": "11:00",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 32
     },
     {
@@ -612,26 +592,6 @@
       "start_time": "09:30",
       "available_spot_count": 34,
       "capacity": 34
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: EXPERTS ONLY FESTIVAL - THE PRE-PARTY",
-      "booking_start_date": "2026-03-01 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-03-09",
-      "start_time": "06:00",
-      "available_spot_count": 31,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: BEYONC\u00c9 X RIHANNA",
-      "booking_start_date": "2026-03-01 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-03-09",
-      "start_time": "07:15",
-      "available_spot_count": 23,
-      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -690,7 +650,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-14",
       "start_time": "13:00",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 48
     },
     {
@@ -710,7 +670,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-17",
       "start_time": "07:15",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 48
     },
     {
