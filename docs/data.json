@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T16:52:31.310554-07:00",
+  "last_updated": "2026-03-10T19:02:10.122052-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -90,7 +90,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-13",
       "start_time": "16:00",
-      "available_spot_count": 23,
+      "available_spot_count": 21,
       "capacity": 36
     },
     {
@@ -100,7 +100,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-13",
       "start_time": "17:20",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
@@ -545,52 +545,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-03-03 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-10",
-      "start_time": "09:00",
-      "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-03-03 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-10",
-      "start_time": "11:00",
-      "available_spot_count": 0,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-03-03 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-10",
-      "start_time": "13:00",
-      "available_spot_count": 2,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-03-03 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-10",
-      "start_time": "14:00",
-      "available_spot_count": 2,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk  - Full Body",
       "booking_start_date": "2026-03-04 07:00",
       "location": "Vancouver",
       "start_date": "2026-03-11",
       "start_time": "07:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -620,7 +580,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-12",
       "start_time": "09:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -695,16 +655,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: FRED AGAIN.. x HIP HOP",
-      "booking_start_date": "2026-03-02 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-03-10",
-      "start_time": "07:15",
-      "available_spot_count": 27,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: 2010s HIP HOP x EDM",
       "booking_start_date": "2026-03-04 12:00",
       "location": "MOUNT PLEASANT",
@@ -730,7 +680,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-13",
       "start_time": "16:20",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 48
     },
     {
@@ -770,7 +720,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-17",
       "start_time": "07:15",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 48
     },
     {
@@ -820,7 +770,7 @@
       "location": "Vancouver Downtown",
       "start_date": "2026-03-13",
       "start_time": "18:15",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -869,6 +819,16 @@
       "booking_start_date": "2026-04-10 18:15",
       "location": "Vancouver Downtown",
       "start_date": "2026-04-17",
+      "start_time": "18:15",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Upper Body + Abs",
+      "booking_start_date": "2026-04-17 18:15",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-04-24",
       "start_time": "18:15",
       "available_spot_count": 10,
       "capacity": 10
