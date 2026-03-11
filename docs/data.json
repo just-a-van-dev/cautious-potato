@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T07:26:06.553330-07:00",
+  "last_updated": "2026-03-11T08:12:38.913837-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -560,7 +560,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-11",
       "start_time": "13:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -760,7 +760,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-17",
       "start_time": "07:15",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 48
     },
     {
@@ -801,6 +801,36 @@
       "start_date": "2026-03-21",
       "start_time": "13:00",
       "available_spot_count": 47,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: DESTINY'S CHILD x TAYLOR SWIFT",
+      "booking_start_date": "2026-03-16 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-03-24",
+      "start_time": "12:30",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: WAKE UP WITH ODESZA",
+      "booking_start_date": "2026-03-18 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-03-26",
+      "start_time": "06:00",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: HARRY STYLES x BILLIE EILISH",
+      "booking_start_date": "2026-03-21 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-03-29",
+      "start_time": "13:00",
+      "available_spot_count": 48,
       "capacity": 48
     },
     {
