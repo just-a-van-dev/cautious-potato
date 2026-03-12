@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T04:31:42.858399-07:00",
+  "last_updated": "2026-03-12T06:01:15.643373-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -60,7 +60,7 @@
       "location": "Gastown",
       "start_date": "2026-03-19",
       "start_time": "15:15",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 15
     },
     {
@@ -750,7 +750,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-19",
       "start_time": "18:40",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 48
     },
     {
