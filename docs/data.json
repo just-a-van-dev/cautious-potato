@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T12:34:05.562060-07:00",
+  "last_updated": "2026-03-13T13:35:08.491587-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -90,7 +90,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-13",
       "start_time": "16:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 36
     },
     {
@@ -100,7 +100,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-13",
       "start_time": "17:20",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 36
     },
     {
@@ -600,7 +600,17 @@
       "location": "Vancouver",
       "start_date": "2026-03-13",
       "start_time": "19:30",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk - New Instructor Class",
+      "booking_start_date": "2026-03-07 08:00",
+      "location": "Vancouver",
+      "start_date": "2026-03-14",
+      "start_time": "08:00",
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -660,8 +670,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-13",
       "start_time": "18:40",
-      "available_spot_count": 0,
-      "capacity": 48
+      "available_spot_count": 1,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -710,7 +720,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-19",
       "start_time": "18:40",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 48
     },
     {
@@ -730,7 +740,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-21",
       "start_time": "13:00",
-      "available_spot_count": 37,
+      "available_spot_count": 34,
       "capacity": 48
     },
     {
