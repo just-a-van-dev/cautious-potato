@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T08:31:21.220020-07:00",
+  "last_updated": "2026-03-14T09:32:15.742173-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -550,7 +550,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-16",
       "start_time": "08:00",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -625,6 +625,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "SCTY x Barebells Protein",
+      "booking_start_date": "2026-03-06 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-03-14",
+      "start_time": "09:30",
+      "available_spot_count": 9,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: JAY Z X LINKIN PARK",
       "booking_start_date": "2026-03-06 12:00",
       "location": "MOUNT PLEASANT",
@@ -640,7 +650,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-16",
       "start_time": "09:45",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 49
     },
     {
@@ -670,7 +680,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-19",
       "start_time": "18:40",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 48
     },
     {
