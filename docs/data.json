@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T16:54:09.366203-07:00",
+  "last_updated": "2026-03-13T19:03:35.817212-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -82,26 +82,6 @@
       "start_time": "08:15",
       "available_spot_count": 0,
       "capacity": 14
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn x RANI Lounge",
-      "booking_start_date": "2026-03-06 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-03-13",
-      "start_time": "16:00",
-      "available_spot_count": 0,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn x RANI Lounge",
-      "booking_start_date": "2026-03-06 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-03-13",
-      "start_time": "17:20",
-      "available_spot_count": 0,
-      "capacity": 36
     },
     {
       "studio": "Jaybird",
@@ -555,62 +535,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-03-06 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-13",
-      "start_time": "08:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk - Full Body With Headsets",
-      "booking_start_date": "2026-03-06 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-13",
-      "start_time": "09:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-03-06 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-13",
-      "start_time": "10:00",
-      "available_spot_count": 2,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-03-06 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-13",
-      "start_time": "12:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Club Lagree - Full Body",
-      "booking_start_date": "2026-03-06 19:30",
-      "location": "Vancouver",
-      "start_date": "2026-03-13",
-      "start_time": "19:30",
-      "available_spot_count": 0,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk - New Instructor Class",
       "booking_start_date": "2026-03-07 08:00",
       "location": "Vancouver",
       "start_date": "2026-03-14",
       "start_time": "08:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -655,26 +585,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: HANNAH MONTANA X MILEY",
-      "booking_start_date": "2026-03-05 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-03-13",
-      "start_time": "16:20",
-      "available_spot_count": 1,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: BADASS TRACKS BY BADASS WOMEN - VOL 2",
-      "booking_start_date": "2026-03-05 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-03-13",
-      "start_time": "18:40",
-      "available_spot_count": 0,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: JAY Z X LINKIN PARK",
       "booking_start_date": "2026-03-06 12:00",
       "location": "MOUNT PLEASANT",
@@ -700,7 +610,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-17",
       "start_time": "07:15",
-      "available_spot_count": 20,
+      "available_spot_count": 18,
       "capacity": 48
     },
     {
@@ -710,7 +620,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-19",
       "start_time": "09:45",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 48
     },
     {
@@ -720,7 +630,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-19",
       "start_time": "18:40",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 48
     },
     {
@@ -740,7 +650,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-21",
       "start_time": "13:00",
-      "available_spot_count": 25,
+      "available_spot_count": 21,
       "capacity": 48
     },
     {
@@ -845,22 +755,12 @@
     },
     {
       "studio": "Evolution",
-      "name": "Infrared Lagree - 90S HIP HOP X R&B",
-      "booking_start_date": "2026-02-27 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-03-13",
-      "start_time": "18:30",
-      "available_spot_count": 1,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
       "name": "Infrared Lagree - JOHN SUMMIT VS FRED AGAIN..",
       "booking_start_date": "2026-03-06 18:30",
       "location": "Vancouver",
       "start_date": "2026-03-20",
       "start_time": "18:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
