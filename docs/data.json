@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T19:28:40.207713-07:00",
+  "last_updated": "2026-03-14T21:55:03.581619-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -8,7 +8,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-21",
       "start_time": "17:45",
-      "available_spot_count": 11,
+      "available_spot_count": 8,
       "capacity": 36
     },
     {
@@ -100,7 +100,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-21",
       "start_time": "17:45",
-      "available_spot_count": 11,
+      "available_spot_count": 8,
       "capacity": 36
     },
     {
@@ -560,7 +560,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-16",
       "start_time": "13:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -685,21 +685,51 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: ABBA x SWEDISH HOUSE MAFIA",
-      "booking_start_date": "2026-03-17 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-03-25",
-      "start_time": "19:50",
-      "available_spot_count": 48,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: WAKE UP WITH ODESZA",
       "booking_start_date": "2026-03-18 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-26",
       "start_time": "06:00",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: JUSTIN TIMBERLAKE x TIMBALAND x 50 CENT",
+      "booking_start_date": "2026-03-18 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-03-26",
+      "start_time": "09:45",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ABBA x SWEDISH HOUSE MAFIA",
+      "booking_start_date": "2026-03-18 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-03-26",
+      "start_time": "18:40",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BLACK EYED PEAS X SOLO CAREERS",
+      "booking_start_date": "2026-03-19 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-03-27",
+      "start_time": "16:20",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BADASS TRACKS BY BADASS WOMEN - VOL 3",
+      "booking_start_date": "2026-03-19 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-03-27",
+      "start_time": "18:40",
       "available_spot_count": 48,
       "capacity": 48
     },
