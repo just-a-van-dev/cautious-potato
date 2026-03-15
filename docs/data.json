@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T10:28:10.765656-07:00",
+  "last_updated": "2026-03-15T10:55:04.761694-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -8,7 +8,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-21",
       "start_time": "17:45",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 36
     },
     {
@@ -100,7 +100,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-21",
       "start_time": "17:45",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 36
     },
     {
