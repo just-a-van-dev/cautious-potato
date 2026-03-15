@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T16:52:29.092302-07:00",
+  "last_updated": "2026-03-14T19:11:26.290885-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -8,7 +8,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-21",
       "start_time": "17:45",
-      "available_spot_count": 36,
+      "available_spot_count": 11,
       "capacity": 36
     },
     {
@@ -100,7 +100,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-21",
       "start_time": "17:45",
-      "available_spot_count": 36,
+      "available_spot_count": 11,
       "capacity": 36
     },
     {
@@ -535,16 +535,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk - New Instructor Class",
-      "booking_start_date": "2026-03-07 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-14",
-      "start_time": "08:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk - Full Body With Headsets",
       "booking_start_date": "2026-03-09 09:00",
       "location": "Vancouver",
@@ -570,7 +560,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-16",
       "start_time": "13:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -622,26 +612,6 @@
       "start_time": "09:30",
       "available_spot_count": 34,
       "capacity": 34
-    },
-    {
-      "studio": "Spin Society",
-      "name": "SCTY x Barebells Protein",
-      "booking_start_date": "2026-03-06 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-03-14",
-      "start_time": "09:30",
-      "available_spot_count": 9,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: JAY Z X LINKIN PARK",
-      "booking_start_date": "2026-03-06 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-03-14",
-      "start_time": "13:00",
-      "available_spot_count": 4,
-      "capacity": 48
     },
     {
       "studio": "Spin Society",
