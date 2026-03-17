@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T14:04:29.588366-07:00",
+  "last_updated": "2026-03-17T15:01:57.533396-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -180,7 +180,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-24",
       "start_time": "07:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 45
     },
     {
@@ -200,7 +200,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-24",
       "start_time": "09:30",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 45
     },
     {
@@ -710,7 +710,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-24",
       "start_time": "12:30",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 48
     },
     {
@@ -855,7 +855,7 @@
     },
     {
       "studio": "Evolution",
-      "name": "Infrared Lagree - Themed",
+      "name": "Infrared Lagree - 90\u2019S R&B + HIP HOP",
       "booking_start_date": "2026-03-27 18:30",
       "location": "Vancouver",
       "start_date": "2026-04-10",
@@ -865,7 +865,7 @@
     },
     {
       "studio": "Evolution",
-      "name": "Infrared Lagree - Themed",
+      "name": "Infrared Lagree - FISHER VS CHRIS LAKE",
       "booking_start_date": "2026-04-03 18:30",
       "location": "Vancouver",
       "start_date": "2026-04-17",
@@ -875,7 +875,7 @@
     },
     {
       "studio": "Evolution",
-      "name": "Infrared Lagree - Themed",
+      "name": "Infrared Lagree - AFROBEATS + BURN",
       "booking_start_date": "2026-04-10 18:30",
       "location": "Vancouver",
       "start_date": "2026-04-24",
