@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T09:07:53.520226-07:00",
+  "last_updated": "2026-03-18T10:35:37.304137-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -60,7 +60,7 @@
       "location": "Gastown",
       "start_date": "2026-03-19",
       "start_time": "15:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 15
     },
     {
@@ -150,7 +150,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-23",
       "start_time": "09:30",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 45
     },
     {
@@ -574,6 +574,36 @@
       "capacity": 12
     },
     {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-03-12 07:00",
+      "location": "Vancouver",
+      "start_date": "2026-03-19",
+      "start_time": "07:00",
+      "available_spot_count": 3,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-03-12 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-03-19",
+      "start_time": "10:00",
+      "available_spot_count": 4,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-03-12 11:00",
+      "location": "Vancouver",
+      "start_date": "2026-03-19",
+      "start_time": "11:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
       "studio": "Ritual",
       "name": "Spring Equinox | Renewal in Motion",
       "booking_start_date": "2025-12-29 14:00",
@@ -620,7 +650,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-19",
       "start_time": "09:45",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 48
     },
     {
@@ -630,7 +660,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-19",
       "start_time": "18:40",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 48
     },
     {
@@ -660,7 +690,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-24",
       "start_time": "12:30",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 48
     },
     {
@@ -730,7 +760,7 @@
       "location": "Vancouver Downtown",
       "start_date": "2026-03-20",
       "start_time": "18:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 10
     },
     {
