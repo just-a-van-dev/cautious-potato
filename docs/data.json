@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T10:35:37.304137-07:00",
+  "last_updated": "2026-03-18T11:59:59.477544-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -90,7 +90,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-21",
       "start_time": "15:00",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 45
     },
     {
@@ -110,7 +110,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-23",
       "start_time": "07:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -210,7 +210,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-24",
       "start_time": "10:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -650,7 +650,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-19",
       "start_time": "09:45",
-      "available_spot_count": 32,
+      "available_spot_count": 33,
       "capacity": 48
     },
     {
@@ -660,7 +660,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-19",
       "start_time": "18:40",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 48
     },
     {
@@ -830,7 +830,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-20",
       "start_time": "18:30",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
