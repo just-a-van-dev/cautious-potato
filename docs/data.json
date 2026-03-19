@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T15:29:15.859084-07:00",
+  "last_updated": "2026-03-19T15:58:18.551720-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -48,7 +48,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-03-24",
       "start_time": "11:15",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 18
     }
   ],
@@ -60,8 +60,8 @@
       "location": "Gastown",
       "start_date": "2026-03-19",
       "start_time": "15:15",
-      "available_spot_count": 7,
-      "capacity": 15
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Lagree West",
@@ -71,7 +71,7 @@
       "start_date": "2026-03-19",
       "start_time": "15:15",
       "available_spot_count": 0,
-      "capacity": 16
+      "capacity": 0
     },
     {
       "studio": "Lagree West",
@@ -755,6 +755,16 @@
     },
     {
       "studio": "Turf",
+      "name": "On The Mat with Nat",
+      "booking_start_date": "2026-04-16 08:15",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-04-23",
+      "start_time": "08:15",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
       "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-04-16 16:00",
       "location": "KITS - Vancouver",
@@ -830,7 +840,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-24",
       "start_time": "12:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 48
     },
     {
@@ -880,7 +890,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-27",
       "start_time": "18:40",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 48
     },
     {
@@ -900,7 +910,7 @@
       "location": "Vancouver Downtown",
       "start_date": "2026-03-20",
       "start_time": "18:15",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 10
     },
     {
