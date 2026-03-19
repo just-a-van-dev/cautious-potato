@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T09:29:24.290645-07:00",
+  "last_updated": "2026-03-19T10:34:34.100015-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -580,8 +580,8 @@
       "location": "Vancouver",
       "start_date": "2026-03-19",
       "start_time": "09:00",
-      "available_spot_count": 5,
-      "capacity": 12
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Lagree Studio",
@@ -600,7 +600,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-19",
       "start_time": "11:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -630,7 +630,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-20",
       "start_time": "14:00",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
