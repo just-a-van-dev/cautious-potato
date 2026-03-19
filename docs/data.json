@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T04:57:24.993378-07:00",
+  "last_updated": "2026-03-19T06:20:31.155494-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -576,6 +576,16 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-03-12 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-03-19",
+      "start_time": "09:00",
+      "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-03-12 10:00",
       "location": "Vancouver",
       "start_date": "2026-03-19",
@@ -650,7 +660,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-19",
       "start_time": "18:40",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 48
     },
     {
@@ -690,7 +700,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-26",
       "start_time": "06:00",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 48
     },
     {
