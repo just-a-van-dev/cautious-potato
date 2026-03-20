@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T14:30:43.322465-07:00",
+  "last_updated": "2026-03-20T15:29:12.895936-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -180,7 +180,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-27",
       "start_time": "11:15",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 16
     },
     {
@@ -270,7 +270,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-21",
       "start_time": "15:00",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 45
     },
     {
@@ -720,8 +720,8 @@
       "location": "Vancouver",
       "start_date": "2026-03-20",
       "start_time": "14:00",
-      "available_spot_count": 2,
-      "capacity": 12
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Ritual",
@@ -890,7 +890,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-20",
       "start_time": "18:40",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 48
     },
     {
@@ -900,7 +900,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-21",
       "start_time": "13:00",
-      "available_spot_count": 0,
+      "available_spot_count": 2,
       "capacity": 48
     },
     {
@@ -910,7 +910,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-24",
       "start_time": "12:30",
-      "available_spot_count": 33,
+      "available_spot_count": 30,
       "capacity": 48
     },
     {
@@ -972,6 +972,16 @@
       "start_time": "13:00",
       "available_spot_count": 48,
       "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: POP PUNK x ALT ROCK",
+      "booking_start_date": "2026-03-26 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-04-03",
+      "start_time": "10:40",
+      "available_spot_count": 50,
+      "capacity": 50
     },
     {
       "studio": "Lagree Pulse",
