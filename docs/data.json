@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T16:37:47.523766-07:00",
+  "last_updated": "2026-03-19T18:39:50.251412-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -10,26 +10,6 @@
       "start_time": "17:45",
       "available_spot_count": 0,
       "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn + ALO Community Class",
-      "booking_start_date": "2026-03-20 16:00",
-      "location": "Kingsway",
-      "start_date": "2026-03-27",
-      "start_time": "16:00",
-      "available_spot_count": 45,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Bird + ALO Community Class",
-      "booking_start_date": "2026-03-21 15:00",
-      "location": "Kingsway",
-      "start_date": "2026-03-28",
-      "start_time": "15:00",
-      "available_spot_count": 45,
-      "capacity": 45
     },
     {
       "studio": "Jaybird",
@@ -48,31 +28,11 @@
       "location": "Mount Pleasant",
       "start_date": "2026-03-24",
       "start_time": "11:15",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 18
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2026-03-12 00:00",
-      "location": "Gastown",
-      "start_date": "2026-03-19",
-      "start_time": "15:15",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2026-02-17 15:15",
-      "location": "Kitsilano",
-      "start_date": "2026-03-19",
-      "start_time": "15:15",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
@@ -90,7 +50,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-26",
       "start_time": "09:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 16
     },
     {
@@ -100,7 +60,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-26",
       "start_time": "10:15",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 16
     },
     {
@@ -120,7 +80,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-26",
       "start_time": "12:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 16
     },
     {
@@ -180,6 +140,46 @@
       "location": "Kitsilano",
       "start_date": "2026-03-26",
       "start_time": "19:15",
+      "available_spot_count": 14,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Body Energy Club",
+      "booking_start_date": "2026-03-20 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-03-27",
+      "start_time": "08:15",
+      "available_spot_count": 15,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer Advanced (50 Min) x Body Energy Club",
+      "booking_start_date": "2026-03-20 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-03-27",
+      "start_time": "09:15",
+      "available_spot_count": 13,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Body Energy Club",
+      "booking_start_date": "2026-03-20 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-03-27",
+      "start_time": "10:15",
+      "available_spot_count": 10,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Body Energy Club",
+      "booking_start_date": "2026-03-20 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-03-27",
+      "start_time": "11:15",
       "available_spot_count": 14,
       "capacity": 16
     },
@@ -260,7 +260,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-14",
       "start_time": "08:15",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 20
     },
     {
@@ -310,7 +310,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-23",
       "start_time": "08:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -330,7 +330,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-23",
       "start_time": "09:30",
-      "available_spot_count": 28,
+      "available_spot_count": 29,
       "capacity": 45
     },
     {
@@ -392,26 +392,6 @@
       "start_time": "10:00",
       "available_spot_count": 11,
       "capacity": 20
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn + ALO Community Class",
-      "booking_start_date": "2026-03-20 16:00",
-      "location": "Kingsway",
-      "start_date": "2026-03-27",
-      "start_time": "16:00",
-      "available_spot_count": 45,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Bird + ALO Community Class",
-      "booking_start_date": "2026-03-21 15:00",
-      "location": "Kingsway",
-      "start_date": "2026-03-28",
-      "start_time": "15:00",
-      "available_spot_count": 45,
-      "capacity": 45
     },
     {
       "studio": "Jaybird",
@@ -575,7 +555,7 @@
     },
     {
       "studio": "Jaybird",
-      "name": "Merit Monday x The Bird",
+      "name": "Merit Monday x The Burn",
       "booking_start_date": "2026-03-23 00:00",
       "location": "Yaletown",
       "start_date": "2026-03-30",
@@ -605,7 +585,7 @@
     },
     {
       "studio": "Jaybird",
-      "name": "Merit Monday x The Burn",
+      "name": "Merit Monday x The Bird",
       "booking_start_date": "2026-03-23 00:00",
       "location": "Yaletown",
       "start_date": "2026-03-30",
@@ -715,52 +695,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-03-12 07:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-19",
-      "start_time": "07:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-03-12 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-19",
-      "start_time": "09:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-03-12 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-19",
-      "start_time": "10:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-03-12 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-19",
-      "start_time": "11:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-03-13 09:00",
       "location": "Vancouver",
       "start_date": "2026-03-20",
       "start_time": "09:00",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -790,7 +730,7 @@
       "location": "West End",
       "start_date": "2026-03-29",
       "start_time": "14:00",
-      "available_spot_count": 20,
+      "available_spot_count": 18,
       "capacity": 25
     },
     {
@@ -945,26 +885,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME; 2006 x 2016",
-      "booking_start_date": "2026-03-11 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-03-19",
-      "start_time": "09:45",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: FRED AGAIN.. X DAFT PUNK",
-      "booking_start_date": "2026-03-11 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-03-19",
-      "start_time": "18:40",
-      "available_spot_count": 0,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: OPPOSITES: BIG BEAT DROPS x STEADY EDM",
       "booking_start_date": "2026-03-12 12:00",
       "location": "MOUNT PLEASANT",
@@ -990,7 +910,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-24",
       "start_time": "12:30",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 48
     },
     {
@@ -1020,7 +940,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-26",
       "start_time": "18:40",
-      "available_spot_count": 10,
+      "available_spot_count": 6,
       "capacity": 48
     },
     {
@@ -1040,7 +960,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-27",
       "start_time": "18:40",
-      "available_spot_count": 9,
+      "available_spot_count": 3,
       "capacity": 48
     },
     {
