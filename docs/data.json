@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T12:02:44.435117-07:00",
+  "last_updated": "2026-03-20T12:55:12.606397-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -50,7 +50,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-26",
       "start_time": "09:15",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 16
     },
     {
@@ -70,7 +70,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-26",
       "start_time": "11:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 16
     },
     {
@@ -160,7 +160,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-27",
       "start_time": "09:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 16
     },
     {
@@ -180,7 +180,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-27",
       "start_time": "11:15",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 16
     },
     {
@@ -290,7 +290,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-23",
       "start_time": "07:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
