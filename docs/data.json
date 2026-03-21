@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T13:27:41.180537-07:00",
+  "last_updated": "2026-03-21T13:52:29.755856-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -140,7 +140,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-26",
       "start_time": "19:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 16
     },
     {
@@ -320,7 +320,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-23",
       "start_time": "09:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 20
     },
     {
@@ -700,7 +700,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-21",
       "start_time": "15:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -930,8 +930,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-21",
       "start_time": "13:00",
-      "available_spot_count": 5,
-      "capacity": 48
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Spin Society",
@@ -1000,7 +1000,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-29",
       "start_time": "13:00",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 48
     },
     {
@@ -1020,7 +1020,7 @@
       "location": "Vancouver Downtown",
       "start_date": "2026-03-27",
       "start_time": "18:15",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 10
     },
     {
