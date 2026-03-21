@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T08:26:39.726896-07:00",
+  "last_updated": "2026-03-21T08:48:56.778194-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -170,7 +170,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-27",
       "start_time": "10:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 16
     },
     {
@@ -180,7 +180,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-27",
       "start_time": "11:15",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 16
     },
     {
@@ -880,7 +880,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-21",
       "start_time": "09:30",
-      "available_spot_count": 12,
+      "available_spot_count": 14,
       "capacity": 48
     },
     {
