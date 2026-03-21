@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T14:26:02.142252-07:00",
+  "last_updated": "2026-03-21T14:48:35.092959-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -270,7 +270,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-21",
       "start_time": "15:00",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 45
     },
     {
@@ -300,7 +300,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-23",
       "start_time": "07:30",
-      "available_spot_count": 19,
+      "available_spot_count": 20,
       "capacity": 45
     },
     {
@@ -980,7 +980,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-27",
       "start_time": "16:20",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 48
     },
     {
@@ -1001,6 +1001,16 @@
       "start_date": "2026-03-29",
       "start_time": "13:00",
       "available_spot_count": 35,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: EDM x K-POP",
+      "booking_start_date": "2026-03-25 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-04-02",
+      "start_time": "17:30",
+      "available_spot_count": 47,
       "capacity": 48
     },
     {
@@ -1080,7 +1090,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-27",
       "start_time": "18:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
