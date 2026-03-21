@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T00:52:08.289831-07:00",
+  "last_updated": "2026-03-21T01:34:13.361970-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -130,7 +130,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-26",
       "start_time": "18:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 16
     },
     {
