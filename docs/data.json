@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T00:38:19.135067-07:00",
+  "last_updated": "2026-03-22T01:35:27.719691-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -160,7 +160,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-27",
       "start_time": "10:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 16
     },
     {
@@ -720,7 +720,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-03-26",
       "start_time": "16:00",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 32
     },
     {
