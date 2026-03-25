@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T16:32:33.523832-07:00",
+  "last_updated": "2026-03-24T19:12:14.510593-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -10,29 +10,9 @@
       "start_time": "17:45",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "Hustle",
-      "name": "FREE! POWERHOUSE COMMUNITY CLASS",
-      "booking_start_date": "2026-03-15 11:15",
-      "location": "Mount Pleasant",
-      "start_date": "2026-03-24",
-      "start_time": "11:15",
-      "available_spot_count": 0,
-      "capacity": 0
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2026-02-22 08:15",
-      "location": "Main St",
-      "start_date": "2026-03-24",
-      "start_time": "08:15",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
     {
       "studio": "Lagree West",
       "name": "Megaformer x Body Energy Club",
@@ -70,7 +50,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-26",
       "start_time": "12:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 16
     },
     {
@@ -100,7 +80,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-26",
       "start_time": "15:15",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 16
     },
     {
@@ -220,7 +200,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-27",
       "start_time": "18:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 16
     },
     {
@@ -230,7 +210,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-31",
       "start_time": "17:15",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 26
     },
     {
@@ -305,62 +285,12 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn \u2014 Reformer (Heated) x Body Energy Club",
-      "booking_start_date": "2026-03-17 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-03-24",
-      "start_time": "07:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn x Body Energy Club",
-      "booking_start_date": "2026-03-17 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-03-24",
-      "start_time": "07:30",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn - Reformer (Heated) - Happy Hour x BEC",
-      "booking_start_date": "2026-03-17 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-03-24",
-      "start_time": "08:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Booty x Body Energy Club",
-      "booking_start_date": "2026-03-17 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-03-24",
-      "start_time": "09:30",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn \u2014 Reformer (Heated) x Body Energy Club",
-      "booking_start_date": "2026-03-17 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-03-24",
-      "start_time": "10:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Jaybird",
       "name": "Merit Monday x The Burn",
       "booking_start_date": "2026-03-23 00:00",
       "location": "Yaletown",
       "start_date": "2026-03-30",
       "start_time": "06:00",
-      "available_spot_count": 19,
+      "available_spot_count": 17,
       "capacity": 36
     },
     {
@@ -370,7 +300,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-30",
       "start_time": "06:00",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -430,7 +360,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-30",
       "start_time": "09:00",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -470,7 +400,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-30",
       "start_time": "10:45",
-      "available_spot_count": 19,
+      "available_spot_count": 20,
       "capacity": 36
     },
     {
@@ -490,7 +420,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-30",
       "start_time": "12:05",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 36
     },
     {
@@ -510,7 +440,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-30",
       "start_time": "15:45",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -520,7 +450,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-30",
       "start_time": "16:00",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 36
     },
     {
@@ -560,7 +490,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-30",
       "start_time": "17:20",
-      "available_spot_count": 24,
+      "available_spot_count": 20,
       "capacity": 45
     },
     {
@@ -590,7 +520,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-30",
       "start_time": "18:40",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 36
     },
     {
@@ -600,7 +530,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-30",
       "start_time": "19:10",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 20
     },
     {
@@ -610,7 +540,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-30",
       "start_time": "20:00",
-      "available_spot_count": 20,
+      "available_spot_count": 18,
       "capacity": 45
     },
     {
@@ -620,7 +550,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-30",
       "start_time": "20:00",
-      "available_spot_count": 14,
+      "available_spot_count": 15,
       "capacity": 36
     },
     {
@@ -686,56 +616,6 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-03-17 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-24",
-      "start_time": "08:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-03-17 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-24",
-      "start_time": "09:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-03-17 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-24",
-      "start_time": "12:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-03-17 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-24",
-      "start_time": "13:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-03-17 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-24",
-      "start_time": "14:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
       "booking_start_date": "2026-03-18 06:00",
       "location": "Vancouver",
       "start_date": "2026-03-25",
@@ -760,7 +640,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-25",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -770,7 +650,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-26",
       "start_time": "07:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -780,7 +660,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-26",
       "start_time": "12:00",
-      "available_spot_count": 5,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -830,7 +710,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-03-30",
       "start_time": "16:00",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 32
     },
     {
@@ -965,22 +845,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: DESTINY'S CHILD x TAYLOR SWIFT",
-      "booking_start_date": "2026-03-16 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-03-24",
-      "start_time": "12:30",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: WAKE UP WITH ODESZA",
       "booking_start_date": "2026-03-18 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-26",
       "start_time": "06:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 48
     },
     {
@@ -990,7 +860,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-26",
       "start_time": "09:45",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 48
     },
     {
@@ -1010,7 +880,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-27",
       "start_time": "16:20",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 48
     },
     {
@@ -1139,6 +1009,16 @@
       "booking_start_date": "2026-04-24 18:15",
       "location": "Vancouver Downtown",
       "start_date": "2026-05-01",
+      "start_time": "18:15",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Upper Body + Abs",
+      "booking_start_date": "2026-05-01 18:15",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-05-08",
       "start_time": "18:15",
       "available_spot_count": 10,
       "capacity": 10
