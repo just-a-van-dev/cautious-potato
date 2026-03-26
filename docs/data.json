@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T07:04:41.937374-07:00",
+  "last_updated": "2026-03-26T08:50:34.901025-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -60,7 +60,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-26",
       "start_time": "13:15",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 16
     },
     {
@@ -70,7 +70,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-26",
       "start_time": "14:15",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 16
     },
     {
@@ -80,7 +80,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-26",
       "start_time": "15:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 16
     },
     {
@@ -110,7 +110,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-26",
       "start_time": "19:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 16
     },
     {
@@ -120,7 +120,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-27",
       "start_time": "08:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 16
     },
     {
@@ -130,7 +130,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-27",
       "start_time": "09:15",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 16
     },
     {
@@ -320,7 +320,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-30",
       "start_time": "06:10",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 45
     },
     {
@@ -350,7 +350,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-30",
       "start_time": "07:30",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 45
     },
     {
@@ -550,7 +550,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-30",
       "start_time": "20:00",
-      "available_spot_count": 15,
+      "available_spot_count": 16,
       "capacity": 45
     },
     {
@@ -570,7 +570,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-31",
       "start_time": "20:00",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 45
     },
     {
@@ -630,8 +630,8 @@
       "location": "Vancouver",
       "start_date": "2026-03-26",
       "start_time": "07:00",
-      "available_spot_count": 4,
-      "capacity": 12
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Lagree Studio",
@@ -640,7 +640,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-26",
       "start_time": "12:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -680,7 +680,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-27",
       "start_time": "09:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -720,7 +720,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-03-26",
       "start_time": "16:00",
-      "available_spot_count": 17,
+      "available_spot_count": 18,
       "capacity": 32
     },
     {
@@ -880,7 +880,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-26",
       "start_time": "09:45",
-      "available_spot_count": 30,
+      "available_spot_count": 27,
       "capacity": 48
     },
     {
@@ -900,7 +900,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-27",
       "start_time": "16:20",
-      "available_spot_count": 21,
+      "available_spot_count": 22,
       "capacity": 48
     },
     {
@@ -940,7 +940,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-03",
       "start_time": "10:40",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
