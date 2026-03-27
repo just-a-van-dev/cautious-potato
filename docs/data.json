@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T10:50:43.204735-07:00",
+  "last_updated": "2026-03-27T11:56:41.722995-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -41,7 +41,7 @@
       "start_date": "2026-03-27",
       "start_time": "10:15",
       "available_spot_count": 0,
-      "capacity": 16
+      "capacity": 0
     },
     {
       "studio": "Lagree West",
@@ -51,7 +51,7 @@
       "start_date": "2026-03-27",
       "start_time": "11:15",
       "available_spot_count": 0,
-      "capacity": 16
+      "capacity": 0
     },
     {
       "studio": "Lagree West",
@@ -230,7 +230,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-30",
       "start_time": "06:10",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 45
     },
     {
@@ -340,7 +340,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-30",
       "start_time": "12:05",
-      "available_spot_count": 23,
+      "available_spot_count": 17,
       "capacity": 36
     },
     {
@@ -370,7 +370,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-30",
       "start_time": "16:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 36
     },
     {
@@ -390,7 +390,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-30",
       "start_time": "17:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 20
     },
     {
@@ -580,8 +580,8 @@
       "location": "Vancouver",
       "start_date": "2026-03-27",
       "start_time": "11:00",
-      "available_spot_count": 1,
-      "capacity": 12
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Ritual",
@@ -610,7 +610,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-02",
       "start_time": "16:00",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 32
     },
     {
@@ -750,7 +750,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-27",
       "start_time": "18:40",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 48
     },
     {
@@ -930,7 +930,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-27",
       "start_time": "18:30",
-      "available_spot_count": 9,
+      "available_spot_count": 0,
       "capacity": 10
     },
     {
