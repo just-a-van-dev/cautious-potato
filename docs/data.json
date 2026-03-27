@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T06:07:38.559110-07:00",
+  "last_updated": "2026-03-27T07:31:04.149754-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -30,7 +30,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-27",
       "start_time": "09:15",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 16
     },
     {
@@ -40,7 +40,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-27",
       "start_time": "10:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 16
     },
     {
@@ -50,7 +50,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-27",
       "start_time": "11:15",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 16
     },
     {
@@ -540,7 +540,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-27",
       "start_time": "08:00",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -730,7 +730,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-27",
       "start_time": "16:20",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 48
     },
     {
@@ -740,7 +740,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-03-27",
       "start_time": "18:40",
-      "available_spot_count": 0,
+      "available_spot_count": 5,
       "capacity": 48
     },
     {
@@ -800,7 +800,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-06",
       "start_time": "17:30",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 48
     },
     {
