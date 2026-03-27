@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T09:55:36.837272-07:00",
+  "last_updated": "2026-03-27T10:50:43.204735-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -30,8 +30,8 @@
       "location": "Kitsilano",
       "start_date": "2026-03-27",
       "start_time": "09:15",
-      "available_spot_count": 9,
-      "capacity": 16
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Lagree West",
@@ -80,7 +80,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-27",
       "start_time": "15:30",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 16
     },
     {
@@ -570,8 +570,8 @@
       "location": "Vancouver",
       "start_date": "2026-03-27",
       "start_time": "10:00",
-      "available_spot_count": 7,
-      "capacity": 12
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Lagree Studio",
@@ -820,6 +820,36 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-07",
       "start_time": "12:30",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: K-POP x GREEK POP",
+      "booking_start_date": "2026-03-31 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-04-08",
+      "start_time": "07:15",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: DOM DOLLA X DIPLO",
+      "booking_start_date": "2026-04-01 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-04-09",
+      "start_time": "12:30",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: KARAOKE SING-ALONG SONGS - VOL 2",
+      "booking_start_date": "2026-04-02 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-04-10",
+      "start_time": "18:40",
       "available_spot_count": 48,
       "capacity": 48
     },
