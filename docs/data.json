@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T08:53:22.320481-07:00",
+  "last_updated": "2026-03-27T09:55:36.837272-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -21,7 +21,7 @@
       "start_date": "2026-03-27",
       "start_time": "08:15",
       "available_spot_count": 0,
-      "capacity": 16
+      "capacity": 0
     },
     {
       "studio": "Lagree West",
@@ -30,7 +30,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-27",
       "start_time": "09:15",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 16
     },
     {
@@ -50,7 +50,7 @@
       "location": "Kitsilano",
       "start_date": "2026-03-27",
       "start_time": "11:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 16
     },
     {
@@ -195,6 +195,16 @@
     },
     {
       "studio": "Jaybird",
+      "name": "Teacher Development | The Bird",
+      "booking_start_date": "2026-03-21 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-03-28",
+      "start_time": "15:00",
+      "available_spot_count": 27,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
       "name": "Merit Monday x The Burn",
       "booking_start_date": "2026-03-23 00:00",
       "location": "Yaletown",
@@ -240,7 +250,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-30",
       "start_time": "07:15",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 36
     },
     {
@@ -250,7 +260,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-30",
       "start_time": "07:30",
-      "available_spot_count": 28,
+      "available_spot_count": 29,
       "capacity": 45
     },
     {
@@ -360,7 +370,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-30",
       "start_time": "16:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 36
     },
     {
@@ -420,7 +430,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-30",
       "start_time": "18:40",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 45
     },
     {
@@ -550,8 +560,8 @@
       "location": "Vancouver",
       "start_date": "2026-03-27",
       "start_time": "09:00",
-      "available_spot_count": 2,
-      "capacity": 12
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Lagree Studio",
@@ -560,7 +570,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-27",
       "start_time": "10:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -570,7 +580,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-27",
       "start_time": "11:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -600,7 +610,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-02",
       "start_time": "16:00",
-      "available_spot_count": 26,
+      "available_spot_count": 24,
       "capacity": 32
     },
     {
