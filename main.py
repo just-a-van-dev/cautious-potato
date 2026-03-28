@@ -36,6 +36,7 @@ FILTER_OUT = ["advanced with headsets",
               "beginners class with headsets",
               "booty + abs",
               "booty + core",
+              "breathwork | one-on-one session",
               "charge x (hybrid strength + cardio)",
               "define x (strength full body)",
               "full body class with headsets",
@@ -110,19 +111,18 @@ FILTER_OUT = ["advanced with headsets",
               "vinyasa slow flow yoga + sound",
               "warm yin + aromatherapy",
               "warm yin yoga + aromatherapy",
-              "yin yoga + aromatherapy"
+              "yin yoga + aromatherapy",
+              "yoga | yin + aromatherapy",
+              "yoga | candlelight yin + sound (warm)",
+              "yoga | flow + yin (heated)"
               ]
 
 
-# === Placeholders for your real logic ===
 def is_free_class(class_data) -> bool:
-    """Stub - replace with your real logic"""
     return class_data.get("is_free_class")
 
 
 def is_sponsored_class(class_data, studio_name) -> bool:
-    """Stub - replace with your real logic"""
-
 
     name = class_data.get("name").lower().strip()
     # Tunnel has different naming conventions
