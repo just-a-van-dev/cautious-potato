@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28T08:31:12.489373-07:00",
+  "last_updated": "2026-03-28T09:35:21.858285-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -200,7 +200,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-30",
       "start_time": "09:30",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 45
     },
     {
@@ -210,7 +210,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-30",
       "start_time": "10:00",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -250,7 +250,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-30",
       "start_time": "12:15",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 20
     },
     {
@@ -260,7 +260,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-30",
       "start_time": "15:45",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 20
     },
     {
@@ -504,13 +504,23 @@
       "capacity": 12
     },
     {
+      "studio": "Lagree Studio",
+      "name": "New Instructor with Headsets",
+      "booking_start_date": "2026-03-24 15:30",
+      "location": "Vancouver",
+      "start_date": "2026-03-31",
+      "start_time": "15:30",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
       "studio": "Ritual",
       "name": "Yoga | Yin + Aromatherapy",
       "booking_start_date": "2025-12-28 13:30",
       "location": "West End",
       "start_date": "2026-03-28",
       "start_time": "13:30",
-      "available_spot_count": 11,
+      "available_spot_count": 9,
       "capacity": 17
     },
     {
@@ -1820,7 +1830,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-02",
       "start_time": "16:00",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 32
     },
     {
@@ -1830,7 +1840,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-05",
       "start_time": "09:30",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 34
     },
     {
@@ -2060,7 +2070,7 @@
       "location": "Vancouver Downtown",
       "start_date": "2026-04-03",
       "start_time": "18:15",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
