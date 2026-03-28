@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T22:57:09.152805-07:00",
+  "last_updated": "2026-03-28T00:05:12.031392-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -100,7 +100,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-28",
       "start_time": "15:00",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 45
     },
     {
@@ -120,7 +120,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-30",
       "start_time": "06:00",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 20
     },
     {
@@ -150,7 +150,7 @@
       "location": "Yaletown",
       "start_date": "2026-03-30",
       "start_time": "07:15",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
@@ -360,7 +360,7 @@
       "location": "Kingsway",
       "start_date": "2026-03-30",
       "start_time": "20:00",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 45
     },
     {
@@ -444,13 +444,73 @@
       "capacity": 36
     },
     {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-03-21 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-03-28",
+      "start_time": "14:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-03-21 15:00",
+      "location": "Vancouver",
+      "start_date": "2026-03-28",
+      "start_time": "15:00",
+      "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-03-22 15:00",
+      "location": "Vancouver",
+      "start_date": "2026-03-29",
+      "start_time": "15:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Beginners Class With Headsets",
+      "booking_start_date": "2026-03-23 11:00",
+      "location": "Vancouver",
+      "start_date": "2026-03-30",
+      "start_time": "11:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Ass & Abs Class With Headsets",
+      "booking_start_date": "2026-03-23 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-03-30",
+      "start_time": "14:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-03-23 15:30",
+      "location": "Vancouver",
+      "start_date": "2026-03-30",
+      "start_time": "15:30",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
       "studio": "Ritual",
       "name": "Yoga | Yin + Aromatherapy",
       "booking_start_date": "2025-12-28 13:30",
       "location": "West End",
       "start_date": "2026-03-28",
       "start_time": "13:30",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 17
     },
     {
@@ -460,7 +520,7 @@
       "location": "West End",
       "start_date": "2026-03-28",
       "start_time": "14:00",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 25
     },
     {
@@ -490,7 +550,7 @@
       "location": "West End",
       "start_date": "2026-03-29",
       "start_time": "19:30",
-      "available_spot_count": 18,
+      "available_spot_count": 15,
       "capacity": 23
     },
     {
@@ -545,12 +605,82 @@
     },
     {
       "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2025-12-31 12:00",
+      "location": "West End",
+      "start_date": "2026-03-31",
+      "start_time": "12:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2025-12-31 15:00",
+      "location": "West End",
+      "start_date": "2026-03-31",
+      "start_time": "15:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2025-12-31 17:00",
+      "location": "West End",
+      "start_date": "2026-03-31",
+      "start_time": "17:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yoga | Flow + Yin (heated)",
+      "booking_start_date": "2025-12-31 18:30",
+      "location": "West End",
+      "start_date": "2026-03-31",
+      "start_time": "18:30",
+      "available_spot_count": 16,
+      "capacity": 17
+    },
+    {
+      "studio": "Ritual",
       "name": "Yoga | Candlelight Yin + Sound (warm)",
       "booking_start_date": "2025-12-31 19:45",
       "location": "West End",
       "start_date": "2026-03-31",
       "start_time": "19:45",
       "available_spot_count": 14,
+      "capacity": 17
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-01 10:00",
+      "location": "West End",
+      "start_date": "2026-04-01",
+      "start_time": "10:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-01 12:00",
+      "location": "West End",
+      "start_date": "2026-04-01",
+      "start_time": "12:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yoga | Yin + Aromatherapy",
+      "booking_start_date": "2026-01-01 19:00",
+      "location": "West End",
+      "start_date": "2026-04-01",
+      "start_time": "19:00",
+      "available_spot_count": 0,
       "capacity": 17
     },
     {
@@ -675,11 +805,81 @@
     },
     {
       "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-07 12:00",
+      "location": "West End",
+      "start_date": "2026-04-07",
+      "start_time": "12:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-07 15:00",
+      "location": "West End",
+      "start_date": "2026-04-07",
+      "start_time": "15:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-07 17:00",
+      "location": "West End",
+      "start_date": "2026-04-07",
+      "start_time": "17:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yoga | Flow + Yin (heated)",
+      "booking_start_date": "2026-01-07 18:30",
+      "location": "West End",
+      "start_date": "2026-04-07",
+      "start_time": "18:30",
+      "available_spot_count": 17,
+      "capacity": 17
+    },
+    {
+      "studio": "Ritual",
       "name": "Yoga | Candlelight Yin + Sound (warm)",
       "booking_start_date": "2026-01-07 19:45",
       "location": "West End",
       "start_date": "2026-04-07",
       "start_time": "19:45",
+      "available_spot_count": 17,
+      "capacity": 17
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-08 10:00",
+      "location": "West End",
+      "start_date": "2026-04-08",
+      "start_time": "10:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-08 12:00",
+      "location": "West End",
+      "start_date": "2026-04-08",
+      "start_time": "12:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yoga | Yin + Aromatherapy",
+      "booking_start_date": "2026-01-08 19:00",
+      "location": "West End",
+      "start_date": "2026-04-08",
+      "start_time": "19:00",
       "available_spot_count": 17,
       "capacity": 17
     },
@@ -805,11 +1005,81 @@
     },
     {
       "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-14 12:00",
+      "location": "West End",
+      "start_date": "2026-04-14",
+      "start_time": "12:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-14 15:00",
+      "location": "West End",
+      "start_date": "2026-04-14",
+      "start_time": "15:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-14 17:00",
+      "location": "West End",
+      "start_date": "2026-04-14",
+      "start_time": "17:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yoga | Flow + Yin (heated)",
+      "booking_start_date": "2026-01-14 18:30",
+      "location": "West End",
+      "start_date": "2026-04-14",
+      "start_time": "18:30",
+      "available_spot_count": 17,
+      "capacity": 17
+    },
+    {
+      "studio": "Ritual",
       "name": "Yoga | Candlelight Yin + Sound (warm)",
       "booking_start_date": "2026-01-14 19:45",
       "location": "West End",
       "start_date": "2026-04-14",
       "start_time": "19:45",
+      "available_spot_count": 17,
+      "capacity": 17
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-15 10:00",
+      "location": "West End",
+      "start_date": "2026-04-15",
+      "start_time": "10:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-15 12:00",
+      "location": "West End",
+      "start_date": "2026-04-15",
+      "start_time": "12:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yoga | Yin + Aromatherapy",
+      "booking_start_date": "2026-01-15 19:00",
+      "location": "West End",
+      "start_date": "2026-04-15",
+      "start_time": "19:00",
       "available_spot_count": 17,
       "capacity": 17
     },
@@ -935,11 +1205,81 @@
     },
     {
       "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-21 12:00",
+      "location": "West End",
+      "start_date": "2026-04-21",
+      "start_time": "12:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-21 15:00",
+      "location": "West End",
+      "start_date": "2026-04-21",
+      "start_time": "15:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-21 17:00",
+      "location": "West End",
+      "start_date": "2026-04-21",
+      "start_time": "17:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yoga | Flow + Yin (heated)",
+      "booking_start_date": "2026-01-21 18:30",
+      "location": "West End",
+      "start_date": "2026-04-21",
+      "start_time": "18:30",
+      "available_spot_count": 17,
+      "capacity": 17
+    },
+    {
+      "studio": "Ritual",
       "name": "Yoga | Candlelight Yin + Sound (warm)",
       "booking_start_date": "2026-01-21 19:45",
       "location": "West End",
       "start_date": "2026-04-21",
       "start_time": "19:45",
+      "available_spot_count": 17,
+      "capacity": 17
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-22 10:00",
+      "location": "West End",
+      "start_date": "2026-04-22",
+      "start_time": "10:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-22 12:00",
+      "location": "West End",
+      "start_date": "2026-04-22",
+      "start_time": "12:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yoga | Yin + Aromatherapy",
+      "booking_start_date": "2026-01-22 19:00",
+      "location": "West End",
+      "start_date": "2026-04-22",
+      "start_time": "19:00",
       "available_spot_count": 17,
       "capacity": 17
     },
@@ -1065,11 +1405,81 @@
     },
     {
       "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-28 12:00",
+      "location": "West End",
+      "start_date": "2026-04-28",
+      "start_time": "12:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-28 15:00",
+      "location": "West End",
+      "start_date": "2026-04-28",
+      "start_time": "15:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-28 17:00",
+      "location": "West End",
+      "start_date": "2026-04-28",
+      "start_time": "17:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yoga | Flow + Yin (heated)",
+      "booking_start_date": "2026-01-28 18:30",
+      "location": "West End",
+      "start_date": "2026-04-28",
+      "start_time": "18:30",
+      "available_spot_count": 17,
+      "capacity": 17
+    },
+    {
+      "studio": "Ritual",
       "name": "Yoga | Candlelight Yin + Sound (warm)",
       "booking_start_date": "2026-01-28 19:45",
       "location": "West End",
       "start_date": "2026-04-28",
       "start_time": "19:45",
+      "available_spot_count": 17,
+      "capacity": 17
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-29 10:00",
+      "location": "West End",
+      "start_date": "2026-04-29",
+      "start_time": "10:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-01-29 12:00",
+      "location": "West End",
+      "start_date": "2026-04-29",
+      "start_time": "12:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yoga | Yin + Aromatherapy",
+      "booking_start_date": "2026-01-29 19:00",
+      "location": "West End",
+      "start_date": "2026-04-29",
+      "start_time": "19:00",
       "available_spot_count": 17,
       "capacity": 17
     },
@@ -1195,11 +1605,81 @@
     },
     {
       "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-02-04 12:00",
+      "location": "West End",
+      "start_date": "2026-05-05",
+      "start_time": "12:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-02-04 15:00",
+      "location": "West End",
+      "start_date": "2026-05-05",
+      "start_time": "15:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-02-04 17:00",
+      "location": "West End",
+      "start_date": "2026-05-05",
+      "start_time": "17:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yoga | Flow + Yin (heated)",
+      "booking_start_date": "2026-02-04 18:30",
+      "location": "West End",
+      "start_date": "2026-05-05",
+      "start_time": "18:30",
+      "available_spot_count": 17,
+      "capacity": 17
+    },
+    {
+      "studio": "Ritual",
       "name": "Yoga | Candlelight Yin + Sound (warm)",
       "booking_start_date": "2026-02-04 19:45",
       "location": "West End",
       "start_date": "2026-05-05",
       "start_time": "19:45",
+      "available_spot_count": 17,
+      "capacity": 17
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-02-05 10:00",
+      "location": "West End",
+      "start_date": "2026-05-06",
+      "start_time": "10:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Breathwork | One-on-One Session",
+      "booking_start_date": "2026-02-05 12:00",
+      "location": "West End",
+      "start_date": "2026-05-06",
+      "start_time": "12:00",
+      "available_spot_count": 2,
+      "capacity": 2
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yoga | Yin + Aromatherapy",
+      "booking_start_date": "2026-02-05 19:00",
+      "location": "West End",
+      "start_date": "2026-05-06",
+      "start_time": "19:00",
       "available_spot_count": 17,
       "capacity": 17
     },
