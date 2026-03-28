@@ -169,17 +169,21 @@ async def fetch_studio_data(studios: dict, days=45):
         meta = []
 
         for studio_name, base_url in studios.items():
-            for day_offset in range(days):
-                date = today + timedelta(days=day_offset)
-                date_str = date.strftime("%Y-%m-%d")
-                url = f"{base_url}&min_start_date={date_str}&max_start_date={date_str}"
+            for day_offset in range(0, days, 5):
+                min_date = today + timedelta(days=day_offset)
+                max_date = min_date + timedelta(days=4)  # 5-day span (inclusive)
+
+                min_date_str = min_date.strftime("%Y-%m-%d")
+                max_date_str = max_date.strftime("%Y-%m-%d")
+
+                url = f"{base_url}&min_start_date={min_date_str}&max_start_date={max_date_str}"
                 tasks.append(fetch(session, url))
-                meta.append((studio_name, date))
+                meta.append(studio_name)
 
         responses = await asyncio.gather(*tasks)
 
     # Process responses
-    for (studio_name, date), data in zip(meta, responses):
+    for (studio_name), data in zip(meta, responses):
         if not data:
             continue
 
