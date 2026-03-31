@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T13:04:46.319349-07:00",
+  "last_updated": "2026-03-31T14:03:01.977631-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -200,7 +200,7 @@
       "location": "Vancouver",
       "start_date": "2026-03-31",
       "start_time": "14:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -220,7 +220,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-01",
       "start_time": "06:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -340,7 +340,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-02",
       "start_time": "16:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 32
     },
     {
@@ -540,7 +540,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-07",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 48
     },
     {
@@ -581,6 +581,46 @@
       "start_date": "2026-04-10",
       "start_time": "18:40",
       "available_spot_count": 43,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ILLENIUM X GRYFFIN",
+      "booking_start_date": "2026-04-03 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-04-11",
+      "start_time": "13:00",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: THE EXO RIDE",
+      "booking_start_date": "2026-04-04 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-04-12",
+      "start_time": "11:50",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: REZZ x DEATHPACT",
+      "booking_start_date": "2026-04-05 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-04-13",
+      "start_time": "17:30",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: FRED AGAIN.. x HIP HOP",
+      "booking_start_date": "2026-04-05 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-04-13",
+      "start_time": "19:50",
+      "available_spot_count": 48,
       "capacity": 48
     },
     {
