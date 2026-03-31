@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T23:19:43.931362-07:00",
+  "last_updated": "2026-03-31T00:50:57.813685-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -92,16 +92,6 @@
       "start_time": "14:15",
       "available_spot_count": 6,
       "capacity": 14
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Bowls x All is Well",
-      "booking_start_date": "2026-03-24 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-03-31",
-      "start_time": "20:00",
-      "available_spot_count": 22,
-      "capacity": 45
     },
     {
       "studio": "Jaybird",
@@ -460,7 +450,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-05",
       "start_time": "13:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 48
     },
     {
