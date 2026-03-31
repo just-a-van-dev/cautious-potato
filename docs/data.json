@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T04:50:14.411209-07:00",
+  "last_updated": "2026-03-31T06:19:58.431140-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -470,7 +470,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-07",
       "start_time": "12:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 48
     },
     {
@@ -491,6 +491,16 @@
       "start_date": "2026-04-09",
       "start_time": "12:30",
       "available_spot_count": 47,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: EDM: GRITTY x OBNOXIOUS - VOL 5",
+      "booking_start_date": "2026-04-01 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-04-09",
+      "start_time": "17:30",
+      "available_spot_count": 48,
       "capacity": 48
     },
     {
