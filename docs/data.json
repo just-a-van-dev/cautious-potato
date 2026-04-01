@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T16:41:52.821276-07:00",
+  "last_updated": "2026-03-31T19:38:53.820846-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -13,26 +13,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Mega Cardio- Arms/Abs+Tread x Kelly's Farewell \ud83d\udc93",
-      "booking_start_date": "2026-03-24 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-03-31",
-      "start_time": "17:15",
-      "available_spot_count": 0,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Kelly's Farewell \ud83d\udc93",
-      "booking_start_date": "2026-03-24 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-03-31",
-      "start_time": "18:30",
-      "available_spot_count": 0,
-      "capacity": 16
-    },
     {
       "studio": "Lagree West",
       "name": "Happy Hour Megaformer x Bass Burn \ud83d\udd0a",
@@ -166,56 +146,6 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-03-24 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-31",
-      "start_time": "08:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-03-24 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-31",
-      "start_time": "09:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-03-24 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-31",
-      "start_time": "11:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-03-24 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-03-31",
-      "start_time": "14:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "New Instructor with Headsets",
-      "booking_start_date": "2026-03-24 15:30",
-      "location": "Vancouver",
-      "start_date": "2026-03-31",
-      "start_time": "15:30",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
       "booking_start_date": "2026-03-25 06:00",
       "location": "Vancouver",
       "start_date": "2026-04-01",
@@ -250,7 +180,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-01",
       "start_time": "13:00",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -260,7 +190,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-01",
       "start_time": "14:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -340,7 +270,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-02",
       "start_time": "16:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 32
     },
     {
@@ -540,7 +470,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-07",
       "start_time": "12:30",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 48
     },
     {
@@ -580,7 +510,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-10",
       "start_time": "18:40",
-      "available_spot_count": 43,
+      "available_spot_count": 39,
       "capacity": 48
     },
     {
@@ -679,6 +609,16 @@
       "booking_start_date": "2026-05-01 18:15",
       "location": "Vancouver Downtown",
       "start_date": "2026-05-08",
+      "start_time": "18:15",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Upper Body + Abs",
+      "booking_start_date": "2026-05-08 18:15",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-05-15",
       "start_time": "18:15",
       "available_spot_count": 10,
       "capacity": 10
