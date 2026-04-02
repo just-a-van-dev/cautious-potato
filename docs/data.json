@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T19:24:29.055371-07:00",
+  "last_updated": "2026-04-01T20:46:35.088497-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -20,7 +20,7 @@
       "location": "Kitsilano",
       "start_date": "2026-04-07",
       "start_time": "05:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 16
     },
     {
@@ -350,7 +350,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-02",
       "start_time": "15:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -370,7 +370,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-03",
       "start_time": "13:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -384,73 +384,13 @@
       "capacity": 12
     },
     {
-      "studio": "Ritual",
-      "name": "Reiki | One-on-One Session",
-      "booking_start_date": "2026-01-08 17:15",
-      "location": "West End",
-      "start_date": "2026-04-08",
-      "start_time": "17:15",
-      "available_spot_count": 1,
-      "capacity": 1
-    },
-    {
-      "studio": "Ritual",
-      "name": "Reiki | One-on-One Session",
-      "booking_start_date": "2026-01-15 17:15",
-      "location": "West End",
-      "start_date": "2026-04-15",
-      "start_time": "17:15",
-      "available_spot_count": 1,
-      "capacity": 1
-    },
-    {
-      "studio": "Ritual",
-      "name": "Reiki | One-on-One Session",
-      "booking_start_date": "2026-01-22 17:15",
-      "location": "West End",
-      "start_date": "2026-04-22",
-      "start_time": "17:15",
-      "available_spot_count": 1,
-      "capacity": 1
-    },
-    {
-      "studio": "Ritual",
-      "name": "Reiki | One-on-One Session",
-      "booking_start_date": "2026-01-29 17:15",
-      "location": "West End",
-      "start_date": "2026-04-29",
-      "start_time": "17:15",
-      "available_spot_count": 1,
-      "capacity": 1
-    },
-    {
-      "studio": "Ritual",
-      "name": "Reiki | One-on-One Session",
-      "booking_start_date": "2026-02-05 17:15",
-      "location": "West End",
-      "start_date": "2026-05-06",
-      "start_time": "17:15",
-      "available_spot_count": 1,
-      "capacity": 1
-    },
-    {
-      "studio": "Ritual",
-      "name": "Reiki | One-on-One Session",
-      "booking_start_date": "2026-02-12 17:15",
-      "location": "West End",
-      "start_date": "2026-05-13",
-      "start_time": "17:15",
-      "available_spot_count": 1,
-      "capacity": 1
-    },
-    {
       "studio": "Turf",
       "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-03-26 16:00",
       "location": "KITS - Vancouver",
       "start_date": "2026-04-02",
       "start_time": "16:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 32
     },
     {
@@ -480,7 +420,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-09",
       "start_time": "16:00",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 32
     },
     {
@@ -670,7 +610,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-09",
       "start_time": "12:30",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 48
     },
     {
@@ -732,76 +672,6 @@
       "start_time": "19:50",
       "available_spot_count": 48,
       "capacity": 48
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Upper Body + Abs",
-      "booking_start_date": "2026-03-27 18:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-04-03",
-      "start_time": "18:15",
-      "available_spot_count": 6,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Upper Body + Abs",
-      "booking_start_date": "2026-04-03 18:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-04-10",
-      "start_time": "18:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Upper Body + Abs",
-      "booking_start_date": "2026-04-10 18:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-04-17",
-      "start_time": "18:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Upper Body + Abs",
-      "booking_start_date": "2026-04-17 18:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-04-24",
-      "start_time": "18:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Upper Body + Abs",
-      "booking_start_date": "2026-04-24 18:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-05-01",
-      "start_time": "18:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Upper Body + Abs",
-      "booking_start_date": "2026-05-01 18:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-05-08",
-      "start_time": "18:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Upper Body + Abs",
-      "booking_start_date": "2026-05-08 18:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-05-15",
-      "start_time": "18:15",
-      "available_spot_count": 10,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
