@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T21:41:53.019811-07:00",
+  "last_updated": "2026-04-02T23:11:44.341582-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -70,7 +70,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-14",
       "start_time": "08:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -266,7 +266,7 @@
     {
       "studio": "Jaybird",
       "name": "Sweat for a Cause | The Burn",
-      "booking_start_date": "2026-04-10 00:00",
+      "booking_start_date": "2026-03-18 17:20",
       "location": "Kingsway",
       "start_date": "2026-04-17",
       "start_time": "17:20",
@@ -286,7 +286,7 @@
     {
       "studio": "Jaybird",
       "name": "Sweat For A Cause | The Booty",
-      "booking_start_date": "2026-04-14 00:00",
+      "booking_start_date": "2026-03-22 10:45",
       "location": "Yaletown",
       "start_date": "2026-04-21",
       "start_time": "10:45",
@@ -340,7 +340,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-03",
       "start_time": "13:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -380,7 +380,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-09",
       "start_time": "16:00",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 32
     },
     {
