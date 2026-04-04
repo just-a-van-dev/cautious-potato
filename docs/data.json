@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T13:32:46.641047-07:00",
+  "last_updated": "2026-04-04T14:31:35.231224-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -340,7 +340,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-04",
       "start_time": "16:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -370,7 +370,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-06",
       "start_time": "11:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -410,7 +410,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-06",
       "start_time": "16:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 32
     },
     {
@@ -560,7 +560,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-05",
       "start_time": "13:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 48
     },
     {
@@ -630,7 +630,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-11",
       "start_time": "13:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 48
     },
     {
@@ -640,7 +640,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-12",
       "start_time": "11:50",
-      "available_spot_count": 41,
+      "available_spot_count": 35,
       "capacity": 48
     },
     {
@@ -710,7 +710,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-11",
       "start_time": "09:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 11
     },
     {
@@ -730,7 +730,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-11",
       "start_time": "10:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 11
     },
     {
