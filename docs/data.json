@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T09:37:06.126956-07:00",
+  "last_updated": "2026-04-05T10:31:48.682302-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -270,7 +270,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-17",
       "start_time": "17:20",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 45
     },
     {
@@ -322,6 +322,16 @@
       "start_time": "12:05",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-03-29 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-05",
+      "start_time": "12:00",
+      "available_spot_count": 5,
+      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -390,8 +400,8 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-05",
       "start_time": "09:30",
-      "available_spot_count": 2,
-      "capacity": 34
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Turf",
@@ -540,8 +550,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-05",
       "start_time": "09:30",
-      "available_spot_count": 6,
-      "capacity": 48
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Spin Society",
@@ -550,7 +560,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-05",
       "start_time": "13:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 48
     },
     {
@@ -630,7 +640,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-12",
       "start_time": "11:50",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 48
     },
     {
@@ -651,6 +661,16 @@
       "start_date": "2026-04-13",
       "start_time": "19:50",
       "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ZARA LARSSON x ARIANA GRANDE",
+      "booking_start_date": "2026-04-06 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-04-14",
+      "start_time": "17:30",
+      "available_spot_count": 47,
       "capacity": 48
     },
     {
