@@ -1,6 +1,9 @@
 import asyncio
 import aiohttp
 from datetime import datetime, timedelta, timezone
+
+from filter_out import FILTER_OUT
+
 TUNNEL = "tunnel"
 TUNNEL_CLASSES = [
 "heated mat pilates",
@@ -22,102 +25,6 @@ TARGET_NAMES = [
     "—",
 ]
 
-FILTER_OUT = ["advanced with headsets",
-              "advanced (min 30 classes) with headsets",
-              "advanced class with headsets",
-              "advanced with headsets",
-              "advanced workout with headsets",
-              "advanced with headsets (min 30 classes)",
-              "ass & abs with headsets",
-              "ass & abs class with headsets",
-              "ass and abs with headsets",
-              "ass and abs class with headsets",
-              "ass and abs workout with headsets",
-              "beginners class with headsets",
-              "booty + abs",
-              "booty + core",
-              "breathwork | one-on-one session",
-              "charge x (hybrid strength + cardio)",
-              "define x (strength full body)",
-              "full body class with headsets",
-              "full body workout with headsets",
-              "full body with headsets",
-              "foundation ( pilates + balance + core )",
-              "foundation (pilates + balance + core)",
-              "Happy Hour Mega Cardio Xpress- Arms/Abs+Tread (45)"
-              "haus party - megaformer fullbody",
-              "hiit + heavy",
-              "hustle x",
-              "infrared lagree - arms + core",
-              "infrared lagree - legs + core",
-              "infrared lagree - stretch + reset",
-              "infrared lagree - full body",
-              "intermediate (min 10 classes) with headsets",
-              "lagree - arms + core",
-              "lagree - full body",
-              "lagree - fundamentals",
-              "lagree - legs + core",
-              "mat werk + weights",
-              "mcx - ass/abs+tread",
-              "mcx-arms/abs+tread",
-              "mega cardio xpress",
-              "mega cardio xpress- ass/abs+tread (45 min)",
-              "mega cardio xpress- ass/abs+tread (45)",
-              "mega cardio xpress- arms/abs+tread (45 min)",
-              "mega cardio xpress- arms/abs+tread (45)",
-              "mega cardio- arms/abs+tread",
-              "mega cardio- arms/abs+tread (55 min)",
-              "mega cardio- ass/abs+tread (55 min)",
-              "megaformer ass + abs",
-              "megaformer arms + abs",
-              "megaformer strength + stretch",
-              "megaformer strength + stretch (45 min)",
-              "megaformer x flashback fridays",
-              "megaformer + stretch",
-              "meta + mat werk 45",
-              "meta + mat werk 60 min",
-              "meta + weights 45",
-              "meta x mn",
-              "postpartum +baby: control + core",
-              "postpartum +baby: strength",
-              "prenatal pilates + core",
-              "reiki | one-on-one session",
-              "ritual sound journey (relax and unwind)",
-              "sculpt x (strength lower body + core)",
-              "slow flow + sound",
-              "slow flow vinyasa + sound",
-              "sweatcon",
-              "sweatcon arms + abs",
-              "the balance + breathwork",
-              "the balance + sound bath",
-              "the balance x all is well",
-              "the balance —",
-              "the bird —",
-              "the booty — reformer",
-              "the burn | arms + abs —",
-              "the burn | arms + abs — reformer —",
-              "the burn | arms + abs — reformer (heated) — hh",
-              "the burn — reformer (heated)",
-              "the burn — reformer (heated) —",
-              "the burn — reformer",
-              "the burn — reformer —",
-              "the build —",
-              "the build -",
-              "the burn —",
-              "the impact (boxing technique & strength)",
-              "the remix (rhythmic boxing & endurance)",
-              "theme: rise + rave",
-              "trx strength",
-              "thrive (pilates + sculpt + light cardio)",
-              "upper body + abs",
-              "vinyasa slow flow yoga + sound",
-              "warm yin + aromatherapy",
-              "warm yin yoga + aromatherapy",
-              "yin yoga + aromatherapy",
-              "yoga | yin + aromatherapy",
-              "yoga | candlelight yin + sound (warm)",
-              "yoga | flow + yin (heated)"
-              ]
 
 
 def is_free_class(class_data) -> bool:
@@ -131,9 +38,9 @@ def is_sponsored_class(class_data, studio_name) -> bool:
     if studio_name.lower() == TUNNEL:
         return name not in TUNNEL_CLASSES
 
-
     if "happy hour" in name:
         name = name.replace("happy hour", "").strip()
+        name = name.strip("-").strip()
 
     if "mid-day" in name:
         name = name.replace("mid-day", "").strip()
@@ -165,13 +72,16 @@ async def fetch_studio_data(studios: dict, days=45):
     today = datetime.now(timezone.utc).date()
     SPECIAL_CLASSES = []
     SPONSORED_CLASSES = []
+    interval = 10
 
     async with aiohttp.ClientSession() as session:
         tasks = []
         meta = []
 
         for studio_name, base_url in studios.items():
-            for day_offset in range(0, days, 5):
+            if studio_name in ["Lagree West", "Jaybird"]:
+                interval = 5
+            for day_offset in range(0, days, interval):
                 min_date = today + timedelta(days=day_offset)
                 max_date = min_date + timedelta(days=4)  # 5-day span (inclusive)
 
