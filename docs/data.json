@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T14:42:44.605712-07:00",
+  "last_updated": "2026-04-08T15:39:36.011546-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -20,7 +20,7 @@
       "location": "Gastown",
       "start_date": "2026-04-09",
       "start_time": "14:00",
-      "available_spot_count": 14,
+      "available_spot_count": 15,
       "capacity": 15
     },
     {
@@ -115,6 +115,86 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Megaformer x Plain Jane Skin Bar",
+      "booking_start_date": "2026-04-13 00:00",
+      "location": "Main St",
+      "start_date": "2026-04-20",
+      "start_time": "08:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Plain Jane Skin Bar",
+      "booking_start_date": "2026-04-13 00:00",
+      "location": "Main St",
+      "start_date": "2026-04-20",
+      "start_time": "09:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer Arms + Abs x Plain Jane Skin Bar",
+      "booking_start_date": "2026-04-13 00:00",
+      "location": "Main St",
+      "start_date": "2026-04-20",
+      "start_time": "10:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer Classic x Plain Jane Skin Bar",
+      "booking_start_date": "2026-04-13 00:00",
+      "location": "Main St",
+      "start_date": "2026-04-20",
+      "start_time": "11:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Plain Jane Skin Bar",
+      "booking_start_date": "2026-04-15 00:00",
+      "location": "Main St",
+      "start_date": "2026-04-22",
+      "start_time": "08:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Plain Jane Skin Bar",
+      "booking_start_date": "2026-04-15 00:00",
+      "location": "Main St",
+      "start_date": "2026-04-22",
+      "start_time": "09:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer Classic x Plain Jane Skin Bar",
+      "booking_start_date": "2026-04-15 00:00",
+      "location": "Main St",
+      "start_date": "2026-04-22",
+      "start_time": "10:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Plain Jane Skin Bar",
+      "booking_start_date": "2026-04-15 00:00",
+      "location": "Main St",
+      "start_date": "2026-04-22",
+      "start_time": "11:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
       "name": "Happy Hour Megaformer x Flashback Friday",
       "booking_start_date": "2026-04-17 00:00",
       "location": "Gastown",
@@ -142,6 +222,46 @@
       "start_time": "18:15",
       "available_spot_count": 15,
       "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs x Plain Jane",
+      "booking_start_date": "2026-04-20 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-04-27",
+      "start_time": "08:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Plain Jane Skin Bar",
+      "booking_start_date": "2026-04-20 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-04-27",
+      "start_time": "09:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer Ass + Abs x Plain Jane Skin Bar",
+      "booking_start_date": "2026-04-20 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-04-27",
+      "start_time": "10:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Plain Jane Skin Bar",
+      "booking_start_date": "2026-04-20 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-04-27",
+      "start_time": "11:15",
+      "available_spot_count": 16,
+      "capacity": 16
     },
     {
       "studio": "Lagree West",
@@ -290,7 +410,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-09",
       "start_time": "15:45",
-      "available_spot_count": 3,
+      "available_spot_count": 5,
       "capacity": 20
     },
     {
@@ -315,12 +435,22 @@
     },
     {
       "studio": "Jaybird",
+      "name": "The Burn - Reformer x Merit",
+      "booking_start_date": "2026-04-06 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-04-13",
+      "start_time": "10:00",
+      "available_spot_count": 13,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
       "name": "The Burn x Merit",
       "booking_start_date": "2026-04-08 00:00",
       "location": "Yaletown",
       "start_date": "2026-04-15",
       "start_time": "07:15",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 36
     },
     {
@@ -372,6 +502,16 @@
       "start_time": "12:45",
       "available_spot_count": 45,
       "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn - Reformer x Merit",
+      "booking_start_date": "2026-04-13 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-04-20",
+      "start_time": "10:00",
+      "available_spot_count": 20,
+      "capacity": 20
     },
     {
       "studio": "Jaybird",
@@ -440,6 +580,16 @@
       "location": "Kingsway",
       "start_date": "2026-04-23",
       "start_time": "12:00",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Build x Merit",
+      "booking_start_date": "2026-04-17 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-04-24",
+      "start_time": "07:30",
       "available_spot_count": 45,
       "capacity": 45
     },
@@ -540,7 +690,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-09",
       "start_time": "09:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -810,7 +960,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-09",
       "start_time": "16:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 32
     },
     {
@@ -1020,7 +1170,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-13",
       "start_time": "19:50",
-      "available_spot_count": 24,
+      "available_spot_count": 25,
       "capacity": 48
     },
     {
