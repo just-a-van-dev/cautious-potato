@@ -306,16 +306,6 @@
     {
       "studio": "Lagree West",
       "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-04-24 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-01",
-      "start_time": "18:15",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
       "booking_start_date": "2026-05-01 00:00",
       "location": "Gastown",
       "start_date": "2026-05-08",
