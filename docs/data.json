@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T16:38:35.572580-07:00",
+  "last_updated": "2026-04-08T19:25:00.777393-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -7,6 +7,16 @@
       "booking_start_date": "2026-04-11 17:45",
       "location": "Yaletown",
       "start_date": "2026-04-18",
+      "start_time": "17:45",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Balance + ALO Community Class",
+      "booking_start_date": "2026-05-16 17:45",
+      "location": "Yaletown",
+      "start_date": "2026-05-23",
       "start_time": "17:45",
       "available_spot_count": 36,
       "capacity": 36
@@ -20,7 +30,7 @@
       "location": "Gastown",
       "start_date": "2026-04-09",
       "start_time": "14:00",
-      "available_spot_count": 15,
+      "available_spot_count": 12,
       "capacity": 15
     },
     {
@@ -40,7 +50,7 @@
       "location": "Gastown",
       "start_date": "2026-04-10",
       "start_time": "17:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -400,7 +410,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-09",
       "start_time": "07:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 36
     },
     {
@@ -410,7 +420,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-09",
       "start_time": "15:45",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -430,7 +440,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-12",
       "start_time": "12:15",
-      "available_spot_count": 16,
+      "available_spot_count": 14,
       "capacity": 36
     },
     {
@@ -450,7 +460,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-15",
       "start_time": "07:15",
-      "available_spot_count": 12,
+      "available_spot_count": 7,
       "capacity": 36
     },
     {
@@ -644,44 +654,14 @@
       "capacity": 36
     },
     {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-04-01 06:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-08",
-      "start_time": "06:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-04-01 07:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-08",
-      "start_time": "07:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Ass and Abs With Headsets",
-      "booking_start_date": "2026-04-01 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-08",
-      "start_time": "11:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-01 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-08",
-      "start_time": "13:00",
-      "available_spot_count": 0,
-      "capacity": 0
+      "studio": "Jaybird",
+      "name": "The Balance + ALO Community Class",
+      "booking_start_date": "2026-05-16 17:45",
+      "location": "Yaletown",
+      "start_date": "2026-05-23",
+      "start_time": "17:45",
+      "available_spot_count": 36,
+      "capacity": 36
     },
     {
       "studio": "Lagree Studio",
@@ -710,7 +690,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-09",
       "start_time": "13:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -956,36 +936,6 @@
     {
       "studio": "Ritual",
       "name": "Pilates | Foundation | Strength + Core (heated)",
-      "booking_start_date": "2026-01-08 07:00",
-      "location": "West End",
-      "start_date": "2026-04-08",
-      "start_time": "07:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Ritual",
-      "name": "Pilates | Foundation | Strength + Core (heated)",
-      "booking_start_date": "2026-01-08 17:30",
-      "location": "West End",
-      "start_date": "2026-04-08",
-      "start_time": "17:30",
-      "available_spot_count": 6,
-      "capacity": 17
-    },
-    {
-      "studio": "Ritual",
-      "name": "Yoga | Yin + Breath (warm)",
-      "booking_start_date": "2026-01-08 19:30",
-      "location": "West End",
-      "start_date": "2026-04-08",
-      "start_time": "19:30",
-      "available_spot_count": 18,
-      "capacity": 25
-    },
-    {
-      "studio": "Ritual",
-      "name": "Pilates | Foundation | Strength + Core (heated)",
       "booking_start_date": "2026-01-10 07:00",
       "location": "West End",
       "start_date": "2026-04-10",
@@ -1000,7 +950,7 @@
       "location": "West End",
       "start_date": "2026-04-11",
       "start_time": "09:30",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 23
     },
     {
@@ -1020,7 +970,7 @@
       "location": "West End",
       "start_date": "2026-04-14",
       "start_time": "18:00",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 23
     },
     {
@@ -1474,13 +1424,23 @@
       "capacity": 23
     },
     {
+      "studio": "Ritual",
+      "name": "Pilates | Foundation | Strength + Core (heated)",
+      "booking_start_date": "2026-02-22 09:30",
+      "location": "West End",
+      "start_date": "2026-05-23",
+      "start_time": "09:30",
+      "available_spot_count": 23,
+      "capacity": 23
+    },
+    {
       "studio": "Turf",
       "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-04-02 16:00",
       "location": "KITS - Vancouver",
       "start_date": "2026-04-09",
       "start_time": "16:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 32
     },
     {
@@ -1500,7 +1460,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-16",
       "start_time": "16:00",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 32
     },
     {
@@ -1615,16 +1575,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: K-POP x GREEK POP",
-      "booking_start_date": "2026-03-31 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-04-08",
-      "start_time": "07:15",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: DOM DOLLA X DIPLO",
       "booking_start_date": "2026-04-01 12:00",
       "location": "MOUNT PLEASANT",
@@ -1640,7 +1590,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-09",
       "start_time": "17:30",
-      "available_spot_count": 2,
+      "available_spot_count": 4,
       "capacity": 48
     },
     {
@@ -1700,7 +1650,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-14",
       "start_time": "17:30",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 48
     },
     {
@@ -1710,7 +1660,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-15",
       "start_time": "18:40",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 48
     },
     {
@@ -1730,7 +1680,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-18",
       "start_time": "13:00",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 48
     }
   ]
