@@ -167,14 +167,15 @@
       span.className = "font-medium";
 
       if (k === "name") {
-        span.textContent = cls[k];
-
-        if (isNewClass(cls)) {
+          if (isNewClass(cls)) {
           const badge = document.createElement("span");
           badge.textContent = "New";
-          badge.className = "ml-2 text-xs font-bold text-green-700 bg-green-100 px-2 py-0.5 rounded";
+          badge.className = "mr-2 text-xs font-bold text-green-700 bg-green-100 px-2 py-0.5 rounded";
           span.appendChild(badge);
         }
+        span.textContent = cls[k];
+
+
       } else {
         span.textContent = cls[k];
       }
@@ -209,15 +210,16 @@
               topRow.className = "flex justify-between items-center";
 
     const nameSpan = document.createElement("span");
-    nameSpan.className = "font-medium flex items-center";
-    nameSpan.textContent = cls.name;
-
     if (isNewClass(cls)) {
       const badge = document.createElement("span");
       badge.textContent = "New";
       badge.className = "ml-2 text-xs font-bold text-green-700 bg-green-100 px-2 py-0.5 rounded";
       nameSpan.appendChild(badge);
     }
+    nameSpan.className = "font-medium flex items-center";
+    nameSpan.textContent = cls.name;
+
+
 
     topRow.appendChild(nameSpan);
 
