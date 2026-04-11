@@ -58,6 +58,7 @@ FILTER_OUT = ["advanced with headsets",
               "meta + mat werk 60 min",
               "meta + weights 45",
               "meta x mn",
+              "pilates | foundation | strength + core (heated)"
               "postpartum +baby: control + core",
               "postpartum +baby: strength",
               "prenatal pilates + core",
@@ -66,6 +67,7 @@ FILTER_OUT = ["advanced with headsets",
               "sculpt x (strength lower body + core)",
               "slow flow + sound",
               "slow flow vinyasa + sound",
+              "sound journey | tea + journaling",
               "sweatcon",
               "sweatcon arms + abs",
               "the balance + breathwork",
@@ -97,5 +99,6 @@ FILTER_OUT = ["advanced with headsets",
               "yoga | yin + aromatherapy",
               "yoga | candlelight yin + sound (warm)",
               "yoga | flow + breath (warm)",
-              "yoga | flow + yin (heated)"
+              "yoga | flow + yin (heated)",
+              "yoga | yin + breath (warm)"
               ]
