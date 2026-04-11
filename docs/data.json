@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T21:08:35.744142-07:00",
+  "last_updated": "2026-04-10T21:33:00.959140-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -470,7 +470,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-16",
       "start_time": "15:45",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -760,7 +760,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-11",
       "start_time": "10:00",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 11
     },
     {
@@ -802,6 +802,16 @@
       "start_time": "18:30",
       "available_spot_count": 0,
       "capacity": 12
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Mat - Community Class",
+      "booking_start_date": "2026-03-28 17:45",
+      "location": "Railway",
+      "start_date": "2026-04-11",
+      "start_time": "17:45",
+      "available_spot_count": 18,
+      "capacity": 18
     },
     {
       "studio": "All Method Studio",
@@ -880,7 +890,7 @@
       "location": "West End",
       "start_date": "2026-04-11",
       "start_time": "09:30",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 23
     },
     {
@@ -960,7 +970,7 @@
       "location": "West End",
       "start_date": "2026-04-18",
       "start_time": "09:30",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 23
     },
     {
