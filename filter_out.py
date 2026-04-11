@@ -58,7 +58,7 @@ FILTER_OUT = ["advanced with headsets",
               "meta + mat werk 60 min",
               "meta + weights 45",
               "meta x mn",
-              "pilates | foundation | strength + core (heated)"
+              "pilates | foundation | strength + core (heated)",
               "postpartum +baby: control + core",
               "postpartum +baby: strength",
               "prenatal pilates + core",
