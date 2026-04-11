@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T21:33:00.959140-07:00",
+  "last_updated": "2026-04-10T23:01:07.197191-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -90,7 +90,7 @@
       "location": "Gastown",
       "start_date": "2026-04-17",
       "start_time": "18:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 15
     },
     {
@@ -400,7 +400,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-12",
       "start_time": "12:45",
-      "available_spot_count": 16,
+      "available_spot_count": 13,
       "capacity": 45
     },
     {
@@ -420,7 +420,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-13",
       "start_time": "12:00",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 45
     },
     {
@@ -450,7 +450,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-15",
       "start_time": "12:00",
-      "available_spot_count": 31,
+      "available_spot_count": 28,
       "capacity": 45
     },
     {
@@ -460,7 +460,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-16",
       "start_time": "12:00",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 45
     },
     {
@@ -490,7 +490,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-17",
       "start_time": "12:00",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 45
     },
     {
@@ -710,7 +710,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-17",
       "start_time": "18:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -935,22 +935,12 @@
     },
     {
       "studio": "Ritual",
-      "name": "Yoga | Yin + Breath (warm)",
-      "booking_start_date": "2026-01-15 19:30",
-      "location": "West End",
-      "start_date": "2026-04-15",
-      "start_time": "19:30",
-      "available_spot_count": 23,
-      "capacity": 25
-    },
-    {
-      "studio": "Ritual",
       "name": "Pilates | Foundation | Strength + Core (heated)",
       "booking_start_date": "2026-01-16 18:00",
       "location": "West End",
       "start_date": "2026-04-16",
       "start_time": "18:00",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 23
     },
     {
@@ -1012,16 +1002,6 @@
       "start_time": "17:30",
       "available_spot_count": 17,
       "capacity": 17
-    },
-    {
-      "studio": "Ritual",
-      "name": "Yoga | Yin + Breath (warm)",
-      "booking_start_date": "2026-01-22 19:30",
-      "location": "West End",
-      "start_date": "2026-04-22",
-      "start_time": "19:30",
-      "available_spot_count": 25,
-      "capacity": 25
     },
     {
       "studio": "Ritual",
@@ -1095,16 +1075,6 @@
     },
     {
       "studio": "Ritual",
-      "name": "Yoga | Yin + Breath (warm)",
-      "booking_start_date": "2026-01-29 19:30",
-      "location": "West End",
-      "start_date": "2026-04-29",
-      "start_time": "19:30",
-      "available_spot_count": 25,
-      "capacity": 25
-    },
-    {
-      "studio": "Ritual",
       "name": "Pilates | Foundation | Strength + Core (heated)",
       "booking_start_date": "2026-01-30 18:00",
       "location": "West End",
@@ -1172,16 +1142,6 @@
       "start_time": "17:30",
       "available_spot_count": 17,
       "capacity": 17
-    },
-    {
-      "studio": "Ritual",
-      "name": "Yoga | Yin + Breath (warm)",
-      "booking_start_date": "2026-02-05 19:30",
-      "location": "West End",
-      "start_date": "2026-05-06",
-      "start_time": "19:30",
-      "available_spot_count": 25,
-      "capacity": 25
     },
     {
       "studio": "Ritual",
@@ -1255,16 +1215,6 @@
     },
     {
       "studio": "Ritual",
-      "name": "Yoga | Yin + Breath (warm)",
-      "booking_start_date": "2026-02-12 19:30",
-      "location": "West End",
-      "start_date": "2026-05-13",
-      "start_time": "19:30",
-      "available_spot_count": 25,
-      "capacity": 25
-    },
-    {
-      "studio": "Ritual",
       "name": "Pilates | Foundation | Strength + Core (heated)",
       "booking_start_date": "2026-02-13 18:00",
       "location": "West End",
@@ -1292,16 +1242,6 @@
       "start_time": "09:30",
       "available_spot_count": 23,
       "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Sound Journey | Tea + Journaling",
-      "booking_start_date": "2026-02-16 19:30",
-      "location": "West End",
-      "start_date": "2026-05-17",
-      "start_time": "19:30",
-      "available_spot_count": 25,
-      "capacity": 25
     },
     {
       "studio": "Ritual",
@@ -1345,16 +1285,6 @@
     },
     {
       "studio": "Ritual",
-      "name": "Yoga | Yin + Breath (warm)",
-      "booking_start_date": "2026-02-19 19:30",
-      "location": "West End",
-      "start_date": "2026-05-20",
-      "start_time": "19:30",
-      "available_spot_count": 25,
-      "capacity": 25
-    },
-    {
-      "studio": "Ritual",
       "name": "Pilates | Foundation | Strength + Core (heated)",
       "booking_start_date": "2026-02-20 18:00",
       "location": "West End",
@@ -1392,6 +1322,136 @@
       "start_time": "07:00",
       "available_spot_count": 23,
       "capacity": 23
+    },
+    {
+      "studio": "Hustle",
+      "name": "POSTPARTUM +BABY: CONTROL + CORE",
+      "booking_start_date": "2026-04-05 13:45",
+      "location": "Mount Pleasant",
+      "start_date": "2026-04-13",
+      "start_time": "13:45",
+      "available_spot_count": 1,
+      "capacity": 14
+    },
+    {
+      "studio": "Hustle",
+      "name": "POSTPARTUM +BABY: CONTROL + CORE",
+      "booking_start_date": "2026-04-08 13:45",
+      "location": "Mount Pleasant",
+      "start_date": "2026-04-16",
+      "start_time": "13:45",
+      "available_spot_count": 0,
+      "capacity": 14
+    },
+    {
+      "studio": "Hustle",
+      "name": "POSTPARTUM +BABY: CONTROL + CORE",
+      "booking_start_date": "2026-04-12 13:45",
+      "location": "Mount Pleasant",
+      "start_date": "2026-04-20",
+      "start_time": "13:45",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Hustle",
+      "name": "POSTPARTUM +BABY: CONTROL + CORE",
+      "booking_start_date": "2026-04-15 13:45",
+      "location": "Mount Pleasant",
+      "start_date": "2026-04-23",
+      "start_time": "13:45",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Hustle",
+      "name": "POSTPARTUM +BABY: CONTROL + CORE",
+      "booking_start_date": "2026-04-19 13:45",
+      "location": "Mount Pleasant",
+      "start_date": "2026-04-27",
+      "start_time": "13:45",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Hustle",
+      "name": "POSTPARTUM +BABY: CONTROL + CORE",
+      "booking_start_date": "2026-04-22 13:45",
+      "location": "Mount Pleasant",
+      "start_date": "2026-04-30",
+      "start_time": "13:45",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Hustle",
+      "name": "POSTPARTUM +BABY: CONTROL + CORE",
+      "booking_start_date": "2026-04-26 13:45",
+      "location": "Mount Pleasant",
+      "start_date": "2026-05-04",
+      "start_time": "13:45",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Hustle",
+      "name": "POSTPARTUM +BABY: CONTROL + CORE",
+      "booking_start_date": "2026-04-29 13:45",
+      "location": "Mount Pleasant",
+      "start_date": "2026-05-07",
+      "start_time": "13:45",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Hustle",
+      "name": "POSTPARTUM +BABY: CONTROL + CORE",
+      "booking_start_date": "2026-05-03 13:45",
+      "location": "Mount Pleasant",
+      "start_date": "2026-05-11",
+      "start_time": "13:45",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Hustle",
+      "name": "POSTPARTUM +BABY: CONTROL + CORE",
+      "booking_start_date": "2026-05-06 13:45",
+      "location": "Mount Pleasant",
+      "start_date": "2026-05-14",
+      "start_time": "13:45",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Hustle",
+      "name": "POSTPARTUM +BABY: CONTROL + CORE",
+      "booking_start_date": "2026-05-10 13:45",
+      "location": "Mount Pleasant",
+      "start_date": "2026-05-18",
+      "start_time": "13:45",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Hustle",
+      "name": "POSTPARTUM +BABY: CONTROL + CORE",
+      "booking_start_date": "2026-05-13 13:45",
+      "location": "Mount Pleasant",
+      "start_date": "2026-05-21",
+      "start_time": "13:45",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Hustle",
+      "name": "POSTPARTUM +BABY: CONTROL + CORE",
+      "booking_start_date": "2026-05-17 13:45",
+      "location": "Mount Pleasant",
+      "start_date": "2026-05-25",
+      "start_time": "13:45",
+      "available_spot_count": 14,
+      "capacity": 14
     },
     {
       "studio": "Turf",
@@ -1570,7 +1630,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-13",
       "start_time": "19:50",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 48
     },
     {
@@ -1600,7 +1660,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-16",
       "start_time": "12:30",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 48
     },
     {
@@ -1620,7 +1680,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-18",
       "start_time": "13:00",
-      "available_spot_count": 34,
+      "available_spot_count": 31,
       "capacity": 48
     },
     {
