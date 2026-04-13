@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T14:53:11.209400-07:00",
+  "last_updated": "2026-04-13T15:42:40.489293-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -210,7 +210,7 @@
       "location": "Main St",
       "start_date": "2026-04-20",
       "start_time": "08:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 14
     },
     {
@@ -240,7 +240,7 @@
       "location": "Main St",
       "start_date": "2026-04-20",
       "start_time": "11:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 14
     },
     {
@@ -510,7 +510,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-14",
       "start_time": "12:00",
-      "available_spot_count": 20,
+      "available_spot_count": 22,
       "capacity": 45
     },
     {
@@ -550,7 +550,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-16",
       "start_time": "15:45",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -590,7 +590,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-18",
       "start_time": "12:15",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 45
     },
     {
@@ -620,7 +620,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-20",
       "start_time": "10:00",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -640,7 +640,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-20",
       "start_time": "12:05",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -850,7 +850,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-14",
       "start_time": "14:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -870,7 +870,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-16",
       "start_time": "13:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -1030,7 +1030,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-16",
       "start_time": "16:00",
-      "available_spot_count": 14,
+      "available_spot_count": 15,
       "capacity": 32
     },
     {
@@ -1050,7 +1050,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-19",
       "start_time": "11:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 34
     },
     {
