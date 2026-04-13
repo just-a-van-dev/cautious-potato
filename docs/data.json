@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T11:01:36.483349-07:00",
+  "last_updated": "2026-04-13T12:46:51.114095-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -40,6 +40,16 @@
       "start_time": "07:30",
       "available_spot_count": 75,
       "capacity": 75
+    },
+    {
+      "studio": "Turf",
+      "name": "COMMUNITY: RESTORE",
+      "booking_start_date": "2026-04-20 19:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-04-27",
+      "start_time": "19:30",
+      "available_spot_count": 32,
+      "capacity": 32
     },
     {
       "studio": "Turf",
@@ -180,7 +190,7 @@
       "location": "Main St",
       "start_date": "2026-04-20",
       "start_time": "10:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 14
     },
     {
@@ -190,7 +200,7 @@
       "location": "Main St",
       "start_date": "2026-04-20",
       "start_time": "11:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 14
     },
     {
@@ -450,7 +460,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-13",
       "start_time": "12:00",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 45
     },
     {
@@ -460,7 +470,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-14",
       "start_time": "12:00",
-      "available_spot_count": 23,
+      "available_spot_count": 20,
       "capacity": 45
     },
     {
@@ -490,7 +500,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-16",
       "start_time": "12:00",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 45
     },
     {
@@ -530,7 +540,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-17",
       "start_time": "17:20",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 45
     },
     {
@@ -580,7 +590,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-20",
       "start_time": "12:00",
-      "available_spot_count": 40,
+      "available_spot_count": 38,
       "capacity": 45
     },
     {
@@ -590,7 +600,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-20",
       "start_time": "12:05",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 36
     },
     {
@@ -740,7 +750,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-13",
       "start_time": "13:00",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 12
     },
     {
@@ -750,7 +760,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-13",
       "start_time": "14:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -770,7 +780,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-14",
       "start_time": "09:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -790,7 +800,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-14",
       "start_time": "13:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -810,7 +820,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-15",
       "start_time": "13:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -830,7 +840,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-17",
       "start_time": "18:30",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 10
     },
     {
@@ -844,13 +854,53 @@
       "capacity": 10
     },
     {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - Themed",
+      "booking_start_date": "2026-04-17 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-05-01",
+      "start_time": "18:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - Themed",
+      "booking_start_date": "2026-04-24 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-05-08",
+      "start_time": "18:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - Themed",
+      "booking_start_date": "2026-05-01 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-05-15",
+      "start_time": "18:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - Themed",
+      "booking_start_date": "2026-05-08 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-05-22",
+      "start_time": "18:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
       "studio": "Tunnel",
       "name": "Tunnel\u2019s First Birthday!",
       "booking_start_date": "2026-04-10 18:30",
       "location": "Vancouver",
       "start_date": "2026-04-17",
       "start_time": "18:30",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -960,7 +1010,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-20",
       "start_time": "16:00",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 32
     },
     {
@@ -1170,7 +1220,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-16",
       "start_time": "12:30",
-      "available_spot_count": 26,
+      "available_spot_count": 24,
       "capacity": 48
     },
     {
