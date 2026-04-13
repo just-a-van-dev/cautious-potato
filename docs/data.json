@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T13:56:33.200632-07:00",
+  "last_updated": "2026-04-13T14:53:11.209400-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -140,7 +140,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-14",
       "start_time": "08:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 20
     },
     {
@@ -220,7 +220,7 @@
       "location": "Main St",
       "start_date": "2026-04-20",
       "start_time": "09:15",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 14
     },
     {
@@ -530,7 +530,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-15",
       "start_time": "12:00",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 45
     },
     {
@@ -540,7 +540,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-16",
       "start_time": "12:00",
-      "available_spot_count": 17,
+      "available_spot_count": 15,
       "capacity": 45
     },
     {
@@ -550,7 +550,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-16",
       "start_time": "15:45",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 20
     },
     {
@@ -640,7 +640,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-20",
       "start_time": "12:05",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 36
     },
     {
@@ -660,7 +660,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-21",
       "start_time": "10:45",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 36
     },
     {
@@ -800,8 +800,8 @@
       "location": "Vancouver",
       "start_date": "2026-04-13",
       "start_time": "14:00",
-      "available_spot_count": 5,
-      "capacity": 12
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Lagree Studio",
@@ -895,7 +895,7 @@
     },
     {
       "studio": "Evolution",
-      "name": "Infrared Lagree - Themed",
+      "name": "Infrared Lagree - FRED AGAIN TAKEOVER",
       "booking_start_date": "2026-04-17 18:30",
       "location": "Vancouver",
       "start_date": "2026-05-01",
@@ -905,7 +905,7 @@
     },
     {
       "studio": "Evolution",
-      "name": "Infrared Lagree - Themed",
+      "name": "Infrared Lagree - BOILER ROOM ENERGY",
       "booking_start_date": "2026-04-24 18:30",
       "location": "Vancouver",
       "start_date": "2026-05-08",
@@ -1050,7 +1050,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-19",
       "start_time": "11:00",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 34
     },
     {
@@ -1260,7 +1260,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-13",
       "start_time": "19:50",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 48
     },
     {
@@ -1290,7 +1290,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-16",
       "start_time": "12:30",
-      "available_spot_count": 24,
+      "available_spot_count": 25,
       "capacity": 48
     },
     {
