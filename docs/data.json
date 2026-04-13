@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T08:02:27.650284-07:00",
+  "last_updated": "2026-04-13T09:42:15.906478-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -20,6 +20,66 @@
       "start_time": "17:45",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Turf",
+      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
+      "booking_start_date": "2026-03-18 07:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-04-17",
+      "start_time": "07:30",
+      "available_spot_count": 75,
+      "capacity": 75
+    },
+    {
+      "studio": "Turf",
+      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
+      "booking_start_date": "2026-03-25 07:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-04-24",
+      "start_time": "07:30",
+      "available_spot_count": 75,
+      "capacity": 75
+    },
+    {
+      "studio": "Turf",
+      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
+      "booking_start_date": "2026-04-01 07:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-05-01",
+      "start_time": "07:30",
+      "available_spot_count": 75,
+      "capacity": 75
+    },
+    {
+      "studio": "Turf",
+      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
+      "booking_start_date": "2026-04-08 07:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-05-08",
+      "start_time": "07:30",
+      "available_spot_count": 75,
+      "capacity": 75
+    },
+    {
+      "studio": "Turf",
+      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
+      "booking_start_date": "2026-04-15 07:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-05-15",
+      "start_time": "07:30",
+      "available_spot_count": 75,
+      "capacity": 75
+    },
+    {
+      "studio": "Turf",
+      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
+      "booking_start_date": "2026-04-22 07:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-05-22",
+      "start_time": "07:30",
+      "available_spot_count": 75,
+      "capacity": 75
     }
   ],
   "sponsored": [
@@ -50,7 +110,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-14",
       "start_time": "14:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -100,7 +160,7 @@
       "location": "Main St",
       "start_date": "2026-04-20",
       "start_time": "08:15",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 14
     },
     {
@@ -120,7 +180,7 @@
       "location": "Main St",
       "start_date": "2026-04-20",
       "start_time": "10:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 14
     },
     {
@@ -130,7 +190,7 @@
       "location": "Main St",
       "start_date": "2026-04-20",
       "start_time": "11:15",
-      "available_spot_count": 6,
+      "available_spot_count": 3,
       "capacity": 14
     },
     {
@@ -380,7 +440,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-13",
       "start_time": "10:00",
-      "available_spot_count": 10,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -430,7 +490,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-16",
       "start_time": "12:00",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 45
     },
     {
@@ -460,7 +520,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-17",
       "start_time": "12:00",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 45
     },
     {
@@ -470,7 +530,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-17",
       "start_time": "17:20",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 45
     },
     {
@@ -480,7 +540,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-18",
       "start_time": "12:15",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 45
     },
     {
@@ -510,7 +570,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-20",
       "start_time": "10:00",
-      "available_spot_count": 18,
+      "available_spot_count": 15,
       "capacity": 20
     },
     {
@@ -660,8 +720,8 @@
       "location": "Vancouver",
       "start_date": "2026-04-13",
       "start_time": "08:00",
-      "available_spot_count": 6,
-      "capacity": 12
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Lagree Studio",
@@ -670,8 +730,8 @@
       "location": "Vancouver",
       "start_date": "2026-04-13",
       "start_time": "09:00",
-      "available_spot_count": 5,
-      "capacity": 12
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Lagree Studio",
@@ -680,7 +740,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-13",
       "start_time": "13:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -690,7 +750,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-13",
       "start_time": "14:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -700,7 +760,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-14",
       "start_time": "07:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -710,7 +770,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-14",
       "start_time": "09:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -740,7 +800,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-14",
       "start_time": "14:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -750,7 +810,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-15",
       "start_time": "13:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -870,7 +930,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-13",
       "start_time": "16:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 32
     },
     {
@@ -882,6 +942,16 @@
       "start_time": "16:00",
       "available_spot_count": 14,
       "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
+      "booking_start_date": "2026-03-18 07:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-04-17",
+      "start_time": "07:30",
+      "available_spot_count": 75,
+      "capacity": 75
     },
     {
       "studio": "Turf",
@@ -915,6 +985,16 @@
     },
     {
       "studio": "Turf",
+      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
+      "booking_start_date": "2026-03-25 07:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-04-24",
+      "start_time": "07:30",
+      "available_spot_count": 75,
+      "capacity": 75
+    },
+    {
+      "studio": "Turf",
       "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-04-20 16:00",
       "location": "KITS - Vancouver",
@@ -932,6 +1012,16 @@
       "start_time": "16:00",
       "available_spot_count": 32,
       "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
+      "booking_start_date": "2026-04-01 07:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-05-01",
+      "start_time": "07:30",
+      "available_spot_count": 75,
+      "capacity": 75
     },
     {
       "studio": "Turf",
@@ -955,6 +1045,16 @@
     },
     {
       "studio": "Turf",
+      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
+      "booking_start_date": "2026-04-08 07:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-05-08",
+      "start_time": "07:30",
+      "available_spot_count": 75,
+      "capacity": 75
+    },
+    {
+      "studio": "Turf",
       "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-05-04 16:00",
       "location": "KITS - Vancouver",
@@ -975,6 +1075,16 @@
     },
     {
       "studio": "Turf",
+      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
+      "booking_start_date": "2026-04-15 07:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-05-15",
+      "start_time": "07:30",
+      "available_spot_count": 75,
+      "capacity": 75
+    },
+    {
+      "studio": "Turf",
       "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-05-11 16:00",
       "location": "KITS - Vancouver",
@@ -992,6 +1102,16 @@
       "start_time": "16:00",
       "available_spot_count": 32,
       "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
+      "booking_start_date": "2026-04-22 07:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-05-22",
+      "start_time": "07:30",
+      "available_spot_count": 75,
+      "capacity": 75
     },
     {
       "studio": "Turf",
@@ -1020,7 +1140,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-13",
       "start_time": "19:50",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 48
     },
     {
@@ -1040,7 +1160,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-15",
       "start_time": "18:40",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 48
     },
     {
@@ -1050,7 +1170,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-16",
       "start_time": "12:30",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 48
     },
     {
