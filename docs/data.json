@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T12:46:51.114095-07:00",
+  "last_updated": "2026-04-13T13:56:33.200632-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -53,6 +53,26 @@
     },
     {
       "studio": "Turf",
+      "name": "COMMUNITY: Mat Werk",
+      "booking_start_date": "2026-04-22 16:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-04-29",
+      "start_time": "16:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "COMMUNITY: meta + mat werk",
+      "booking_start_date": "2026-04-23 08:15",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-04-30",
+      "start_time": "08:15",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
       "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
       "booking_start_date": "2026-04-01 07:30",
       "location": "KITS - Vancouver",
@@ -60,6 +80,26 @@
       "start_time": "07:30",
       "available_spot_count": 75,
       "capacity": 75
+    },
+    {
+      "studio": "Turf",
+      "name": "COMMUNITY: Mat Werk",
+      "booking_start_date": "2026-04-29 16:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-05-06",
+      "start_time": "16:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "COMMUNITY: meta + mat werk",
+      "booking_start_date": "2026-04-30 08:15",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-05-07",
+      "start_time": "08:15",
+      "available_spot_count": 32,
+      "capacity": 32
     },
     {
       "studio": "Turf",
@@ -100,13 +140,13 @@
       "location": "Yaletown",
       "start_date": "2026-04-14",
       "start_time": "08:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 20
     },
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2026-04-07 00:00",
+      "booking_start_date": "2026-03-15 09:00",
       "location": "Gastown",
       "start_date": "2026-04-14",
       "start_time": "09:00",
@@ -170,7 +210,7 @@
       "location": "Main St",
       "start_date": "2026-04-20",
       "start_time": "08:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 14
     },
     {
@@ -460,8 +500,8 @@
       "location": "Kingsway",
       "start_date": "2026-04-13",
       "start_time": "12:00",
-      "available_spot_count": 19,
-      "capacity": 45
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Jaybird",
@@ -540,7 +580,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-17",
       "start_time": "17:20",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 45
     },
     {
@@ -751,7 +791,7 @@
       "start_date": "2026-04-13",
       "start_time": "13:00",
       "available_spot_count": 0,
-      "capacity": 12
+      "capacity": 0
     },
     {
       "studio": "Lagree Studio",
@@ -760,7 +800,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-13",
       "start_time": "14:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -770,7 +810,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-14",
       "start_time": "07:00",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -800,7 +840,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-14",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -840,7 +880,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-17",
       "start_time": "18:30",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
@@ -1005,6 +1045,16 @@
     },
     {
       "studio": "Turf",
+      "name": "meta + mat werk *co-teach*",
+      "booking_start_date": "2026-04-12 11:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-04-19",
+      "start_time": "11:00",
+      "available_spot_count": 13,
+      "capacity": 34
+    },
+    {
+      "studio": "Turf",
       "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-04-13 16:00",
       "location": "KITS - Vancouver",
@@ -1055,6 +1105,16 @@
     },
     {
       "studio": "Turf",
+      "name": "COMMUNITY: meta + mat werk",
+      "booking_start_date": "2026-04-23 08:15",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-04-30",
+      "start_time": "08:15",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
       "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-04-23 16:00",
       "location": "KITS - Vancouver",
@@ -1080,6 +1140,16 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-04",
       "start_time": "16:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "COMMUNITY: meta + mat werk",
+      "booking_start_date": "2026-04-30 08:15",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-05-07",
+      "start_time": "08:15",
       "available_spot_count": 32,
       "capacity": 32
     },
@@ -1180,7 +1250,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-13",
       "start_time": "17:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 48
     },
     {
@@ -1190,7 +1260,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-13",
       "start_time": "19:50",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 48
     },
     {
