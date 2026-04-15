@@ -97,8 +97,10 @@ FILTER_OUT = ["advanced with headsets",
               "warm yin yoga + aromatherapy",
               "yin yoga + aromatherapy",
               "yoga | yin + aromatherapy",
+              "yoga | yin + aromatherapy (warm)",
               "yoga | candlelight yin + sound (warm)",
               "yoga | flow + breath (warm)",
               "yoga | flow + yin (heated)",
-              "yoga | yin + breath (warm)"
+              "yoga | yin + breath (warm)",
+              "yoga | yin + sound (warm)"
               ]
