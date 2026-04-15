@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T13:26:15.591931-07:00",
+  "last_updated": "2026-04-15T14:26:47.666949-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -170,7 +170,7 @@
       "location": "Gastown",
       "start_date": "2026-04-17",
       "start_time": "18:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -580,7 +580,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-17",
       "start_time": "17:20",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 45
     },
     {
@@ -590,7 +590,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-18",
       "start_time": "12:15",
-      "available_spot_count": 22,
+      "available_spot_count": 23,
       "capacity": 45
     },
     {
@@ -660,7 +660,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-21",
       "start_time": "10:45",
-      "available_spot_count": 27,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -821,7 +821,7 @@
       "start_date": "2026-04-15",
       "start_time": "13:00",
       "available_spot_count": 0,
-      "capacity": 12
+      "capacity": 0
     },
     {
       "studio": "Lagree Studio",
@@ -830,7 +830,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-16",
       "start_time": "07:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -850,7 +850,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-16",
       "start_time": "10:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -1050,7 +1050,7 @@
       "location": "Railway",
       "start_date": "2026-04-17",
       "start_time": "07:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 18
     },
     {
@@ -1145,12 +1145,12 @@
     },
     {
       "studio": "Ritual",
-      "name": "Breathwork | Restorative Yoga + Breath (warm)",
+      "name": "Yoga | Restorative + Breath (warm)",
       "booking_start_date": "2026-01-15 19:30",
       "location": "West End",
       "start_date": "2026-04-15",
       "start_time": "19:30",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 25
     },
     {
@@ -1160,7 +1160,7 @@
       "location": "West End",
       "start_date": "2026-04-18",
       "start_time": "09:30",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 23
     },
     {
@@ -1175,7 +1175,7 @@
     },
     {
       "studio": "Ritual",
-      "name": "Breathwork | Restorative Yoga + Breath (warm)",
+      "name": "Yoga | Restorative + Breath (warm)",
       "booking_start_date": "2026-01-22 19:30",
       "location": "West End",
       "start_date": "2026-04-22",
@@ -1205,7 +1205,7 @@
     },
     {
       "studio": "Ritual",
-      "name": "Breathwork | Restorative Yoga + Breath (warm)",
+      "name": "Yoga | Restorative + Breath (warm)",
       "booking_start_date": "2026-01-29 19:30",
       "location": "West End",
       "start_date": "2026-04-29",
@@ -1235,7 +1235,7 @@
     },
     {
       "studio": "Ritual",
-      "name": "Breathwork | Restorative Yoga + Breath (warm)",
+      "name": "Yoga | Restorative + Breath (warm)",
       "booking_start_date": "2026-02-05 19:30",
       "location": "West End",
       "start_date": "2026-05-06",
@@ -1265,7 +1265,7 @@
     },
     {
       "studio": "Ritual",
-      "name": "Breathwork | Restorative Yoga + Breath (warm)",
+      "name": "Yoga | Restorative + Breath (warm)",
       "booking_start_date": "2026-02-12 19:30",
       "location": "West End",
       "start_date": "2026-05-13",
@@ -1295,7 +1295,7 @@
     },
     {
       "studio": "Ritual",
-      "name": "Breathwork | Restorative Yoga + Breath (warm)",
+      "name": "Yoga | Restorative + Breath (warm)",
       "booking_start_date": "2026-02-19 19:30",
       "location": "West End",
       "start_date": "2026-05-20",
@@ -1325,7 +1325,7 @@
     },
     {
       "studio": "Ritual",
-      "name": "Breathwork | Restorative Yoga + Breath (warm)",
+      "name": "Yoga | Restorative + Breath (warm)",
       "booking_start_date": "2026-02-26 19:30",
       "location": "West End",
       "start_date": "2026-05-27",
@@ -1340,7 +1340,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-16",
       "start_time": "16:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 32
     },
     {
@@ -1580,7 +1580,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-15",
       "start_time": "18:40",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 48
     },
     {
