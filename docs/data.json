@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T06:27:27.366191-07:00",
+  "last_updated": "2026-04-15T07:53:25.725366-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -190,7 +190,7 @@
       "location": "Main St",
       "start_date": "2026-04-20",
       "start_time": "09:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 14
     },
     {
@@ -220,7 +220,7 @@
       "location": "Main St",
       "start_date": "2026-04-22",
       "start_time": "08:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 14
     },
     {
@@ -240,7 +240,7 @@
       "location": "Main St",
       "start_date": "2026-04-22",
       "start_time": "10:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 14
     },
     {
@@ -250,7 +250,7 @@
       "location": "Main St",
       "start_date": "2026-04-22",
       "start_time": "11:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 14
     },
     {
@@ -520,7 +520,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-15",
       "start_time": "07:15",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 36
     },
     {
@@ -630,7 +630,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-20",
       "start_time": "12:00",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 45
     },
     {
@@ -640,7 +640,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-20",
       "start_time": "12:05",
-      "available_spot_count": 17,
+      "available_spot_count": 18,
       "capacity": 36
     },
     {
@@ -650,7 +650,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-21",
       "start_time": "06:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 36
     },
     {
@@ -770,8 +770,8 @@
       "location": "Vancouver",
       "start_date": "2026-04-15",
       "start_time": "06:00",
-      "available_spot_count": 8,
-      "capacity": 12
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Lagree Studio",
@@ -780,8 +780,8 @@
       "location": "Vancouver",
       "start_date": "2026-04-15",
       "start_time": "07:00",
-      "available_spot_count": 5,
-      "capacity": 12
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Lagree Studio",
@@ -790,7 +790,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-15",
       "start_time": "09:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -1310,7 +1310,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-15",
       "start_time": "18:40",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 48
     },
     {
@@ -1320,7 +1320,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-16",
       "start_time": "12:30",
-      "available_spot_count": 21,
+      "available_spot_count": 22,
       "capacity": 48
     },
     {
@@ -1340,7 +1340,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-18",
       "start_time": "13:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 48
     },
     {
