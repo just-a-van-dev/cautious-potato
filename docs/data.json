@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T09:05:22.869898-07:00",
+  "last_updated": "2026-04-15T10:38:42.154410-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -180,7 +180,7 @@
       "location": "Main St",
       "start_date": "2026-04-20",
       "start_time": "08:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 14
     },
     {
@@ -240,7 +240,7 @@
       "location": "Main St",
       "start_date": "2026-04-22",
       "start_time": "10:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 14
     },
     {
@@ -250,7 +250,7 @@
       "location": "Main St",
       "start_date": "2026-04-22",
       "start_time": "11:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 14
     },
     {
@@ -530,7 +530,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-15",
       "start_time": "12:00",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 45
     },
     {
@@ -570,7 +570,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-17",
       "start_time": "12:00",
-      "available_spot_count": 19,
+      "available_spot_count": 16,
       "capacity": 45
     },
     {
@@ -580,7 +580,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-17",
       "start_time": "17:20",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 45
     },
     {
@@ -610,7 +610,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-19",
       "start_time": "12:45",
-      "available_spot_count": 22,
+      "available_spot_count": 23,
       "capacity": 45
     },
     {
@@ -650,7 +650,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-21",
       "start_time": "06:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 36
     },
     {
@@ -790,8 +790,8 @@
       "location": "Vancouver",
       "start_date": "2026-04-15",
       "start_time": "09:00",
-      "available_spot_count": 7,
-      "capacity": 12
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Lagree Studio",
@@ -810,7 +810,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-15",
       "start_time": "12:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -850,7 +850,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-16",
       "start_time": "11:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -1075,6 +1075,26 @@
     },
     {
       "studio": "Ritual",
+      "name": "Foundation | Strength + Core (heated)",
+      "booking_start_date": "2026-01-18 09:30",
+      "location": "West End",
+      "start_date": "2026-04-18",
+      "start_time": "09:30",
+      "available_spot_count": 15,
+      "capacity": 23
+    },
+    {
+      "studio": "Ritual",
+      "name": "Foundation | Strength + Core (heated)",
+      "booking_start_date": "2026-01-20 07:00",
+      "location": "West End",
+      "start_date": "2026-04-20",
+      "start_time": "07:00",
+      "available_spot_count": 18,
+      "capacity": 23
+    },
+    {
+      "studio": "Ritual",
       "name": "Restorative + Breath (warm)",
       "booking_start_date": "2026-01-22 19:30",
       "location": "West End",
@@ -1082,6 +1102,26 @@
       "start_time": "19:30",
       "available_spot_count": 25,
       "capacity": 25
+    },
+    {
+      "studio": "Ritual",
+      "name": "Foundation | Strength + Core (heated)",
+      "booking_start_date": "2026-01-25 09:30",
+      "location": "West End",
+      "start_date": "2026-04-25",
+      "start_time": "09:30",
+      "available_spot_count": 23,
+      "capacity": 23
+    },
+    {
+      "studio": "Ritual",
+      "name": "Foundation | Strength + Core (heated)",
+      "booking_start_date": "2026-01-27 07:00",
+      "location": "West End",
+      "start_date": "2026-04-27",
+      "start_time": "07:00",
+      "available_spot_count": 23,
+      "capacity": 23
     },
     {
       "studio": "Ritual",
@@ -1095,6 +1135,26 @@
     },
     {
       "studio": "Ritual",
+      "name": "Foundation | Strength + Core (heated)",
+      "booking_start_date": "2026-02-01 09:30",
+      "location": "West End",
+      "start_date": "2026-05-02",
+      "start_time": "09:30",
+      "available_spot_count": 23,
+      "capacity": 23
+    },
+    {
+      "studio": "Ritual",
+      "name": "Foundation | Strength + Core (heated)",
+      "booking_start_date": "2026-02-03 07:00",
+      "location": "West End",
+      "start_date": "2026-05-04",
+      "start_time": "07:00",
+      "available_spot_count": 23,
+      "capacity": 23
+    },
+    {
+      "studio": "Ritual",
       "name": "Restorative + Breath (warm)",
       "booking_start_date": "2026-02-05 19:30",
       "location": "West End",
@@ -1102,6 +1162,26 @@
       "start_time": "19:30",
       "available_spot_count": 25,
       "capacity": 25
+    },
+    {
+      "studio": "Ritual",
+      "name": "Foundation | Strength + Core (heated)",
+      "booking_start_date": "2026-02-08 09:30",
+      "location": "West End",
+      "start_date": "2026-05-09",
+      "start_time": "09:30",
+      "available_spot_count": 23,
+      "capacity": 23
+    },
+    {
+      "studio": "Ritual",
+      "name": "Foundation | Strength + Core (heated)",
+      "booking_start_date": "2026-02-10 07:00",
+      "location": "West End",
+      "start_date": "2026-05-11",
+      "start_time": "07:00",
+      "available_spot_count": 23,
+      "capacity": 23
     },
     {
       "studio": "Ritual",
@@ -1115,6 +1195,26 @@
     },
     {
       "studio": "Ritual",
+      "name": "Foundation | Strength + Core (heated)",
+      "booking_start_date": "2026-02-15 09:30",
+      "location": "West End",
+      "start_date": "2026-05-16",
+      "start_time": "09:30",
+      "available_spot_count": 23,
+      "capacity": 23
+    },
+    {
+      "studio": "Ritual",
+      "name": "Foundation | Strength + Core (heated)",
+      "booking_start_date": "2026-02-17 07:00",
+      "location": "West End",
+      "start_date": "2026-05-18",
+      "start_time": "07:00",
+      "available_spot_count": 23,
+      "capacity": 23
+    },
+    {
+      "studio": "Ritual",
       "name": "Restorative + Breath (warm)",
       "booking_start_date": "2026-02-19 19:30",
       "location": "West End",
@@ -1122,6 +1222,26 @@
       "start_time": "19:30",
       "available_spot_count": 25,
       "capacity": 25
+    },
+    {
+      "studio": "Ritual",
+      "name": "Foundation | Strength + Core (heated)",
+      "booking_start_date": "2026-02-22 09:30",
+      "location": "West End",
+      "start_date": "2026-05-23",
+      "start_time": "09:30",
+      "available_spot_count": 23,
+      "capacity": 23
+    },
+    {
+      "studio": "Ritual",
+      "name": "Foundation | Strength + Core (heated)",
+      "booking_start_date": "2026-02-24 07:00",
+      "location": "West End",
+      "start_date": "2026-05-25",
+      "start_time": "07:00",
+      "available_spot_count": 23,
+      "capacity": 23
     },
     {
       "studio": "Ritual",
@@ -1180,7 +1300,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-23",
       "start_time": "08:15",
-      "available_spot_count": 32,
+      "available_spot_count": 29,
       "capacity": 32
     },
     {
@@ -1380,7 +1500,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-15",
       "start_time": "18:40",
-      "available_spot_count": 10,
+      "available_spot_count": 13,
       "capacity": 48
     },
     {
@@ -1390,7 +1510,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-16",
       "start_time": "12:30",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 48
     },
     {
