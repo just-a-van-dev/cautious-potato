@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T12:18:11.121552-07:00",
+  "last_updated": "2026-04-15T13:26:15.591931-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -530,8 +530,8 @@
       "location": "Kingsway",
       "start_date": "2026-04-15",
       "start_time": "12:00",
-      "available_spot_count": 22,
-      "capacity": 45
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Jaybird",
@@ -610,7 +610,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-19",
       "start_time": "12:45",
-      "available_spot_count": 22,
+      "available_spot_count": 23,
       "capacity": 45
     },
     {
@@ -810,8 +810,8 @@
       "location": "Vancouver",
       "start_date": "2026-04-15",
       "start_time": "12:00",
-      "available_spot_count": 2,
-      "capacity": 12
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Lagree Studio",
@@ -840,7 +840,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-16",
       "start_time": "09:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -880,7 +880,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-16",
       "start_time": "14:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -920,7 +920,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-17",
       "start_time": "10:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -1031,6 +1031,26 @@
       "start_date": "2026-04-16",
       "start_time": "12:00",
       "available_spot_count": 16,
+      "capacity": 18
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Reformer Jump x BIEBERCHELLA",
+      "booking_start_date": "2026-04-03 06:15",
+      "location": "Railway",
+      "start_date": "2026-04-17",
+      "start_time": "06:15",
+      "available_spot_count": 3,
+      "capacity": 9
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Strength x BIEBERCHELLA",
+      "booking_start_date": "2026-04-03 07:15",
+      "location": "Railway",
+      "start_date": "2026-04-17",
+      "start_time": "07:15",
+      "available_spot_count": 13,
       "capacity": 18
     },
     {
@@ -1320,7 +1340,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-16",
       "start_time": "16:00",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 32
     },
     {
@@ -1340,7 +1360,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-19",
       "start_time": "11:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 34
     },
     {
@@ -1360,7 +1380,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-23",
       "start_time": "08:15",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 32
     },
     {
@@ -1570,7 +1590,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-16",
       "start_time": "12:30",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 48
     },
     {
@@ -1600,7 +1620,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-23",
       "start_time": "06:00",
-      "available_spot_count": 46,
+      "available_spot_count": 44,
       "capacity": 48
     },
     {
