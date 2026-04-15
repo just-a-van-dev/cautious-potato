@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T10:38:42.154410-07:00",
+  "last_updated": "2026-04-15T12:18:11.121552-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -150,7 +150,7 @@
       "location": "Gastown",
       "start_date": "2026-04-17",
       "start_time": "16:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -240,7 +240,7 @@
       "location": "Main St",
       "start_date": "2026-04-22",
       "start_time": "10:15",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 14
     },
     {
@@ -400,7 +400,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-14",
       "start_time": "15:15",
-      "available_spot_count": 16,
+      "available_spot_count": 14,
       "capacity": 16
     },
     {
@@ -530,7 +530,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-15",
       "start_time": "12:00",
-      "available_spot_count": 21,
+      "available_spot_count": 22,
       "capacity": 45
     },
     {
@@ -550,7 +550,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-16",
       "start_time": "15:45",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 20
     },
     {
@@ -610,7 +610,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-19",
       "start_time": "12:45",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 45
     },
     {
@@ -670,7 +670,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-22",
       "start_time": "12:00",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 45
     },
     {
@@ -800,8 +800,8 @@
       "location": "Vancouver",
       "start_date": "2026-04-15",
       "start_time": "10:00",
-      "available_spot_count": 5,
-      "capacity": 12
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Lagree Studio",
@@ -810,7 +810,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-15",
       "start_time": "12:00",
-      "available_spot_count": 6,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -820,7 +820,17 @@
       "location": "Vancouver",
       "start_date": "2026-04-15",
       "start_time": "13:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-04-09 07:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-16",
+      "start_time": "07:00",
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -871,6 +881,56 @@
       "start_date": "2026-04-16",
       "start_time": "14:00",
       "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-04-10 07:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-17",
+      "start_time": "07:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-04-10 08:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-17",
+      "start_time": "08:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-04-10 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-17",
+      "start_time": "09:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-04-10 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-17",
+      "start_time": "10:00",
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-04-10 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-17",
+      "start_time": "12:00",
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -1065,7 +1125,7 @@
     },
     {
       "studio": "Ritual",
-      "name": "Restorative + Breath (warm)",
+      "name": "Breathwork | Restorative Yoga + Breath (warm)",
       "booking_start_date": "2026-01-15 19:30",
       "location": "West End",
       "start_date": "2026-04-15",
@@ -1095,7 +1155,7 @@
     },
     {
       "studio": "Ritual",
-      "name": "Restorative + Breath (warm)",
+      "name": "Breathwork | Restorative Yoga + Breath (warm)",
       "booking_start_date": "2026-01-22 19:30",
       "location": "West End",
       "start_date": "2026-04-22",
@@ -1125,7 +1185,7 @@
     },
     {
       "studio": "Ritual",
-      "name": "Restorative + Breath (warm)",
+      "name": "Breathwork | Restorative Yoga + Breath (warm)",
       "booking_start_date": "2026-01-29 19:30",
       "location": "West End",
       "start_date": "2026-04-29",
@@ -1155,7 +1215,7 @@
     },
     {
       "studio": "Ritual",
-      "name": "Restorative + Breath (warm)",
+      "name": "Breathwork | Restorative Yoga + Breath (warm)",
       "booking_start_date": "2026-02-05 19:30",
       "location": "West End",
       "start_date": "2026-05-06",
@@ -1185,7 +1245,7 @@
     },
     {
       "studio": "Ritual",
-      "name": "Restorative + Breath (warm)",
+      "name": "Breathwork | Restorative Yoga + Breath (warm)",
       "booking_start_date": "2026-02-12 19:30",
       "location": "West End",
       "start_date": "2026-05-13",
@@ -1215,7 +1275,7 @@
     },
     {
       "studio": "Ritual",
-      "name": "Restorative + Breath (warm)",
+      "name": "Breathwork | Restorative Yoga + Breath (warm)",
       "booking_start_date": "2026-02-19 19:30",
       "location": "West End",
       "start_date": "2026-05-20",
@@ -1245,7 +1305,7 @@
     },
     {
       "studio": "Ritual",
-      "name": "Restorative + Breath (warm)",
+      "name": "Breathwork | Restorative Yoga + Breath (warm)",
       "booking_start_date": "2026-02-26 19:30",
       "location": "West End",
       "start_date": "2026-05-27",
@@ -1500,7 +1560,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-15",
       "start_time": "18:40",
-      "available_spot_count": 13,
+      "available_spot_count": 10,
       "capacity": 48
     },
     {
@@ -1540,7 +1600,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-23",
       "start_time": "06:00",
-      "available_spot_count": 48,
+      "available_spot_count": 46,
       "capacity": 48
     },
     {
