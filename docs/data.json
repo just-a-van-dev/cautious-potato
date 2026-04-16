@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T19:44:13.891612-07:00",
+  "last_updated": "2026-04-15T20:53:49.250158-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -150,7 +150,7 @@
       "location": "Gastown",
       "start_date": "2026-04-17",
       "start_time": "16:15",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 15
     },
     {
@@ -212,6 +212,16 @@
       "start_time": "11:15",
       "available_spot_count": 0,
       "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Trainer Development",
+      "booking_start_date": "2026-04-14 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-04-21",
+      "start_time": "20:15",
+      "available_spot_count": 20,
+      "capacity": 20
     },
     {
       "studio": "Lagree West",
@@ -530,7 +540,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-16",
       "start_time": "15:45",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -630,7 +640,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-21",
       "start_time": "06:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 36
     },
     {
@@ -760,7 +770,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-16",
       "start_time": "09:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -770,7 +780,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-16",
       "start_time": "10:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -790,7 +800,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-16",
       "start_time": "13:00",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -950,7 +960,7 @@
       "location": "Railway",
       "start_date": "2026-04-17",
       "start_time": "06:15",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 9
     },
     {
@@ -960,7 +970,7 @@
       "location": "Railway",
       "start_date": "2026-04-17",
       "start_time": "07:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 18
     },
     {
@@ -1060,18 +1070,8 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-16",
       "start_time": "16:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
-      "booking_start_date": "2026-03-18 07:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-04-17",
-      "start_time": "07:30",
-      "available_spot_count": 75,
-      "capacity": 75
     },
     {
       "studio": "Turf",
@@ -1115,16 +1115,6 @@
     },
     {
       "studio": "Turf",
-      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
-      "booking_start_date": "2026-03-25 07:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-04-24",
-      "start_time": "07:30",
-      "available_spot_count": 75,
-      "capacity": 75
-    },
-    {
-      "studio": "Turf",
       "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-04-20 16:00",
       "location": "KITS - Vancouver",
@@ -1152,16 +1142,6 @@
       "start_time": "16:00",
       "available_spot_count": 32,
       "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
-      "booking_start_date": "2026-04-01 07:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-01",
-      "start_time": "07:30",
-      "available_spot_count": 75,
-      "capacity": 75
     },
     {
       "studio": "Turf",
@@ -1195,16 +1175,6 @@
     },
     {
       "studio": "Turf",
-      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
-      "booking_start_date": "2026-04-08 07:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-08",
-      "start_time": "07:30",
-      "available_spot_count": 75,
-      "capacity": 75
-    },
-    {
-      "studio": "Turf",
       "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-05-04 16:00",
       "location": "KITS - Vancouver",
@@ -1222,16 +1192,6 @@
       "start_time": "16:00",
       "available_spot_count": 32,
       "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
-      "booking_start_date": "2026-04-15 07:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-15",
-      "start_time": "07:30",
-      "available_spot_count": 75,
-      "capacity": 75
     },
     {
       "studio": "Turf",
@@ -1255,16 +1215,6 @@
     },
     {
       "studio": "Turf",
-      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
-      "booking_start_date": "2026-04-22 07:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-22",
-      "start_time": "07:30",
-      "available_spot_count": 75,
-      "capacity": 75
-    },
-    {
-      "studio": "Turf",
       "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-05-18 16:00",
       "location": "KITS - Vancouver",
@@ -1282,16 +1232,6 @@
       "start_time": "16:00",
       "available_spot_count": 32,
       "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
-      "booking_start_date": "2026-04-29 07:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-29",
-      "start_time": "07:30",
-      "available_spot_count": 75,
-      "capacity": 75
     },
     {
       "studio": "Spin Society",
@@ -1330,7 +1270,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-23",
       "start_time": "06:00",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 48
     },
     {
