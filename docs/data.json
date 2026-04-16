@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T20:53:49.250158-07:00",
+  "last_updated": "2026-04-15T23:01:55.081498-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -145,36 +145,6 @@
   "sponsored": [
     {
       "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-04-10 00:00",
-      "location": "Gastown",
-      "start_date": "2026-04-17",
-      "start_time": "16:15",
-      "available_spot_count": 7,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-04-10 00:00",
-      "location": "Gastown",
-      "start_date": "2026-04-17",
-      "start_time": "17:15",
-      "available_spot_count": 3,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-04-10 00:00",
-      "location": "Gastown",
-      "start_date": "2026-04-17",
-      "start_time": "18:15",
-      "available_spot_count": 3,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
       "name": "Megaformer x Plain Jane Skin Bar",
       "booking_start_date": "2026-04-13 00:00",
       "location": "Main St",
@@ -265,36 +235,6 @@
     },
     {
       "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-04-17 00:00",
-      "location": "Gastown",
-      "start_date": "2026-04-24",
-      "start_time": "16:15",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-04-17 00:00",
-      "location": "Gastown",
-      "start_date": "2026-04-24",
-      "start_time": "17:15",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-04-17 00:00",
-      "location": "Gastown",
-      "start_date": "2026-04-24",
-      "start_time": "18:15",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
       "name": "Mid-Day Mega Cardio Xpress- Arms/Abs x Plain Jane",
       "booking_start_date": "2026-04-20 00:00",
       "location": "Kitsilano",
@@ -335,66 +275,6 @@
     },
     {
       "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-04-24 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-01",
-      "start_time": "16:15",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-04-24 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-01",
-      "start_time": "17:15",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-04-24 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-01",
-      "start_time": "18:15",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-05-01 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-08",
-      "start_time": "16:15",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-05-01 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-08",
-      "start_time": "17:15",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-05-01 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-08",
-      "start_time": "18:15",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
       "name": "Happy Hour Megaformer x Cream Pony",
       "booking_start_date": "2026-05-05 00:00",
       "location": "Main St",
@@ -412,36 +292,6 @@
       "start_time": "15:15",
       "available_spot_count": 14,
       "capacity": 16
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-05-08 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-15",
-      "start_time": "16:15",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-05-08 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-15",
-      "start_time": "17:15",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-05-08 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-15",
-      "start_time": "18:15",
-      "available_spot_count": 15,
-      "capacity": 15
     },
     {
       "studio": "Lagree West",
@@ -464,73 +314,13 @@
       "capacity": 14
     },
     {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-05-15 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-22",
-      "start_time": "16:15",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-05-15 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-22",
-      "start_time": "17:15",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-05-15 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-22",
-      "start_time": "18:15",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-05-22 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-29",
-      "start_time": "16:15",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-05-22 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-29",
-      "start_time": "17:15",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Flashback Friday",
-      "booking_start_date": "2026-05-22 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-29",
-      "start_time": "18:15",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
       "studio": "Jaybird",
       "name": "The Burn x Clear Complexions",
       "booking_start_date": "2026-04-09 00:00",
       "location": "Kingsway",
       "start_date": "2026-04-16",
       "start_time": "12:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 45
     },
     {
@@ -570,7 +360,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-17",
       "start_time": "17:20",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 45
     },
     {
@@ -600,7 +390,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-19",
       "start_time": "12:45",
-      "available_spot_count": 23,
+      "available_spot_count": 21,
       "capacity": 45
     },
     {
@@ -620,7 +410,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-20",
       "start_time": "12:00",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 45
     },
     {
@@ -640,7 +430,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-21",
       "start_time": "06:00",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 36
     },
     {
@@ -660,7 +450,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-22",
       "start_time": "12:00",
-      "available_spot_count": 42,
+      "available_spot_count": 40,
       "capacity": 45
     },
     {
@@ -780,7 +570,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-16",
       "start_time": "10:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -850,7 +640,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-17",
       "start_time": "10:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -1070,7 +860,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-16",
       "start_time": "16:00",
-      "available_spot_count": 1,
+      "available_spot_count": 4,
       "capacity": 32
     },
     {
@@ -1240,7 +1030,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-16",
       "start_time": "12:30",
-      "available_spot_count": 14,
+      "available_spot_count": 15,
       "capacity": 48
     },
     {
