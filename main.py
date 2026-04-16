@@ -34,6 +34,7 @@ def is_free_class(class_data) -> bool:
 def is_sponsored_class(class_data, studio_name) -> bool:
 
     name = class_data.get("name").lower().strip()
+
     # Tunnel has different naming conventions
     if studio_name.lower() == TUNNEL:
         return name not in TUNNEL_CLASSES
