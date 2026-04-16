@@ -24,6 +24,7 @@ FILTER_OUT = ["advanced with headsets",
               "full body with headsets",
               "foundation ( pilates + balance + core )",
               "foundation (pilates + balance + core)",
+              "foundation | strength + core (heated)",
               "Happy Hour Mega Cardio Xpress- Arms/Abs+Tread (45)"
               "haus party - megaformer fullbody",
               "hiit + heavy",
@@ -101,6 +102,7 @@ FILTER_OUT = ["advanced with headsets",
               "yoga | candlelight yin + sound (warm)",
               "yoga | flow + breath (warm)",
               "yoga | flow + yin (heated)",
+              "yoga | restorative + breath (warm)",
               "yoga | yin + breath (warm)",
               "yoga | yin + sound (warm)"
               ]
