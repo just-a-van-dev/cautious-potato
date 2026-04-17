@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T20:50:42.443114-07:00",
+  "last_updated": "2026-04-16T23:03:30.713366-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -350,7 +350,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-17",
       "start_time": "12:00",
-      "available_spot_count": 13,
+      "available_spot_count": 16,
       "capacity": 45
     },
     {
@@ -360,7 +360,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-17",
       "start_time": "17:20",
-      "available_spot_count": 8,
+      "available_spot_count": 10,
       "capacity": 45
     },
     {
@@ -410,7 +410,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-20",
       "start_time": "12:00",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 45
     },
     {
@@ -450,7 +450,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-22",
       "start_time": "12:00",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 45
     },
     {
@@ -460,7 +460,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-23",
       "start_time": "07:30",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 45
     },
     {
@@ -470,7 +470,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-23",
       "start_time": "12:00",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 45
     },
     {
@@ -580,7 +580,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-17",
       "start_time": "10:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -720,7 +720,7 @@
       "location": "Railway",
       "start_date": "2026-04-17",
       "start_time": "07:15",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 18
     },
     {
@@ -820,7 +820,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-19",
       "start_time": "11:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 34
     },
     {
@@ -980,7 +980,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-17",
       "start_time": "18:40",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 48
     },
     {
@@ -1020,7 +1020,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-24",
       "start_time": "18:40",
-      "available_spot_count": 12,
+      "available_spot_count": 7,
       "capacity": 48
     },
     {
@@ -1035,6 +1035,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: DEEP HOUSE X HIP HOP",
+      "booking_start_date": "2026-04-19 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-04-27",
+      "start_time": "09:45",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: ZEDD x GALANTIS",
       "booking_start_date": "2026-04-20 12:00",
       "location": "MOUNT PLEASANT",
@@ -1042,6 +1052,16 @@
       "start_time": "07:15",
       "available_spot_count": 48,
       "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: POV: WE'RE POOLSIDE IN MEXICO",
+      "booking_start_date": "2026-04-26 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-05-04",
+      "start_time": "09:45",
+      "available_spot_count": 50,
+      "capacity": 50
     }
   ]
 }
