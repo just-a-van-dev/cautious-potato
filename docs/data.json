@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T16:09:03.626693-07:00",
+  "last_updated": "2026-04-16T17:04:56.828616-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -200,7 +200,7 @@
       "location": "Main St",
       "start_date": "2026-04-22",
       "start_time": "08:15",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 14
     },
     {
@@ -220,7 +220,7 @@
       "location": "Main St",
       "start_date": "2026-04-22",
       "start_time": "10:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 14
     },
     {
@@ -335,26 +335,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn x Clear Complexions",
-      "booking_start_date": "2026-04-09 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-04-16",
-      "start_time": "12:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn \u2014 Reformer x Innisfree",
-      "booking_start_date": "2026-04-09 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-04-16",
-      "start_time": "15:45",
-      "available_spot_count": 1,
-      "capacity": 20
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn x Merit",
       "booking_start_date": "2026-04-10 00:00",
       "location": "Yaletown",
@@ -370,7 +350,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-17",
       "start_time": "12:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 45
     },
     {
@@ -380,7 +360,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-17",
       "start_time": "17:20",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 45
     },
     {
@@ -390,7 +370,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-18",
       "start_time": "12:15",
-      "available_spot_count": 19,
+      "available_spot_count": 20,
       "capacity": 45
     },
     {
@@ -440,7 +420,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-20",
       "start_time": "12:05",
-      "available_spot_count": 17,
+      "available_spot_count": 19,
       "capacity": 36
     },
     {
@@ -450,7 +430,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-21",
       "start_time": "06:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 36
     },
     {
@@ -490,7 +470,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-23",
       "start_time": "12:00",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 45
     },
     {
@@ -562,76 +542,6 @@
       "start_time": "17:45",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-04-09 07:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-16",
-      "start_time": "07:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-09 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-16",
-      "start_time": "09:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-09 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-16",
-      "start_time": "10:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-09 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-16",
-      "start_time": "11:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Full Body W/Headsets x Bieberchella x Sahajan",
-      "booking_start_date": "2026-04-09 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-16",
-      "start_time": "13:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Ass & Abs With Headsets",
-      "booking_start_date": "2026-04-09 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-16",
-      "start_time": "14:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-09 15:30",
-      "location": "Vancouver",
-      "start_date": "2026-04-16",
-      "start_time": "15:30",
-      "available_spot_count": 3,
-      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -785,16 +695,6 @@
     },
     {
       "studio": "All Method Studio",
-      "name": "ALL Mat x ALL Gives",
-      "booking_start_date": "2026-04-02 12:00",
-      "location": "Railway",
-      "start_date": "2026-04-16",
-      "start_time": "12:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "All Method Studio",
       "name": "ALL Reformer Jump x BIEBERCHELLA",
       "booking_start_date": "2026-04-03 06:15",
       "location": "Railway",
@@ -905,16 +805,6 @@
     },
     {
       "studio": "Turf",
-      "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
-      "booking_start_date": "2026-04-09 16:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-04-16",
-      "start_time": "16:00",
-      "available_spot_count": 2,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "meta + mat werk *co-teach*",
       "booking_start_date": "2026-04-12 11:00",
       "location": "KITS - Vancouver",
@@ -940,7 +830,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-23",
       "start_time": "08:15",
-      "available_spot_count": 23,
+      "available_spot_count": 21,
       "capacity": 32
     },
     {
@@ -950,7 +840,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-23",
       "start_time": "16:00",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 32
     },
     {
@@ -1075,16 +965,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: TAYLOR SWIFT x HARRY STYLES",
-      "booking_start_date": "2026-04-08 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-04-16",
-      "start_time": "12:30",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: BIG BEAT DROPS x STEADY EDM - VOL 2",
       "booking_start_date": "2026-04-09 12:00",
       "location": "MOUNT PLEASANT",
@@ -1130,7 +1010,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-24",
       "start_time": "18:40",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 48
     },
     {
