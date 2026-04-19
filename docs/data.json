@@ -1,16 +1,6 @@
 {
-  "last_updated": "2026-04-18T16:35:26.374158-07:00",
+  "last_updated": "2026-04-18T19:43:14.762150-07:00",
   "special": [
-    {
-      "studio": "Jaybird",
-      "name": "The Balance + ALO Community Class",
-      "booking_start_date": "2026-04-11 17:45",
-      "location": "Yaletown",
-      "start_date": "2026-04-18",
-      "start_time": "17:45",
-      "available_spot_count": 0,
-      "capacity": 36
-    },
     {
       "studio": "Jaybird",
       "name": "The Balance + ALO Community Class",
@@ -190,7 +180,7 @@
       "location": "Main St",
       "start_date": "2026-04-22",
       "start_time": "08:15",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 14
     },
     {
@@ -325,32 +315,12 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn x Clear Complexions",
-      "booking_start_date": "2026-04-11 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-04-18",
-      "start_time": "12:15",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Balance + ALO Community Class",
-      "booking_start_date": "2026-04-11 17:45",
-      "location": "Yaletown",
-      "start_date": "2026-04-18",
-      "start_time": "17:45",
-      "available_spot_count": 0,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Booty x Clear Complexions",
       "booking_start_date": "2026-04-12 00:00",
       "location": "Kingsway",
       "start_date": "2026-04-19",
       "start_time": "12:45",
-      "available_spot_count": 12,
+      "available_spot_count": 15,
       "capacity": 45
     },
     {
@@ -370,7 +340,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-20",
       "start_time": "12:00",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 45
     },
     {
@@ -420,7 +390,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-23",
       "start_time": "07:30",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 45
     },
     {
@@ -430,7 +400,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-23",
       "start_time": "12:00",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 45
     },
     {
@@ -450,7 +420,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-25",
       "start_time": "12:15",
-      "available_spot_count": 42,
+      "available_spot_count": 40,
       "capacity": 45
     },
     {
@@ -516,51 +486,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-04-11 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-18",
-      "start_time": "08:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-04-11 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-18",
-      "start_time": "12:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-04-11 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-18",
-      "start_time": "14:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-04-11 16:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-18",
-      "start_time": "16:00",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
       "booking_start_date": "2026-04-12 09:00",
       "location": "Vancouver",
       "start_date": "2026-04-19",
       "start_time": "09:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -780,7 +710,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-19",
       "start_time": "11:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 34
     },
     {
@@ -790,7 +720,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-20",
       "start_time": "16:00",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 32
     },
     {
@@ -945,16 +875,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: JANET x MICHAEL",
-      "booking_start_date": "2026-04-10 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-04-18",
-      "start_time": "13:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Spin Society",
       "name": "RISE x RAVE",
       "booking_start_date": "2026-04-15 12:00",
       "location": "MOUNT PLEASANT",
@@ -970,7 +890,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-24",
       "start_time": "16:20",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 48
     },
     {
@@ -990,7 +910,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-26",
       "start_time": "11:50",
-      "available_spot_count": 34,
+      "available_spot_count": 29,
       "capacity": 48
     },
     {
