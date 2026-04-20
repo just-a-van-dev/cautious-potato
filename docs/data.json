@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T04:51:11.399774-07:00",
+  "last_updated": "2026-04-20T06:43:30.497093-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -190,7 +190,7 @@
       "location": "Main St",
       "start_date": "2026-04-22",
       "start_time": "09:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 14
     },
     {
@@ -370,7 +370,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-22",
       "start_time": "12:00",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 45
     },
     {
@@ -945,11 +945,41 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: GAGA x DOECHII",
+      "booking_start_date": "2026-04-21 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-04-29",
+      "start_time": "19:50",
+      "available_spot_count": 47,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: EDM x POP",
+      "booking_start_date": "2026-04-26 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-05-04",
+      "start_time": "07:15",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: POV: WE'RE POOLSIDE IN MEXICO",
       "booking_start_date": "2026-04-26 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-04",
       "start_time": "09:45",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: SEVEN MINUTES IN HEAVEN | 7X7 Minute Songs",
+      "booking_start_date": "2026-05-02 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-05-10",
+      "start_time": "13:00",
       "available_spot_count": 50,
       "capacity": 50
     }
