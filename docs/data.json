@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T12:16:38.014216-07:00",
+  "last_updated": "2026-04-20T13:09:50.100344-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -230,7 +230,7 @@
       "location": "Kitsilano",
       "start_date": "2026-04-27",
       "start_time": "09:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 16
     },
     {
@@ -330,8 +330,8 @@
       "location": "Kingsway",
       "start_date": "2026-04-20",
       "start_time": "12:00",
-      "available_spot_count": 8,
-      "capacity": 45
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Jaybird",
@@ -340,8 +340,8 @@
       "location": "Yaletown",
       "start_date": "2026-04-20",
       "start_time": "12:05",
-      "available_spot_count": 5,
-      "capacity": 36
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Jaybird",
@@ -365,13 +365,73 @@
     },
     {
       "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Blume Superfoods",
+      "booking_start_date": "2026-04-15 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-04-22",
+      "start_time": "06:00",
+      "available_spot_count": 10,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x Blume Superfoods",
+      "booking_start_date": "2026-04-15 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-04-22",
+      "start_time": "07:30",
+      "available_spot_count": 37,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Bird x Blume Superfoods",
+      "booking_start_date": "2026-04-15 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-04-22",
+      "start_time": "12:00",
+      "available_spot_count": 27,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x Blume Superfoods",
+      "booking_start_date": "2026-04-16 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-04-23",
+      "start_time": "06:00",
+      "available_spot_count": 12,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x Blume Superfoods",
+      "booking_start_date": "2026-04-16 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-04-23",
+      "start_time": "07:15",
+      "available_spot_count": 21,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
       "name": "The Burn x Innisfree",
       "booking_start_date": "2026-04-16 00:00",
       "location": "Kingsway",
       "start_date": "2026-04-23",
       "start_time": "07:30",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Build x Blume Superfoods",
+      "booking_start_date": "2026-04-16 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-04-23",
+      "start_time": "09:15",
+      "available_spot_count": 30,
+      "capacity": 36
     },
     {
       "studio": "Jaybird",
@@ -480,7 +540,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-20",
       "start_time": "14:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -890,7 +950,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-24",
       "start_time": "16:20",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 48
     },
     {
