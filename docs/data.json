@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T23:02:38.309459-07:00",
+  "last_updated": "2026-04-21T01:16:05.969799-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -290,7 +290,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-21",
       "start_time": "10:45",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 36
     },
     {
@@ -320,7 +320,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-22",
       "start_time": "12:00",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 45
     },
     {
@@ -350,7 +350,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-23",
       "start_time": "07:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 45
     },
     {
@@ -370,7 +370,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-24",
       "start_time": "07:30",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 45
     },
     {
@@ -800,7 +800,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-23",
       "start_time": "06:00",
-      "available_spot_count": 23,
+      "available_spot_count": 19,
       "capacity": 48
     },
     {
@@ -865,6 +865,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: BRITNEY SPEARS x FRED AGAIN...",
+      "booking_start_date": "2026-04-23 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-05-01",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: EDM x POP",
       "booking_start_date": "2026-04-26 12:00",
       "location": "MOUNT PLEASANT",
@@ -880,6 +890,16 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-04",
       "start_time": "09:45",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: RIHANNA X REZZ",
+      "booking_start_date": "2026-04-28 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-05-06",
+      "start_time": "16:20",
       "available_spot_count": 50,
       "capacity": 50
     },
