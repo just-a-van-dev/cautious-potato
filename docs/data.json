@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T01:16:05.969799-07:00",
+  "last_updated": "2026-04-21T02:59:05.086087-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -889,6 +889,16 @@
       "booking_start_date": "2026-04-26 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-04",
+      "start_time": "09:45",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BAD BUNNY x JUSTIN BIEBER x MAJOR LAZAR",
+      "booking_start_date": "2026-04-28 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-05-06",
       "start_time": "09:45",
       "available_spot_count": 50,
       "capacity": 50
