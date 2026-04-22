@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T16:07:17.513937-07:00",
+  "last_updated": "2026-04-21T17:01:20.898285-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -120,19 +120,19 @@
       "start_time": "07:30",
       "available_spot_count": 75,
       "capacity": 75
+    },
+    {
+      "studio": "Turf",
+      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
+      "booking_start_date": "2026-05-06 07:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-06-05",
+      "start_time": "07:30",
+      "available_spot_count": 75,
+      "capacity": 75
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Trainer Development",
-      "booking_start_date": "2026-04-14 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-04-21",
-      "start_time": "20:15",
-      "available_spot_count": 11,
-      "capacity": 20
-    },
     {
       "studio": "Lagree West",
       "name": "Megaformer x Plain Jane Skin Bar",
@@ -305,26 +305,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn x Merit",
-      "booking_start_date": "2026-04-14 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-04-21",
-      "start_time": "06:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Jaybird",
-      "name": "Sweat For A Cause | The Booty",
-      "booking_start_date": "2026-03-22 10:45",
-      "location": "Yaletown",
-      "start_date": "2026-04-21",
-      "start_time": "10:45",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn \u2014 Reformer x Blume Superfoods",
       "booking_start_date": "2026-04-15 00:00",
       "location": "Kingsway",
@@ -350,7 +330,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-22",
       "start_time": "12:00",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 45
     },
     {
@@ -370,7 +350,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-23",
       "start_time": "07:15",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 36
     },
     {
@@ -515,62 +495,22 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-04-14 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-21",
-      "start_time": "08:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-14 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-21",
-      "start_time": "09:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-14 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-21",
-      "start_time": "11:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-14 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-21",
-      "start_time": "12:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-14 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-21",
-      "start_time": "13:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-04-15 09:00",
       "location": "Vancouver",
       "start_date": "2026-04-22",
       "start_time": "09:00",
       "available_spot_count": 5,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-04-15 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-22",
+      "start_time": "12:00",
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -735,16 +675,6 @@
     },
     {
       "studio": "All Method Studio",
-      "name": "ALL Strength x ALL Gives",
-      "booking_start_date": "2026-04-07 18:30",
-      "location": "Railway",
-      "start_date": "2026-04-21",
-      "start_time": "18:30",
-      "available_spot_count": 18,
-      "capacity": 18
-    },
-    {
-      "studio": "All Method Studio",
       "name": "ALL Workshop x Ali: Pre & Postnatal Movement",
       "booking_start_date": "2026-04-12 13:30",
       "location": "Railway",
@@ -770,7 +700,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-23",
       "start_time": "16:00",
-      "available_spot_count": 14,
+      "available_spot_count": 15,
       "capacity": 32
     },
     {
