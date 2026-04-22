@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T11:37:38.947583-07:00",
+  "last_updated": "2026-04-22T13:05:10.954559-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -171,7 +171,7 @@
       "start_date": "2026-04-22",
       "start_time": "11:15",
       "available_spot_count": 0,
-      "capacity": 14
+      "capacity": 0
     },
     {
       "studio": "Lagree West",
@@ -304,6 +304,16 @@
       "capacity": 15
     },
     {
+      "studio": "Lagree West",
+      "name": "Mid-Day Mega Cardio Xpress - CHEST AND BACK DAY!",
+      "booking_start_date": "2026-05-22 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-05-29",
+      "start_time": "16:30",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
       "studio": "Jaybird",
       "name": "The Burn \u2014 Reformer x Blume Superfoods",
       "booking_start_date": "2026-04-15 00:00",
@@ -330,8 +340,8 @@
       "location": "Kingsway",
       "start_date": "2026-04-22",
       "start_time": "12:00",
-      "available_spot_count": 26,
-      "capacity": 45
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Jaybird",
@@ -340,7 +350,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-23",
       "start_time": "06:00",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 36
     },
     {
@@ -350,7 +360,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-23",
       "start_time": "07:15",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 36
     },
     {
@@ -530,8 +540,8 @@
       "location": "Vancouver",
       "start_date": "2026-04-22",
       "start_time": "12:00",
-      "available_spot_count": 7,
-      "capacity": 12
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Lagree Studio",
@@ -540,7 +550,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-23",
       "start_time": "09:00",
-      "available_spot_count": 9,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -720,7 +730,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-23",
       "start_time": "08:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 32
     },
     {
@@ -930,7 +940,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-26",
       "start_time": "11:50",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 48
     },
     {
@@ -950,7 +960,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-28",
       "start_time": "07:15",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 48
     },
     {
