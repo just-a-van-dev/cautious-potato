@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T16:25:29.514925-07:00",
+  "last_updated": "2026-04-22T17:09:20.368447-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -133,46 +133,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Plain Jane Skin Bar",
-      "booking_start_date": "2026-04-15 00:00",
-      "location": "Main St",
-      "start_date": "2026-04-22",
-      "start_time": "08:15",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Plain Jane Skin Bar",
-      "booking_start_date": "2026-04-15 00:00",
-      "location": "Main St",
-      "start_date": "2026-04-22",
-      "start_time": "09:15",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer Classic x Plain Jane Skin Bar",
-      "booking_start_date": "2026-04-15 00:00",
-      "location": "Main St",
-      "start_date": "2026-04-22",
-      "start_time": "10:15",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Plain Jane Skin Bar",
-      "booking_start_date": "2026-04-15 00:00",
-      "location": "Main St",
-      "start_date": "2026-04-22",
-      "start_time": "11:15",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
     {
       "studio": "Lagree West",
       "name": "Mid-Day Mega Cardio Xpress- Arms/Abs x Plain Jane",
@@ -355,36 +315,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn \u2014 Reformer x Blume Superfoods",
-      "booking_start_date": "2026-04-15 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-04-22",
-      "start_time": "06:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn x Blume Superfoods",
-      "booking_start_date": "2026-04-15 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-04-22",
-      "start_time": "07:30",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Bird x Blume Superfoods",
-      "booking_start_date": "2026-04-15 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-04-22",
-      "start_time": "12:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn x Blume Superfoods",
       "booking_start_date": "2026-04-16 00:00",
       "location": "Yaletown",
@@ -410,7 +340,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-23",
       "start_time": "07:30",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 45
     },
     {
@@ -555,42 +485,22 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-04-15 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-22",
-      "start_time": "08:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-15 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-22",
-      "start_time": "09:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-15 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-22",
-      "start_time": "12:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-04-16 09:00",
       "location": "Vancouver",
       "start_date": "2026-04-23",
       "start_time": "09:00",
       "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-04-16 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-23",
+      "start_time": "10:00",
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -606,11 +516,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-16 13:00",
+      "booking_start_date": "2026-04-16 12:00",
       "location": "Vancouver",
       "start_date": "2026-04-23",
-      "start_time": "13:00",
-      "available_spot_count": 4,
+      "start_time": "12:00",
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -621,6 +531,46 @@
       "start_date": "2026-04-23",
       "start_time": "14:00",
       "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-04-17 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-24",
+      "start_time": "09:00",
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-04-17 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-24",
+      "start_time": "10:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-04-17 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-24",
+      "start_time": "12:00",
+      "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-04-17 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-24",
+      "start_time": "13:00",
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -764,13 +714,63 @@
       "capacity": 18
     },
     {
+      "studio": "All Method Studio",
+      "name": "ALL Lift at The Set - Private Booking",
+      "booking_start_date": "2026-04-21 12:30",
+      "location": "Railway",
+      "start_date": "2026-05-05",
+      "start_time": "12:30",
+      "available_spot_count": 8,
+      "capacity": 8
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Lift at The Set - Private Booking",
+      "booking_start_date": "2026-04-28 12:30",
+      "location": "Railway",
+      "start_date": "2026-05-12",
+      "start_time": "12:30",
+      "available_spot_count": 8,
+      "capacity": 8
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Lift at The Set - Private Booking",
+      "booking_start_date": "2026-05-05 12:30",
+      "location": "Railway",
+      "start_date": "2026-05-19",
+      "start_time": "12:30",
+      "available_spot_count": 8,
+      "capacity": 8
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Lift at The Set - Private Booking",
+      "booking_start_date": "2026-05-12 12:30",
+      "location": "Railway",
+      "start_date": "2026-05-26",
+      "start_time": "12:30",
+      "available_spot_count": 8,
+      "capacity": 8
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Lift at The Set - Private Booking",
+      "booking_start_date": "2026-05-19 12:30",
+      "location": "Railway",
+      "start_date": "2026-06-02",
+      "start_time": "12:30",
+      "available_spot_count": 8,
+      "capacity": 8
+    },
+    {
       "studio": "Turf",
       "name": "On The Mat with Nat",
       "booking_start_date": "2026-04-16 08:15",
       "location": "KITS - Vancouver",
       "start_date": "2026-04-23",
       "start_time": "08:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 32
     },
     {
@@ -950,7 +950,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-23",
       "start_time": "06:00",
-      "available_spot_count": 17,
+      "available_spot_count": 18,
       "capacity": 48
     },
     {
