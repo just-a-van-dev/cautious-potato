@@ -1,6 +1,26 @@
 {
-  "last_updated": "2026-04-23T06:43:09.309926-07:00",
+  "last_updated": "2026-04-23T08:53:29.236218-07:00",
   "special": [
+    {
+      "studio": "Lagree West",
+      "name": "Friends + Family",
+      "booking_start_date": "2026-04-09 13:00",
+      "location": "Gastown",
+      "start_date": "2026-04-23",
+      "start_time": "13:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Friends + Family",
+      "booking_start_date": "2026-04-09 14:00",
+      "location": "Gastown",
+      "start_date": "2026-04-23",
+      "start_time": "14:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
     {
       "studio": "Jaybird",
       "name": "The Balance + ALO Community Class",
@@ -135,12 +155,32 @@
   "sponsored": [
     {
       "studio": "Lagree West",
+      "name": "Friends + Family",
+      "booking_start_date": "2026-04-09 13:00",
+      "location": "Gastown",
+      "start_date": "2026-04-23",
+      "start_time": "13:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Friends + Family",
+      "booking_start_date": "2026-04-09 14:00",
+      "location": "Gastown",
+      "start_date": "2026-04-23",
+      "start_time": "14:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
       "name": "Mid-Day Mega Cardio Xpress- Arms/Abs x Plain Jane",
       "booking_start_date": "2026-04-20 00:00",
       "location": "Kitsilano",
       "start_date": "2026-04-27",
       "start_time": "08:15",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 26
     },
     {
@@ -320,8 +360,8 @@
       "location": "Yaletown",
       "start_date": "2026-04-23",
       "start_time": "06:00",
-      "available_spot_count": 16,
-      "capacity": 36
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Jaybird",
@@ -330,8 +370,8 @@
       "location": "Yaletown",
       "start_date": "2026-04-23",
       "start_time": "07:15",
-      "available_spot_count": 9,
-      "capacity": 36
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Jaybird",
@@ -340,8 +380,8 @@
       "location": "Kingsway",
       "start_date": "2026-04-23",
       "start_time": "07:30",
-      "available_spot_count": 5,
-      "capacity": 45
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Jaybird",
@@ -350,7 +390,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-23",
       "start_time": "09:15",
-      "available_spot_count": 21,
+      "available_spot_count": 19,
       "capacity": 36
     },
     {
@@ -360,7 +400,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-24",
       "start_time": "07:30",
-      "available_spot_count": 7,
+      "available_spot_count": 9,
       "capacity": 45
     },
     {
@@ -380,7 +420,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-24",
       "start_time": "12:05",
-      "available_spot_count": 14,
+      "available_spot_count": 15,
       "capacity": 36
     },
     {
@@ -410,7 +450,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-30",
       "start_time": "07:15",
-      "available_spot_count": 32,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -420,7 +460,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-30",
       "start_time": "07:30",
-      "available_spot_count": 42,
+      "available_spot_count": 39,
       "capacity": 45
     },
     {
@@ -490,7 +530,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-23",
       "start_time": "09:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -500,7 +540,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-23",
       "start_time": "10:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -510,7 +550,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-23",
       "start_time": "11:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -540,7 +580,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-24",
       "start_time": "09:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -550,7 +590,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-24",
       "start_time": "10:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -820,7 +860,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-23",
       "start_time": "08:15",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 32
     },
     {
@@ -850,7 +890,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-27",
       "start_time": "16:00",
-      "available_spot_count": 24,
+      "available_spot_count": 22,
       "capacity": 32
     },
     {
@@ -1000,8 +1040,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-23",
       "start_time": "06:00",
-      "available_spot_count": 17,
-      "capacity": 48
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Spin Society",
@@ -1060,7 +1100,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-29",
       "start_time": "19:50",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 48
     },
     {
