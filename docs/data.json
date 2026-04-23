@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T17:09:20.368447-07:00",
+  "last_updated": "2026-04-22T19:13:20.459612-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -28,7 +28,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-27",
       "start_time": "19:30",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 32
     },
     {
@@ -140,7 +140,7 @@
       "location": "Kitsilano",
       "start_date": "2026-04-27",
       "start_time": "08:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 26
     },
     {
@@ -330,7 +330,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-23",
       "start_time": "07:15",
-      "available_spot_count": 14,
+      "available_spot_count": 16,
       "capacity": 36
     },
     {
@@ -340,7 +340,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-23",
       "start_time": "07:30",
-      "available_spot_count": 6,
+      "available_spot_count": 8,
       "capacity": 45
     },
     {
@@ -350,7 +350,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-23",
       "start_time": "09:15",
-      "available_spot_count": 23,
+      "available_spot_count": 24,
       "capacity": 36
     },
     {
@@ -360,7 +360,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-24",
       "start_time": "07:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 45
     },
     {
@@ -500,7 +500,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-23",
       "start_time": "10:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -510,7 +510,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-23",
       "start_time": "11:00",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -520,7 +520,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-23",
       "start_time": "12:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -530,7 +530,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-23",
       "start_time": "14:00",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -726,9 +726,29 @@
     {
       "studio": "All Method Studio",
       "name": "ALL Lift at The Set - Private Booking",
+      "booking_start_date": "2026-04-23 12:30",
+      "location": "Railway",
+      "start_date": "2026-05-07",
+      "start_time": "12:30",
+      "available_spot_count": 8,
+      "capacity": 8
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Lift at The Set - Private Booking",
       "booking_start_date": "2026-04-28 12:30",
       "location": "Railway",
       "start_date": "2026-05-12",
+      "start_time": "12:30",
+      "available_spot_count": 8,
+      "capacity": 8
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Lift at The Set - Private Booking",
+      "booking_start_date": "2026-04-30 12:30",
+      "location": "Railway",
+      "start_date": "2026-05-14",
       "start_time": "12:30",
       "available_spot_count": 8,
       "capacity": 8
@@ -746,9 +766,29 @@
     {
       "studio": "All Method Studio",
       "name": "ALL Lift at The Set - Private Booking",
+      "booking_start_date": "2026-05-07 12:30",
+      "location": "Railway",
+      "start_date": "2026-05-21",
+      "start_time": "12:30",
+      "available_spot_count": 8,
+      "capacity": 8
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Lift at The Set - Private Booking",
       "booking_start_date": "2026-05-12 12:30",
       "location": "Railway",
       "start_date": "2026-05-26",
+      "start_time": "12:30",
+      "available_spot_count": 8,
+      "capacity": 8
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Lift at The Set - Private Booking",
+      "booking_start_date": "2026-05-14 12:30",
+      "location": "Railway",
+      "start_date": "2026-05-28",
       "start_time": "12:30",
       "available_spot_count": 8,
       "capacity": 8
@@ -764,13 +804,23 @@
       "capacity": 8
     },
     {
+      "studio": "All Method Studio",
+      "name": "ALL Lift at The Set - Private Booking",
+      "booking_start_date": "2026-05-21 12:30",
+      "location": "Railway",
+      "start_date": "2026-06-04",
+      "start_time": "12:30",
+      "available_spot_count": 8,
+      "capacity": 8
+    },
+    {
       "studio": "Turf",
       "name": "On The Mat with Nat",
       "booking_start_date": "2026-04-16 08:15",
       "location": "KITS - Vancouver",
       "start_date": "2026-04-23",
       "start_time": "08:15",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 32
     },
     {
@@ -780,7 +830,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-23",
       "start_time": "16:00",
-      "available_spot_count": 13,
+      "available_spot_count": 15,
       "capacity": 32
     },
     {
@@ -800,7 +850,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-27",
       "start_time": "16:00",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 32
     },
     {
@@ -1000,7 +1050,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-28",
       "start_time": "07:15",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 48
     },
     {
