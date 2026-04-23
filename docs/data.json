@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T13:05:48.164365-07:00",
+  "last_updated": "2026-04-23T14:12:40.096687-07:00",
   "special": [
     {
       "studio": "Lagree West",
@@ -8,8 +8,8 @@
       "location": "Gastown",
       "start_date": "2026-04-23",
       "start_time": "13:00",
-      "available_spot_count": 15,
-      "capacity": 15
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Lagree West",
@@ -160,8 +160,8 @@
       "location": "Gastown",
       "start_date": "2026-04-23",
       "start_time": "13:00",
-      "available_spot_count": 15,
-      "capacity": 15
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Lagree West",
@@ -420,7 +420,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-24",
       "start_time": "07:30",
-      "available_spot_count": 11,
+      "available_spot_count": 13,
       "capacity": 45
     },
     {
@@ -460,7 +460,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-30",
       "start_time": "07:00",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -510,7 +510,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-10",
       "start_time": "14:00",
-      "available_spot_count": 39,
+      "available_spot_count": 34,
       "capacity": 45
     },
     {
@@ -650,7 +650,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-30",
       "start_time": "09:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -890,7 +890,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-23",
       "start_time": "16:00",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 32
     },
     {
@@ -1130,7 +1130,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-01",
       "start_time": "12:30",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -1155,6 +1155,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: SABRINA CARPENTER x MADONNA",
+      "booking_start_date": "2026-04-27 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-05-05",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: BAD BUNNY x JUSTIN BIEBER x MAJOR LAZAR",
       "booking_start_date": "2026-04-28 12:00",
       "location": "MOUNT PLEASANT",
@@ -1169,6 +1179,16 @@
       "booking_start_date": "2026-04-28 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-06",
+      "start_time": "16:20",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: JONAS BROTHERS x DEMI LOVATO",
+      "booking_start_date": "2026-04-30 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-05-08",
       "start_time": "16:20",
       "available_spot_count": 50,
       "capacity": 50
