@@ -1,26 +1,6 @@
 {
-  "last_updated": "2026-04-23T16:12:20.611520-07:00",
+  "last_updated": "2026-04-23T17:08:01.321134-07:00",
   "special": [
-    {
-      "studio": "Lagree West",
-      "name": "Friends + Family",
-      "booking_start_date": "2026-04-09 13:00",
-      "location": "Gastown",
-      "start_date": "2026-04-23",
-      "start_time": "13:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Friends + Family",
-      "booking_start_date": "2026-04-09 14:00",
-      "location": "Gastown",
-      "start_date": "2026-04-23",
-      "start_time": "14:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
     {
       "studio": "Jaybird",
       "name": "The Balance + ALO Community Class",
@@ -153,26 +133,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Friends + Family",
-      "booking_start_date": "2026-04-09 13:00",
-      "location": "Gastown",
-      "start_date": "2026-04-23",
-      "start_time": "13:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Friends + Family",
-      "booking_start_date": "2026-04-09 14:00",
-      "location": "Gastown",
-      "start_date": "2026-04-23",
-      "start_time": "14:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
     {
       "studio": "Lagree West",
       "name": "Mid-Day Mega Cardio Xpress- Arms/Abs x Plain Jane",
@@ -375,46 +335,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn x Blume Superfoods",
-      "booking_start_date": "2026-04-16 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-04-23",
-      "start_time": "06:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn x Blume Superfoods",
-      "booking_start_date": "2026-04-16 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-04-23",
-      "start_time": "07:15",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn x Innisfree",
-      "booking_start_date": "2026-04-16 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-04-23",
-      "start_time": "07:30",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Build x Blume Superfoods",
-      "booking_start_date": "2026-04-16 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-04-23",
-      "start_time": "09:15",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Build x Merit",
       "booking_start_date": "2026-04-17 00:00",
       "location": "Kingsway",
@@ -556,56 +476,6 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-16 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-23",
-      "start_time": "09:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-16 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-23",
-      "start_time": "10:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-16 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-23",
-      "start_time": "11:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-16 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-23",
-      "start_time": "12:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Ass & Abs With Headsets",
-      "booking_start_date": "2026-04-16 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-23",
-      "start_time": "14:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-04-17 09:00",
       "location": "Vancouver",
       "start_date": "2026-04-24",
@@ -621,26 +491,6 @@
       "start_date": "2026-04-24",
       "start_time": "10:00",
       "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-17 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-24",
-      "start_time": "12:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-17 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-24",
-      "start_time": "13:00",
-      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -885,26 +735,6 @@
     },
     {
       "studio": "Turf",
-      "name": "On The Mat with Nat",
-      "booking_start_date": "2026-04-16 08:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-04-23",
-      "start_time": "08:15",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Turf",
-      "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
-      "booking_start_date": "2026-04-16 16:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-04-23",
-      "start_time": "16:00",
-      "available_spot_count": 8,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "Meta + Mat Werk 60 min *co-teach*",
       "booking_start_date": "2026-04-18 11:00",
       "location": "KITS - Vancouver",
@@ -1062,16 +892,6 @@
       "start_time": "16:00",
       "available_spot_count": 32,
       "capacity": 32
-    },
-    {
-      "studio": "Spin Society",
-      "name": "RISE x RAVE",
-      "booking_start_date": "2026-04-15 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-04-23",
-      "start_time": "06:00",
-      "available_spot_count": 0,
-      "capacity": 0
     },
     {
       "studio": "Spin Society",
