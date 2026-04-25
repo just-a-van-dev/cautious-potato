@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T17:04:40.936025-07:00",
+  "last_updated": "2026-04-24T20:39:23.789870-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -18,7 +18,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-27",
       "start_time": "19:30",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 32
     },
     {
@@ -28,7 +28,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-29",
       "start_time": "16:00",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 32
     },
     {
@@ -130,7 +130,7 @@
       "location": "Kitsilano",
       "start_date": "2026-04-27",
       "start_time": "08:15",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 26
     },
     {
@@ -340,7 +340,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-30",
       "start_time": "07:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 20
     },
     {
@@ -350,7 +350,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-30",
       "start_time": "07:15",
-      "available_spot_count": 18,
+      "available_spot_count": 16,
       "capacity": 36
     },
     {
@@ -370,7 +370,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-30",
       "start_time": "18:40",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 36
     },
     {
@@ -670,7 +670,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-25",
       "start_time": "11:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 32
     },
     {
@@ -680,7 +680,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-27",
       "start_time": "16:00",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 32
     },
     {
@@ -850,7 +850,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-27",
       "start_time": "09:45",
-      "available_spot_count": 30,
+      "available_spot_count": 31,
       "capacity": 48
     },
     {
@@ -860,7 +860,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-28",
       "start_time": "07:15",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 48
     },
     {
@@ -870,7 +870,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-29",
       "start_time": "19:50",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 48
     },
     {
@@ -880,7 +880,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-01",
       "start_time": "12:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -900,7 +900,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-04",
       "start_time": "09:45",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
