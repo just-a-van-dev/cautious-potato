@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T16:07:24.322582-07:00",
+  "last_updated": "2026-04-24T17:04:40.936025-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -10,16 +10,6 @@
       "start_time": "17:45",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "Turf",
-      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
-      "booking_start_date": "2026-03-25 07:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-04-24",
-      "start_time": "07:30",
-      "available_spot_count": 0,
-      "capacity": 0
     },
     {
       "studio": "Turf",
@@ -335,36 +325,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Build x Merit",
-      "booking_start_date": "2026-04-17 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-04-24",
-      "start_time": "07:30",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn x Body Energy Club",
-      "booking_start_date": "2026-04-17 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-04-24",
-      "start_time": "10:45",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Build - Happy Hour x Body Energy Club",
-      "booking_start_date": "2026-04-17 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-04-24",
-      "start_time": "12:05",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Jaybird",
       "name": "Teacher Development | The Balance $18",
       "booking_start_date": "2026-04-19 00:00",
       "location": "Yaletown",
@@ -475,36 +435,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-17 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-24",
-      "start_time": "09:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-04-17 16:30",
-      "location": "Vancouver",
-      "start_date": "2026-04-24",
-      "start_time": "16:30",
-      "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-04-17 17:30",
-      "location": "Vancouver",
-      "start_date": "2026-04-24",
-      "start_time": "17:30",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Club Lagree x R&B x Sahajan",
       "booking_start_date": "2026-04-18 12:00",
       "location": "Vancouver",
@@ -572,16 +502,6 @@
       "start_time": "09:00",
       "available_spot_count": 12,
       "capacity": 12
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - AFROBEATS + BURN",
-      "booking_start_date": "2026-04-10 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-04-24",
-      "start_time": "18:30",
-      "available_spot_count": 8,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
@@ -750,7 +670,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-25",
       "start_time": "11:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 32
     },
     {
@@ -780,7 +700,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-30",
       "start_time": "16:00",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 32
     },
     {
@@ -904,24 +824,14 @@
       "capacity": 32
     },
     {
-      "studio": "Spin Society",
-      "name": "THEME: JUSTIN BIEBER x SABRINA CARPENTER",
-      "booking_start_date": "2026-04-16 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-04-24",
-      "start_time": "16:20",
-      "available_spot_count": 0,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: REMIXES: BEYONC\u00c9 x RIHANNA",
-      "booking_start_date": "2026-04-16 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-04-24",
-      "start_time": "18:40",
-      "available_spot_count": 0,
-      "capacity": 48
+      "studio": "Turf",
+      "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
+      "booking_start_date": "2026-06-01 16:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-06-08",
+      "start_time": "16:00",
+      "available_spot_count": 32,
+      "capacity": 32
     },
     {
       "studio": "Spin Society",
@@ -930,7 +840,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-26",
       "start_time": "11:50",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 48
     },
     {
