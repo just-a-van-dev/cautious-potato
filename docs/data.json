@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T11:55:47.678479-07:00",
+  "last_updated": "2026-04-26T12:47:55.476831-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -28,7 +28,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-29",
       "start_time": "16:00",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 32
     },
     {
@@ -350,7 +350,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-30",
       "start_time": "07:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 36
     },
     {
@@ -370,7 +370,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-30",
       "start_time": "18:40",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
@@ -594,13 +594,33 @@
       "capacity": 10
     },
     {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Sound Bath w/ Scent | Warm - 40 mins",
+      "booking_start_date": "2026-04-21 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-28",
+      "start_time": "12:00",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Full Moon Sound Bath - 40 min | Warm",
+      "booking_start_date": "2026-04-23 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-30",
+      "start_time": "12:00",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
       "studio": "All Method Studio",
       "name": "ALL Workshop x Ali: Pre & Postnatal Movement",
       "booking_start_date": "2026-04-12 13:30",
       "location": "Railway",
       "start_date": "2026-04-26",
       "start_time": "13:30",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 18
     },
     {
@@ -750,7 +770,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-03",
       "start_time": "11:00",
-      "available_spot_count": 33,
+      "available_spot_count": 26,
       "capacity": 34
     },
     {
@@ -890,8 +910,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-26",
       "start_time": "11:50",
-      "available_spot_count": 9,
-      "capacity": 48
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Spin Society",
@@ -950,7 +970,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-04",
       "start_time": "09:45",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
