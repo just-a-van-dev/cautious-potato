@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T12:47:55.476831-07:00",
+  "last_updated": "2026-04-26T13:38:39.313609-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -140,7 +140,7 @@
       "location": "Kitsilano",
       "start_date": "2026-04-27",
       "start_time": "09:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 16
     },
     {
@@ -330,7 +330,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-26",
       "start_time": "14:45",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 36
     },
     {
@@ -370,7 +370,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-30",
       "start_time": "18:40",
-      "available_spot_count": 22,
+      "available_spot_count": 23,
       "capacity": 36
     },
     {
@@ -440,7 +440,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-26",
       "start_time": "15:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -920,7 +920,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-27",
       "start_time": "09:45",
-      "available_spot_count": 33,
+      "available_spot_count": 34,
       "capacity": 48
     },
     {
