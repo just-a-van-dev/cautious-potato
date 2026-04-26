@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T21:01:48.513630-07:00",
+  "last_updated": "2026-04-25T23:14:26.566205-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -330,7 +330,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-26",
       "start_time": "14:45",
-      "available_spot_count": 36,
+      "available_spot_count": 34,
       "capacity": 36
     },
     {
@@ -400,7 +400,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-10",
       "start_time": "14:00",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 45
     },
     {
@@ -450,7 +450,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-27",
       "start_time": "09:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -471,6 +471,16 @@
       "start_date": "2026-04-27",
       "start_time": "11:00",
       "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-04-20 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-27",
+      "start_time": "13:00",
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -582,6 +592,826 @@
       "start_time": "18:30",
       "available_spot_count": 10,
       "capacity": 10
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-04-19 09:25",
+      "location": "Vancouver",
+      "start_date": "2026-04-26",
+      "start_time": "09:25",
+      "available_spot_count": 35,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Symphony Sound Bath | Warm - 40 mins",
+      "booking_start_date": "2026-04-21 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-28",
+      "start_time": "12:00",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Vinyasa Flow + Sound Bath | Hot",
+      "booking_start_date": "2026-04-21 18:25",
+      "location": "Vancouver",
+      "start_date": "2026-04-28",
+      "start_time": "18:25",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Breathwork + Sound Bath | Warm",
+      "booking_start_date": "2026-04-21 19:45",
+      "location": "Vancouver",
+      "start_date": "2026-04-28",
+      "start_time": "19:45",
+      "available_spot_count": 36,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Sound Bath",
+      "booking_start_date": "2026-04-21 20:15",
+      "location": "Vancouver",
+      "start_date": "2026-04-28",
+      "start_time": "20:15",
+      "available_spot_count": 24,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-04-22 07:30",
+      "location": "Vancouver",
+      "start_date": "2026-04-29",
+      "start_time": "07:30",
+      "available_spot_count": 38,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Red Light Reiki + Sound for Sleep",
+      "booking_start_date": "2026-04-22 20:20",
+      "location": "Vancouver",
+      "start_date": "2026-04-29",
+      "start_time": "20:20",
+      "available_spot_count": 24,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-04-23 07:30",
+      "location": "Vancouver",
+      "start_date": "2026-04-30",
+      "start_time": "07:30",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Flow State | Warm - Full Moon",
+      "booking_start_date": "2026-04-23 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-30",
+      "start_time": "09:00",
+      "available_spot_count": 39,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Sound Bath w/ Scent | Warm - 40 min",
+      "booking_start_date": "2026-04-23 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-30",
+      "start_time": "12:00",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Red Light Reiki + Sound for Sleep",
+      "booking_start_date": "2026-04-23 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-30",
+      "start_time": "20:00",
+      "available_spot_count": 23,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Full Moon Sound Bath - 40 min",
+      "booking_start_date": "2026-04-24 12:05",
+      "location": "Vancouver",
+      "start_date": "2026-05-01",
+      "start_time": "12:05",
+      "available_spot_count": 24,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Flow State | Warm - Full Moon",
+      "booking_start_date": "2026-04-24 17:35",
+      "location": "Vancouver",
+      "start_date": "2026-05-01",
+      "start_time": "17:35",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Inquiry + Sound Bath w/ Integration- Full Moon",
+      "booking_start_date": "2026-04-24 18:40",
+      "location": "Vancouver",
+      "start_date": "2026-05-01",
+      "start_time": "18:40",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-04-25 09:25",
+      "location": "Vancouver",
+      "start_date": "2026-05-02",
+      "start_time": "09:25",
+      "available_spot_count": 39,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Power Yoga + Sound Bath | Hot",
+      "booking_start_date": "2026-04-25 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-02",
+      "start_time": "12:00",
+      "available_spot_count": 39,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-04-27 18:40",
+      "location": "Vancouver",
+      "start_date": "2026-05-04",
+      "start_time": "18:40",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Symphony Sound Bath - 40 mins",
+      "booking_start_date": "2026-04-28 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-05",
+      "start_time": "12:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Vinyasa Flow + Sound Bath | Hot",
+      "booking_start_date": "2026-04-28 18:25",
+      "location": "Vancouver",
+      "start_date": "2026-05-05",
+      "start_time": "18:25",
+      "available_spot_count": 38,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Breathwork + Sound Bath | Warm",
+      "booking_start_date": "2026-04-28 19:45",
+      "location": "Vancouver",
+      "start_date": "2026-05-05",
+      "start_time": "19:45",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Sound Bath",
+      "booking_start_date": "2026-04-28 20:15",
+      "location": "Vancouver",
+      "start_date": "2026-05-05",
+      "start_time": "20:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-04-29 07:30",
+      "location": "Vancouver",
+      "start_date": "2026-05-06",
+      "start_time": "07:30",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Red Light Reiki + Sound for Sleep",
+      "booking_start_date": "2026-04-29 20:20",
+      "location": "Vancouver",
+      "start_date": "2026-05-06",
+      "start_time": "20:20",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Sound Bath w/ Scent | Warm - 40 min",
+      "booking_start_date": "2026-04-30 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-07",
+      "start_time": "12:00",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Red Light Reiki + Sound for Sleep",
+      "booking_start_date": "2026-04-30 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-07",
+      "start_time": "20:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Self Inquiry + Sound Bath w/ Integration",
+      "booking_start_date": "2026-05-01 18:40",
+      "location": "Vancouver",
+      "start_date": "2026-05-08",
+      "start_time": "18:40",
+      "available_spot_count": 25,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-05-02 09:25",
+      "location": "Vancouver",
+      "start_date": "2026-05-09",
+      "start_time": "09:25",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Power Yoga + Sound Bath | Hot",
+      "booking_start_date": "2026-05-02 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-09",
+      "start_time": "12:00",
+      "available_spot_count": 39,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-05-04 18:40",
+      "location": "Vancouver",
+      "start_date": "2026-05-11",
+      "start_time": "18:40",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Symphony Sound Bath - 40 mins",
+      "booking_start_date": "2026-05-05 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-12",
+      "start_time": "12:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Vinyasa Flow + Sound Bath | Hot",
+      "booking_start_date": "2026-05-05 18:25",
+      "location": "Vancouver",
+      "start_date": "2026-05-12",
+      "start_time": "18:25",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Breathwork + Sound Bath | Warm",
+      "booking_start_date": "2026-05-05 19:45",
+      "location": "Vancouver",
+      "start_date": "2026-05-12",
+      "start_time": "19:45",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Sound Bath",
+      "booking_start_date": "2026-05-05 20:15",
+      "location": "Vancouver",
+      "start_date": "2026-05-12",
+      "start_time": "20:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-05-06 07:30",
+      "location": "Vancouver",
+      "start_date": "2026-05-13",
+      "start_time": "07:30",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Red Light Reiki + Sound for Sleep",
+      "booking_start_date": "2026-05-06 20:20",
+      "location": "Vancouver",
+      "start_date": "2026-05-13",
+      "start_time": "20:20",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Sound Bath w/ Scent | Warm - 40 min",
+      "booking_start_date": "2026-05-07 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-14",
+      "start_time": "12:00",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Red Light Reiki + Sound for Sleep",
+      "booking_start_date": "2026-05-07 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-14",
+      "start_time": "20:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Self Inquiry + Sound Bath w/ Integration",
+      "booking_start_date": "2026-05-08 18:40",
+      "location": "Vancouver",
+      "start_date": "2026-05-15",
+      "start_time": "18:40",
+      "available_spot_count": 25,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-05-09 09:25",
+      "location": "Vancouver",
+      "start_date": "2026-05-16",
+      "start_time": "09:25",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Power Yoga + Sound Bath | Hot",
+      "booking_start_date": "2026-05-09 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-16",
+      "start_time": "12:00",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-05-10 09:25",
+      "location": "Vancouver",
+      "start_date": "2026-05-17",
+      "start_time": "09:25",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-05-11 18:40",
+      "location": "Vancouver",
+      "start_date": "2026-05-18",
+      "start_time": "18:40",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Symphony Sound Bath - 40 mins",
+      "booking_start_date": "2026-05-12 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-19",
+      "start_time": "12:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Vinyasa Flow + Sound Bath | Hot",
+      "booking_start_date": "2026-05-12 18:25",
+      "location": "Vancouver",
+      "start_date": "2026-05-19",
+      "start_time": "18:25",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Breathwork + Sound Bath | Warm",
+      "booking_start_date": "2026-05-12 19:45",
+      "location": "Vancouver",
+      "start_date": "2026-05-19",
+      "start_time": "19:45",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Sound Bath",
+      "booking_start_date": "2026-05-12 20:15",
+      "location": "Vancouver",
+      "start_date": "2026-05-19",
+      "start_time": "20:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-05-13 07:30",
+      "location": "Vancouver",
+      "start_date": "2026-05-20",
+      "start_time": "07:30",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Red Light Reiki + Sound for Sleep",
+      "booking_start_date": "2026-05-13 20:20",
+      "location": "Vancouver",
+      "start_date": "2026-05-20",
+      "start_time": "20:20",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Sound Bath w/ Scent | Warm - 40 min",
+      "booking_start_date": "2026-05-14 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-21",
+      "start_time": "12:00",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Red Light Reiki + Sound for Sleep",
+      "booking_start_date": "2026-05-14 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-21",
+      "start_time": "20:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Self Inquiry + Sound Bath w/ Integration",
+      "booking_start_date": "2026-05-15 18:40",
+      "location": "Vancouver",
+      "start_date": "2026-05-22",
+      "start_time": "18:40",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-05-16 09:25",
+      "location": "Vancouver",
+      "start_date": "2026-05-23",
+      "start_time": "09:25",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Power Yoga + Sound Bath | Hot",
+      "booking_start_date": "2026-05-16 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-23",
+      "start_time": "12:00",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-05-18 18:40",
+      "location": "Vancouver",
+      "start_date": "2026-05-25",
+      "start_time": "18:40",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Symphony Sound Bath - 40 mins",
+      "booking_start_date": "2026-05-19 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-26",
+      "start_time": "12:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Vinyasa Flow + Sound Bath | Hot",
+      "booking_start_date": "2026-05-19 18:25",
+      "location": "Vancouver",
+      "start_date": "2026-05-26",
+      "start_time": "18:25",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Breathwork + Sound Bath | Warm",
+      "booking_start_date": "2026-05-19 19:45",
+      "location": "Vancouver",
+      "start_date": "2026-05-26",
+      "start_time": "19:45",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Sound Bath",
+      "booking_start_date": "2026-05-19 20:15",
+      "location": "Vancouver",
+      "start_date": "2026-05-26",
+      "start_time": "20:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-05-20 07:30",
+      "location": "Vancouver",
+      "start_date": "2026-05-27",
+      "start_time": "07:30",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Red Light Reiki + Sound for Sleep",
+      "booking_start_date": "2026-05-20 20:20",
+      "location": "Vancouver",
+      "start_date": "2026-05-27",
+      "start_time": "20:20",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Sound Bath w/ Scent | Warm - 40 min",
+      "booking_start_date": "2026-05-21 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-28",
+      "start_time": "12:00",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Red Light Reiki + Sound for Sleep",
+      "booking_start_date": "2026-05-21 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-28",
+      "start_time": "20:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Self Inquiry + Sound Bath w/ Integration",
+      "booking_start_date": "2026-05-22 18:40",
+      "location": "Vancouver",
+      "start_date": "2026-05-29",
+      "start_time": "18:40",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-05-23 09:25",
+      "location": "Vancouver",
+      "start_date": "2026-05-30",
+      "start_time": "09:25",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Power Yoga + Sound Bath | Hot",
+      "booking_start_date": "2026-05-23 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-30",
+      "start_time": "12:00",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-05-25 18:40",
+      "location": "Vancouver",
+      "start_date": "2026-06-01",
+      "start_time": "18:40",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Symphony Sound Bath - 40 mins",
+      "booking_start_date": "2026-05-26 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-02",
+      "start_time": "12:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Vinyasa Flow + Sound Bath | Hot",
+      "booking_start_date": "2026-05-26 18:25",
+      "location": "Vancouver",
+      "start_date": "2026-06-02",
+      "start_time": "18:25",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Breathwork + Sound Bath | Warm",
+      "booking_start_date": "2026-05-26 19:45",
+      "location": "Vancouver",
+      "start_date": "2026-06-02",
+      "start_time": "19:45",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Sound Bath",
+      "booking_start_date": "2026-05-26 20:15",
+      "location": "Vancouver",
+      "start_date": "2026-06-02",
+      "start_time": "20:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-05-27 07:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-03",
+      "start_time": "07:30",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Red Light Reiki + Sound for Sleep",
+      "booking_start_date": "2026-05-27 20:20",
+      "location": "Vancouver",
+      "start_date": "2026-06-03",
+      "start_time": "20:20",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Sound Bath w/ Scent | Warm - 40 min",
+      "booking_start_date": "2026-05-28 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-04",
+      "start_time": "12:00",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Red Light Reiki + Sound for Sleep",
+      "booking_start_date": "2026-05-28 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-04",
+      "start_time": "20:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Self Inquiry + Sound Bath w/ Integration",
+      "booking_start_date": "2026-05-29 18:40",
+      "location": "Vancouver",
+      "start_date": "2026-06-05",
+      "start_time": "18:40",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-05-30 09:25",
+      "location": "Vancouver",
+      "start_date": "2026-06-06",
+      "start_time": "09:25",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Power Yoga + Sound Bath | Hot",
+      "booking_start_date": "2026-05-30 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-06",
+      "start_time": "12:00",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sweat | Hot",
+      "booking_start_date": "2026-06-01 18:40",
+      "location": "Vancouver",
+      "start_date": "2026-06-08",
+      "start_time": "18:40",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Symphony Sound Bath - 40 mins",
+      "booking_start_date": "2026-06-02 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-09",
+      "start_time": "12:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Vinyasa Flow + Sound Bath | Hot",
+      "booking_start_date": "2026-06-02 18:25",
+      "location": "Vancouver",
+      "start_date": "2026-06-09",
+      "start_time": "18:25",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Breathwork + Sound Bath | Warm",
+      "booking_start_date": "2026-06-02 19:45",
+      "location": "Vancouver",
+      "start_date": "2026-06-09",
+      "start_time": "19:45",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Sound Bath",
+      "booking_start_date": "2026-06-02 20:15",
+      "location": "Vancouver",
+      "start_date": "2026-06-09",
+      "start_time": "20:15",
+      "available_spot_count": 26,
+      "capacity": 26
     },
     {
       "studio": "All Method Studio",
@@ -710,7 +1540,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-27",
       "start_time": "16:00",
-      "available_spot_count": 17,
+      "available_spot_count": 18,
       "capacity": 32
     },
     {
@@ -870,7 +1700,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-26",
       "start_time": "11:50",
-      "available_spot_count": 4,
+      "available_spot_count": 7,
       "capacity": 48
     },
     {
