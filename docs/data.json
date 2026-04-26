@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T08:41:45.580971-07:00",
+  "last_updated": "2026-04-26T09:42:50.970132-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -470,7 +470,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-27",
       "start_time": "11:00",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -745,6 +745,16 @@
     },
     {
       "studio": "Turf",
+      "name": "Meta + Mat Werk 60 min *Co-teach*",
+      "booking_start_date": "2026-04-26 11:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-05-03",
+      "start_time": "11:00",
+      "available_spot_count": 34,
+      "capacity": 34
+    },
+    {
+      "studio": "Turf",
       "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-04-27 16:00",
       "location": "KITS - Vancouver",
@@ -880,7 +890,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-26",
       "start_time": "11:50",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 48
     },
     {
@@ -890,7 +900,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-27",
       "start_time": "09:45",
-      "available_spot_count": 30,
+      "available_spot_count": 33,
       "capacity": 48
     },
     {
