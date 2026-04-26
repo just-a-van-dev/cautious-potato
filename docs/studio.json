@@ -15,11 +15,6 @@
     "url": "https://www.lagreestudio.ca/"
   },
   {
-    "studio": "All Method Studio",
-    "favicon": "https://allmethodstudio.com/wp-content/uploads/2026/01/cropped-favicon-32x32.png",
-    "url": "https://allstudio.marianatek.com"
-  },
-  {
     "studio": "Evolution",
     "favicon": "https://images.squarespace-cdn.com/content/v1/64f55d84a380351b0c62040f/d80ded2e-172b-4589-b922-fd036a3e9575/favicon.ico?format=100w",
     "url": "https://www.evolutionfitnessstudio.ca/"
@@ -28,6 +23,21 @@
     "studio": "Tunnel",
     "favicon": "https://static.wixstatic.com/media/4055b4_c611d7586ef64c70948d0967b2a9f86e%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/4055b4_c611d7586ef64c70948d0967b2a9f86e%7Emv2.jpg",
     "url": "https://www.tunnelpilates.com/"
+  },
+  {
+    "studio": "The Third",
+    "favicon":"https://images.squarespace-cdn.com/content/v1/68c5bed61d189f52c8ec733d/31897e5c-5fda-4572-9f5f-43e91f1c5410/favicon.ico?format=100w",
+    "url": "https://www.thethirdlagree.ca"
+  },
+  {
+    "studio": "ZenDen",
+    "favicon": "https://experiencezenden.com/wp-content/uploads/2025/07/cropped-favicon-zenden-32x32.png",
+    "url": "https://experiencezenden.com"
+  },
+    {
+    "studio": "All Method Studio",
+    "favicon": "https://allmethodstudio.com/wp-content/uploads/2026/01/cropped-favicon-32x32.png",
+    "url": "https://allstudio.marianatek.com"
   },
   {
     "studio": "Ritual",

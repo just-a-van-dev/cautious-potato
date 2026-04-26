@@ -11,6 +11,8 @@ studio_base_urls = {
     "Lagree Pulse": "https://lagreepulse.marianatek.com/api/customer/v1/classes?page_size=500&location=48717&region=48541",
     "Evolution": "https://evolutionfitness.marianatek.com/api/customer/v1/classes?page_size=500&location=48717&region=48541",
     "Tunnel": "https://tunnelpilates.marianatek.com/api/customer/v1/classes?page_size=500&location=48718&region=48541",
+    "The Third":"https://thethirdlagree.marianatek.com/api/customer/v1/classes?&page_size=500&location=48717&region=48541",
+    "ZenDen": "https://zenden.marianatek.com/api/customer/v1/classes?page_size=500&region=48541",
     "All Method Studio": "https://allstudio.marianatek.com/api/customer/v1/classes?page_size=500&location=48717&region=48541",
     "Ritual": "https://ritualurbanretreat.marianatek.com/api/customer/v1/classes?page_size=500&location=48717&region=48541",
     "Hustle": "https://hustleup.marianatek.com/api/customer/v1/classes?page_size=500&location=48717&region=48541",
