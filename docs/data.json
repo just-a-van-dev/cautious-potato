@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T16:04:37.379100-07:00",
+  "last_updated": "2026-04-25T17:02:46.815633-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -435,26 +435,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Club Lagree x R&B x Sahajan",
-      "booking_start_date": "2026-04-18 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-25",
-      "start_time": "12:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-04-18 15:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-25",
-      "start_time": "15:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-04-23 09:00",
       "location": "Vancouver",
@@ -674,14 +654,14 @@
       "capacity": 8
     },
     {
-      "studio": "Turf",
-      "name": "Meta + Mat Werk 60 min *co-teach*",
-      "booking_start_date": "2026-04-18 11:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-04-25",
-      "start_time": "11:00",
-      "available_spot_count": 0,
-      "capacity": 0
+      "studio": "All Method Studio",
+      "name": "ALL Lift at The Set - Private Booking",
+      "booking_start_date": "2026-05-26 12:30",
+      "location": "Railway",
+      "start_date": "2026-06-09",
+      "start_time": "12:30",
+      "available_spot_count": 8,
+      "capacity": 8
     },
     {
       "studio": "Turf",
@@ -850,7 +830,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-26",
       "start_time": "11:50",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 48
     },
     {
