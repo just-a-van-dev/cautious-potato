@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T16:38:47.392184-07:00",
+  "last_updated": "2026-04-26T19:48:59.474991-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -18,7 +18,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-27",
       "start_time": "19:30",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 32
     },
     {
@@ -38,7 +38,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-30",
       "start_time": "08:15",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 32
     },
     {
@@ -130,7 +130,7 @@
       "location": "Kitsilano",
       "start_date": "2026-04-27",
       "start_time": "08:15",
-      "available_spot_count": 6,
+      "available_spot_count": 8,
       "capacity": 26
     },
     {
@@ -310,7 +310,7 @@
       "location": "Gastown",
       "start_date": "2026-05-25",
       "start_time": "08:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
@@ -322,16 +322,6 @@
       "start_time": "16:30",
       "available_spot_count": 26,
       "capacity": 26
-    },
-    {
-      "studio": "Jaybird",
-      "name": "Teacher Development | The Balance $18",
-      "booking_start_date": "2026-04-19 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-04-26",
-      "start_time": "14:45",
-      "available_spot_count": 0,
-      "capacity": 0
     },
     {
       "studio": "Jaybird",
@@ -370,7 +360,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-30",
       "start_time": "18:40",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
@@ -435,16 +425,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-04-19 15:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-26",
-      "start_time": "15:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-04-20 09:00",
       "location": "Vancouver",
@@ -470,7 +450,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-27",
       "start_time": "11:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -610,18 +590,8 @@
       "location": "Vancouver",
       "start_date": "2026-04-30",
       "start_time": "12:00",
-      "available_spot_count": 40,
+      "available_spot_count": 38,
       "capacity": 40
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Workshop x Ali: Pre & Postnatal Movement",
-      "booking_start_date": "2026-04-12 13:30",
-      "location": "Railway",
-      "start_date": "2026-04-26",
-      "start_time": "13:30",
-      "available_spot_count": 0,
-      "capacity": 0
     },
     {
       "studio": "All Method Studio",
@@ -740,7 +710,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-27",
       "start_time": "16:00",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 32
     },
     {
@@ -750,7 +720,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-30",
       "start_time": "08:15",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 32
     },
     {
@@ -770,7 +740,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-03",
       "start_time": "11:00",
-      "available_spot_count": 21,
+      "available_spot_count": 19,
       "capacity": 34
     },
     {
@@ -905,22 +875,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: RUFUS DU SOL x CHAINSMOKERS x ODESZA",
-      "booking_start_date": "2026-04-18 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-04-26",
-      "start_time": "11:50",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: DEEP HOUSE X HIP HOP",
       "booking_start_date": "2026-04-19 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-27",
       "start_time": "09:45",
-      "available_spot_count": 34,
+      "available_spot_count": 36,
       "capacity": 48
     },
     {
@@ -930,7 +890,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-28",
       "start_time": "07:15",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 48
     },
     {
@@ -950,7 +910,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-01",
       "start_time": "12:30",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 50
     },
     {
@@ -970,7 +930,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-04",
       "start_time": "09:45",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
