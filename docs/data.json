@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T13:39:04.119084-07:00",
+  "last_updated": "2026-04-27T14:53:23.998937-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -18,7 +18,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-27",
       "start_time": "19:30",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 32
     },
     {
@@ -215,7 +215,7 @@
     },
     {
       "studio": "Lagree West",
-      "name": "Megaformer x Mega May",
+      "name": "Megaformer x Milano Coffee",
       "booking_start_date": "2026-04-29 00:00",
       "location": "Main St",
       "start_date": "2026-05-06",
@@ -345,6 +345,16 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Megaformer x SmartSweets",
+      "booking_start_date": "2026-05-18 00:00",
+      "location": "Main St",
+      "start_date": "2026-05-25",
+      "start_time": "05:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
       "booking_start_date": "2026-04-25 08:00",
       "location": "Gastown",
@@ -352,6 +362,16 @@
       "start_time": "08:00",
       "available_spot_count": 13,
       "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x SmartSweets",
+      "booking_start_date": "2026-05-20 00:00",
+      "location": "Main St",
+      "start_date": "2026-05-27",
+      "start_time": "05:15",
+      "available_spot_count": 14,
+      "capacity": 14
     },
     {
       "studio": "Lagree West",
@@ -410,7 +430,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-04",
       "start_time": "06:10",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 45
     },
     {
@@ -480,8 +500,8 @@
       "location": "Vancouver",
       "start_date": "2026-04-27",
       "start_time": "13:00",
-      "available_spot_count": 3,
-      "capacity": 12
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Lagree Studio",
@@ -490,8 +510,8 @@
       "location": "Vancouver",
       "start_date": "2026-04-27",
       "start_time": "14:00",
-      "available_spot_count": 5,
-      "capacity": 12
+      "available_spot_count": 0,
+      "capacity": 0
     },
     {
       "studio": "Lagree Studio",
@@ -500,7 +520,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-27",
       "start_time": "15:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -510,7 +530,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-28",
       "start_time": "11:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -540,7 +560,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-28",
       "start_time": "14:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -1000,7 +1020,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-01",
       "start_time": "12:30",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 50
     },
     {
@@ -1060,7 +1080,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-07",
       "start_time": "11:00",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -1070,6 +1090,16 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-08",
       "start_time": "16:20",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: FLORENCE + THE MACHINE x TAYLOR SWIFT",
+      "booking_start_date": "2026-04-30 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-05-08",
+      "start_time": "17:30",
       "available_spot_count": 50,
       "capacity": 50
     },
