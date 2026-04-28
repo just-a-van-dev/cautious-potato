@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T23:45:45.450929-07:00",
+  "last_updated": "2026-04-27T23:49:58.903924-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -33,16 +33,6 @@
     },
     {
       "studio": "Turf",
-      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
-      "booking_start_date": "2026-04-01 07:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-01",
-      "start_time": "07:30",
-      "available_spot_count": 75,
-      "capacity": 75
-    },
-    {
-      "studio": "Turf",
       "name": "COMMUNITY: Mat Werk",
       "booking_start_date": "2026-04-29 16:00",
       "location": "KITS - Vancouver",
@@ -60,56 +50,6 @@
       "start_time": "08:15",
       "available_spot_count": 32,
       "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
-      "booking_start_date": "2026-04-08 07:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-08",
-      "start_time": "07:30",
-      "available_spot_count": 74,
-      "capacity": 75
-    },
-    {
-      "studio": "Turf",
-      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
-      "booking_start_date": "2026-04-15 07:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-15",
-      "start_time": "07:30",
-      "available_spot_count": 75,
-      "capacity": 75
-    },
-    {
-      "studio": "Turf",
-      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
-      "booking_start_date": "2026-04-22 07:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-22",
-      "start_time": "07:30",
-      "available_spot_count": 75,
-      "capacity": 75
-    },
-    {
-      "studio": "Turf",
-      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
-      "booking_start_date": "2026-04-29 07:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-29",
-      "start_time": "07:30",
-      "available_spot_count": 75,
-      "capacity": 75
-    },
-    {
-      "studio": "Turf",
-      "name": "MRC x TurF FREE RUN CLUB (No Sign Up Needed)",
-      "booking_start_date": "2026-05-06 07:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-06-05",
-      "start_time": "07:30",
-      "available_spot_count": 75,
-      "capacity": 75
     }
   ],
   "sponsored": [
@@ -450,7 +390,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-28",
       "start_time": "12:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -660,7 +600,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-03",
       "start_time": "11:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 34
     },
     {
