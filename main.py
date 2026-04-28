@@ -28,7 +28,7 @@ TARGET_NAMES = [
 
 
 def is_free_class(class_data) -> bool:
-    return class_data.get("is_free_class") and class_data.get("name").lower().strip() not in TARGET_NAMES
+    return class_data.get("is_free_class") and class_data.get("name").lower().strip() not in FILTER_OUT
 
 
 def is_sponsored_class(class_data, studio_name) -> bool:
