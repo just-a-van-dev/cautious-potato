@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T23:08:31.672337-07:00",
+  "last_updated": "2026-04-27T23:45:45.450929-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -624,36 +624,6 @@
       "capacity": 10
     },
     {
-      "studio": "ZenDen",
-      "name": "Reiki Infused Sound Bath w/ Scent | Warm - 40 mins",
-      "booking_start_date": "2026-04-21 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-28",
-      "start_time": "12:00",
-      "available_spot_count": 38,
-      "capacity": 40
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Full Moon Sound Bath - 40 min | Warm",
-      "booking_start_date": "2026-04-23 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-30",
-      "start_time": "12:00",
-      "available_spot_count": 40,
-      "capacity": 40
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Lift at The Set - Private Booking",
-      "booking_start_date": "2026-04-21 12:30",
-      "location": "Railway",
-      "start_date": "2026-05-05",
-      "start_time": "12:30",
-      "available_spot_count": 8,
-      "capacity": 8
-    },
-    {
       "studio": "All Method Studio",
       "name": "ALL x In Her Circle: Movement + Sound Bath",
       "booking_start_date": "2026-04-22 18:45",
@@ -662,116 +632,6 @@
       "start_time": "18:45",
       "available_spot_count": 18,
       "capacity": 18
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Lift at The Set - Private Booking",
-      "booking_start_date": "2026-04-23 12:30",
-      "location": "Railway",
-      "start_date": "2026-05-07",
-      "start_time": "12:30",
-      "available_spot_count": 8,
-      "capacity": 8
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Lift at The Set - Private Booking",
-      "booking_start_date": "2026-04-28 12:30",
-      "location": "Railway",
-      "start_date": "2026-05-12",
-      "start_time": "12:30",
-      "available_spot_count": 8,
-      "capacity": 8
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Lift at The Set - Private Booking",
-      "booking_start_date": "2026-04-30 12:30",
-      "location": "Railway",
-      "start_date": "2026-05-14",
-      "start_time": "12:30",
-      "available_spot_count": 8,
-      "capacity": 8
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Lift at The Set - Private Booking",
-      "booking_start_date": "2026-05-05 12:30",
-      "location": "Railway",
-      "start_date": "2026-05-19",
-      "start_time": "12:30",
-      "available_spot_count": 8,
-      "capacity": 8
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Lift at The Set - Private Booking",
-      "booking_start_date": "2026-05-07 12:30",
-      "location": "Railway",
-      "start_date": "2026-05-21",
-      "start_time": "12:30",
-      "available_spot_count": 8,
-      "capacity": 8
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Lift at The Set - Private Booking",
-      "booking_start_date": "2026-05-12 12:30",
-      "location": "Railway",
-      "start_date": "2026-05-26",
-      "start_time": "12:30",
-      "available_spot_count": 8,
-      "capacity": 8
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Lift at The Set - Private Booking",
-      "booking_start_date": "2026-05-14 12:30",
-      "location": "Railway",
-      "start_date": "2026-05-28",
-      "start_time": "12:30",
-      "available_spot_count": 8,
-      "capacity": 8
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Lift at The Set - Private Booking",
-      "booking_start_date": "2026-05-19 12:30",
-      "location": "Railway",
-      "start_date": "2026-06-02",
-      "start_time": "12:30",
-      "available_spot_count": 8,
-      "capacity": 8
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Lift at The Set - Private Booking",
-      "booking_start_date": "2026-05-21 12:30",
-      "location": "Railway",
-      "start_date": "2026-06-04",
-      "start_time": "12:30",
-      "available_spot_count": 8,
-      "capacity": 8
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Lift at The Set - Private Booking",
-      "booking_start_date": "2026-05-26 12:30",
-      "location": "Railway",
-      "start_date": "2026-06-09",
-      "start_time": "12:30",
-      "available_spot_count": 8,
-      "capacity": 8
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Lift at The Set - Private Booking",
-      "booking_start_date": "2026-05-28 12:30",
-      "location": "Railway",
-      "start_date": "2026-06-11",
-      "start_time": "12:30",
-      "available_spot_count": 8,
-      "capacity": 8
     },
     {
       "studio": "Turf",
