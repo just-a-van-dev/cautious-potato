@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T16:54:28.742768-07:00",
+  "last_updated": "2026-04-27T19:55:56.806936-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -10,16 +10,6 @@
       "start_time": "17:45",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "Turf",
-      "name": "COMMUNITY: RESTORE",
-      "booking_start_date": "2026-04-20 19:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-04-27",
-      "start_time": "19:30",
-      "available_spot_count": 16,
-      "capacity": 32
     },
     {
       "studio": "Turf",
@@ -125,46 +115,6 @@
   "sponsored": [
     {
       "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs x Plain Jane",
-      "booking_start_date": "2026-04-20 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-04-27",
-      "start_time": "08:15",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Plain Jane Skin Bar",
-      "booking_start_date": "2026-04-20 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-04-27",
-      "start_time": "09:15",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer Ass + Abs x Plain Jane Skin Bar",
-      "booking_start_date": "2026-04-20 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-04-27",
-      "start_time": "10:15",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Plain Jane Skin Bar",
-      "booking_start_date": "2026-04-20 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-04-27",
-      "start_time": "11:15",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree West",
       "name": "Happy Hour Megaformer x Birthday Playlist",
       "booking_start_date": "2026-04-22 00:00",
       "location": "Main St",
@@ -180,7 +130,7 @@
       "location": "Main St",
       "start_date": "2026-04-29",
       "start_time": "16:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 14
     },
     {
@@ -410,7 +360,7 @@
       "location": "Kingsway",
       "start_date": "2026-04-30",
       "start_time": "07:30",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 45
     },
     {
@@ -450,7 +400,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-10",
       "start_time": "14:00",
-      "available_spot_count": 18,
+      "available_spot_count": 16,
       "capacity": 45
     },
     {
@@ -486,51 +436,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-20 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-27",
-      "start_time": "10:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-20 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-27",
-      "start_time": "13:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Ass & Abs Class With Headsets",
-      "booking_start_date": "2026-04-20 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-27",
-      "start_time": "14:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-20 15:30",
-      "location": "Vancouver",
-      "start_date": "2026-04-27",
-      "start_time": "15:30",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-04-21 11:00",
       "location": "Vancouver",
       "start_date": "2026-04-28",
       "start_time": "11:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -540,7 +450,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-28",
       "start_time": "12:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -570,6 +480,26 @@
       "location": "Vancouver",
       "start_date": "2026-04-28",
       "start_time": "15:30",
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-04-22 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-29",
+      "start_time": "09:00",
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-04-22 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-04-29",
+      "start_time": "14:00",
       "available_spot_count": 9,
       "capacity": 12
     },
@@ -629,6 +559,16 @@
       "booking_start_date": "2026-05-28 09:00",
       "location": "Vancouver",
       "start_date": "2026-06-04",
+      "start_time": "09:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-06-04 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-11",
       "start_time": "09:00",
       "available_spot_count": 12,
       "capacity": 12
@@ -700,7 +640,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-30",
       "start_time": "12:00",
-      "available_spot_count": 38,
+      "available_spot_count": 40,
       "capacity": 40
     },
     {
@@ -712,6 +652,16 @@
       "start_time": "12:30",
       "available_spot_count": 8,
       "capacity": 8
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL x In Her Circle: Movement + Sound Bath",
+      "booking_start_date": "2026-04-22 18:45",
+      "location": "Railway",
+      "start_date": "2026-05-06",
+      "start_time": "18:45",
+      "available_spot_count": 18,
+      "capacity": 18
     },
     {
       "studio": "All Method Studio",
@@ -814,14 +764,14 @@
       "capacity": 8
     },
     {
-      "studio": "Turf",
-      "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
-      "booking_start_date": "2026-04-20 16:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-04-27",
-      "start_time": "16:00",
-      "available_spot_count": 0,
-      "capacity": 0
+      "studio": "All Method Studio",
+      "name": "ALL Lift at The Set - Private Booking",
+      "booking_start_date": "2026-05-28 12:30",
+      "location": "Railway",
+      "start_date": "2026-06-11",
+      "start_time": "12:30",
+      "available_spot_count": 8,
+      "capacity": 8
     },
     {
       "studio": "Turf",
@@ -840,7 +790,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-30",
       "start_time": "16:00",
-      "available_spot_count": 18,
+      "available_spot_count": 16,
       "capacity": 32
     },
     {
@@ -850,7 +800,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-03",
       "start_time": "11:00",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 34
     },
     {
@@ -984,14 +934,14 @@
       "capacity": 32
     },
     {
-      "studio": "Spin Society",
-      "name": "THEME: DEEP HOUSE X HIP HOP",
-      "booking_start_date": "2026-04-19 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-04-27",
-      "start_time": "09:45",
-      "available_spot_count": 0,
-      "capacity": 0
+      "studio": "Turf",
+      "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
+      "booking_start_date": "2026-06-04 16:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-06-11",
+      "start_time": "16:00",
+      "available_spot_count": 32,
+      "capacity": 32
     },
     {
       "studio": "Spin Society",
@@ -1000,7 +950,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-04-28",
       "start_time": "07:15",
-      "available_spot_count": 24,
+      "available_spot_count": 25,
       "capacity": 48
     },
     {
@@ -1040,7 +990,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-04",
       "start_time": "09:45",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
@@ -1050,7 +1000,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-05",
       "start_time": "12:30",
-      "available_spot_count": 50,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
