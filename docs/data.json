@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T16:54:47.738103-07:00",
+  "last_updated": "2026-04-29T19:32:57.928299-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -10,16 +10,6 @@
       "start_time": "17:45",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "Turf",
-      "name": "COMMUNITY: Mat Werk",
-      "booking_start_date": "2026-04-22 16:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-04-29",
-      "start_time": "16:00",
-      "available_spot_count": 0,
-      "capacity": 0
     },
     {
       "studio": "Turf",
@@ -55,52 +45,12 @@
   "sponsored": [
     {
       "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Birthday Playlist",
-      "booking_start_date": "2026-04-22 00:00",
-      "location": "Main St",
-      "start_date": "2026-04-29",
-      "start_time": "15:15",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Birthday Playlist",
-      "booking_start_date": "2026-04-22 00:00",
-      "location": "Main St",
-      "start_date": "2026-04-29",
-      "start_time": "16:15",
-      "available_spot_count": 4,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer Ass + Abs x Birthday Playlist",
-      "booking_start_date": "2026-04-22 00:00",
-      "location": "Main St",
-      "start_date": "2026-04-29",
-      "start_time": "17:15",
-      "available_spot_count": 0,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Birthday Playlist",
-      "booking_start_date": "2026-04-22 00:00",
-      "location": "Main St",
-      "start_date": "2026-04-29",
-      "start_time": "18:15",
-      "available_spot_count": 1,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
       "name": "Mid-Day Mega Cardio Xpress- Arms/Abs x Plain Jane",
       "booking_start_date": "2026-04-23 00:00",
       "location": "Kitsilano",
       "start_date": "2026-04-30",
       "start_time": "08:15",
-      "available_spot_count": 16,
+      "available_spot_count": 17,
       "capacity": 26
     },
     {
@@ -400,7 +350,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-30",
       "start_time": "07:15",
-      "available_spot_count": 6,
+      "available_spot_count": 10,
       "capacity": 36
     },
     {
@@ -420,7 +370,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-30",
       "start_time": "18:40",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 36
     },
     {
@@ -430,7 +380,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-04",
       "start_time": "06:10",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 45
     },
     {
@@ -486,46 +436,6 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-22 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-29",
-      "start_time": "08:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-22 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-29",
-      "start_time": "09:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-22 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-29",
-      "start_time": "12:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-22 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-04-29",
-      "start_time": "14:00",
-      "available_spot_count": 0,
-      "capacity": 0
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-04-23 11:00",
       "location": "Vancouver",
       "start_date": "2026-04-30",
@@ -540,7 +450,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-30",
       "start_time": "14:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -550,7 +460,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-01",
       "start_time": "10:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -870,7 +780,7 @@
       "location": "Railway",
       "start_date": "2026-05-06",
       "start_time": "16:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 9
     },
     {
@@ -890,7 +800,7 @@
       "location": "Railway",
       "start_date": "2026-05-06",
       "start_time": "18:45",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 18
     },
     {
@@ -910,7 +820,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-30",
       "start_time": "16:00",
-      "available_spot_count": 16,
+      "available_spot_count": 17,
       "capacity": 32
     },
     {
@@ -1065,16 +975,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: GAGA x DOECHII",
-      "booking_start_date": "2026-04-21 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-04-29",
-      "start_time": "19:50",
-      "available_spot_count": 29,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: BRITNEY SPEARS x FRED AGAIN...",
       "booking_start_date": "2026-04-23 12:00",
       "location": "MOUNT PLEASANT",
@@ -1110,7 +1010,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-05",
       "start_time": "12:30",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 48
     },
     {
@@ -1130,7 +1030,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-06",
       "start_time": "16:20",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 48
     },
     {
