@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T09:19:01.758462-07:00",
+  "last_updated": "2026-04-30T10:50:06.126945-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -38,7 +38,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-07",
       "start_time": "08:15",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 32
     }
   ],
@@ -61,7 +61,7 @@
       "start_date": "2026-04-30",
       "start_time": "09:15",
       "available_spot_count": 0,
-      "capacity": 16
+      "capacity": 0
     },
     {
       "studio": "Lagree West",
@@ -120,7 +120,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-07",
       "start_time": "05:15",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 20
     },
     {
@@ -150,7 +150,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-08",
       "start_time": "11:15",
-      "available_spot_count": 16,
+      "available_spot_count": 14,
       "capacity": 20
     },
     {
@@ -370,7 +370,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-30",
       "start_time": "18:40",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 36
     },
     {
@@ -450,7 +450,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-30",
       "start_time": "11:00",
-      "available_spot_count": 6,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -550,7 +550,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-01",
       "start_time": "18:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
@@ -630,7 +630,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-12",
       "start_time": "18:25",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 40
     },
     {
@@ -820,7 +820,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-30",
       "start_time": "16:00",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 32
     },
     {
@@ -860,7 +860,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-07",
       "start_time": "08:15",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 32
     },
     {
@@ -870,7 +870,17 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-07",
       "start_time": "16:00",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "meta + Weights",
+      "booking_start_date": "2026-05-04 07:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-05-11",
+      "start_time": "07:00",
+      "available_spot_count": 32,
       "capacity": 32
     },
     {
@@ -890,6 +900,16 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-14",
       "start_time": "16:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "meta + Weights",
+      "booking_start_date": "2026-05-11 07:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-05-18",
+      "start_time": "07:00",
       "available_spot_count": 32,
       "capacity": 32
     },
@@ -915,6 +935,16 @@
     },
     {
       "studio": "Turf",
+      "name": "meta + Weights",
+      "booking_start_date": "2026-05-18 07:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-05-25",
+      "start_time": "07:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
       "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-05-18 16:00",
       "location": "KITS - Vancouver",
@@ -935,6 +965,16 @@
     },
     {
       "studio": "Turf",
+      "name": "meta + Weights",
+      "booking_start_date": "2026-05-25 07:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-06-01",
+      "start_time": "07:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
       "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-05-25 16:00",
       "location": "KITS - Vancouver",
@@ -950,6 +990,16 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-04",
       "start_time": "16:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "meta + Weights",
+      "booking_start_date": "2026-06-01 07:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-06-08",
+      "start_time": "07:00",
       "available_spot_count": 32,
       "capacity": 32
     },
@@ -980,7 +1030,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-01",
       "start_time": "12:30",
-      "available_spot_count": 17,
+      "available_spot_count": 18,
       "capacity": 48
     },
     {
@@ -1040,7 +1090,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-07",
       "start_time": "11:00",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 48
     },
     {
