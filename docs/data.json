@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T12:22:01.643930-07:00",
+  "last_updated": "2026-04-30T13:38:25.387107-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -38,7 +38,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-07",
       "start_time": "08:15",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 32
     }
   ],
@@ -100,7 +100,7 @@
       "location": "Main St",
       "start_date": "2026-05-04",
       "start_time": "13:15",
-      "available_spot_count": 4,
+      "available_spot_count": 1,
       "capacity": 14
     },
     {
@@ -120,7 +120,7 @@
       "location": "Main St",
       "start_date": "2026-05-06",
       "start_time": "13:15",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 14
     },
     {
@@ -140,7 +140,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-07",
       "start_time": "11:15",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 16
     },
     {
@@ -380,7 +380,7 @@
       "location": "Yaletown",
       "start_date": "2026-04-30",
       "start_time": "18:40",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 36
     },
     {
@@ -390,7 +390,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-04",
       "start_time": "06:10",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 45
     },
     {
@@ -410,7 +410,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-10",
       "start_time": "14:00",
-      "available_spot_count": 8,
+      "available_spot_count": 3,
       "capacity": 45
     },
     {
@@ -470,7 +470,7 @@
       "location": "Vancouver",
       "start_date": "2026-04-30",
       "start_time": "14:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -480,7 +480,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-01",
       "start_time": "14:00",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -500,7 +500,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-07",
       "start_time": "09:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -830,7 +830,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-04-30",
       "start_time": "16:00",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 32
     },
     {
@@ -870,7 +870,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-07",
       "start_time": "08:15",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 32
     },
     {
@@ -890,6 +890,16 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-11",
       "start_time": "07:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "meta + Weights",
+      "booking_start_date": "2026-05-04 09:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-05-11",
+      "start_time": "09:30",
       "available_spot_count": 32,
       "capacity": 32
     },
@@ -955,6 +965,16 @@
     },
     {
       "studio": "Turf",
+      "name": "meta + Weights",
+      "booking_start_date": "2026-05-18 09:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-05-25",
+      "start_time": "09:30",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
       "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-05-18 16:00",
       "location": "KITS - Vancouver",
@@ -985,6 +1005,16 @@
     },
     {
       "studio": "Turf",
+      "name": "meta + Weights",
+      "booking_start_date": "2026-05-25 09:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-06-01",
+      "start_time": "09:30",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
       "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-05-25 16:00",
       "location": "KITS - Vancouver",
@@ -1010,6 +1040,16 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-08",
       "start_time": "07:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "meta + Weights",
+      "booking_start_date": "2026-06-01 09:30",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-06-08",
+      "start_time": "09:30",
       "available_spot_count": 32,
       "capacity": 32
     },
@@ -1120,8 +1160,18 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-08",
       "start_time": "17:30",
-      "available_spot_count": 41,
+      "available_spot_count": 38,
       "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: JUSTIN BIEBER x SABRINA CARPENTER x T SWIFT",
+      "booking_start_date": "2026-04-30 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-05-08",
+      "start_time": "18:40",
+      "available_spot_count": 43,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -1155,11 +1205,31 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: MID-WEEK MOOD BOOST",
+      "booking_start_date": "2026-05-05 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-05-13",
+      "start_time": "07:15",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: JUSTIN BIEBER x JUSTIN TIMBERLAKE",
       "booking_start_date": "2026-05-06 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-14",
       "start_time": "09:45",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: REMIXES: BEYONC\u00c9 x RIHANNA - VOL 2",
+      "booking_start_date": "2026-05-07 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-05-15",
+      "start_time": "18:40",
       "available_spot_count": 48,
       "capacity": 48
     },
