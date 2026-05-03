@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T16:42:59.089388-07:00",
+  "last_updated": "2026-05-02T19:56:16.183108-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -100,7 +100,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-07",
       "start_time": "15:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 20
     },
     {
@@ -240,7 +240,7 @@
       "location": "Main St",
       "start_date": "2026-05-21",
       "start_time": "15:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 14
     },
     {
@@ -394,14 +394,14 @@
       "capacity": 36
     },
     {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-04-25 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-02",
-      "start_time": "14:00",
-      "available_spot_count": 0,
-      "capacity": 0
+      "studio": "Jaybird",
+      "name": "Sweat For A Cause | The Burn",
+      "booking_start_date": "2026-06-09 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-06-16",
+      "start_time": "12:05",
+      "available_spot_count": 36,
+      "capacity": 36
     },
     {
       "studio": "Lagree Studio",
@@ -540,7 +540,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-03",
       "start_time": "11:00",
-      "available_spot_count": 6,
+      "available_spot_count": 10,
       "capacity": 34
     },
     {
@@ -560,7 +560,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-06",
       "start_time": "18:30",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 30
     },
     {
@@ -730,7 +730,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-06",
       "start_time": "09:45",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
@@ -770,7 +770,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-08",
       "start_time": "17:30",
-      "available_spot_count": 22,
+      "available_spot_count": 20,
       "capacity": 49
     },
     {
@@ -790,7 +790,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-10",
       "start_time": "11:50",
-      "available_spot_count": 35,
+      "available_spot_count": 30,
       "capacity": 49
     },
     {
@@ -800,7 +800,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-10",
       "start_time": "13:00",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 49
     },
     {
