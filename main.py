@@ -102,21 +102,22 @@ async def fetch_studio_data(studios: dict, days=45):
 
         # Assuming the API returns {"classes": [...]}
         for cls in data.get("results", []):
-            record = {
-                "studio": studio_name,
-                "name": cls.get("name"),
-                "booking_start_date": format_date(cls.get("booking_start_datetime")),
-                "location": cls.get("location", {}).get("name"),
-                "start_date": cls.get("start_date"),
-                "start_time": format_time(cls.get("start_time")),
-                "available_spot_count": cls.get("available_spot_count"),
-                "capacity": cls.get("capacity"),
-            }
+            if cls.get("capacity"):
+                record = {
+                    "studio": studio_name,
+                    "name": cls.get("name"),
+                    "booking_start_date": format_date(cls.get("booking_start_datetime")),
+                    "location": cls.get("location", {}).get("name"),
+                    "start_date": cls.get("start_date"),
+                    "start_time": format_time(cls.get("start_time")),
+                    "available_spot_count": cls.get("available_spot_count"),
+                    "capacity": cls.get("capacity"),
+                }
 
-            if is_free_class(cls):
-                SPECIAL_CLASSES.append(record)
-            if is_sponsored_class(cls, studio_name):
-                SPONSORED_CLASSES.append(record)
+                if is_free_class(cls):
+                    SPECIAL_CLASSES.append(record)
+                if is_sponsored_class(cls, studio_name):
+                    SPONSORED_CLASSES.append(record)
 
     return SPECIAL_CLASSES, SPONSORED_CLASSES
 
