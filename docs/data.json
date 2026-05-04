@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T06:07:17.084930-07:00",
+  "last_updated": "2026-05-04T08:29:53.182697-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -130,7 +130,7 @@
       "location": "Main St",
       "start_date": "2026-05-12",
       "start_time": "15:15",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 14
     },
     {
@@ -335,26 +335,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "Sweat for a Cause | The Burn",
-      "booking_start_date": "2026-04-27 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-05-04",
-      "start_time": "06:10",
-      "available_spot_count": 27,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn + ALO",
-      "booking_start_date": "2026-04-27 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-05-04",
-      "start_time": "07:15",
-      "available_spot_count": 0,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
       "name": "In Her Circle: The Bird + Sound Bath",
       "booking_start_date": "2026-04-10 14:00",
       "location": "Kingsway",
@@ -430,7 +410,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-04",
       "start_time": "10:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -450,7 +430,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-04",
       "start_time": "15:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -595,12 +575,22 @@
     },
     {
       "studio": "Turf",
+      "name": "Mat Werk 45min *Co-teach*",
+      "booking_start_date": "2026-04-29 17:15",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-05-06",
+      "start_time": "17:15",
+      "available_spot_count": 8,
+      "capacity": 30
+    },
+    {
+      "studio": "Turf",
       "name": "Mat Werk 45 min CO TEACH",
       "booking_start_date": "2026-04-29 18:30",
       "location": "KITS - Vancouver",
       "start_date": "2026-05-06",
       "start_time": "18:30",
-      "available_spot_count": 15,
+      "available_spot_count": 16,
       "capacity": 30
     },
     {
@@ -735,22 +725,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: EDM x POP",
-      "booking_start_date": "2026-04-26 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-05-04",
-      "start_time": "07:15",
-      "available_spot_count": 35,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: POV: WE'RE POOLSIDE IN MEXICO",
       "booking_start_date": "2026-04-26 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-04",
       "start_time": "09:45",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 49
     },
     {
@@ -770,7 +750,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-06",
       "start_time": "09:45",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 49
     },
     {
@@ -780,7 +760,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-06",
       "start_time": "16:20",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
@@ -800,7 +780,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-08",
       "start_time": "16:20",
-      "available_spot_count": 37,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
@@ -840,7 +820,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-10",
       "start_time": "13:00",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 49
     },
     {
@@ -850,7 +830,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-11",
       "start_time": "19:50",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 49
     },
     {
