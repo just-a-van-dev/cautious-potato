@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T16:27:15.709213-07:00",
+  "last_updated": "2026-05-04T18:06:27.385899-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -28,7 +28,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-07",
       "start_time": "08:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 32
     }
   ],
@@ -40,7 +40,7 @@
       "location": "Gastown",
       "start_date": "2026-05-05",
       "start_time": "19:15",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 15
     },
     {
@@ -160,7 +160,7 @@
       "location": "Main St",
       "start_date": "2026-05-12",
       "start_time": "15:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 14
     },
     {
@@ -364,6 +364,16 @@
       "capacity": 16
     },
     {
+      "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
+      "booking_start_date": "2026-06-11 00:00",
+      "location": "Gastown",
+      "start_date": "2026-06-18",
+      "start_time": "11:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
       "studio": "Jaybird",
       "name": "Teacher Development | The Being $18",
       "booking_start_date": "2026-05-01 00:00",
@@ -440,7 +450,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-05",
       "start_time": "09:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -480,7 +490,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-05",
       "start_time": "15:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -510,7 +520,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-06",
       "start_time": "14:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -574,6 +584,16 @@
       "capacity": 12
     },
     {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-06-11 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-18",
+      "start_time": "09:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
       "studio": "Evolution",
       "name": "Infrared Lagree - BOILER ROOM ENERGY",
       "booking_start_date": "2026-04-24 18:30",
@@ -590,7 +610,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-15",
       "start_time": "18:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -665,16 +685,6 @@
     },
     {
       "studio": "Turf",
-      "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
-      "booking_start_date": "2026-04-27 16:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-04",
-      "start_time": "16:00",
-      "available_spot_count": 15,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "Mat Werk 45min *Co-teach*",
       "booking_start_date": "2026-04-29 17:15",
       "location": "KITS - Vancouver",
@@ -700,7 +710,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-07",
       "start_time": "08:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 32
     },
     {
@@ -720,7 +730,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-11",
       "start_time": "16:00",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 32
     },
     {
@@ -824,6 +834,16 @@
       "capacity": 32
     },
     {
+      "studio": "Turf",
+      "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
+      "booking_start_date": "2026-06-11 16:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-06-18",
+      "start_time": "16:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
       "studio": "Spin Society",
       "name": "THEME: SABRINA CARPENTER x MADONNA",
       "booking_start_date": "2026-04-27 12:00",
@@ -880,7 +900,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-08",
       "start_time": "17:30",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 49
     },
     {
