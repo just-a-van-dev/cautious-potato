@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T11:53:58.977246-07:00",
+  "last_updated": "2026-05-05T13:07:27.925128-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -215,13 +215,13 @@
     },
     {
       "studio": "Lagree West",
-      "name": "Happy Hour Megaformer Classic x Poppi",
+      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs x Poppi",
       "booking_start_date": "2026-05-12 00:00",
       "location": "Kitsilano",
       "start_date": "2026-05-19",
-      "start_time": "13:15",
-      "available_spot_count": 16,
-      "capacity": 16
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
     },
     {
       "studio": "Lagree West",
@@ -275,16 +275,6 @@
     },
     {
       "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x 1983",
-      "booking_start_date": "2026-05-14 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-05-21",
-      "start_time": "15:15",
-      "available_spot_count": 16,
-      "capacity": 16
-    },
-    {
-      "studio": "Lagree West",
       "name": "Megaformer x SmartSweets",
       "booking_start_date": "2026-05-18 00:00",
       "location": "Main St",
@@ -312,6 +302,16 @@
       "start_time": "13:15",
       "available_spot_count": 20,
       "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs x 1983",
+      "booking_start_date": "2026-05-19 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-05-26",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
     },
     {
       "studio": "Lagree West",
@@ -395,6 +395,16 @@
     },
     {
       "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer (Heated) x Lululemon Oakridge",
+      "booking_start_date": "2026-05-05 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-05-12",
+      "start_time": "06:15",
+      "available_spot_count": 10,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
       "name": "Sweat For A Cause | The Burn",
       "booking_start_date": "2026-05-07 00:00",
       "location": "Yaletown",
@@ -460,7 +470,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-05",
       "start_time": "14:00",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -950,7 +960,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-05",
       "start_time": "12:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 49
     },
     {
@@ -960,7 +970,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-06",
       "start_time": "09:45",
-      "available_spot_count": 24,
+      "available_spot_count": 22,
       "capacity": 49
     },
     {
@@ -990,7 +1000,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-08",
       "start_time": "16:20",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 49
     },
     {
@@ -1000,7 +1010,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-08",
       "start_time": "17:30",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 49
     },
     {
@@ -1030,7 +1040,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-10",
       "start_time": "13:00",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 49
     },
     {
@@ -1040,7 +1050,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-11",
       "start_time": "19:50",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 49
     },
     {
@@ -1050,7 +1060,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-13",
       "start_time": "07:15",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 49
     },
     {
@@ -1060,7 +1070,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-13",
       "start_time": "18:40",
-      "available_spot_count": 47,
+      "available_spot_count": 45,
       "capacity": 49
     },
     {
