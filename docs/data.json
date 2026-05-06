@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T14:11:12.082902-07:00",
+  "last_updated": "2026-05-06T14:41:57.500407-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -28,7 +28,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-07",
       "start_time": "08:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 32
     }
   ],
@@ -142,6 +142,26 @@
       "start_time": "05:15",
       "available_spot_count": 5,
       "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Milano Coffee",
+      "booking_start_date": "2026-05-06 00:00",
+      "location": "Gastown",
+      "start_date": "2026-05-13",
+      "start_time": "08:00",
+      "available_spot_count": 13,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x poppi",
+      "booking_start_date": "2026-05-06 00:00",
+      "location": "Gastown",
+      "start_date": "2026-05-13",
+      "start_time": "11:00",
+      "available_spot_count": 12,
+      "capacity": 15
     },
     {
       "studio": "Lagree West",
@@ -452,16 +472,6 @@
       "start_time": "12:00",
       "available_spot_count": 45,
       "capacity": 45
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-29 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-06",
-      "start_time": "14:00",
-      "available_spot_count": 3,
-      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -790,7 +800,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-06",
       "start_time": "17:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 30
     },
     {
@@ -810,7 +820,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-07",
       "start_time": "08:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 32
     },
     {
@@ -980,7 +990,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-07",
       "start_time": "11:00",
-      "available_spot_count": 39,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
@@ -990,7 +1000,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-08",
       "start_time": "16:20",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 49
     },
     {
@@ -1092,6 +1102,16 @@
       "start_time": "18:40",
       "available_spot_count": 46,
       "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: DRAKE X RIHANNA X EMINEM",
+      "booking_start_date": "2026-05-13 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-05-21",
+      "start_time": "09:45",
+      "available_spot_count": 50,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
