@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T06:12:50.303231-07:00",
+  "last_updated": "2026-05-06T08:40:25.691286-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -18,7 +18,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-06",
       "start_time": "16:00",
-      "available_spot_count": 24,
+      "available_spot_count": 22,
       "capacity": 32
     },
     {
@@ -28,7 +28,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-07",
       "start_time": "08:15",
-      "available_spot_count": 11,
+      "available_spot_count": 14,
       "capacity": 32
     }
   ],
@@ -40,7 +40,7 @@
       "location": "Main St",
       "start_date": "2026-05-06",
       "start_time": "08:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 14
     },
     {
@@ -70,7 +70,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-07",
       "start_time": "11:15",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 16
     },
     {
@@ -160,7 +160,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-13",
       "start_time": "05:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 16
     },
     {
@@ -180,7 +180,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-14",
       "start_time": "14:15",
-      "available_spot_count": 13,
+      "available_spot_count": 10,
       "capacity": 16
     },
     {
@@ -205,13 +205,13 @@
     },
     {
       "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs x Poppi",
+      "name": "Megaformer x Poppi",
       "booking_start_date": "2026-05-12 00:00",
       "location": "Kitsilano",
       "start_date": "2026-05-19",
       "start_time": "12:15",
-      "available_spot_count": 26,
-      "capacity": 26
+      "available_spot_count": 16,
+      "capacity": 16
     },
     {
       "studio": "Lagree West",
@@ -295,13 +295,13 @@
     },
     {
       "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs x 1983",
+      "name": "Megaformer x 1983",
       "booking_start_date": "2026-05-19 00:00",
       "location": "Kitsilano",
       "start_date": "2026-05-26",
       "start_time": "12:15",
-      "available_spot_count": 26,
-      "capacity": 26
+      "available_spot_count": 16,
+      "capacity": 16
     },
     {
       "studio": "Lagree West",
@@ -390,7 +390,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-12",
       "start_time": "06:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 20
     },
     {
@@ -450,7 +450,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-06",
       "start_time": "09:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -810,7 +810,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-06",
       "start_time": "17:15",
-      "available_spot_count": 14,
+      "available_spot_count": 10,
       "capacity": 30
     },
     {
@@ -830,7 +830,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-07",
       "start_time": "08:15",
-      "available_spot_count": 11,
+      "available_spot_count": 14,
       "capacity": 32
     },
     {
@@ -840,7 +840,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-07",
       "start_time": "16:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 32
     },
     {
@@ -990,7 +990,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-06",
       "start_time": "09:45",
-      "available_spot_count": 21,
+      "available_spot_count": 19,
       "capacity": 49
     },
     {
@@ -1000,7 +1000,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-06",
       "start_time": "16:20",
-      "available_spot_count": 38,
+      "available_spot_count": 39,
       "capacity": 49
     },
     {
@@ -1070,7 +1070,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-11",
       "start_time": "19:50",
-      "available_spot_count": 20,
+      "available_spot_count": 18,
       "capacity": 49
     },
     {
