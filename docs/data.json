@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T08:40:25.691286-07:00",
+  "last_updated": "2026-05-06T10:40:58.569651-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -18,7 +18,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-06",
       "start_time": "16:00",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 32
     },
     {
@@ -33,16 +33,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Milano Coffee",
-      "booking_start_date": "2026-04-29 00:00",
-      "location": "Main St",
-      "start_date": "2026-05-06",
-      "start_time": "08:15",
-      "available_spot_count": 1,
-      "capacity": 14
-    },
     {
       "studio": "Lagree West",
       "name": "Mega Mama (45min) x Lush",
@@ -70,7 +60,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-07",
       "start_time": "11:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 16
     },
     {
@@ -140,7 +130,7 @@
       "location": "Gastown",
       "start_date": "2026-05-11",
       "start_time": "08:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 15
     },
     {
@@ -190,7 +180,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-14",
       "start_time": "15:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 16
     },
     {
@@ -335,6 +325,26 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Picot Collective",
+      "booking_start_date": "2026-05-21 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-05-28",
+      "start_time": "15:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Picot Collective",
+      "booking_start_date": "2026-05-22 00:00",
+      "location": "Main St",
+      "start_date": "2026-05-29",
+      "start_time": "15:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
       "name": "Mid-Day Mega Cardio Xpress - CHEST AND BACK DAY!",
       "booking_start_date": "2026-05-22 00:00",
       "location": "Kitsilano",
@@ -370,7 +380,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-08",
       "start_time": "14:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 45
     },
     {
@@ -402,6 +412,16 @@
       "start_time": "12:05",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "Teacher Development | The Being $18",
+      "booking_start_date": "2026-05-08 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-05-15",
+      "start_time": "13:30",
+      "available_spot_count": 45,
+      "capacity": 45
     },
     {
       "studio": "Jaybird",
@@ -442,16 +462,6 @@
       "start_time": "12:00",
       "available_spot_count": 45,
       "capacity": 45
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-29 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-06",
-      "start_time": "09:00",
-      "available_spot_count": 5,
-      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -500,7 +510,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-07",
       "start_time": "10:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -810,7 +820,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-06",
       "start_time": "17:15",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 30
     },
     {
@@ -820,7 +830,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-06",
       "start_time": "18:30",
-      "available_spot_count": 10,
+      "available_spot_count": 12,
       "capacity": 30
     },
     {
@@ -985,22 +995,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: BAD BUNNY x JUSTIN BIEBER x MAJOR LAZAR",
-      "booking_start_date": "2026-04-28 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-05-06",
-      "start_time": "09:45",
-      "available_spot_count": 19,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: RIHANNA X REZZ",
       "booking_start_date": "2026-04-28 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-06",
       "start_time": "16:20",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 49
     },
     {
@@ -1050,7 +1050,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-10",
       "start_time": "11:50",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 49
     },
     {
@@ -1060,7 +1060,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-10",
       "start_time": "13:00",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 49
     },
     {
@@ -1080,7 +1080,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-13",
       "start_time": "07:15",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 49
     },
     {
@@ -1090,7 +1090,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-13",
       "start_time": "18:40",
-      "available_spot_count": 39,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
