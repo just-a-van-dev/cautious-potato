@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T07:38:50.874397-07:00",
+  "last_updated": "2026-05-07T09:50:00.769756-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -20,16 +20,6 @@
       "start_time": "17:45",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "Turf",
-      "name": "COMMUNITY: meta + mat werk",
-      "booking_start_date": "2026-04-30 08:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-07",
-      "start_time": "08:15",
-      "available_spot_count": 8,
-      "capacity": 32
     }
   ],
   "sponsored": [
@@ -140,7 +130,7 @@
       "location": "Gastown",
       "start_date": "2026-05-13",
       "start_time": "08:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -170,7 +160,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-14",
       "start_time": "14:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 16
     },
     {
@@ -190,7 +180,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-15",
       "start_time": "19:15",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 20
     },
     {
@@ -410,7 +400,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-14",
       "start_time": "12:05",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 36
     },
     {
@@ -476,11 +466,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-30 09:00",
+      "booking_start_date": "2026-04-30 11:00",
       "location": "Vancouver",
       "start_date": "2026-05-07",
-      "start_time": "09:00",
-      "available_spot_count": 4,
+      "start_time": "11:00",
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -620,7 +610,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-14",
       "start_time": "17:25",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 26
     },
     {
@@ -775,22 +765,12 @@
     },
     {
       "studio": "Turf",
-      "name": "COMMUNITY: meta + mat werk",
-      "booking_start_date": "2026-04-30 08:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-07",
-      "start_time": "08:15",
-      "available_spot_count": 8,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-04-30 16:00",
       "location": "KITS - Vancouver",
       "start_date": "2026-05-07",
       "start_time": "16:00",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 32
     },
     {
@@ -940,7 +920,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-07",
       "start_time": "11:00",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
@@ -1000,7 +980,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-11",
       "start_time": "19:50",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -1030,7 +1010,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-14",
       "start_time": "09:45",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 49
     },
     {
