@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T11:24:37.885559-07:00",
+  "last_updated": "2026-05-07T12:59:16.232829-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -25,16 +25,6 @@
   "sponsored": [
     {
       "studio": "Lagree West",
-      "name": "Mega Mama (45 Min) x Lush",
-      "booking_start_date": "2026-04-30 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-05-07",
-      "start_time": "11:15",
-      "available_spot_count": 0,
-      "capacity": 16
-    },
-    {
-      "studio": "Lagree West",
       "name": "Trainer Development",
       "booking_start_date": "2026-04-30 00:00",
       "location": "Yaletown",
@@ -50,7 +40,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-07",
       "start_time": "15:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 20
     },
     {
@@ -120,7 +110,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-13",
       "start_time": "05:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 16
     },
     {
@@ -130,7 +120,7 @@
       "location": "Gastown",
       "start_date": "2026-05-13",
       "start_time": "08:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 15
     },
     {
@@ -245,6 +235,36 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x 1983",
+      "booking_start_date": "2026-05-15 00:00",
+      "location": "Gastown",
+      "start_date": "2026-05-22",
+      "start_time": "16:15",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Smart Sweets",
+      "booking_start_date": "2026-05-17 00:00",
+      "location": "Gastown",
+      "start_date": "2026-05-24",
+      "start_time": "11:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Picot Collective",
+      "booking_start_date": "2026-05-17 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-05-24",
+      "start_time": "14:30",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
       "name": "Megaformer x SmartSweets",
       "booking_start_date": "2026-05-18 00:00",
       "location": "Main St",
@@ -260,7 +280,7 @@
       "location": "Gastown",
       "start_date": "2026-05-25",
       "start_time": "08:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 15
     },
     {
@@ -275,6 +295,16 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Ojaie",
+      "booking_start_date": "2026-05-19 00:00",
+      "location": "Gastown",
+      "start_date": "2026-05-26",
+      "start_time": "09:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
       "name": "Megaformer x 1983",
       "booking_start_date": "2026-05-19 00:00",
       "location": "Kitsilano",
@@ -282,6 +312,16 @@
       "start_time": "12:15",
       "available_spot_count": 16,
       "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megafomer x Ojaie",
+      "booking_start_date": "2026-05-19 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-05-26",
+      "start_time": "12:15",
+      "available_spot_count": 20,
+      "capacity": 20
     },
     {
       "studio": "Lagree West",
@@ -352,6 +392,16 @@
       "start_time": "15:30",
       "available_spot_count": 16,
       "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Picot Collective",
+      "booking_start_date": "2026-05-24 00:00",
+      "location": "Gastown",
+      "start_date": "2026-05-31",
+      "start_time": "09:00",
+      "available_spot_count": 15,
+      "capacity": 15
     },
     {
       "studio": "Lagree West",
@@ -466,16 +516,6 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-30 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-07",
-      "start_time": "11:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-05-01 09:00",
       "location": "Vancouver",
       "start_date": "2026-05-08",
@@ -490,7 +530,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-08",
       "start_time": "13:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -500,7 +540,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-08",
       "start_time": "14:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -770,7 +810,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-07",
       "start_time": "16:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 32
     },
     {
@@ -915,22 +955,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: EMINEM x TIESTO",
-      "booking_start_date": "2026-04-29 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-05-07",
-      "start_time": "11:00",
-      "available_spot_count": 29,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: JONAS BROTHERS x DEMI LOVATO",
       "booking_start_date": "2026-04-30 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-08",
       "start_time": "16:20",
-      "available_spot_count": 22,
+      "available_spot_count": 20,
       "capacity": 49
     },
     {
@@ -940,7 +970,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-08",
       "start_time": "17:30",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -990,7 +1020,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-13",
       "start_time": "07:15",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 49
     },
     {
@@ -1000,7 +1030,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-13",
       "start_time": "18:40",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 49
     },
     {
@@ -1030,7 +1060,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-15",
       "start_time": "18:40",
-      "available_spot_count": 46,
+      "available_spot_count": 32,
       "capacity": 49
     },
     {
