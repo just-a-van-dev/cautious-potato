@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T04:58:19.657586-07:00",
+  "last_updated": "2026-05-07T07:38:50.874397-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -28,21 +28,11 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-07",
       "start_time": "08:15",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 32
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2026-04-07 05:15",
-      "location": "Yaletown",
-      "start_date": "2026-05-07",
-      "start_time": "05:15",
-      "available_spot_count": 13,
-      "capacity": 20
-    },
     {
       "studio": "Lagree West",
       "name": "Mega Mama (45 Min) x Lush",
@@ -140,7 +130,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-13",
       "start_time": "05:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 16
     },
     {
@@ -150,7 +140,7 @@
       "location": "Gastown",
       "start_date": "2026-05-13",
       "start_time": "08:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 15
     },
     {
@@ -420,7 +410,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-14",
       "start_time": "12:05",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 36
     },
     {
@@ -496,21 +486,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-04-30 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-07",
-      "start_time": "12:00",
-      "available_spot_count": 3,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-05-01 09:00",
       "location": "Vancouver",
       "start_date": "2026-05-08",
       "start_time": "09:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -800,7 +780,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-07",
       "start_time": "08:15",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 32
     },
     {
