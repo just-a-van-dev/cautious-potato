@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T15:35:15.370683-07:00",
+  "last_updated": "2026-05-07T16:53:23.907356-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -23,16 +23,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x OHME!",
-      "booking_start_date": "2026-04-30 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-05-07",
-      "start_time": "15:15",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
     {
       "studio": "Lagree West",
       "name": "Trainer Development",
@@ -140,7 +130,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-14",
       "start_time": "14:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 16
     },
     {
@@ -520,7 +510,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-08",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -530,7 +520,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-08",
       "start_time": "14:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -780,7 +770,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-05-09",
       "start_time": "13:00",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 20
     },
     {
@@ -792,16 +782,6 @@
       "start_time": "18:50",
       "available_spot_count": 0,
       "capacity": 18
-    },
-    {
-      "studio": "Turf",
-      "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
-      "booking_start_date": "2026-04-30 16:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-07",
-      "start_time": "16:00",
-      "available_spot_count": 7,
-      "capacity": 32
     },
     {
       "studio": "Turf",
@@ -1030,7 +1010,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-14",
       "start_time": "09:45",
-      "available_spot_count": 42,
+      "available_spot_count": 40,
       "capacity": 49
     },
     {
@@ -1040,7 +1020,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-14",
       "start_time": "12:30",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 49
     },
     {
@@ -1050,7 +1030,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-15",
       "start_time": "18:40",
-      "available_spot_count": 30,
+      "available_spot_count": 26,
       "capacity": 49
     },
     {
