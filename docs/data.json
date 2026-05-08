@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T11:52:24.551985-07:00",
+  "last_updated": "2026-05-08T13:06:34.649998-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -25,22 +25,12 @@
   "sponsored": [
     {
       "studio": "Lagree West",
-      "name": "Mega Mama x Lush (45min)",
-      "booking_start_date": "2026-05-01 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-05-08",
-      "start_time": "11:15",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
       "name": "Trainer Development",
       "booking_start_date": "2026-05-01 00:00",
       "location": "Gastown",
       "start_date": "2026-05-08",
       "start_time": "13:00",
-      "available_spot_count": 6,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -165,11 +155,11 @@
     },
     {
       "studio": "Lagree West",
-      "name": "Megaformer x Poppi",
+      "name": "Happy Hour Megaformer x Poppi",
       "booking_start_date": "2026-05-12 00:00",
       "location": "Kitsilano",
       "start_date": "2026-05-19",
-      "start_time": "12:15",
+      "start_time": "14:15",
       "available_spot_count": 16,
       "capacity": 16
     },
@@ -182,6 +172,16 @@
       "start_time": "14:15",
       "available_spot_count": 14,
       "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Poppi",
+      "booking_start_date": "2026-05-12 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-05-19",
+      "start_time": "15:15",
+      "available_spot_count": 16,
+      "capacity": 16
     },
     {
       "studio": "Lagree West",
@@ -295,16 +295,6 @@
     },
     {
       "studio": "Lagree West",
-      "name": "Megaformer x 1983",
-      "booking_start_date": "2026-05-19 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-05-26",
-      "start_time": "12:15",
-      "available_spot_count": 16,
-      "capacity": 16
-    },
-    {
-      "studio": "Lagree West",
       "name": "Megafomer x Ojaie",
       "booking_start_date": "2026-05-19 00:00",
       "location": "Yaletown",
@@ -365,7 +355,7 @@
     },
     {
       "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress - CHEST AND BACK DAY!",
+      "name": "Mid-Day Mega Cardio Xpress - CHEST AND BACK x 1983",
       "booking_start_date": "2026-05-22 00:00",
       "location": "Kitsilano",
       "start_date": "2026-05-29",
@@ -410,7 +400,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-08",
       "start_time": "14:30",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 45
     },
     {
@@ -790,7 +780,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-11",
       "start_time": "16:00",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 32
     },
     {
@@ -940,7 +930,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-08",
       "start_time": "18:40",
-      "available_spot_count": 4,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -1000,7 +990,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-14",
       "start_time": "09:45",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
