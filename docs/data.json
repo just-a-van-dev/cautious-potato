@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T14:33:46.605505-07:00",
+  "last_updated": "2026-05-08T15:55:07.970234-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -100,7 +100,7 @@
       "location": "Gastown",
       "start_date": "2026-05-13",
       "start_time": "11:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -140,7 +140,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-15",
       "start_time": "19:15",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -385,16 +385,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "Teacher Development | The Being $18",
-      "booking_start_date": "2026-05-01 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-05-08",
-      "start_time": "14:30",
-      "available_spot_count": 39,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
       "name": "In Her Circle: The Bird + Sound Bath",
       "booking_start_date": "2026-04-10 14:00",
       "location": "Kingsway",
@@ -482,16 +472,6 @@
       "start_time": "17:45",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-01 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-08",
-      "start_time": "14:00",
-      "available_spot_count": 9,
-      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -760,7 +740,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-11",
       "start_time": "16:00",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 32
     },
     {
@@ -890,7 +870,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-08",
       "start_time": "16:20",
-      "available_spot_count": 19,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -900,7 +880,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-08",
       "start_time": "17:30",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 49
     },
     {
@@ -911,7 +891,7 @@
       "start_date": "2026-05-08",
       "start_time": "18:40",
       "available_spot_count": 0,
-      "capacity": 50
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
