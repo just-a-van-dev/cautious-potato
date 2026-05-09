@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T16:56:19.818276-07:00",
+  "last_updated": "2026-05-08T20:22:41.617362-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -100,7 +100,7 @@
       "location": "Gastown",
       "start_date": "2026-05-13",
       "start_time": "11:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -130,7 +130,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-14",
       "start_time": "15:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 16
     },
     {
@@ -475,6 +475,16 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-05-02 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-09",
+      "start_time": "14:00",
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-05-07 09:00",
       "location": "Vancouver",
@@ -535,16 +545,6 @@
     },
     {
       "studio": "Evolution",
-      "name": "Infrared Lagree - BOILER ROOM ENERGY",
-      "booking_start_date": "2026-04-24 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-05-08",
-      "start_time": "18:30",
-      "available_spot_count": 8,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
       "name": "Infrared Lagree - Themed",
       "booking_start_date": "2026-05-01 18:30",
       "location": "Vancouver",
@@ -580,7 +580,27 @@
       "location": "Vancouver",
       "start_date": "2026-05-14",
       "start_time": "17:25",
-      "available_spot_count": 16,
+      "available_spot_count": 14,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Future Self Sound Bath - 40 min",
+      "booking_start_date": "2026-05-01 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-15",
+      "start_time": "12:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Inner Child Sound Bath - 40 min",
+      "booking_start_date": "2026-05-05 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-19",
+      "start_time": "12:00",
+      "available_spot_count": 26,
       "capacity": 26
     },
     {
@@ -740,7 +760,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-11",
       "start_time": "16:00",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 32
     },
     {
@@ -760,7 +780,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-14",
       "start_time": "17:15",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 32
     },
     {
@@ -865,42 +885,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: JONAS BROTHERS x DEMI LOVATO",
-      "booking_start_date": "2026-04-30 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-05-08",
-      "start_time": "16:20",
-      "available_spot_count": 12,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: FLORENCE + THE MACHINE x TAYLOR SWIFT",
-      "booking_start_date": "2026-04-30 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-05-08",
-      "start_time": "17:30",
-      "available_spot_count": 14,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: JUSTIN BIEBER x SABRINA CARPENTER x T SWIFT",
-      "booking_start_date": "2026-04-30 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-05-08",
-      "start_time": "18:40",
-      "available_spot_count": 0,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: K-POP SUNDAY",
       "booking_start_date": "2026-05-02 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-10",
       "start_time": "11:50",
-      "available_spot_count": 7,
+      "available_spot_count": 1,
       "capacity": 49
     },
     {
@@ -920,7 +910,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-11",
       "start_time": "19:50",
-      "available_spot_count": 5,
+      "available_spot_count": 1,
       "capacity": 49
     },
     {
@@ -970,7 +960,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-15",
       "start_time": "18:40",
-      "available_spot_count": 17,
+      "available_spot_count": 15,
       "capacity": 49
     },
     {
