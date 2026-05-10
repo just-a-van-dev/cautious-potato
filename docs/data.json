@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T13:09:28.708668-07:00",
+  "last_updated": "2026-05-10T14:12:24.204221-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -486,6 +486,36 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-05-04 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-11",
+      "start_time": "09:00",
+      "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Ass & Abs Class With Headsets",
+      "booking_start_date": "2026-05-04 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-11",
+      "start_time": "14:00",
+      "available_spot_count": 5,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-05-04 15:30",
+      "location": "Vancouver",
+      "start_date": "2026-05-11",
+      "start_time": "15:30",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-05-07 09:00",
       "location": "Vancouver",
       "start_date": "2026-05-14",
@@ -782,16 +812,6 @@
       "start_time": "09:30",
       "available_spot_count": 27,
       "capacity": 36
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: SEVEN MINUTES IN HEAVEN | 7X7 Minute Songs",
-      "booking_start_date": "2026-05-02 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-05-10",
-      "start_time": "13:00",
-      "available_spot_count": 28,
-      "capacity": 49
     },
     {
       "studio": "Spin Society",
