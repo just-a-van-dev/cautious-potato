@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T10:53:52.999692-07:00",
+  "last_updated": "2026-05-10T12:04:47.500771-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -130,7 +130,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-14",
       "start_time": "15:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 16
     },
     {
@@ -410,7 +410,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-14",
       "start_time": "12:05",
-      "available_spot_count": 24,
+      "available_spot_count": 21,
       "capacity": 36
     },
     {
@@ -800,7 +800,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-10",
       "start_time": "13:00",
-      "available_spot_count": 31,
+      "available_spot_count": 29,
       "capacity": 49
     },
     {
