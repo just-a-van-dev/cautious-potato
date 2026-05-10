@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T15:09:41.645321-07:00",
+  "last_updated": "2026-05-10T16:25:54.833511-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -385,16 +385,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "In Her Circle: The Bird + Sound Bath",
-      "booking_start_date": "2026-04-10 14:00",
-      "location": "Kingsway",
-      "start_date": "2026-05-10",
-      "start_time": "14:00",
-      "available_spot_count": 1,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn \u2014 Reformer (Heated) x Lululemon Oakridge",
       "booking_start_date": "2026-05-05 00:00",
       "location": "Kingsway",
@@ -475,22 +465,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-05-03 15:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-10",
-      "start_time": "15:00",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-05-04 09:00",
       "location": "Vancouver",
       "start_date": "2026-05-11",
       "start_time": "09:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -790,7 +770,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-14",
       "start_time": "17:15",
-      "available_spot_count": 17,
+      "available_spot_count": 18,
       "capacity": 32
     },
     {
