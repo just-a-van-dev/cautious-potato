@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T12:04:47.500771-07:00",
+  "last_updated": "2026-05-10T13:09:28.708668-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -580,7 +580,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-14",
       "start_time": "17:25",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 26
     },
     {
@@ -760,7 +760,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-14",
       "start_time": "17:15",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 32
     },
     {
@@ -785,22 +785,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: K-POP SUNDAY",
-      "booking_start_date": "2026-05-02 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-05-10",
-      "start_time": "11:50",
-      "available_spot_count": 10,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: SEVEN MINUTES IN HEAVEN | 7X7 Minute Songs",
       "booking_start_date": "2026-05-02 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-10",
       "start_time": "13:00",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 49
     },
     {
