@@ -39,7 +39,7 @@ def is_sponsored_class(class_data, studio_name) -> bool:
     if studio_name.lower() == TUNNEL:
         return name not in TUNNEL_CLASSES
 
-    if "happy hour" in name:
+    if name.startswith("happy hour") or name.endswith("happy hour"):
         name = name.replace("happy hour", "").strip()
         name = name.strip("-").strip()
 
