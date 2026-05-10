@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T00:13:48.722433-07:00",
+  "last_updated": "2026-05-10T02:11:59.135177-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -100,7 +100,7 @@
       "location": "Gastown",
       "start_date": "2026-05-13",
       "start_time": "11:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 15
     },
     {
@@ -580,7 +580,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-14",
       "start_time": "17:25",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 26
     },
     {
@@ -755,42 +755,12 @@
     },
     {
       "studio": "Turf",
-      "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
-      "booking_start_date": "2026-05-04 16:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-11",
-      "start_time": "16:00",
-      "available_spot_count": 16,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
-      "booking_start_date": "2026-05-07 16:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-14",
-      "start_time": "16:00",
-      "available_spot_count": 29,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "meta+ weights",
       "booking_start_date": "2026-05-07 17:15",
       "location": "KITS - Vancouver",
       "start_date": "2026-05-14",
       "start_time": "17:15",
       "available_spot_count": 19,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
-      "booking_start_date": "2026-05-11 16:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-18",
-      "start_time": "16:00",
-      "available_spot_count": 32,
       "capacity": 32
     },
     {
@@ -814,83 +784,13 @@
       "capacity": 36
     },
     {
-      "studio": "Turf",
-      "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
-      "booking_start_date": "2026-05-18 16:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-25",
-      "start_time": "16:00",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
-      "booking_start_date": "2026-05-21 16:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-28",
-      "start_time": "16:00",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
-      "booking_start_date": "2026-05-25 16:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-06-01",
-      "start_time": "16:00",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
-      "booking_start_date": "2026-05-28 16:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-06-04",
-      "start_time": "16:00",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
-      "booking_start_date": "2026-06-04 16:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-06-11",
-      "start_time": "16:00",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
-      "booking_start_date": "2026-06-08 16:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-06-15",
-      "start_time": "16:00",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "On the Mat with Nat *Happy Hour \ud83d\udc1c*",
-      "booking_start_date": "2026-06-11 16:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-06-18",
-      "start_time": "16:00",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
       "studio": "Spin Society",
       "name": "THEME: K-POP SUNDAY",
       "booking_start_date": "2026-05-02 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-10",
       "start_time": "11:50",
-      "available_spot_count": 15,
+      "available_spot_count": 16,
       "capacity": 49
     },
     {
