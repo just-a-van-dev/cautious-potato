@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T16:42:00.131464-07:00",
+  "last_updated": "2026-05-11T16:58:34.246294-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -112,6 +112,36 @@
       "start_time": "19:15",
       "available_spot_count": 9,
       "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Organika",
+      "booking_start_date": "2026-05-09 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-05-16",
+      "start_time": "07:00",
+      "available_spot_count": 0,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Organika",
+      "booking_start_date": "2026-05-09 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-05-16",
+      "start_time": "08:00",
+      "available_spot_count": 0,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mega Cardio- Arms/Abs + Tread x Organika",
+      "booking_start_date": "2026-05-09 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-05-16",
+      "start_time": "09:00",
+      "available_spot_count": 0,
+      "capacity": 26
     },
     {
       "studio": "Lagree West",
@@ -800,7 +830,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-11",
       "start_time": "19:50",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 49
     },
     {
