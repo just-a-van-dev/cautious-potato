@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T15:32:52.885346-07:00",
+  "last_updated": "2026-05-11T16:42:00.131464-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -23,16 +23,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Trainer Development",
-      "booking_start_date": "2026-05-04 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-11",
-      "start_time": "15:00",
-      "available_spot_count": 8,
-      "capacity": 15
-    },
     {
       "studio": "Lagree West",
       "name": "Happy Hour Megaformer x Cream Pony",
@@ -70,7 +60,7 @@
       "location": "Gastown",
       "start_date": "2026-05-13",
       "start_time": "11:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 15
     },
     {
@@ -380,7 +370,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-14",
       "start_time": "12:05",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 36
     },
     {
@@ -446,16 +436,6 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-04 15:30",
-      "location": "Vancouver",
-      "start_date": "2026-05-11",
-      "start_time": "15:30",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-05-05 09:00",
       "location": "Vancouver",
       "start_date": "2026-05-12",
@@ -470,7 +450,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-12",
       "start_time": "10:00",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 12
     },
     {
@@ -490,7 +470,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-12",
       "start_time": "14:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -590,7 +570,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-14",
       "start_time": "17:25",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 26
     },
     {
@@ -820,7 +800,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-11",
       "start_time": "19:50",
-      "available_spot_count": 8,
+      "available_spot_count": 5,
       "capacity": 49
     },
     {
