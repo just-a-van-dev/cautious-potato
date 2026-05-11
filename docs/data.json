@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T16:25:54.833511-07:00",
+  "last_updated": "2026-05-10T18:22:39.365840-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -400,7 +400,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-14",
       "start_time": "12:05",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 36
     },
     {
@@ -754,6 +754,26 @@
       "capacity": 9
     },
     {
+      "studio": "All Method Studio",
+      "name": "ALL Reformer - Begin Happy Hour 55 mins",
+      "booking_start_date": "2026-06-10 10:00",
+      "location": "Railway",
+      "start_date": "2026-06-24",
+      "start_time": "10:00",
+      "available_spot_count": 9,
+      "capacity": 9
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Strength - Happy Hour 55 mins",
+      "booking_start_date": "2026-06-10 10:00",
+      "location": "Railway",
+      "start_date": "2026-06-24",
+      "start_time": "10:00",
+      "available_spot_count": 18,
+      "capacity": 18
+    },
+    {
       "studio": "Hustle",
       "name": "CONTROL x lululemon Oakridge",
       "booking_start_date": "2026-05-03 18:50",
@@ -800,7 +820,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-11",
       "start_time": "19:50",
-      "available_spot_count": 0,
+      "available_spot_count": 2,
       "capacity": 49
     },
     {
@@ -810,7 +830,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-13",
       "start_time": "07:15",
-      "available_spot_count": 39,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
