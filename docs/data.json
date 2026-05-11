@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T12:47:09.649447-07:00",
+  "last_updated": "2026-05-11T14:01:49.055244-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -29,18 +29,8 @@
       "booking_start_date": "2026-05-04 00:00",
       "location": "Gastown",
       "start_date": "2026-05-11",
-      "start_time": "13:00",
-      "available_spot_count": 8,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Trainer Development",
-      "booking_start_date": "2026-05-04 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-11",
       "start_time": "15:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 15
     },
     {
@@ -140,7 +130,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-19",
       "start_time": "14:15",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 16
     },
     {
@@ -510,7 +500,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-14",
       "start_time": "09:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -830,7 +820,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-11",
       "start_time": "19:50",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 49
     },
     {
@@ -840,7 +830,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-13",
       "start_time": "07:15",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 49
     },
     {
@@ -850,7 +840,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-13",
       "start_time": "18:40",
-      "available_spot_count": 22,
+      "available_spot_count": 20,
       "capacity": 49
     },
     {
