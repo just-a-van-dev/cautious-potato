@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T07:29:17.262696-07:00",
+  "last_updated": "2026-05-12T09:38:14.999272-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -100,7 +100,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-15",
       "start_time": "19:00",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 16
     },
     {
@@ -130,7 +130,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "07:00",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -140,7 +140,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-16",
       "start_time": "07:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 16
     },
     {
@@ -170,7 +170,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "08:00",
-      "available_spot_count": 5,
+      "available_spot_count": 2,
       "capacity": 20
     },
     {
@@ -190,7 +190,7 @@
       "location": "Gastown",
       "start_date": "2026-05-16",
       "start_time": "09:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 15
     },
     {
@@ -350,7 +350,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "13:00",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 20
     },
     {
@@ -410,7 +410,7 @@
       "location": "Main St",
       "start_date": "2026-05-16",
       "start_time": "15:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 14
     },
     {
@@ -440,7 +440,7 @@
       "location": "Main St",
       "start_date": "2026-05-16",
       "start_time": "16:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 14
     },
     {
@@ -470,7 +470,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "17:30",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -490,7 +490,7 @@
       "location": "Main St",
       "start_date": "2026-05-19",
       "start_time": "14:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 14
     },
     {
@@ -500,7 +500,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-19",
       "start_time": "15:15",
-      "available_spot_count": 12,
+      "available_spot_count": 9,
       "capacity": 16
     },
     {
@@ -800,7 +800,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-12",
       "start_time": "09:00",
-      "available_spot_count": 7,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -820,7 +820,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-12",
       "start_time": "14:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -950,7 +950,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-14",
       "start_time": "17:25",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 26
     },
     {
@@ -1180,7 +1180,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-13",
       "start_time": "18:40",
-      "available_spot_count": 19,
+      "available_spot_count": 20,
       "capacity": 49
     },
     {
@@ -1190,7 +1190,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-14",
       "start_time": "09:45",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 49
     },
     {
@@ -1200,7 +1200,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-14",
       "start_time": "12:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 49
     },
     {
@@ -1239,6 +1239,16 @@
       "booking_start_date": "2026-05-17 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-25",
+      "start_time": "09:45",
+      "available_spot_count": 49,
+      "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: P!NK X BLACK EYED PEAS",
+      "booking_start_date": "2026-05-20 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-05-28",
       "start_time": "09:45",
       "available_spot_count": 49,
       "capacity": 49
