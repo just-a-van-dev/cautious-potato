@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T08:23:08.607911-07:00",
+  "last_updated": "2026-05-13T10:33:51.011355-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -25,22 +25,12 @@
   "sponsored": [
     {
       "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Milano Coffee",
-      "booking_start_date": "2026-05-06 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-13",
-      "start_time": "08:00",
-      "available_spot_count": 2,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
       "name": "Happy Hour Megaformer x poppi",
       "booking_start_date": "2026-05-06 00:00",
       "location": "Gastown",
       "start_date": "2026-05-13",
       "start_time": "11:00",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 15
     },
     {
@@ -250,7 +240,7 @@
       "location": "Gastown",
       "start_date": "2026-05-16",
       "start_time": "11:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -460,7 +450,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-19",
       "start_time": "14:15",
-      "available_spot_count": 11,
+      "available_spot_count": 8,
       "capacity": 16
     },
     {
@@ -480,7 +470,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-19",
       "start_time": "15:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 16
     },
     {
@@ -510,7 +500,7 @@
       "location": "Main St",
       "start_date": "2026-05-21",
       "start_time": "13:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 14
     },
     {
@@ -530,7 +520,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-21",
       "start_time": "15:15",
-      "available_spot_count": 14,
+      "available_spot_count": 11,
       "capacity": 16
     },
     {
@@ -540,7 +530,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-21",
       "start_time": "16:15",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 26
     },
     {
@@ -730,7 +720,7 @@
       "location": "Main St",
       "start_date": "2026-06-10",
       "start_time": "20:15",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 14
     },
     {
@@ -780,7 +770,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-16",
       "start_time": "08:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 20
     },
     {
@@ -790,7 +780,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "08:15",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 36
     },
     {
@@ -830,7 +820,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-16",
       "start_time": "12:15",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 45
     },
     {
@@ -840,7 +830,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "12:15",
-      "available_spot_count": 26,
+      "available_spot_count": 24,
       "capacity": 36
     },
     {
@@ -850,7 +840,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-16",
       "start_time": "12:25",
-      "available_spot_count": 4,
+      "available_spot_count": 0,
       "capacity": 20
     },
     {
@@ -860,7 +850,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "13:35",
-      "available_spot_count": 18,
+      "available_spot_count": 16,
       "capacity": 36
     },
     {
@@ -940,7 +930,17 @@
       "location": "Vancouver",
       "start_date": "2026-05-13",
       "start_time": "10:00",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-05-06 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-13",
+      "start_time": "12:00",
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -960,7 +960,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-13",
       "start_time": "19:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -1120,18 +1120,28 @@
       "location": "Vancouver",
       "start_date": "2026-05-14",
       "start_time": "17:25",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 26
     },
     {
       "studio": "ZenDen",
-      "name": "Future Self Sound Bath - 40 min",
+      "name": "Future Self Sound Bath w/ Integration - 40 min",
       "booking_start_date": "2026-05-01 12:00",
       "location": "Vancouver",
       "start_date": "2026-05-15",
       "start_time": "12:00",
       "available_spot_count": 24,
       "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Lumio Flying Sage X ZENDEN Conscious Dance",
+      "booking_start_date": "2026-05-02 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-05-16",
+      "start_time": "18:30",
+      "available_spot_count": 120,
+      "capacity": 120
     },
     {
       "studio": "ZenDen",
@@ -1360,7 +1370,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-14",
       "start_time": "17:15",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 32
     },
     {
@@ -1390,7 +1400,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-13",
       "start_time": "18:40",
-      "available_spot_count": 22,
+      "available_spot_count": 20,
       "capacity": 49
     },
     {
@@ -1400,7 +1410,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-14",
       "start_time": "09:45",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 49
     },
     {
