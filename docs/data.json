@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T10:33:51.011355-07:00",
+  "last_updated": "2026-05-13T12:54:44.708324-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -23,16 +23,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x poppi",
-      "booking_start_date": "2026-05-06 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-13",
-      "start_time": "11:00",
-      "available_spot_count": 0,
-      "capacity": 15
-    },
     {
       "studio": "Lagree West",
       "name": "Megaformer x Lululemon Oakridge",
@@ -60,7 +50,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-14",
       "start_time": "15:15",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 16
     },
     {
@@ -240,7 +230,7 @@
       "location": "Gastown",
       "start_date": "2026-05-16",
       "start_time": "11:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -380,7 +370,7 @@
       "location": "Main St",
       "start_date": "2026-05-16",
       "start_time": "15:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 14
     },
     {
@@ -450,7 +440,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-19",
       "start_time": "14:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 16
     },
     {
@@ -530,7 +520,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-21",
       "start_time": "16:15",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 26
     },
     {
@@ -760,7 +750,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-15",
       "start_time": "14:00",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 45
     },
     {
@@ -770,7 +760,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-16",
       "start_time": "08:00",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 20
     },
     {
@@ -780,7 +770,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "08:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 36
     },
     {
@@ -810,7 +800,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-16",
       "start_time": "11:25",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 20
     },
     {
@@ -820,7 +810,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-16",
       "start_time": "12:15",
-      "available_spot_count": 31,
+      "available_spot_count": 27,
       "capacity": 45
     },
     {
@@ -830,7 +820,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "12:15",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 36
     },
     {
@@ -850,7 +840,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "13:35",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 36
     },
     {
@@ -860,7 +850,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "15:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 36
     },
     {
@@ -870,7 +860,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "16:20",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 36
     },
     {
@@ -926,26 +916,6 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-06 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-13",
-      "start_time": "10:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-06 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-13",
-      "start_time": "12:00",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-05-06 13:00",
       "location": "Vancouver",
       "start_date": "2026-05-13",
@@ -976,11 +946,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-07 10:00",
+      "booking_start_date": "2026-05-07 11:00",
       "location": "Vancouver",
       "start_date": "2026-05-14",
-      "start_time": "10:00",
-      "available_spot_count": 5,
+      "start_time": "11:00",
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -1000,7 +970,47 @@
       "location": "Vancouver",
       "start_date": "2026-05-14",
       "start_time": "14:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-05-08 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-15",
+      "start_time": "10:00",
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-05-08 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-15",
+      "start_time": "12:00",
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-05-08 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-15",
+      "start_time": "13:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-05-08 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-15",
+      "start_time": "14:00",
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -1071,6 +1081,36 @@
       "start_date": "2026-05-15",
       "start_time": "18:30",
       "available_spot_count": 8,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Lagree - Trainer Development Class",
+      "booking_start_date": "2026-05-12 05:45",
+      "location": "Vancouver",
+      "start_date": "2026-05-19",
+      "start_time": "05:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Lagree - Trainer Development Class",
+      "booking_start_date": "2026-05-12 06:45",
+      "location": "Vancouver",
+      "start_date": "2026-05-19",
+      "start_time": "06:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Lagree - Trainer Development Class",
+      "booking_start_date": "2026-05-08 14:15",
+      "location": "Vancouver",
+      "start_date": "2026-05-22",
+      "start_time": "14:15",
+      "available_spot_count": 10,
       "capacity": 10
     },
     {
@@ -1400,7 +1440,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-13",
       "start_time": "18:40",
-      "available_spot_count": 20,
+      "available_spot_count": 18,
       "capacity": 49
     },
     {
