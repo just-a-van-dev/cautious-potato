@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T07:12:17.179603-07:00",
+  "last_updated": "2026-05-14T09:27:14.611103-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -23,16 +23,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Lululemon Oakridge",
-      "booking_start_date": "2026-05-07 00:00",
-      "location": "Main St",
-      "start_date": "2026-05-14",
-      "start_time": "07:15",
-      "available_spot_count": 0,
-      "capacity": 14
-    },
     {
       "studio": "Lagree West",
       "name": "Happy Hour Megaformer Classic x Olive and Piper",
@@ -70,7 +60,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-15",
       "start_time": "19:15",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 20
     },
     {
@@ -230,7 +220,7 @@
       "location": "Gastown",
       "start_date": "2026-05-16",
       "start_time": "11:00",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 15
     },
     {
@@ -300,7 +290,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-16",
       "start_time": "12:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 16
     },
     {
@@ -360,7 +350,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "14:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 20
     },
     {
@@ -370,7 +360,7 @@
       "location": "Main St",
       "start_date": "2026-05-16",
       "start_time": "15:00",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 14
     },
     {
@@ -420,7 +410,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-16",
       "start_time": "16:30",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 16
     },
     {
@@ -510,7 +500,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-21",
       "start_time": "15:15",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 16
     },
     {
@@ -520,7 +510,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-21",
       "start_time": "16:15",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 26
     },
     {
@@ -740,7 +730,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-14",
       "start_time": "12:05",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 36
     },
     {
@@ -790,7 +780,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-16",
       "start_time": "09:35",
-      "available_spot_count": 19,
+      "available_spot_count": 20,
       "capacity": 45
     },
     {
@@ -820,7 +810,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "12:15",
-      "available_spot_count": 22,
+      "available_spot_count": 20,
       "capacity": 36
     },
     {
@@ -915,22 +905,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-05-07 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-14",
-      "start_time": "08:00",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-05-07 09:00",
       "location": "Vancouver",
       "start_date": "2026-05-14",
       "start_time": "09:00",
-      "available_spot_count": 5,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -960,7 +940,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-14",
       "start_time": "14:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -990,7 +970,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-15",
       "start_time": "12:00",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -1000,7 +980,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-15",
       "start_time": "13:00",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -1010,7 +990,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-15",
       "start_time": "14:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -1410,7 +1390,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-14",
       "start_time": "17:15",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 32
     },
     {
@@ -1440,7 +1420,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-14",
       "start_time": "09:45",
-      "available_spot_count": 19,
+      "available_spot_count": 14,
       "capacity": 49
     },
     {
@@ -1450,7 +1430,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-14",
       "start_time": "12:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
@@ -1470,7 +1450,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-21",
       "start_time": "09:45",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
