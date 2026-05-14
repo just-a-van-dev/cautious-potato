@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T16:58:49.385585-07:00",
+  "last_updated": "2026-05-13T20:15:50.374957-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -70,7 +70,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-15",
       "start_time": "19:15",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -90,7 +90,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "07:00",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 20
     },
     {
@@ -150,7 +150,7 @@
       "location": "Gastown",
       "start_date": "2026-05-16",
       "start_time": "09:00",
-      "available_spot_count": 7,
+      "available_spot_count": 4,
       "capacity": 15
     },
     {
@@ -260,7 +260,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-16",
       "start_time": "11:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 26
     },
     {
@@ -380,7 +380,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "15:30",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -430,7 +430,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "17:30",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -440,7 +440,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-19",
       "start_time": "14:15",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 16
     },
     {
@@ -470,7 +470,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-20",
       "start_time": "05:15",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 20
     },
     {
@@ -520,7 +520,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-21",
       "start_time": "16:15",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 26
     },
     {
@@ -740,7 +740,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-14",
       "start_time": "12:05",
-      "available_spot_count": 10,
+      "available_spot_count": 6,
       "capacity": 36
     },
     {
@@ -760,7 +760,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-16",
       "start_time": "08:00",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 20
     },
     {
@@ -810,7 +810,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-16",
       "start_time": "12:15",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 45
     },
     {
@@ -850,7 +850,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "15:00",
-      "available_spot_count": 11,
+      "available_spot_count": 9,
       "capacity": 36
     },
     {
@@ -860,7 +860,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "16:20",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 36
     },
     {
@@ -916,16 +916,6 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-05-06 19:30",
-      "location": "Vancouver",
-      "start_date": "2026-05-13",
-      "start_time": "19:30",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
       "booking_start_date": "2026-05-07 08:00",
       "location": "Vancouver",
       "start_date": "2026-05-14",
@@ -970,7 +960,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-14",
       "start_time": "14:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -980,6 +970,16 @@
       "location": "Vancouver",
       "start_date": "2026-05-15",
       "start_time": "10:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Workout With Headsets",
+      "booking_start_date": "2026-05-08 11:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-15",
+      "start_time": "11:00",
       "available_spot_count": 6,
       "capacity": 12
     },
@@ -1090,7 +1090,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-19",
       "start_time": "05:45",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -1160,7 +1160,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-14",
       "start_time": "17:25",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 26
     },
     {
@@ -1170,7 +1170,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-15",
       "start_time": "12:00",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 26
     },
     {
@@ -1180,7 +1180,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-16",
       "start_time": "18:30",
-      "available_spot_count": 120,
+      "available_spot_count": 119,
       "capacity": 120
     },
     {
@@ -1295,16 +1295,6 @@
     },
     {
       "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin Happy Hour 55 mins",
-      "booking_start_date": "2026-05-20 10:00",
-      "location": "Railway",
-      "start_date": "2026-06-03",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
       "name": "ALL Strength - Happy Hour 55 mins",
       "booking_start_date": "2026-05-20 10:00",
       "location": "Railway",
@@ -1312,6 +1302,16 @@
       "start_time": "10:00",
       "available_spot_count": 18,
       "capacity": 18
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Reformer - Begin Happy Hour 55 mins",
+      "booking_start_date": "2026-05-21 10:00",
+      "location": "Railway",
+      "start_date": "2026-06-04",
+      "start_time": "10:00",
+      "available_spot_count": 9,
+      "capacity": 9
     },
     {
       "studio": "All Method Studio",
@@ -1325,16 +1325,6 @@
     },
     {
       "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin Happy Hour 55 mins",
-      "booking_start_date": "2026-05-27 10:00",
-      "location": "Railway",
-      "start_date": "2026-06-10",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
       "name": "ALL Strength - Happy Hour 55 mins",
       "booking_start_date": "2026-05-27 10:00",
       "location": "Railway",
@@ -1342,6 +1332,16 @@
       "start_time": "10:00",
       "available_spot_count": 18,
       "capacity": 18
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Reformer - Begin Happy Hour 55 mins",
+      "booking_start_date": "2026-05-28 10:00",
+      "location": "Railway",
+      "start_date": "2026-06-11",
+      "start_time": "10:00",
+      "available_spot_count": 9,
+      "capacity": 9
     },
     {
       "studio": "All Method Studio",
@@ -1355,16 +1355,6 @@
     },
     {
       "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin Happy Hour 55 mins",
-      "booking_start_date": "2026-06-03 10:00",
-      "location": "Railway",
-      "start_date": "2026-06-17",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
       "name": "ALL Strength - Happy Hour 55 mins",
       "booking_start_date": "2026-06-03 10:00",
       "location": "Railway",
@@ -1372,6 +1362,16 @@
       "start_time": "10:00",
       "available_spot_count": 18,
       "capacity": 18
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Reformer - Begin Happy Hour 55 mins",
+      "booking_start_date": "2026-06-04 10:00",
+      "location": "Railway",
+      "start_date": "2026-06-18",
+      "start_time": "10:00",
+      "available_spot_count": 9,
+      "capacity": 9
     },
     {
       "studio": "All Method Studio",
@@ -1385,16 +1385,6 @@
     },
     {
       "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin Happy Hour 55 mins",
-      "booking_start_date": "2026-06-10 10:00",
-      "location": "Railway",
-      "start_date": "2026-06-24",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
       "name": "ALL Strength - Happy Hour 55 mins",
       "booking_start_date": "2026-06-10 10:00",
       "location": "Railway",
@@ -1404,13 +1394,23 @@
       "capacity": 18
     },
     {
+      "studio": "All Method Studio",
+      "name": "ALL Reformer - Begin Happy Hour 55 mins",
+      "booking_start_date": "2026-06-11 10:00",
+      "location": "Railway",
+      "start_date": "2026-06-25",
+      "start_time": "10:00",
+      "available_spot_count": 9,
+      "capacity": 9
+    },
+    {
       "studio": "Turf",
       "name": "meta+ weights",
       "booking_start_date": "2026-05-07 17:15",
       "location": "KITS - Vancouver",
       "start_date": "2026-05-14",
       "start_time": "17:15",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 32
     },
     {
@@ -1435,22 +1435,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: EXPLICIT HIP HOP",
-      "booking_start_date": "2026-05-05 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-05-13",
-      "start_time": "18:40",
-      "available_spot_count": 15,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: JUSTIN BIEBER x JUSTIN TIMBERLAKE",
       "booking_start_date": "2026-05-06 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-14",
       "start_time": "09:45",
-      "available_spot_count": 21,
+      "available_spot_count": 19,
       "capacity": 49
     },
     {
@@ -1480,7 +1470,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-21",
       "start_time": "09:45",
-      "available_spot_count": 47,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -1490,7 +1480,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-21",
       "start_time": "16:20",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
