@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T11:24:03.492065-07:00",
+  "last_updated": "2026-05-15T13:00:15.049941-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -270,7 +270,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-16",
       "start_time": "12:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 16
     },
     {
@@ -360,7 +360,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-16",
       "start_time": "15:30",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 16
     },
     {
@@ -370,7 +370,7 @@
       "location": "Main St",
       "start_date": "2026-05-16",
       "start_time": "16:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 14
     },
     {
@@ -380,7 +380,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "16:30",
-      "available_spot_count": 13,
+      "available_spot_count": 9,
       "capacity": 20
     },
     {
@@ -390,7 +390,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-16",
       "start_time": "16:30",
-      "available_spot_count": 7,
+      "available_spot_count": 4,
       "capacity": 16
     },
     {
@@ -440,7 +440,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-20",
       "start_time": "05:15",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 20
     },
     {
@@ -750,7 +750,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-16",
       "start_time": "09:35",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 45
     },
     {
@@ -770,7 +770,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-16",
       "start_time": "12:15",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 45
     },
     {
@@ -780,7 +780,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "12:15",
-      "available_spot_count": 16,
+      "available_spot_count": 14,
       "capacity": 36
     },
     {
@@ -800,7 +800,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "13:35",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 36
     },
     {
@@ -872,26 +872,6 @@
       "start_time": "17:45",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Workout With Headsets",
-      "booking_start_date": "2026-05-08 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-15",
-      "start_time": "11:00",
-      "available_spot_count": 3,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-08 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-15",
-      "start_time": "12:00",
-      "available_spot_count": 5,
-      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -1065,16 +1045,6 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Future Self Sound Bath w/ Integration - 40 min",
-      "booking_start_date": "2026-05-01 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-15",
-      "start_time": "12:00",
-      "available_spot_count": 19,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
       "name": "Lumio Flying Sage X ZENDEN Conscious Dance",
       "booking_start_date": "2026-05-02 18:30",
       "location": "Vancouver",
@@ -1130,7 +1100,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-28",
       "start_time": "18:10",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 38
     },
     {
@@ -1430,7 +1400,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-21",
       "start_time": "17:15",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 32
     },
     {
@@ -1450,7 +1420,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-15",
       "start_time": "18:40",
-      "available_spot_count": 10,
+      "available_spot_count": 6,
       "capacity": 49
     },
     {
@@ -1470,7 +1440,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-21",
       "start_time": "16:20",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
