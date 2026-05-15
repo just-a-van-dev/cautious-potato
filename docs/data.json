@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T09:57:37.891961-07:00",
+  "last_updated": "2026-05-15T11:24:03.492065-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -160,7 +160,7 @@
       "location": "Gastown",
       "start_date": "2026-05-16",
       "start_time": "10:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 15
     },
     {
@@ -200,7 +200,7 @@
       "location": "Gastown",
       "start_date": "2026-05-16",
       "start_time": "11:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -350,7 +350,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "15:30",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 20
     },
     {
@@ -360,7 +360,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-16",
       "start_time": "15:30",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 16
     },
     {
@@ -370,7 +370,7 @@
       "location": "Main St",
       "start_date": "2026-05-16",
       "start_time": "16:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 14
     },
     {
@@ -380,7 +380,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "16:30",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -390,7 +390,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-16",
       "start_time": "16:30",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 16
     },
     {
@@ -400,7 +400,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "17:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 20
     },
     {
@@ -480,7 +480,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-21",
       "start_time": "15:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 16
     },
     {
@@ -710,7 +710,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-15",
       "start_time": "14:00",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 45
     },
     {
@@ -730,7 +730,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "08:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 36
     },
     {
@@ -770,7 +770,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-16",
       "start_time": "12:15",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 45
     },
     {
@@ -820,7 +820,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "16:20",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 36
     },
     {
@@ -880,7 +880,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-15",
       "start_time": "11:00",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -910,7 +910,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-16",
       "start_time": "08:00",
-      "available_spot_count": 8,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -1070,7 +1070,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-15",
       "start_time": "12:00",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 26
     },
     {
@@ -1080,7 +1080,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-16",
       "start_time": "18:30",
-      "available_spot_count": 118,
+      "available_spot_count": 117,
       "capacity": 120
     },
     {
@@ -1450,7 +1450,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-15",
       "start_time": "18:40",
-      "available_spot_count": 7,
+      "available_spot_count": 10,
       "capacity": 49
     },
     {
