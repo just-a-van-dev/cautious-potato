@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T13:00:15.049941-07:00",
+  "last_updated": "2026-05-15T14:16:06.393717-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -230,7 +230,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-16",
       "start_time": "11:15",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 26
     },
     {
@@ -400,7 +400,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "17:30",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 20
     },
     {
@@ -420,7 +420,7 @@
       "location": "Main St",
       "start_date": "2026-05-19",
       "start_time": "14:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 14
     },
     {
@@ -730,7 +730,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "08:15",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 36
     },
     {
@@ -800,7 +800,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "13:35",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 36
     },
     {
@@ -810,7 +810,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "15:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 36
     },
     {
@@ -880,7 +880,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-15",
       "start_time": "15:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -890,7 +890,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-16",
       "start_time": "08:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -1060,7 +1060,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-19",
       "start_time": "12:00",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 26
     },
     {
@@ -1400,7 +1400,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-21",
       "start_time": "17:15",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 32
     },
     {
@@ -1420,7 +1420,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-15",
       "start_time": "18:40",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 49
     },
     {
@@ -1492,6 +1492,16 @@
       "start_time": "13:00",
       "available_spot_count": 49,
       "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: TAYLOR SWIFT: ORIGINALS + REMIXES",
+      "booking_start_date": "2026-05-24 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-06-01",
+      "start_time": "09:45",
+      "available_spot_count": 50,
+      "capacity": 50
     }
   ]
 }
