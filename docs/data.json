@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T15:10:52.736114-07:00",
+  "last_updated": "2026-05-16T16:26:12.006741-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -29,36 +29,6 @@
       "booking_start_date": "2026-05-09 00:00",
       "location": "Main St",
       "start_date": "2026-05-16",
-      "start_time": "15:00",
-      "available_spot_count": 0,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Organika",
-      "booking_start_date": "2026-05-09 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-05-16",
-      "start_time": "15:30",
-      "available_spot_count": 2,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Organika",
-      "booking_start_date": "2026-05-09 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-05-16",
-      "start_time": "15:30",
-      "available_spot_count": 0,
-      "capacity": 16
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Organika",
-      "booking_start_date": "2026-05-09 00:00",
-      "location": "Main St",
-      "start_date": "2026-05-16",
       "start_time": "16:00",
       "available_spot_count": 0,
       "capacity": 14
@@ -70,7 +40,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "16:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 20
     },
     {
@@ -90,7 +60,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "17:30",
-      "available_spot_count": 8,
+      "available_spot_count": 10,
       "capacity": 20
     },
     {
@@ -210,7 +180,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-24",
       "start_time": "14:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -399,16 +369,6 @@
       "booking_start_date": "2026-05-09 00:00",
       "location": "Yaletown",
       "start_date": "2026-05-16",
-      "start_time": "15:00",
-      "available_spot_count": 6,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn x Mejuri",
-      "booking_start_date": "2026-05-09 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-05-16",
       "start_time": "16:20",
       "available_spot_count": 2,
       "capacity": 36
@@ -500,7 +460,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-17",
       "start_time": "16:00",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 12
     },
     {
@@ -510,7 +470,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-18",
       "start_time": "08:00",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 12
     },
     {
@@ -680,7 +640,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-21",
       "start_time": "18:10",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 38
     },
     {
