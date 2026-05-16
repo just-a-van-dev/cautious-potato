@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T12:18:34.309330-07:00",
+  "last_updated": "2026-05-16T13:10:43.835479-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -23,46 +23,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Organika",
-      "booking_start_date": "2026-05-09 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-16",
-      "start_time": "12:00",
-      "available_spot_count": 1,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer Ass + Abs x Organika",
-      "booking_start_date": "2026-05-09 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-05-16",
-      "start_time": "12:00",
-      "available_spot_count": 1,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Organika",
-      "booking_start_date": "2026-05-09 00:00",
-      "location": "Main St",
-      "start_date": "2026-05-16",
-      "start_time": "12:00",
-      "available_spot_count": 0,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Organika",
-      "booking_start_date": "2026-05-09 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-05-16",
-      "start_time": "12:30",
-      "available_spot_count": 0,
-      "capacity": 16
-    },
     {
       "studio": "Lagree West",
       "name": "Happy Hour Megaformer x Organika",
@@ -150,7 +110,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-16",
       "start_time": "15:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 16
     },
     {
@@ -495,36 +455,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn x Mejuri",
-      "booking_start_date": "2026-05-09 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-05-16",
-      "start_time": "12:15",
-      "available_spot_count": 0,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn x Mejuri",
-      "booking_start_date": "2026-05-09 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-05-16",
-      "start_time": "12:15",
-      "available_spot_count": 2,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn \u2014 Reformer x Mejuri",
-      "booking_start_date": "2026-05-09 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-05-16",
-      "start_time": "12:25",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Booty x Mejuri",
       "booking_start_date": "2026-05-09 00:00",
       "location": "Yaletown",
@@ -610,7 +540,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-16",
       "start_time": "14:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -620,7 +550,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-17",
       "start_time": "10:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -630,7 +560,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-17",
       "start_time": "16:00",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -1160,7 +1090,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-21",
       "start_time": "16:20",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -1201,6 +1131,16 @@
       "start_date": "2026-05-29",
       "start_time": "18:40",
       "available_spot_count": 43,
+      "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: HOT K-POP SUMMER",
+      "booking_start_date": "2026-05-23 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-05-31",
+      "start_time": "11:50",
+      "available_spot_count": 49,
       "capacity": 49
     },
     {
