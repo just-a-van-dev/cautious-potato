@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T14:11:52.232475-07:00",
+  "last_updated": "2026-05-16T15:10:52.736114-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -23,36 +23,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Organika",
-      "booking_start_date": "2026-05-09 00:00",
-      "location": "Main St",
-      "start_date": "2026-05-16",
-      "start_time": "14:00",
-      "available_spot_count": 0,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer Classic x Organika",
-      "booking_start_date": "2026-05-09 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-05-16",
-      "start_time": "14:30",
-      "available_spot_count": 0,
-      "capacity": 16
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer Classic x Organika",
-      "booking_start_date": "2026-05-09 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-05-16",
-      "start_time": "14:30",
-      "available_spot_count": 1,
-      "capacity": 20
-    },
     {
       "studio": "Lagree West",
       "name": "Happy Hour Megaformer x Organika",
@@ -425,16 +395,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Booty x Mejuri",
-      "booking_start_date": "2026-05-09 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-05-16",
-      "start_time": "13:35",
-      "available_spot_count": 11,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn x Mejuri",
       "booking_start_date": "2026-05-09 00:00",
       "location": "Yaletown",
@@ -450,7 +410,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-16",
       "start_time": "16:20",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 36
     },
     {
@@ -506,21 +466,31 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-05-09 14:00",
+      "booking_start_date": "2026-05-09 16:00",
       "location": "Vancouver",
       "start_date": "2026-05-16",
-      "start_time": "14:00",
-      "available_spot_count": 3,
+      "start_time": "16:00",
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-05-10 10:00",
+      "booking_start_date": "2026-05-10 09:00",
       "location": "Vancouver",
       "start_date": "2026-05-17",
-      "start_time": "10:00",
-      "available_spot_count": 5,
+      "start_time": "09:00",
+      "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-05-10 15:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-17",
+      "start_time": "15:00",
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -531,6 +501,26 @@
       "start_date": "2026-05-17",
       "start_time": "16:00",
       "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-05-11 08:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-18",
+      "start_time": "08:00",
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-05-11 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-18",
+      "start_time": "13:00",
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -670,7 +660,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-16",
       "start_time": "18:30",
-      "available_spot_count": 117,
+      "available_spot_count": 116,
       "capacity": 120
     },
     {
@@ -680,7 +670,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-19",
       "start_time": "12:00",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 26
     },
     {
