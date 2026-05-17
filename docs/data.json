@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T16:26:12.006741-07:00",
+  "last_updated": "2026-05-16T18:23:46.061617-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -8,7 +8,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-23",
       "start_time": "17:45",
-      "available_spot_count": 36,
+      "available_spot_count": 23,
       "capacity": 36
     },
     {
@@ -23,46 +23,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Organika",
-      "booking_start_date": "2026-05-09 00:00",
-      "location": "Main St",
-      "start_date": "2026-05-16",
-      "start_time": "16:00",
-      "available_spot_count": 0,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Organika",
-      "booking_start_date": "2026-05-09 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-05-16",
-      "start_time": "16:30",
-      "available_spot_count": 7,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Organika",
-      "booking_start_date": "2026-05-09 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-05-16",
-      "start_time": "16:30",
-      "available_spot_count": 0,
-      "capacity": 16
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Organika",
-      "booking_start_date": "2026-05-09 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-05-16",
-      "start_time": "17:30",
-      "available_spot_count": 10,
-      "capacity": 20
-    },
     {
       "studio": "Lagree West",
       "name": "Happy Hour Megaformer x Poppi",
@@ -160,7 +120,7 @@
       "location": "Gastown",
       "start_date": "2026-05-22",
       "start_time": "16:15",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 15
     },
     {
@@ -180,7 +140,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-24",
       "start_time": "14:30",
-      "available_spot_count": 11,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -365,22 +325,12 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn x Mejuri",
-      "booking_start_date": "2026-05-09 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-05-16",
-      "start_time": "16:20",
-      "available_spot_count": 2,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Balance + ALO Community Class",
       "booking_start_date": "2026-05-16 17:45",
       "location": "Yaletown",
       "start_date": "2026-05-23",
       "start_time": "17:45",
-      "available_spot_count": 36,
+      "available_spot_count": 23,
       "capacity": 36
     },
     {
@@ -426,21 +376,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-05-09 16:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-16",
-      "start_time": "16:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
       "booking_start_date": "2026-05-10 09:00",
       "location": "Vancouver",
       "start_date": "2026-05-17",
       "start_time": "09:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -612,16 +552,6 @@
       "start_time": "18:30",
       "available_spot_count": 10,
       "capacity": 10
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Lumio Flying Sage X ZENDEN Conscious Dance",
-      "booking_start_date": "2026-05-02 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-05-16",
-      "start_time": "18:30",
-      "available_spot_count": 116,
-      "capacity": 120
     },
     {
       "studio": "ZenDen",
@@ -824,6 +754,16 @@
       "capacity": 26
     },
     {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Sound Bath | Red Light - 40 min",
+      "booking_start_date": "2026-06-16 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-30",
+      "start_time": "12:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
       "studio": "All Method Studio",
       "name": "ALL Reformer - Jump Happy Hour 55 mins",
       "booking_start_date": "2026-05-12 10:00",
@@ -969,6 +909,16 @@
       "booking_start_date": "2026-06-11 10:00",
       "location": "Railway",
       "start_date": "2026-06-25",
+      "start_time": "10:00",
+      "available_spot_count": 9,
+      "capacity": 9
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Reformer - Jump Happy Hour 55 mins",
+      "booking_start_date": "2026-06-16 10:00",
+      "location": "Railway",
+      "start_date": "2026-06-30",
       "start_time": "10:00",
       "available_spot_count": 9,
       "capacity": 9
