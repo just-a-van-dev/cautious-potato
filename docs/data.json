@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T02:47:09.406839-07:00",
+  "last_updated": "2026-05-17T04:06:24.889149-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -562,16 +562,6 @@
       "start_time": "18:10",
       "available_spot_count": 32,
       "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Future Self Sound Bath w/ Integration - 40 min",
-      "booking_start_date": "2026-05-08 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-22",
-      "start_time": "12:00",
-      "available_spot_count": 26,
-      "capacity": 26
     },
     {
       "studio": "ZenDen",
