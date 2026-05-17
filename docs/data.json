@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T11:00:44.641788-07:00",
+  "last_updated": "2026-05-17T12:43:58.819904-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -130,7 +130,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-21",
       "start_time": "16:15",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 26
     },
     {
@@ -200,7 +200,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-25",
       "start_time": "13:15",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 20
     },
     {
@@ -420,7 +420,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-17",
       "start_time": "15:00",
-      "available_spot_count": 7,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
