@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T21:18:41.065579-07:00",
+  "last_updated": "2026-05-18T01:30:08.525481-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -8,7 +8,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-23",
       "start_time": "17:45",
-      "available_spot_count": 5,
+      "available_spot_count": 2,
       "capacity": 36
     },
     {
@@ -50,7 +50,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-19",
       "start_time": "14:15",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 16
     },
     {
@@ -60,7 +60,7 @@
       "location": "Main St",
       "start_date": "2026-05-19",
       "start_time": "14:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 14
     },
     {
@@ -130,7 +130,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-21",
       "start_time": "16:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 26
     },
     {
@@ -150,7 +150,7 @@
       "location": "Gastown",
       "start_date": "2026-05-24",
       "start_time": "11:00",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 15
     },
     {
@@ -180,7 +180,7 @@
       "location": "Main St",
       "start_date": "2026-05-25",
       "start_time": "05:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 14
     },
     {
@@ -220,7 +220,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-26",
       "start_time": "12:15",
-      "available_spot_count": 20,
+      "available_spot_count": 18,
       "capacity": 20
     },
     {
@@ -345,12 +345,22 @@
     },
     {
       "studio": "Jaybird",
+      "name": "Teacher Development | The Being $18",
+      "booking_start_date": "2026-05-15 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-05-22",
+      "start_time": "14:30",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
       "name": "The Balance + ALO Community Class",
       "booking_start_date": "2026-05-16 17:45",
       "location": "Yaletown",
       "start_date": "2026-05-23",
       "start_time": "17:45",
-      "available_spot_count": 5,
+      "available_spot_count": 2,
       "capacity": 36
     },
     {
@@ -420,7 +430,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-18",
       "start_time": "13:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -430,7 +440,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-18",
       "start_time": "15:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -450,7 +460,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-19",
       "start_time": "10:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -470,7 +480,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-21",
       "start_time": "09:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -530,7 +540,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-19",
       "start_time": "05:45",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -610,7 +620,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-21",
       "start_time": "18:10",
-      "available_spot_count": 33,
+      "available_spot_count": 31,
       "capacity": 38
     },
     {
@@ -970,7 +980,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-23",
       "start_time": "09:30",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 36
     },
     {
@@ -980,7 +990,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-21",
       "start_time": "09:45",
-      "available_spot_count": 37,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
@@ -1000,7 +1010,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-25",
       "start_time": "09:45",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 49
     },
     {
