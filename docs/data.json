@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T14:45:55.231978-07:00",
+  "last_updated": "2026-05-18T16:01:24.814542-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -130,8 +130,18 @@
       "location": "Kitsilano",
       "start_date": "2026-05-21",
       "start_time": "16:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Trainer Development",
+      "booking_start_date": "2026-05-14 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-05-21",
+      "start_time": "20:15",
+      "available_spot_count": 20,
+      "capacity": 20
     },
     {
       "studio": "Lagree West",
@@ -210,7 +220,7 @@
       "location": "Gastown",
       "start_date": "2026-05-26",
       "start_time": "09:00",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 15
     },
     {
@@ -430,7 +440,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-18",
       "start_time": "15:30",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -450,7 +460,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-19",
       "start_time": "10:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -870,7 +880,7 @@
       "location": "Railway",
       "start_date": "2026-05-30",
       "start_time": "10:30",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
