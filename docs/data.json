@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T09:02:01.318019-07:00",
+  "last_updated": "2026-05-18T11:17:36.774468-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -160,7 +160,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-24",
       "start_time": "14:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 20
     },
     {
@@ -210,7 +210,7 @@
       "location": "Gastown",
       "start_date": "2026-05-26",
       "start_time": "09:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
@@ -220,7 +220,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-26",
       "start_time": "12:15",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -430,7 +430,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-18",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -440,7 +440,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-18",
       "start_time": "15:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -450,7 +450,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-18",
       "start_time": "18:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -570,7 +570,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-22",
       "start_time": "18:30",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -640,7 +640,17 @@
       "location": "Vancouver",
       "start_date": "2026-05-26",
       "start_time": "12:00",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Red Light Yin + Sound Bath",
+      "booking_start_date": "2026-05-12 20:15",
+      "location": "Vancouver",
+      "start_date": "2026-05-26",
+      "start_time": "20:15",
+      "available_spot_count": 26,
       "capacity": 26
     },
     {
@@ -661,6 +671,16 @@
       "start_date": "2026-06-02",
       "start_time": "12:00",
       "available_spot_count": 25,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Red Light Yin + Sound Bath",
+      "booking_start_date": "2026-05-19 20:15",
+      "location": "Vancouver",
+      "start_date": "2026-06-02",
+      "start_time": "20:15",
+      "available_spot_count": 26,
       "capacity": 26
     },
     {
@@ -735,6 +755,16 @@
     },
     {
       "studio": "ZenDen",
+      "name": "Red Light Yin + Sound Bath",
+      "booking_start_date": "2026-06-02 20:15",
+      "location": "Vancouver",
+      "start_date": "2026-06-16",
+      "start_time": "20:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
       "name": "Vinyasa Flow + Sound Bath",
       "booking_start_date": "2026-06-04 18:10",
       "location": "Vancouver",
@@ -760,6 +790,16 @@
       "location": "Vancouver",
       "start_date": "2026-06-23",
       "start_time": "12:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Red Light Yin + Sound Bath",
+      "booking_start_date": "2026-06-09 20:15",
+      "location": "Vancouver",
+      "start_date": "2026-06-23",
+      "start_time": "20:15",
       "available_spot_count": 26,
       "capacity": 26
     },
@@ -1000,7 +1040,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-23",
       "start_time": "09:30",
-      "available_spot_count": 25,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
@@ -1030,7 +1070,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-25",
       "start_time": "09:45",
-      "available_spot_count": 47,
+      "available_spot_count": 48,
       "capacity": 49
     },
     {
