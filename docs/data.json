@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T16:01:24.814542-07:00",
+  "last_updated": "2026-05-18T18:28:24.838042-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -8,7 +8,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-23",
       "start_time": "17:45",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 36
     },
     {
@@ -120,7 +120,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-21",
       "start_time": "15:15",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 16
     },
     {
@@ -190,7 +190,7 @@
       "location": "Main St",
       "start_date": "2026-05-25",
       "start_time": "05:15",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 14
     },
     {
@@ -200,7 +200,7 @@
       "location": "Gastown",
       "start_date": "2026-05-25",
       "start_time": "08:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -370,7 +370,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-23",
       "start_time": "17:45",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 36
     },
     {
@@ -435,26 +435,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-11 15:30",
-      "location": "Vancouver",
-      "start_date": "2026-05-18",
-      "start_time": "15:30",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-05-11 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-05-18",
-      "start_time": "18:30",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body Workout With Headsets",
       "booking_start_date": "2026-05-12 10:00",
       "location": "Vancouver",
@@ -470,7 +450,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-19",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -534,6 +514,16 @@
       "capacity": 12
     },
     {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-06-25 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-02",
+      "start_time": "09:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
       "studio": "Evolution",
       "name": "Lagree - Trainer Development Class",
       "booking_start_date": "2026-05-12 05:45",
@@ -550,7 +540,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-19",
       "start_time": "06:45",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -610,7 +600,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-19",
       "start_time": "12:00",
-      "available_spot_count": 22,
+      "available_spot_count": 23,
       "capacity": 26
     },
     {
@@ -620,7 +610,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-21",
       "start_time": "18:10",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 38
     },
     {
@@ -834,6 +824,16 @@
       "capacity": 26
     },
     {
+      "studio": "ZenDen",
+      "name": "Vinyasa Flow + Sound Bath",
+      "booking_start_date": "2026-06-18 18:10",
+      "location": "Vancouver",
+      "start_date": "2026-07-02",
+      "start_time": "18:10",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
       "studio": "All Method Studio",
       "name": "ALL Reformer - Jump Happy Hour 55 mins",
       "booking_start_date": "2026-05-12 10:00",
@@ -1024,13 +1024,23 @@
       "capacity": 18
     },
     {
+      "studio": "All Method Studio",
+      "name": "ALL Reformer - Begin Happy Hour 55 mins",
+      "booking_start_date": "2026-06-18 10:00",
+      "location": "Railway",
+      "start_date": "2026-07-02",
+      "start_time": "10:00",
+      "available_spot_count": 9,
+      "capacity": 9
+    },
+    {
       "studio": "Turf",
       "name": "meta+ weights",
       "booking_start_date": "2026-05-14 17:15",
       "location": "KITS - Vancouver",
       "start_date": "2026-05-21",
       "start_time": "17:15",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 32
     },
     {
@@ -1060,7 +1070,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-21",
       "start_time": "16:20",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 49
     },
     {
@@ -1080,7 +1090,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-28",
       "start_time": "09:45",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 49
     },
     {
