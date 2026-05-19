@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T13:13:03.049817-07:00",
+  "last_updated": "2026-05-19T14:53:47.898273-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -80,7 +80,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-20",
       "start_time": "05:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -130,7 +130,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-21",
       "start_time": "16:15",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 26
     },
     {
@@ -220,7 +220,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-25",
       "start_time": "13:15",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 20
     },
     {
@@ -260,7 +260,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-27",
       "start_time": "15:15",
-      "available_spot_count": 18,
+      "available_spot_count": 16,
       "capacity": 20
     },
     {
@@ -445,16 +445,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-12 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-19",
-      "start_time": "13:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk  - Full Body",
       "booking_start_date": "2026-05-13 08:00",
       "location": "Vancouver",
@@ -520,7 +510,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-21",
       "start_time": "11:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -715,6 +705,26 @@
     },
     {
       "studio": "Evolution",
+      "name": "Lagree - Trainer Development Class",
+      "booking_start_date": "2026-05-25 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-08",
+      "start_time": "18:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Lagree - Trainer Development Class",
+      "booking_start_date": "2026-05-25 19:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-08",
+      "start_time": "19:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
       "name": "Infrared Lagree - Themed",
       "booking_start_date": "2026-05-29 18:30",
       "location": "Vancouver",
@@ -770,7 +780,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-26",
       "start_time": "12:00",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 26
     },
     {
@@ -1230,7 +1240,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-21",
       "start_time": "09:45",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
