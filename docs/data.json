@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T14:53:47.898273-07:00",
+  "last_updated": "2026-05-19T16:01:37.366022-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -43,36 +43,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Poppi",
-      "booking_start_date": "2026-05-12 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-05-19",
-      "start_time": "14:15",
-      "available_spot_count": 0,
-      "capacity": 16
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Poppi",
-      "booking_start_date": "2026-05-12 00:00",
-      "location": "Main St",
-      "start_date": "2026-05-19",
-      "start_time": "14:15",
-      "available_spot_count": 0,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Poppi",
-      "booking_start_date": "2026-05-12 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-05-19",
-      "start_time": "15:15",
-      "available_spot_count": 0,
-      "capacity": 16
-    },
     {
       "studio": "Lagree West",
       "name": "Happy Hour Megaformer x Smart Sweets",
@@ -130,7 +100,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-21",
       "start_time": "16:15",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 26
     },
     {
@@ -240,7 +210,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-26",
       "start_time": "12:15",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 20
     },
     {
@@ -460,7 +430,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-20",
       "start_time": "10:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -725,6 +695,36 @@
     },
     {
       "studio": "Evolution",
+      "name": "Lagree - Trainer Development Class",
+      "booking_start_date": "2026-05-29 05:45",
+      "location": "Vancouver",
+      "start_date": "2026-06-12",
+      "start_time": "05:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Lagree - Trainer Development Class",
+      "booking_start_date": "2026-05-29 06:45",
+      "location": "Vancouver",
+      "start_date": "2026-06-12",
+      "start_time": "06:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Lagree - Trainer Development Class",
+      "booking_start_date": "2026-05-29 07:45",
+      "location": "Vancouver",
+      "start_date": "2026-06-12",
+      "start_time": "07:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
       "name": "Infrared Lagree - Themed",
       "booking_start_date": "2026-05-29 18:30",
       "location": "Vancouver",
@@ -770,7 +770,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-23",
       "start_time": "19:30",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 26
     },
     {
@@ -790,7 +790,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-26",
       "start_time": "20:15",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 26
     },
     {
