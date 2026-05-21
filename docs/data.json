@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T05:13:40.990411-07:00",
+  "last_updated": "2026-05-21T08:55:37.314848-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -60,7 +60,7 @@
       "location": "Main St",
       "start_date": "2026-05-21",
       "start_time": "15:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 14
     },
     {
@@ -100,7 +100,7 @@
       "location": "Gastown",
       "start_date": "2026-05-22",
       "start_time": "16:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -110,7 +110,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-22",
       "start_time": "19:00",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 16
     },
     {
@@ -180,7 +180,7 @@
       "location": "Gastown",
       "start_date": "2026-05-26",
       "start_time": "09:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 15
     },
     {
@@ -220,7 +220,7 @@
       "location": "Main St",
       "start_date": "2026-05-28",
       "start_time": "14:15",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 14
     },
     {
@@ -240,7 +240,7 @@
       "location": "Main St",
       "start_date": "2026-05-29",
       "start_time": "15:15",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 14
     },
     {
@@ -250,7 +250,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-29",
       "start_time": "16:30",
-      "available_spot_count": 25,
+      "available_spot_count": 22,
       "capacity": 26
     },
     {
@@ -410,7 +410,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-21",
       "start_time": "09:00",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -736,26 +736,6 @@
     {
       "studio": "The Third",
       "name": "The Third x Body Energy Club",
-      "booking_start_date": "2026-05-07 06:00",
-      "location": "4th Ave",
-      "start_date": "2026-05-21",
-      "start_time": "06:00",
-      "available_spot_count": 9,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
-      "name": "The Third x Body Energy Club",
-      "booking_start_date": "2026-05-07 07:00",
-      "location": "4th Ave",
-      "start_date": "2026-05-21",
-      "start_time": "07:00",
-      "available_spot_count": 3,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
-      "name": "The Third x Body Energy Club",
       "booking_start_date": "2026-05-07 18:30",
       "location": "4th Ave",
       "start_date": "2026-05-21",
@@ -1020,7 +1000,7 @@
       "location": "Railway",
       "start_date": "2026-05-23",
       "start_time": "08:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -1030,7 +1010,7 @@
       "location": "Railway",
       "start_date": "2026-05-23",
       "start_time": "09:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
@@ -1080,7 +1060,7 @@
       "location": "Railway",
       "start_date": "2026-05-30",
       "start_time": "09:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -1250,7 +1230,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-21",
       "start_time": "17:15",
-      "available_spot_count": 20,
+      "available_spot_count": 18,
       "capacity": 32
     },
     {
@@ -1270,7 +1250,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-21",
       "start_time": "09:45",
-      "available_spot_count": 32,
+      "available_spot_count": 29,
       "capacity": 49
     },
     {
