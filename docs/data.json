@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T22:43:37.245693-07:00",
+  "last_updated": "2026-05-21T22:50:41.210602-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -250,7 +250,7 @@
       "location": "Main St",
       "start_date": "2026-06-10",
       "start_time": "20:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 14
     },
     {
@@ -665,86 +665,6 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Reiki Infused Sound Bath w/ Scent + Integration",
-      "booking_start_date": "2026-05-09 19:30",
-      "location": "Vancouver",
-      "start_date": "2026-05-23",
-      "start_time": "19:30",
-      "available_spot_count": 19,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Reiki Infused Sound Bath | Red Light - 40 min",
-      "booking_start_date": "2026-05-12 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-26",
-      "start_time": "12:00",
-      "available_spot_count": 22,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Red Light Yin + Sound Bath",
-      "booking_start_date": "2026-05-12 20:15",
-      "location": "Vancouver",
-      "start_date": "2026-05-26",
-      "start_time": "20:15",
-      "available_spot_count": 18,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Vinyasa Flow + Sound Bath",
-      "booking_start_date": "2026-05-14 18:10",
-      "location": "Vancouver",
-      "start_date": "2026-05-28",
-      "start_time": "18:10",
-      "available_spot_count": 36,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Reiki Infused Sound Bath | Red Light - 40 min",
-      "booking_start_date": "2026-05-19 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-06-02",
-      "start_time": "12:00",
-      "available_spot_count": 25,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Red Light Yin + Sound Bath",
-      "booking_start_date": "2026-05-19 20:15",
-      "location": "Vancouver",
-      "start_date": "2026-06-02",
-      "start_time": "20:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Vinyasa Flow + Sound Bath",
-      "booking_start_date": "2026-05-21 18:10",
-      "location": "Vancouver",
-      "start_date": "2026-06-04",
-      "start_time": "18:10",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Reiki Infused Sound Bath w/ Scent + Integration",
-      "booking_start_date": "2026-05-23 19:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-06",
-      "start_time": "19:30",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
       "name": "Coffee + Cacao Party",
       "booking_start_date": "2026-04-26 11:00",
       "location": "Vancouver",
@@ -752,156 +672,6 @@
       "start_time": "11:00",
       "available_spot_count": 198,
       "capacity": 200
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Reiki Infused Sound Bath | Red Light - 40 min",
-      "booking_start_date": "2026-05-26 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-06-09",
-      "start_time": "12:00",
-      "available_spot_count": 25,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Red Light Yin + Sound Bath",
-      "booking_start_date": "2026-05-26 20:15",
-      "location": "Vancouver",
-      "start_date": "2026-06-09",
-      "start_time": "20:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Vinyasa Flow + Sound Bath",
-      "booking_start_date": "2026-05-28 18:10",
-      "location": "Vancouver",
-      "start_date": "2026-06-11",
-      "start_time": "18:10",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Reiki Infused Sound Bath w/ Scent + Integration",
-      "booking_start_date": "2026-05-30 19:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-13",
-      "start_time": "19:30",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Cosmic Gong Bath - 40 min",
-      "booking_start_date": "2026-06-01 11:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-15",
-      "start_time": "11:30",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Red Light Yin + Sound Bath",
-      "booking_start_date": "2026-06-02 20:15",
-      "location": "Vancouver",
-      "start_date": "2026-06-16",
-      "start_time": "20:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Vinyasa Flow + Sound Bath",
-      "booking_start_date": "2026-06-04 18:10",
-      "location": "Vancouver",
-      "start_date": "2026-06-18",
-      "start_time": "18:10",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Reiki Infused Sound Bath w/ Scent + Integration",
-      "booking_start_date": "2026-06-06 19:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-20",
-      "start_time": "19:30",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Cosmic Gong Bath - 40 min",
-      "booking_start_date": "2026-06-08 11:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-22",
-      "start_time": "11:30",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Red Light Yin + Sound Bath",
-      "booking_start_date": "2026-06-09 20:15",
-      "location": "Vancouver",
-      "start_date": "2026-06-23",
-      "start_time": "20:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Vinyasa Flow + Sound Bath",
-      "booking_start_date": "2026-06-11 18:10",
-      "location": "Vancouver",
-      "start_date": "2026-06-25",
-      "start_time": "18:10",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Reiki Infused Sound Bath w/ Scent + Integration",
-      "booking_start_date": "2026-06-13 19:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-27",
-      "start_time": "19:30",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Cosmic Gong Bath - 40 min",
-      "booking_start_date": "2026-06-15 11:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-29",
-      "start_time": "11:30",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Vinyasa Flow + Sound Bath",
-      "booking_start_date": "2026-06-18 18:10",
-      "location": "Vancouver",
-      "start_date": "2026-07-02",
-      "start_time": "18:10",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Reiki Infused Sound Bath w/ Scent + Integration",
-      "booking_start_date": "2026-06-20 19:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-04",
-      "start_time": "19:30",
-      "available_spot_count": 26,
-      "capacity": 26
     },
     {
       "studio": "All Method Studio",
@@ -1190,7 +960,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-29",
       "start_time": "17:30",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 49
     },
     {
