@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T11:01:18.984012-07:00",
+  "last_updated": "2026-05-23T12:43:37.314731-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -8,7 +8,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-23",
       "start_time": "17:45",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 36
     },
     {
@@ -18,7 +18,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-29",
       "start_time": "16:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 45
     },
     {
@@ -130,7 +130,7 @@
       "location": "Gastown",
       "start_date": "2026-05-26",
       "start_time": "09:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -270,7 +270,7 @@
       "location": "Kitsilano",
       "start_date": "2026-06-17",
       "start_time": "14:30",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 16
     },
     {
@@ -290,7 +290,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-23",
       "start_time": "17:45",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 36
     },
     {
@@ -300,7 +300,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-29",
       "start_time": "16:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 45
     },
     {
@@ -665,16 +665,6 @@
     },
     {
       "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin | Sponsored By Ovry",
-      "booking_start_date": "2026-05-09 10:30",
-      "location": "Railway",
-      "start_date": "2026-05-23",
-      "start_time": "10:30",
-      "available_spot_count": 4,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
       "name": "ALL Reformer - Jump Happy Hour 55 mins",
       "booking_start_date": "2026-05-12 10:00",
       "location": "Railway",
@@ -875,16 +865,6 @@
     },
     {
       "studio": "Turf",
-      "name": "TurF x Fairgrounds",
-      "booking_start_date": "2026-04-23 09:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-23",
-      "start_time": "09:30",
-      "available_spot_count": 4,
-      "capacity": 36
-    },
-    {
-      "studio": "Turf",
       "name": "Mat Werk 45 min *Co-teach*",
       "booking_start_date": "2026-05-20 17:15",
       "location": "KITS - Vancouver",
@@ -910,7 +890,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-25",
       "start_time": "09:45",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
@@ -930,7 +910,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-29",
       "start_time": "09:45",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
@@ -950,7 +930,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-29",
       "start_time": "18:40",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -960,7 +940,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "10:40",
-      "available_spot_count": 49,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
@@ -970,7 +950,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "13:00",
-      "available_spot_count": 49,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
