@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T15:31:38.853339-07:00",
+  "last_updated": "2026-05-24T16:59:04.913088-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -55,16 +55,6 @@
   "sponsored": [
     {
       "studio": "Lagree West",
-      "name": "Trainer Development",
-      "booking_start_date": "2026-05-17 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-24",
-      "start_time": "15:00",
-      "available_spot_count": 1,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
       "name": "Megaformer x SmartSweets",
       "booking_start_date": "2026-05-18 00:00",
       "location": "Main St",
@@ -110,7 +100,7 @@
       "location": "Gastown",
       "start_date": "2026-05-26",
       "start_time": "09:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -180,7 +170,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-28",
       "start_time": "15:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 16
     },
     {
@@ -350,7 +340,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-25",
       "start_time": "09:00",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -650,7 +640,7 @@
       "location": "Railway",
       "start_date": "2026-05-27",
       "start_time": "10:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 9
     },
     {
@@ -670,7 +660,7 @@
       "location": "Railway",
       "start_date": "2026-05-30",
       "start_time": "09:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 10
     },
     {
@@ -680,7 +670,7 @@
       "location": "Railway",
       "start_date": "2026-05-30",
       "start_time": "10:30",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
@@ -850,7 +840,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-27",
       "start_time": "17:15",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 30
     },
     {
@@ -860,7 +850,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-27",
       "start_time": "18:30",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 30
     },
     {
@@ -900,7 +890,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-29",
       "start_time": "17:30",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 50
     },
     {
@@ -920,7 +910,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "10:40",
-      "available_spot_count": 40,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
@@ -940,7 +930,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-01",
       "start_time": "09:45",
-      "available_spot_count": 43,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
