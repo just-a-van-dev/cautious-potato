@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T05:34:34.009833-07:00",
+  "last_updated": "2026-05-25T08:50:43.788412-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -55,32 +55,12 @@
   "sponsored": [
     {
       "studio": "Lagree West",
-      "name": "Megaformer x SmartSweets",
-      "booking_start_date": "2026-05-18 00:00",
-      "location": "Main St",
-      "start_date": "2026-05-25",
-      "start_time": "05:15",
-      "available_spot_count": 0,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2026-04-25 08:00",
-      "location": "Gastown",
-      "start_date": "2026-05-25",
-      "start_time": "08:00",
-      "available_spot_count": 0,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
       "name": "Trainer Development",
       "booking_start_date": "2026-05-18 00:00",
       "location": "Gastown",
       "start_date": "2026-05-25",
       "start_time": "13:00",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 15
     },
     {
@@ -110,7 +90,17 @@
       "location": "Yaletown",
       "start_date": "2026-05-26",
       "start_time": "12:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Trainer Development",
+      "booking_start_date": "2026-05-19 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-05-26",
+      "start_time": "20:15",
+      "available_spot_count": 19,
       "capacity": 20
     },
     {
@@ -210,7 +200,7 @@
       "location": "Gastown",
       "start_date": "2026-05-31",
       "start_time": "09:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -219,7 +209,7 @@
       "booking_start_date": "2026-05-24 00:00",
       "location": "Main St",
       "start_date": "2026-05-31",
-      "start_time": "18:30",
+      "start_time": "19:30",
       "available_spot_count": 10,
       "capacity": 14
     },
@@ -300,7 +290,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-01",
       "start_time": "07:15",
-      "available_spot_count": 29,
+      "available_spot_count": 24,
       "capacity": 36
     },
     {
@@ -335,26 +325,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-05-18 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-25",
-      "start_time": "08:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-18 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-25",
-      "start_time": "10:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-05-18 11:00",
       "location": "Vancouver",
@@ -380,6 +350,16 @@
       "location": "Vancouver",
       "start_date": "2026-05-25",
       "start_time": "15:30",
+      "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-05-18 16:30",
+      "location": "Vancouver",
+      "start_date": "2026-05-25",
+      "start_time": "16:30",
       "available_spot_count": 7,
       "capacity": 12
     },
@@ -400,7 +380,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-26",
       "start_time": "10:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -420,7 +400,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-26",
       "start_time": "14:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -924,13 +904,33 @@
       "capacity": 30
     },
     {
+      "studio": "Turf",
+      "name": "meta 45 *co-teach*",
+      "booking_start_date": "2026-05-21 08:15",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-05-28",
+      "start_time": "08:15",
+      "available_spot_count": 22,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "Meta + Mat Werk *co-teach*",
+      "booking_start_date": "2026-05-24 11:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-05-31",
+      "start_time": "11:00",
+      "available_spot_count": 24,
+      "capacity": 34
+    },
+    {
       "studio": "Spin Society",
       "name": "THEME: AFROHOUSE X HIP HOP",
       "booking_start_date": "2026-05-17 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-25",
       "start_time": "09:45",
-      "available_spot_count": 35,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -980,7 +980,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "10:40",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -1000,7 +1000,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-01",
       "start_time": "09:45",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
