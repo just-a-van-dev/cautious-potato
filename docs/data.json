@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T10:43:21.659297-07:00",
+  "last_updated": "2026-05-25T12:39:51.277886-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -60,7 +60,7 @@
       "location": "Gastown",
       "start_date": "2026-05-25",
       "start_time": "13:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
@@ -70,7 +70,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-25",
       "start_time": "13:15",
-      "available_spot_count": 3,
+      "available_spot_count": 0,
       "capacity": 20
     },
     {
@@ -90,7 +90,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-26",
       "start_time": "12:15",
-      "available_spot_count": 0,
+      "available_spot_count": 2,
       "capacity": 20
     },
     {
@@ -100,7 +100,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-26",
       "start_time": "20:15",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 20
     },
     {
@@ -140,7 +140,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-27",
       "start_time": "15:15",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 20
     },
     {
@@ -290,7 +290,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-01",
       "start_time": "07:15",
-      "available_spot_count": 23,
+      "available_spot_count": 21,
       "capacity": 36
     },
     {
@@ -322,16 +322,6 @@
       "start_time": "17:45",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-18 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-25",
-      "start_time": "11:00",
-      "available_spot_count": 6,
-      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -380,7 +370,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-26",
       "start_time": "10:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -685,6 +675,16 @@
     },
     {
       "studio": "All Method Studio",
+      "name": "ALL Reformer - Bridge sponsored by Ideally",
+      "booking_start_date": "2026-05-13 17:30",
+      "location": "Railway",
+      "start_date": "2026-05-27",
+      "start_time": "17:30",
+      "available_spot_count": 0,
+      "capacity": 9
+    },
+    {
+      "studio": "All Method Studio",
       "name": "ALL Reformer - Begin Happy Hour 55 mins",
       "booking_start_date": "2026-05-14 10:00",
       "location": "Railway",
@@ -900,7 +900,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-27",
       "start_time": "18:30",
-      "available_spot_count": 20,
+      "available_spot_count": 16,
       "capacity": 30
     },
     {
@@ -920,8 +920,18 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-31",
       "start_time": "11:00",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 34
+    },
+    {
+      "studio": "Turf",
+      "name": "CO-TEACH \ud83e\udea9 meta x mat werk",
+      "booking_start_date": "2026-05-25 08:15",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-06-01",
+      "start_time": "08:15",
+      "available_spot_count": 30,
+      "capacity": 32
     },
     {
       "studio": "Spin Society",
@@ -940,7 +950,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-29",
       "start_time": "09:45",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -980,7 +990,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "13:00",
-      "available_spot_count": 36,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -1000,7 +1010,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-02",
       "start_time": "07:15",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
