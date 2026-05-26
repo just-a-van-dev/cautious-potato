@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T21:43:14.029020-07:00",
+  "last_updated": "2026-05-25T23:59:09.154059-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -60,7 +60,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-26",
       "start_time": "20:15",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 20
     },
     {
@@ -90,7 +90,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-27",
       "start_time": "14:15",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 20
     },
     {
@@ -170,7 +170,7 @@
       "location": "Main St",
       "start_date": "2026-05-31",
       "start_time": "19:30",
-      "available_spot_count": 7,
+      "available_spot_count": 4,
       "capacity": 14
     },
     {
@@ -250,7 +250,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-01",
       "start_time": "07:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 36
     },
     {
@@ -290,7 +290,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-26",
       "start_time": "10:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -330,7 +330,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-27",
       "start_time": "10:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -345,7 +345,7 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
+      "name": "Full Body Headsets x Ariana Grande x Sahajan",
       "booking_start_date": "2026-05-21 09:00",
       "location": "Vancouver",
       "start_date": "2026-05-28",
@@ -515,16 +515,6 @@
     },
     {
       "studio": "Evolution",
-      "name": "Infrared Lagree - Themed",
-      "booking_start_date": "2026-05-22 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-05",
-      "start_time": "18:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
       "name": "Lagree - Trainer Development Class",
       "booking_start_date": "2026-05-25 18:30",
       "location": "Vancouver",
@@ -570,36 +560,6 @@
       "location": "Vancouver",
       "start_date": "2026-06-12",
       "start_time": "07:45",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - Themed",
-      "booking_start_date": "2026-05-29 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-12",
-      "start_time": "18:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - Themed",
-      "booking_start_date": "2026-06-05 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-19",
-      "start_time": "18:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - Themed",
-      "booking_start_date": "2026-06-12 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-26",
-      "start_time": "18:30",
       "available_spot_count": 10,
       "capacity": 10
     },
@@ -920,7 +880,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-29",
       "start_time": "09:45",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
@@ -950,7 +910,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "10:40",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -960,7 +920,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "13:00",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
