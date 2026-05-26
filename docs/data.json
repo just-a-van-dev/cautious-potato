@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T09:23:17.342412-07:00",
+  "last_updated": "2026-05-26T11:41:18.415010-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -60,7 +60,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-26",
       "start_time": "20:15",
-      "available_spot_count": 16,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -100,7 +100,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-27",
       "start_time": "15:15",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 20
     },
     {
@@ -170,7 +170,7 @@
       "location": "Main St",
       "start_date": "2026-05-31",
       "start_time": "19:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 14
     },
     {
@@ -250,7 +250,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-01",
       "start_time": "07:15",
-      "available_spot_count": 11,
+      "available_spot_count": 8,
       "capacity": 36
     },
     {
@@ -285,16 +285,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Workout With Headsets",
-      "booking_start_date": "2026-05-19 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-26",
-      "start_time": "10:00",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-05-19 13:00",
       "location": "Vancouver",
@@ -320,7 +310,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-27",
       "start_time": "08:00",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -555,16 +545,6 @@
     },
     {
       "studio": "All Method Studio",
-      "name": "ALL Reformer - Jump Happy Hour 55 mins",
-      "booking_start_date": "2026-05-12 10:00",
-      "location": "Railway",
-      "start_date": "2026-05-26",
-      "start_time": "10:00",
-      "available_spot_count": 6,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
       "name": "ALL Reformer - Begin Happy Hour 55 mins",
       "booking_start_date": "2026-05-13 10:00",
       "location": "Railway",
@@ -590,7 +570,7 @@
       "location": "Railway",
       "start_date": "2026-05-28",
       "start_time": "10:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 9
     },
     {
@@ -600,7 +580,7 @@
       "location": "Railway",
       "start_date": "2026-05-30",
       "start_time": "09:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
@@ -800,7 +780,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-27",
       "start_time": "17:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 30
     },
     {
@@ -890,7 +870,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "10:40",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -910,7 +890,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-01",
       "start_time": "09:45",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -920,7 +900,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-02",
       "start_time": "07:15",
-      "available_spot_count": 46,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -940,7 +920,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-04",
       "start_time": "09:45",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -950,7 +930,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-05",
       "start_time": "18:40",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 50
     }
   ]
