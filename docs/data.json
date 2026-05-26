@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T15:33:46.422047-07:00",
+  "last_updated": "2026-05-25T17:05:41.984148-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -53,26 +53,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Ojaie",
-      "booking_start_date": "2026-05-19 00:00",
-      "location": "Gastown",
-      "start_date": "2026-05-26",
-      "start_time": "09:00",
-      "available_spot_count": 0,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megafomer x Ojaie",
-      "booking_start_date": "2026-05-19 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-05-26",
-      "start_time": "12:15",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
     {
       "studio": "Lagree West",
       "name": "Trainer Development",
@@ -270,7 +250,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-01",
       "start_time": "07:15",
-      "available_spot_count": 18,
+      "available_spot_count": 16,
       "capacity": 36
     },
     {
@@ -305,36 +285,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-18 15:30",
-      "location": "Vancouver",
-      "start_date": "2026-05-25",
-      "start_time": "15:30",
-      "available_spot_count": 1,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-05-18 16:30",
-      "location": "Vancouver",
-      "start_date": "2026-05-25",
-      "start_time": "16:30",
-      "available_spot_count": 3,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-05-19 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-26",
-      "start_time": "08:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body Workout With Headsets",
       "booking_start_date": "2026-05-19 10:00",
       "location": "Vancouver",
@@ -350,7 +300,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-26",
       "start_time": "13:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -360,7 +310,37 @@
       "location": "Vancouver",
       "start_date": "2026-05-26",
       "start_time": "14:00",
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-05-20 08:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-27",
+      "start_time": "08:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-05-20 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-27",
+      "start_time": "10:00",
       "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-05-20 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-27",
+      "start_time": "14:00",
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -424,6 +404,16 @@
       "capacity": 12
     },
     {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-07-02 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-09",
+      "start_time": "09:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
       "studio": "Evolution",
       "name": "Lagree - Trainer Development Class",
       "booking_start_date": "2026-05-12 05:45",
@@ -440,7 +430,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-26",
       "start_time": "06:45",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 10
     },
     {
@@ -630,7 +620,7 @@
       "location": "Railway",
       "start_date": "2026-05-26",
       "start_time": "10:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 9
     },
     {
@@ -660,7 +650,7 @@
       "location": "Railway",
       "start_date": "2026-05-28",
       "start_time": "10:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 9
     },
     {
@@ -849,6 +839,16 @@
       "booking_start_date": "2026-06-24 10:00",
       "location": "Railway",
       "start_date": "2026-07-08",
+      "start_time": "10:00",
+      "available_spot_count": 9,
+      "capacity": 9
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Reformer - Begin Happy Hour 55 mins",
+      "booking_start_date": "2026-06-25 10:00",
+      "location": "Railway",
+      "start_date": "2026-07-09",
       "start_time": "10:00",
       "available_spot_count": 9,
       "capacity": 9
