@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T11:41:18.415010-07:00",
+  "last_updated": "2026-05-26T13:52:46.001855-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -120,8 +120,18 @@
       "location": "Kitsilano",
       "start_date": "2026-05-28",
       "start_time": "15:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Ojoie",
+      "booking_start_date": "2026-05-22 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-05-29",
+      "start_time": "14:15",
+      "available_spot_count": 13,
+      "capacity": 20
     },
     {
       "studio": "Lagree West",
@@ -286,21 +296,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-19 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-26",
-      "start_time": "13:00",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-05-19 14:00",
       "location": "Vancouver",
       "start_date": "2026-05-26",
       "start_time": "14:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -310,7 +310,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-27",
       "start_time": "08:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -320,7 +320,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-27",
       "start_time": "10:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -340,7 +340,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-28",
       "start_time": "09:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -560,7 +560,7 @@
       "location": "Railway",
       "start_date": "2026-05-27",
       "start_time": "17:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 9
     },
     {
@@ -780,7 +780,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-27",
       "start_time": "17:15",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 30
     },
     {
@@ -790,7 +790,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-27",
       "start_time": "18:30",
-      "available_spot_count": 15,
+      "available_spot_count": 16,
       "capacity": 30
     },
     {
@@ -820,7 +820,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-01",
       "start_time": "08:15",
-      "available_spot_count": 29,
+      "available_spot_count": 27,
       "capacity": 32
     },
     {
@@ -830,7 +830,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-28",
       "start_time": "09:45",
-      "available_spot_count": 40,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -870,7 +870,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "10:40",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
@@ -895,6 +895,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: MADONNA X GAGA",
+      "booking_start_date": "2026-05-24 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-06-01",
+      "start_time": "19:50",
+      "available_spot_count": 43,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: FRED AGAIN x BUNT",
       "booking_start_date": "2026-05-25 12:00",
       "location": "MOUNT PLEASANT",
@@ -910,7 +920,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-03",
       "start_time": "19:50",
-      "available_spot_count": 48,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
@@ -925,12 +935,62 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: DRAKE x TAYLOR SWIFT",
+      "booking_start_date": "2026-05-28 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-06-05",
+      "start_time": "16:20",
+      "available_spot_count": 49,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: ARIANA: HITS - ARI & FRIENDS",
       "booking_start_date": "2026-05-28 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-05",
       "start_time": "18:40",
       "available_spot_count": 45,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: HOT K-POP SUMMER",
+      "booking_start_date": "2026-05-30 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-06-07",
+      "start_time": "11:50",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: REZZ x ZABO",
+      "booking_start_date": "2026-05-31 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-06-08",
+      "start_time": "06:00",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BEYONC\u00c9 x RIHANNA",
+      "booking_start_date": "2026-05-31 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-06-08",
+      "start_time": "07:15",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: POP DIVAS REMIXED",
+      "booking_start_date": "2026-05-31 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-06-08",
+      "start_time": "19:50",
+      "available_spot_count": 50,
       "capacity": 50
     }
   ]
