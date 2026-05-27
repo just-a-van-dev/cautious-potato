@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T20:52:01.363410-07:00",
+  "last_updated": "2026-05-27T01:04:10.086133-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -38,7 +38,7 @@
       "location": "West End",
       "start_date": "2026-05-30",
       "start_time": "13:00",
-      "available_spot_count": 10,
+      "available_spot_count": 5,
       "capacity": 17
     },
     {
@@ -48,7 +48,7 @@
       "location": "West End",
       "start_date": "2026-05-30",
       "start_time": "14:00",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 23
     }
   ],
@@ -60,7 +60,7 @@
       "location": "Main St",
       "start_date": "2026-05-27",
       "start_time": "05:15",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 14
     },
     {
@@ -110,7 +110,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-28",
       "start_time": "15:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 16
     },
     {
@@ -120,7 +120,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-29",
       "start_time": "14:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -285,32 +285,22 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-05-20 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-27",
-      "start_time": "08:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-05-20 10:00",
       "location": "Vancouver",
       "start_date": "2026-05-27",
       "start_time": "10:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-20 12:00",
+      "booking_start_date": "2026-05-20 13:00",
       "location": "Vancouver",
       "start_date": "2026-05-27",
-      "start_time": "12:00",
-      "available_spot_count": 5,
+      "start_time": "13:00",
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -320,7 +310,17 @@
       "location": "Vancouver",
       "start_date": "2026-05-27",
       "start_time": "14:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-05-20 16:30",
+      "location": "Vancouver",
+      "start_date": "2026-05-27",
+      "start_time": "16:30",
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -331,26 +331,6 @@
       "start_date": "2026-05-28",
       "start_time": "09:00",
       "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-21 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-28",
-      "start_time": "10:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-21 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-28",
-      "start_time": "11:00",
-      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -580,7 +560,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-01",
       "start_time": "18:40",
-      "available_spot_count": 39,
+      "available_spot_count": 37,
       "capacity": 40
     },
     {
@@ -600,7 +580,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-02",
       "start_time": "12:00",
-      "available_spot_count": 38,
+      "available_spot_count": 36,
       "capacity": 38
     },
     {
@@ -670,7 +650,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-08",
       "start_time": "18:40",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 40
     },
     {
@@ -990,7 +970,7 @@
       "location": "Railway",
       "start_date": "2026-05-27",
       "start_time": "17:30",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 9
     },
     {
@@ -1240,7 +1220,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-31",
       "start_time": "11:00",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 34
     },
     {
@@ -1260,7 +1240,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-28",
       "start_time": "09:45",
-      "available_spot_count": 41,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
@@ -1280,7 +1260,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-29",
       "start_time": "17:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 50
     },
     {
@@ -1300,7 +1280,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "10:40",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -1310,7 +1290,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "13:00",
-      "available_spot_count": 31,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -1320,7 +1300,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-01",
       "start_time": "09:45",
-      "available_spot_count": 34,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -1330,7 +1310,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-01",
       "start_time": "19:50",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -1350,7 +1330,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-03",
       "start_time": "19:50",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
