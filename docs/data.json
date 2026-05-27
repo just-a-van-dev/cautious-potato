@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T11:26:09.772677-07:00",
+  "last_updated": "2026-05-27T13:33:08.308559-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -70,7 +70,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-27",
       "start_time": "14:15",
-      "available_spot_count": 13,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -100,7 +100,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-28",
       "start_time": "15:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 16
     },
     {
@@ -276,21 +276,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-20 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-27",
-      "start_time": "12:00",
-      "available_spot_count": 3,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-05-20 13:00",
       "location": "Vancouver",
       "start_date": "2026-05-27",
       "start_time": "13:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -300,7 +290,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-27",
       "start_time": "16:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -310,6 +300,16 @@
       "location": "Vancouver",
       "start_date": "2026-05-28",
       "start_time": "09:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-05-21 11:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-28",
+      "start_time": "11:00",
       "available_spot_count": 7,
       "capacity": 12
     },
@@ -600,7 +600,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-03",
       "start_time": "12:15",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 26
     },
     {
@@ -1180,7 +1180,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-27",
       "start_time": "17:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 30
     },
     {
@@ -1190,7 +1190,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-27",
       "start_time": "18:30",
-      "available_spot_count": 13,
+      "available_spot_count": 10,
       "capacity": 30
     },
     {
@@ -1200,7 +1200,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-28",
       "start_time": "08:15",
-      "available_spot_count": 21,
+      "available_spot_count": 19,
       "capacity": 32
     },
     {
@@ -1240,7 +1240,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-29",
       "start_time": "09:45",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -1280,7 +1280,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "13:00",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -1290,7 +1290,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-01",
       "start_time": "09:45",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -1320,7 +1320,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-03",
       "start_time": "19:50",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
@@ -1330,7 +1330,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-04",
       "start_time": "09:45",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -1390,6 +1390,16 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "19:50",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BTS WAKE-UP",
+      "booking_start_date": "2026-06-02 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-06-10",
+      "start_time": "07:15",
       "available_spot_count": 50,
       "capacity": 50
     }
