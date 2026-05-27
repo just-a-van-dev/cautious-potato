@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T16:39:09.988604-07:00",
+  "last_updated": "2026-05-26T20:52:01.363410-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -38,7 +38,7 @@
       "location": "West End",
       "start_date": "2026-05-30",
       "start_time": "13:00",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 17
     },
     {
@@ -48,21 +48,11 @@
       "location": "West End",
       "start_date": "2026-05-30",
       "start_time": "14:00",
-      "available_spot_count": 22,
+      "available_spot_count": 18,
       "capacity": 23
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Trainer Development",
-      "booking_start_date": "2026-05-19 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-05-26",
-      "start_time": "20:15",
-      "available_spot_count": 5,
-      "capacity": 20
-    },
     {
       "studio": "Lagree West",
       "name": "Megaformer x SmartSweets",
@@ -70,7 +60,7 @@
       "location": "Main St",
       "start_date": "2026-05-27",
       "start_time": "05:15",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 14
     },
     {
@@ -90,7 +80,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-27",
       "start_time": "14:15",
-      "available_spot_count": 16,
+      "available_spot_count": 14,
       "capacity": 20
     },
     {
@@ -100,7 +90,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-27",
       "start_time": "15:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 20
     },
     {
@@ -120,7 +110,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-28",
       "start_time": "15:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 16
     },
     {
@@ -180,7 +170,7 @@
       "location": "Main St",
       "start_date": "2026-05-31",
       "start_time": "19:30",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 14
     },
     {
@@ -200,7 +190,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-09",
       "start_time": "13:15",
-      "available_spot_count": 18,
+      "available_spot_count": 16,
       "capacity": 20
     },
     {
@@ -210,7 +200,7 @@
       "location": "Main St",
       "start_date": "2026-06-10",
       "start_time": "20:15",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 14
     },
     {
@@ -220,7 +210,7 @@
       "location": "Kitsilano",
       "start_date": "2026-06-17",
       "start_time": "14:30",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 16
     },
     {
@@ -296,21 +286,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-05-19 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-05-26",
-      "start_time": "18:30",
-      "available_spot_count": 9,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
       "booking_start_date": "2026-05-20 08:00",
       "location": "Vancouver",
       "start_date": "2026-05-27",
       "start_time": "08:00",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -320,7 +300,17 @@
       "location": "Vancouver",
       "start_date": "2026-05-27",
       "start_time": "10:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-05-20 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-27",
+      "start_time": "12:00",
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -346,11 +336,41 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-05-21 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-28",
+      "start_time": "10:00",
+      "available_spot_count": 5,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-05-21 11:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-28",
+      "start_time": "11:00",
+      "available_spot_count": 5,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-05-21 13:00",
       "location": "Vancouver",
       "start_date": "2026-05-28",
       "start_time": "13:00",
       "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Full Body Headsets x Scentuals",
+      "booking_start_date": "2026-05-22 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-05-29",
+      "start_time": "09:00",
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -545,6 +565,86 @@
     },
     {
       "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Lower Body",
+      "booking_start_date": "2026-05-18 12:15",
+      "location": "Vancouver",
+      "start_date": "2026-06-01",
+      "start_time": "12:15",
+      "available_spot_count": 21,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Arms + Abs",
+      "booking_start_date": "2026-05-18 18:40",
+      "location": "Vancouver",
+      "start_date": "2026-06-01",
+      "start_time": "18:40",
+      "available_spot_count": 39,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Lower Body",
+      "booking_start_date": "2026-05-26 07:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-02",
+      "start_time": "07:30",
+      "available_spot_count": 37,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Arms + Abs",
+      "booking_start_date": "2026-05-19 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-02",
+      "start_time": "12:00",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Arms + Abs",
+      "booking_start_date": "2026-05-20 09:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-03",
+      "start_time": "09:30",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Lower Body",
+      "booking_start_date": "2026-05-20 12:15",
+      "location": "Vancouver",
+      "start_date": "2026-06-03",
+      "start_time": "12:15",
+      "available_spot_count": 25,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Lower Body",
+      "booking_start_date": "2026-05-21 17:15",
+      "location": "Vancouver",
+      "start_date": "2026-06-04",
+      "start_time": "17:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Arms + Abs",
+      "booking_start_date": "2026-05-22 09:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-05",
+      "start_time": "09:30",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
       "name": "Coffee + Cacao Party",
       "booking_start_date": "2026-04-26 11:00",
       "location": "Vancouver",
@@ -552,6 +652,326 @@
       "start_time": "11:00",
       "available_spot_count": 118,
       "capacity": 120
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Lower Body",
+      "booking_start_date": "2026-05-25 12:15",
+      "location": "Vancouver",
+      "start_date": "2026-06-08",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Arms + Abs",
+      "booking_start_date": "2026-05-25 18:40",
+      "location": "Vancouver",
+      "start_date": "2026-06-08",
+      "start_time": "18:40",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Lower Body",
+      "booking_start_date": "2026-06-02 07:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-09",
+      "start_time": "07:30",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Arms + Abs",
+      "booking_start_date": "2026-05-26 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-09",
+      "start_time": "12:00",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Arms + Abs",
+      "booking_start_date": "2026-05-27 09:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-10",
+      "start_time": "09:30",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Lower Body",
+      "booking_start_date": "2026-05-27 12:15",
+      "location": "Vancouver",
+      "start_date": "2026-06-10",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Lower Body",
+      "booking_start_date": "2026-05-28 17:15",
+      "location": "Vancouver",
+      "start_date": "2026-06-11",
+      "start_time": "17:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Arms + Abs",
+      "booking_start_date": "2026-05-29 09:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-12",
+      "start_time": "09:30",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Arms + Abs",
+      "booking_start_date": "2026-06-01 18:40",
+      "location": "Vancouver",
+      "start_date": "2026-06-15",
+      "start_time": "18:40",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Arms + Abs",
+      "booking_start_date": "2026-06-03 09:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-17",
+      "start_time": "09:30",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Lower Body",
+      "booking_start_date": "2026-06-04 17:15",
+      "location": "Vancouver",
+      "start_date": "2026-06-18",
+      "start_time": "17:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Arms + Abs",
+      "booking_start_date": "2026-06-08 18:40",
+      "location": "Vancouver",
+      "start_date": "2026-06-22",
+      "start_time": "18:40",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Arms + Abs",
+      "booking_start_date": "2026-06-10 09:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-24",
+      "start_time": "09:30",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Lower Body",
+      "booking_start_date": "2026-06-10 12:15",
+      "location": "Vancouver",
+      "start_date": "2026-06-24",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Lower Body",
+      "booking_start_date": "2026-06-11 17:15",
+      "location": "Vancouver",
+      "start_date": "2026-06-25",
+      "start_time": "17:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Arms + Abs",
+      "booking_start_date": "2026-06-12 09:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-26",
+      "start_time": "09:30",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Lower Body",
+      "booking_start_date": "2026-06-15 12:15",
+      "location": "Vancouver",
+      "start_date": "2026-06-29",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Arms + Abs",
+      "booking_start_date": "2026-06-15 18:40",
+      "location": "Vancouver",
+      "start_date": "2026-06-29",
+      "start_time": "18:40",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Lower Body",
+      "booking_start_date": "2026-06-23 07:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-30",
+      "start_time": "07:30",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Arms + Abs",
+      "booking_start_date": "2026-06-16 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-30",
+      "start_time": "12:00",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Arms + Abs",
+      "booking_start_date": "2026-06-17 09:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-01",
+      "start_time": "09:30",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Lower Body",
+      "booking_start_date": "2026-06-17 12:15",
+      "location": "Vancouver",
+      "start_date": "2026-07-01",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Lower Body",
+      "booking_start_date": "2026-06-18 17:15",
+      "location": "Vancouver",
+      "start_date": "2026-07-02",
+      "start_time": "17:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Arms + Abs",
+      "booking_start_date": "2026-06-19 09:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-03",
+      "start_time": "09:30",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Lower Body",
+      "booking_start_date": "2026-06-22 12:15",
+      "location": "Vancouver",
+      "start_date": "2026-07-06",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Arms + Abs",
+      "booking_start_date": "2026-06-22 18:40",
+      "location": "Vancouver",
+      "start_date": "2026-07-06",
+      "start_time": "18:40",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Lower Body",
+      "booking_start_date": "2026-06-30 07:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-07",
+      "start_time": "07:30",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Arms + Abs",
+      "booking_start_date": "2026-06-23 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-07",
+      "start_time": "12:00",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Arms + Abs",
+      "booking_start_date": "2026-06-24 09:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-08",
+      "start_time": "09:30",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Lower Body",
+      "booking_start_date": "2026-06-24 12:15",
+      "location": "Vancouver",
+      "start_date": "2026-07-08",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Lower Body",
+      "booking_start_date": "2026-06-25 17:15",
+      "location": "Vancouver",
+      "start_date": "2026-07-09",
+      "start_time": "17:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Arms + Abs",
+      "booking_start_date": "2026-06-26 09:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-10",
+      "start_time": "09:30",
+      "available_spot_count": 26,
+      "capacity": 26
     },
     {
       "studio": "All Method Studio",
@@ -570,7 +990,7 @@
       "location": "Railway",
       "start_date": "2026-05-27",
       "start_time": "17:30",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 9
     },
     {
@@ -600,7 +1020,7 @@
       "location": "Railway",
       "start_date": "2026-05-30",
       "start_time": "10:30",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 10
     },
     {
@@ -790,7 +1210,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-27",
       "start_time": "17:15",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 30
     },
     {
@@ -800,7 +1220,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-27",
       "start_time": "18:30",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 30
     },
     {
@@ -810,7 +1230,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-28",
       "start_time": "08:15",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 32
     },
     {
@@ -820,7 +1240,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-31",
       "start_time": "11:00",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 34
     },
     {
@@ -840,7 +1260,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-28",
       "start_time": "09:45",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -850,7 +1270,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-29",
       "start_time": "09:45",
-      "available_spot_count": 36,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -860,7 +1280,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-29",
       "start_time": "17:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -880,7 +1300,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "10:40",
-      "available_spot_count": 33,
+      "available_spot_count": 30,
       "capacity": 50
     },
     {
@@ -920,7 +1340,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-02",
       "start_time": "07:15",
-      "available_spot_count": 44,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -930,7 +1350,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-03",
       "start_time": "19:50",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
