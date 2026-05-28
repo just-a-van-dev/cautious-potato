@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T09:12:53.081896-07:00",
+  "last_updated": "2026-05-28T12:10:56.478115-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -70,7 +70,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-28",
       "start_time": "15:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 16
     },
     {
@@ -80,7 +80,7 @@
       "location": "Gastown",
       "start_date": "2026-05-29",
       "start_time": "09:00",
-      "available_spot_count": 6,
+      "available_spot_count": 2,
       "capacity": 15
     },
     {
@@ -110,7 +110,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-29",
       "start_time": "16:30",
-      "available_spot_count": 12,
+      "available_spot_count": 14,
       "capacity": 26
     },
     {
@@ -255,32 +255,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk x Ariana Grande x Sahajan",
-      "booking_start_date": "2026-05-21 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-28",
-      "start_time": "09:00",
-      "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-21 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-05-28",
-      "start_time": "11:00",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-05-21 13:00",
       "location": "Vancouver",
       "start_date": "2026-05-28",
       "start_time": "13:00",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -380,7 +360,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-02",
       "start_time": "06:45",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -430,6 +410,16 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "07:45",
+      "available_spot_count": 9,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - MARIAH CAREY CLUB REMIX",
+      "booking_start_date": "2026-05-22 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-05",
+      "start_time": "18:30",
       "available_spot_count": 10,
       "capacity": 10
     },
@@ -484,6 +474,36 @@
       "capacity": 10
     },
     {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - BACK TO Y2K",
+      "booking_start_date": "2026-05-29 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-12",
+      "start_time": "18:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - GROOVY R&B",
+      "booking_start_date": "2026-06-05 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-19",
+      "start_time": "18:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - POP MIX",
+      "booking_start_date": "2026-06-12 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-26",
+      "start_time": "18:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
       "studio": "The Third",
       "name": "lagree full body - hbd Fio!",
       "booking_start_date": "2026-05-16 11:00",
@@ -500,7 +520,7 @@
       "location": "4th Ave",
       "start_date": "2026-05-30",
       "start_time": "12:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -520,7 +540,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-30",
       "start_time": "08:15",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 26
     },
     {
@@ -580,7 +600,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-03",
       "start_time": "12:15",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 26
     },
     {
@@ -985,16 +1005,6 @@
     },
     {
       "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin Happy Hour 55 mins",
-      "booking_start_date": "2026-05-14 10:00",
-      "location": "Railway",
-      "start_date": "2026-05-28",
-      "start_time": "10:00",
-      "available_spot_count": 4,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
       "name": "ALL Reformer - Bridge - Drake Inspired with Meagan",
       "booking_start_date": "2026-05-16 09:15",
       "location": "Railway",
@@ -1070,7 +1080,7 @@
       "location": "Railway",
       "start_date": "2026-06-11",
       "start_time": "10:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 9
     },
     {
@@ -1200,7 +1210,7 @@
       "location": "West End",
       "start_date": "2026-05-28",
       "start_time": "18:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 23
     },
     {
@@ -1210,7 +1220,7 @@
       "location": "West End",
       "start_date": "2026-05-29",
       "start_time": "07:00",
-      "available_spot_count": 17,
+      "available_spot_count": 14,
       "capacity": 23
     },
     {
@@ -1460,7 +1470,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-31",
       "start_time": "11:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 34
     },
     {
@@ -1472,16 +1482,6 @@
       "start_time": "08:15",
       "available_spot_count": 20,
       "capacity": 32
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: P!NK X BLACK EYED PEAS",
-      "booking_start_date": "2026-05-20 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-05-28",
-      "start_time": "09:45",
-      "available_spot_count": 39,
-      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -1500,7 +1500,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-29",
       "start_time": "17:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 50
     },
     {
@@ -1520,7 +1520,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "10:40",
-      "available_spot_count": 28,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -1550,7 +1550,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-01",
       "start_time": "19:50",
-      "available_spot_count": 39,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -1580,7 +1580,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-04",
       "start_time": "09:45",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
@@ -1600,7 +1600,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-05",
       "start_time": "18:40",
-      "available_spot_count": 45,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
