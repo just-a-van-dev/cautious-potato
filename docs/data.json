@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T13:25:13.565288-07:00",
+  "last_updated": "2026-05-29T15:11:47.648975-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -53,7 +53,7 @@
     },
     {
       "studio": "Ritual",
-      "name": "Yoga | Yin | Community Class",
+      "name": "Yoga | Yin (Community Class)",
       "booking_start_date": "2026-05-21 19:30",
       "location": "West End",
       "start_date": "2026-06-04",
@@ -73,16 +73,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Ojoie",
-      "booking_start_date": "2026-05-22 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-05-29",
-      "start_time": "14:15",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
     {
       "studio": "Lagree West",
       "name": "Happy Hour Megaformer x Picot Collective",
@@ -215,6 +205,26 @@
     },
     {
       "studio": "Jaybird",
+      "name": "The Being \u2014 Happy Hour",
+      "booking_start_date": "2026-06-02 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-06-09",
+      "start_time": "07:15",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Being \u2014 Happy Hour",
+      "booking_start_date": "2026-06-09 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-06-16",
+      "start_time": "07:15",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
       "name": "Sweat For A Cause | The Burn",
       "booking_start_date": "2026-06-09 00:00",
       "location": "Yaletown",
@@ -240,6 +250,36 @@
       "location": "Yaletown",
       "start_date": "2026-06-20",
       "start_time": "17:45",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Being \u2014 Happy Hour",
+      "booking_start_date": "2026-06-16 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-06-23",
+      "start_time": "07:15",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Being \u2014 Happy Hour",
+      "booking_start_date": "2026-06-23 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-06-30",
+      "start_time": "07:15",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Being \u2014 Happy Hour",
+      "booking_start_date": "2026-06-30 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-07-07",
+      "start_time": "07:15",
       "available_spot_count": 36,
       "capacity": 36
     },
@@ -310,7 +350,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-29",
       "start_time": "18:30",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 10
     },
     {
@@ -490,7 +530,7 @@
       "location": "4th Ave",
       "start_date": "2026-05-30",
       "start_time": "11:00",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 15
     },
     {
@@ -570,7 +610,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-03",
       "start_time": "09:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 38
     },
     {
@@ -590,7 +630,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-04",
       "start_time": "17:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 26
     },
     {
@@ -1450,7 +1490,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-29",
       "start_time": "17:30",
-      "available_spot_count": 3,
+      "available_spot_count": 0,
       "capacity": 50
     },
     {
