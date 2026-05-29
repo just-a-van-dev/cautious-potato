@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T10:33:02.993391-07:00",
+  "last_updated": "2026-05-29T11:39:42.978018-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -520,7 +520,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-30",
       "start_time": "08:15",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 26
     },
     {
@@ -600,7 +600,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "09:30",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 26
     },
     {
@@ -1190,7 +1190,7 @@
       "location": "West End",
       "start_date": "2026-05-30",
       "start_time": "09:30",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 23
     },
     {
@@ -1430,7 +1430,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-31",
       "start_time": "11:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 34
     },
     {
@@ -1445,22 +1445,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: USHER X BIEBER x LUDACRIS",
-      "booking_start_date": "2026-05-21 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-05-29",
-      "start_time": "09:45",
-      "available_spot_count": 29,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: KARAOKE SING-ALONG SONGS - VOL 3",
       "booking_start_date": "2026-05-21 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-29",
       "start_time": "17:30",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 50
     },
     {
