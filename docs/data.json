@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T15:11:47.648975-07:00",
+  "last_updated": "2026-05-29T16:48:50.377682-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -8,7 +8,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-29",
       "start_time": "16:00",
-      "available_spot_count": 0,
+      "available_spot_count": 2,
       "capacity": 45
     },
     {
@@ -58,7 +58,7 @@
       "location": "West End",
       "start_date": "2026-06-04",
       "start_time": "19:30",
-      "available_spot_count": 23,
+      "available_spot_count": 20,
       "capacity": 23
     },
     {
@@ -68,21 +68,11 @@
       "location": "West End",
       "start_date": "2026-06-07",
       "start_time": "16:30",
-      "available_spot_count": 23,
+      "available_spot_count": 20,
       "capacity": 23
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Picot Collective",
-      "booking_start_date": "2026-05-22 00:00",
-      "location": "Main St",
-      "start_date": "2026-05-29",
-      "start_time": "15:15",
-      "available_spot_count": 0,
-      "capacity": 14
-    },
     {
       "studio": "Lagree West",
       "name": "Mid-Day Mega Cardio Xpress - CHEST AND BACK x 1983",
@@ -90,7 +80,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-29",
       "start_time": "16:30",
-      "available_spot_count": 13,
+      "available_spot_count": 10,
       "capacity": 26
     },
     {
@@ -180,7 +170,7 @@
       "location": "Kingsway",
       "start_date": "2026-05-29",
       "start_time": "16:00",
-      "available_spot_count": 0,
+      "available_spot_count": 2,
       "capacity": 45
     },
     {
@@ -530,7 +520,7 @@
       "location": "4th Ave",
       "start_date": "2026-05-30",
       "start_time": "11:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
@@ -546,10 +536,80 @@
     {
       "studio": "The Third",
       "name": "The Third x Blume",
+      "booking_start_date": "2026-06-11 06:00",
+      "location": "4th Ave",
+      "start_date": "2026-06-25",
+      "start_time": "06:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "The Third",
+      "name": "The Third x Blume",
+      "booking_start_date": "2026-06-11 07:00",
+      "location": "4th Ave",
+      "start_date": "2026-06-25",
+      "start_time": "07:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "The Third",
+      "name": "The Third x Blume",
       "booking_start_date": "2026-06-11 18:30",
       "location": "4th Ave",
       "start_date": "2026-06-25",
       "start_time": "18:30",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "The Third",
+      "name": "The Third x Gummy Gainz",
+      "booking_start_date": "2026-06-19 06:30",
+      "location": "4th Ave",
+      "start_date": "2026-07-03",
+      "start_time": "06:30",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "The Third",
+      "name": "The Third x Gummy Gainz",
+      "booking_start_date": "2026-06-19 07:30",
+      "location": "4th Ave",
+      "start_date": "2026-07-03",
+      "start_time": "07:30",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "The Third",
+      "name": "The Third x Gummy Gainz",
+      "booking_start_date": "2026-06-19 12:00",
+      "location": "4th Ave",
+      "start_date": "2026-07-03",
+      "start_time": "12:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "The Third",
+      "name": "The Third x Gummy Gainz",
+      "booking_start_date": "2026-06-19 15:30",
+      "location": "4th Ave",
+      "start_date": "2026-07-03",
+      "start_time": "15:30",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "The Third",
+      "name": "The Third x Gummy Gainz",
+      "booking_start_date": "2026-06-19 16:30",
+      "location": "4th Ave",
+      "start_date": "2026-07-03",
+      "start_time": "16:30",
       "available_spot_count": 15,
       "capacity": 15
     },
@@ -560,7 +620,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-30",
       "start_time": "08:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 26
     },
     {
@@ -570,7 +630,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-01",
       "start_time": "12:15",
-      "available_spot_count": 21,
+      "available_spot_count": 22,
       "capacity": 26
     },
     {
@@ -580,7 +640,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-01",
       "start_time": "18:40",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 40
     },
     {
@@ -1230,7 +1290,7 @@
       "location": "West End",
       "start_date": "2026-05-30",
       "start_time": "09:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 23
     },
     {
@@ -1470,7 +1530,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-31",
       "start_time": "11:00",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 34
     },
     {
@@ -1490,7 +1550,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-29",
       "start_time": "17:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -1560,7 +1620,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-03",
       "start_time": "19:50",
-      "available_spot_count": 36,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -1580,7 +1640,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-05",
       "start_time": "16:20",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
