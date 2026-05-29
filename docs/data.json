@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T16:16:40.733588-07:00",
+  "last_updated": "2026-05-28T17:34:38.199771-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -70,7 +70,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-29",
       "start_time": "14:15",
-      "available_spot_count": 7,
+      "available_spot_count": 4,
       "capacity": 20
     },
     {
@@ -90,7 +90,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-29",
       "start_time": "16:30",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 26
     },
     {
@@ -235,7 +235,7 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Headsets x Scentuals",
+      "name": "Daytime Perk x Kaskade x Scentuals",
       "booking_start_date": "2026-05-22 09:00",
       "location": "Vancouver",
       "start_date": "2026-05-29",
@@ -250,7 +250,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-04",
       "start_time": "09:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -310,7 +310,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-29",
       "start_time": "18:30",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
@@ -330,7 +330,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-02",
       "start_time": "06:45",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -560,7 +560,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-03",
       "start_time": "09:30",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 38
     },
     {
@@ -1020,7 +1020,7 @@
       "location": "Railway",
       "start_date": "2026-06-04",
       "start_time": "10:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 9
     },
     {
@@ -1172,16 +1172,6 @@
       "start_time": "10:00",
       "available_spot_count": 9,
       "capacity": 9
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core",
-      "booking_start_date": "2026-02-27 18:00",
-      "location": "West End",
-      "start_date": "2026-05-28",
-      "start_time": "18:00",
-      "available_spot_count": 11,
-      "capacity": 23
     },
     {
       "studio": "Ritual",
@@ -1460,7 +1450,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-29",
       "start_time": "09:45",
-      "available_spot_count": 31,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -1490,7 +1480,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "10:40",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 50
     },
     {
