@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T23:13:56.665623-07:00",
+  "last_updated": "2026-05-29T03:28:57.171198-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -70,7 +70,7 @@
       "location": "Yaletown",
       "start_date": "2026-05-29",
       "start_time": "14:15",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 20
     },
     {
@@ -90,7 +90,7 @@
       "location": "Kitsilano",
       "start_date": "2026-05-29",
       "start_time": "16:30",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 26
     },
     {
@@ -490,7 +490,7 @@
       "location": "4th Ave",
       "start_date": "2026-05-30",
       "start_time": "12:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 15
     },
     {
@@ -980,7 +980,7 @@
       "location": "Railway",
       "start_date": "2026-05-30",
       "start_time": "09:15",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 10
     },
     {
@@ -1210,7 +1210,7 @@
       "location": "West End",
       "start_date": "2026-06-02",
       "start_time": "18:00",
-      "available_spot_count": 17,
+      "available_spot_count": 15,
       "capacity": 23
     },
     {
@@ -1450,7 +1450,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-29",
       "start_time": "09:45",
-      "available_spot_count": 32,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
@@ -1510,7 +1510,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-01",
       "start_time": "19:50",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -1520,7 +1520,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-02",
       "start_time": "07:15",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
