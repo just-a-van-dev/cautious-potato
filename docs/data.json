@@ -1,16 +1,6 @@
 {
-  "last_updated": "2026-05-29T16:48:50.377682-07:00",
+  "last_updated": "2026-05-29T19:40:40.612590-07:00",
   "special": [
-    {
-      "studio": "Jaybird",
-      "name": "The Burn + ALO Community Class",
-      "booking_start_date": "2026-05-22 16:00",
-      "location": "Kingsway",
-      "start_date": "2026-05-29",
-      "start_time": "16:00",
-      "available_spot_count": 2,
-      "capacity": 45
-    },
     {
       "studio": "Jaybird",
       "name": "The Burn + ALO Community Class",
@@ -43,12 +33,12 @@
     },
     {
       "studio": "Ritual",
-      "name": "ALO | Foundation | Community Class",
+      "name": "ALO | Foundation | FREE  Strength / Core",
       "booking_start_date": "2026-05-16 14:00",
       "location": "West End",
       "start_date": "2026-05-30",
       "start_time": "14:00",
-      "available_spot_count": 11,
+      "available_spot_count": 0,
       "capacity": 23
     },
     {
@@ -58,7 +48,7 @@
       "location": "West End",
       "start_date": "2026-06-04",
       "start_time": "19:30",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 23
     },
     {
@@ -68,21 +58,11 @@
       "location": "West End",
       "start_date": "2026-06-07",
       "start_time": "16:30",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 23
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress - CHEST AND BACK x 1983",
-      "booking_start_date": "2026-05-22 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-05-29",
-      "start_time": "16:30",
-      "available_spot_count": 10,
-      "capacity": 26
-    },
     {
       "studio": "Lagree West",
       "name": "Happy Hour Megaformer x MERIT",
@@ -110,7 +90,7 @@
       "location": "Main St",
       "start_date": "2026-05-31",
       "start_time": "19:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 14
     },
     {
@@ -162,16 +142,6 @@
       "start_time": "11:00",
       "available_spot_count": 15,
       "capacity": 15
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn + ALO Community Class",
-      "booking_start_date": "2026-05-22 16:00",
-      "location": "Kingsway",
-      "start_date": "2026-05-29",
-      "start_time": "16:00",
-      "available_spot_count": 2,
-      "capacity": 45
     },
     {
       "studio": "Jaybird",
@@ -332,16 +302,6 @@
       "start_time": "09:00",
       "available_spot_count": 12,
       "capacity": 12
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - FISHER VS CHRIS LAKE",
-      "booking_start_date": "2026-05-15 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-05-29",
-      "start_time": "18:30",
-      "available_spot_count": 2,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
@@ -520,7 +480,7 @@
       "location": "4th Ave",
       "start_date": "2026-05-30",
       "start_time": "11:00",
-      "available_spot_count": 13,
+      "available_spot_count": 10,
       "capacity": 15
     },
     {
@@ -630,7 +590,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-01",
       "start_time": "12:15",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 26
     },
     {
@@ -1084,6 +1044,26 @@
       "capacity": 26
     },
     {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Lower Body",
+      "booking_start_date": "2026-06-29 12:15",
+      "location": "Vancouver",
+      "start_date": "2026-07-13",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Arms + Abs",
+      "booking_start_date": "2026-06-29 18:40",
+      "location": "Vancouver",
+      "start_date": "2026-07-13",
+      "start_time": "18:40",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
       "studio": "All Method Studio",
       "name": "ALL Reformer - Bridge - Drake Inspired with Meagan",
       "booking_start_date": "2026-05-16 09:15",
@@ -1290,7 +1270,7 @@
       "location": "West End",
       "start_date": "2026-05-30",
       "start_time": "09:30",
-      "available_spot_count": 7,
+      "available_spot_count": 4,
       "capacity": 23
     },
     {
@@ -1524,6 +1504,16 @@
       "capacity": 23
     },
     {
+      "studio": "Ritual",
+      "name": "Foundation | Stability + Core (heated)",
+      "booking_start_date": "2026-04-14 07:00",
+      "location": "West End",
+      "start_date": "2026-07-13",
+      "start_time": "07:00",
+      "available_spot_count": 23,
+      "capacity": 23
+    },
+    {
       "studio": "Turf",
       "name": "Meta + Mat Werk *co-teach*",
       "booking_start_date": "2026-05-24 11:00",
@@ -1545,32 +1535,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: KARAOKE SING-ALONG SONGS - VOL 3",
-      "booking_start_date": "2026-05-21 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-05-29",
-      "start_time": "17:30",
-      "available_spot_count": 1,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: KARAOKE SING-ALONG SONGS - VOL 3 (AGAIN)",
-      "booking_start_date": "2026-05-21 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-05-29",
-      "start_time": "18:40",
-      "available_spot_count": 0,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: DRUM & BASS x TECH HOUSE",
       "booking_start_date": "2026-05-23 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "10:40",
-      "available_spot_count": 23,
+      "available_spot_count": 21,
       "capacity": 50
     },
     {
@@ -1580,7 +1550,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "13:00",
-      "available_spot_count": 29,
+      "available_spot_count": 27,
       "capacity": 50
     },
     {
@@ -1590,7 +1560,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-01",
       "start_time": "09:45",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 50
     },
     {
@@ -1610,7 +1580,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-02",
       "start_time": "07:15",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -1620,7 +1590,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-03",
       "start_time": "19:50",
-      "available_spot_count": 34,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -1650,7 +1620,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-05",
       "start_time": "18:40",
-      "available_spot_count": 25,
+      "available_spot_count": 20,
       "capacity": 50
     },
     {
@@ -1670,7 +1640,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "06:00",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
