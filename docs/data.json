@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T00:31:50.980266-07:00",
+  "last_updated": "2026-05-30T02:33:01.378701-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -1320,7 +1320,7 @@
       "location": "West End",
       "start_date": "2026-06-04",
       "start_time": "18:00",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 23
     },
     {
