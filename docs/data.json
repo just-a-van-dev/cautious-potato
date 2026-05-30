@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T10:20:30.932089-07:00",
+  "last_updated": "2026-05-30T11:46:47.787149-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -90,7 +90,7 @@
       "location": "Main St",
       "start_date": "2026-05-31",
       "start_time": "19:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 14
     },
     {
@@ -251,6 +251,26 @@
       "start_date": "2026-05-31",
       "start_time": "11:00",
       "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-05-25 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-01",
+      "start_time": "09:00",
+      "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-05-25 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-01",
+      "start_time": "13:00",
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -485,22 +505,12 @@
     },
     {
       "studio": "The Third",
-      "name": "lagree full body - hbd Fio!",
-      "booking_start_date": "2026-05-16 11:00",
-      "location": "4th Ave",
-      "start_date": "2026-05-30",
-      "start_time": "11:00",
-      "available_spot_count": 9,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
       "name": "lagree full body - Fio's birthday bash",
       "booking_start_date": "2026-05-16 12:00",
       "location": "4th Ave",
       "start_date": "2026-05-30",
       "start_time": "12:00",
-      "available_spot_count": 1,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -1065,16 +1075,6 @@
     },
     {
       "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin - Drake Inspired with Meag",
-      "booking_start_date": "2026-05-16 10:30",
-      "location": "Railway",
-      "start_date": "2026-05-30",
-      "start_time": "10:30",
-      "available_spot_count": 3,
-      "capacity": 10
-    },
-    {
-      "studio": "All Method Studio",
       "name": "ALL Reformer - Jump Happy Hour 55 mins",
       "booking_start_date": "2026-05-19 10:00",
       "location": "Railway",
@@ -1252,16 +1252,6 @@
       "start_time": "10:00",
       "available_spot_count": 9,
       "capacity": 9
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core (heated)",
-      "booking_start_date": "2026-03-01 09:30",
-      "location": "West End",
-      "start_date": "2026-05-30",
-      "start_time": "09:30",
-      "available_spot_count": 0,
-      "capacity": 23
     },
     {
       "studio": "Ritual",
@@ -1510,7 +1500,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-05-31",
       "start_time": "11:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 34
     },
     {
@@ -1524,13 +1514,33 @@
       "capacity": 32
     },
     {
+      "studio": "Turf",
+      "name": "Meta + Mat Werk 60 min *Co-teach*",
+      "booking_start_date": "2026-05-31 11:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-06-07",
+      "start_time": "11:00",
+      "available_spot_count": 34,
+      "capacity": 34
+    },
+    {
+      "studio": "Turf",
+      "name": "Mat Werk 45mins *Co-teach*",
+      "booking_start_date": "2026-06-03 07:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-06-10",
+      "start_time": "07:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
       "studio": "Spin Society",
       "name": "THEME: DRUM & BASS x TECH HOUSE",
       "booking_start_date": "2026-05-23 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "10:40",
-      "available_spot_count": 15,
+      "available_spot_count": 17,
       "capacity": 50
     },
     {
@@ -1550,7 +1560,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-01",
       "start_time": "09:45",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 50
     },
     {
@@ -1560,7 +1570,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-01",
       "start_time": "19:50",
-      "available_spot_count": 36,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
