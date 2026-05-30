@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T11:46:47.787149-07:00",
+  "last_updated": "2026-05-30T13:17:06.571506-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -350,7 +350,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-02",
       "start_time": "06:45",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
@@ -502,16 +502,6 @@
       "start_time": "18:30",
       "available_spot_count": 0,
       "capacity": 11
-    },
-    {
-      "studio": "The Third",
-      "name": "lagree full body - Fio's birthday bash",
-      "booking_start_date": "2026-05-16 12:00",
-      "location": "4th Ave",
-      "start_date": "2026-05-30",
-      "start_time": "12:00",
-      "available_spot_count": 3,
-      "capacity": 15
     },
     {
       "studio": "The Third",
@@ -1550,7 +1540,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "13:00",
-      "available_spot_count": 28,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -1560,7 +1550,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-01",
       "start_time": "09:45",
-      "available_spot_count": 21,
+      "available_spot_count": 22,
       "capacity": 50
     },
     {
@@ -1630,7 +1620,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-07",
       "start_time": "11:50",
-      "available_spot_count": 47,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
