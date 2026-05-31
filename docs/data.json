@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T13:42:06.377670-07:00",
+  "last_updated": "2026-05-31T14:42:10.640282-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -200,7 +200,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-31",
       "start_time": "15:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -310,7 +310,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-02",
       "start_time": "06:45",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
@@ -350,7 +350,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "06:45",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -580,7 +580,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-02",
       "start_time": "07:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 38
     },
     {
@@ -600,7 +600,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-03",
       "start_time": "09:30",
-      "available_spot_count": 33,
+      "available_spot_count": 34,
       "capacity": 38
     },
     {
@@ -1510,7 +1510,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 34
     },
     {
@@ -1525,22 +1525,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: CLASSIC ROCK REMIXED",
-      "booking_start_date": "2026-05-23 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-05-31",
-      "start_time": "13:00",
-      "available_spot_count": 27,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: TAYLOR SWIFT: ORIGINALS + REMIXES",
       "booking_start_date": "2026-05-24 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-01",
       "start_time": "09:45",
-      "available_spot_count": 20,
+      "available_spot_count": 21,
       "capacity": 50
     },
     {
@@ -1610,7 +1600,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-07",
       "start_time": "11:50",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 50
     },
     {
