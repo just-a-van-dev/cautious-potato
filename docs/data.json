@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T10:44:32.721930-07:00",
+  "last_updated": "2026-05-31T12:40:16.517846-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -200,7 +200,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-31",
       "start_time": "15:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -465,6 +465,16 @@
     },
     {
       "studio": "The Third",
+      "name": "Pop Girlies: Sabrina Carpenter + Friends",
+      "booking_start_date": "2026-05-24 10:00",
+      "location": "4th Ave",
+      "start_date": "2026-06-07",
+      "start_time": "10:00",
+      "available_spot_count": 14,
+      "capacity": 15
+    },
+    {
+      "studio": "The Third",
       "name": "The Third x Blume",
       "booking_start_date": "2026-06-11 06:00",
       "location": "4th Ave",
@@ -560,7 +570,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-01",
       "start_time": "18:40",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 40
     },
     {
@@ -600,7 +610,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-03",
       "start_time": "12:15",
-      "available_spot_count": 16,
+      "available_spot_count": 14,
       "capacity": 26
     },
     {
@@ -610,7 +620,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-04",
       "start_time": "17:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 26
     },
     {
@@ -630,7 +640,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 115,
+      "available_spot_count": 113,
       "capacity": 120
     },
     {
@@ -1485,16 +1495,6 @@
     },
     {
       "studio": "Turf",
-      "name": "Meta + Mat Werk *co-teach*",
-      "booking_start_date": "2026-05-24 11:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-05-31",
-      "start_time": "11:00",
-      "available_spot_count": 12,
-      "capacity": 34
-    },
-    {
-      "studio": "Turf",
       "name": "CO-TEACH \ud83e\udea9 meta x mat werk",
       "booking_start_date": "2026-05-25 08:15",
       "location": "KITS - Vancouver",
@@ -1510,7 +1510,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 34,
+      "available_spot_count": 32,
       "capacity": 34
     },
     {
@@ -1525,22 +1525,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: DRUM & BASS x TECH HOUSE",
-      "booking_start_date": "2026-05-23 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-05-31",
-      "start_time": "10:40",
-      "available_spot_count": 21,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: CLASSIC ROCK REMIXED",
       "booking_start_date": "2026-05-23 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "13:00",
-      "available_spot_count": 33,
+      "available_spot_count": 26,
       "capacity": 50
     },
     {
@@ -1570,7 +1560,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-02",
       "start_time": "07:15",
-      "available_spot_count": 33,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -1580,7 +1570,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-03",
       "start_time": "19:50",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 50
     },
     {
@@ -1610,7 +1600,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-05",
       "start_time": "18:40",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 50
     },
     {
@@ -1620,7 +1610,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-07",
       "start_time": "11:50",
-      "available_spot_count": 29,
+      "available_spot_count": 27,
       "capacity": 50
     },
     {
@@ -1650,7 +1640,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "19:50",
-      "available_spot_count": 49,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
