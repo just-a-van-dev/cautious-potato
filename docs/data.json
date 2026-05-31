@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T12:40:16.517846-07:00",
+  "last_updated": "2026-05-31T13:42:06.377670-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -200,7 +200,7 @@
       "location": "Vancouver",
       "start_date": "2026-05-31",
       "start_time": "15:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -330,7 +330,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-04",
       "start_time": "19:30",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -560,7 +560,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-01",
       "start_time": "12:15",
-      "available_spot_count": 22,
+      "available_spot_count": 23,
       "capacity": 26
     },
     {
@@ -640,7 +640,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 113,
+      "available_spot_count": 109,
       "capacity": 120
     },
     {
@@ -1270,7 +1270,7 @@
       "location": "West End",
       "start_date": "2026-06-03",
       "start_time": "07:00",
-      "available_spot_count": 22,
+      "available_spot_count": 19,
       "capacity": 23
     },
     {
@@ -1510,7 +1510,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 34
     },
     {
@@ -1530,7 +1530,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "13:00",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 50
     },
     {
@@ -1540,7 +1540,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-01",
       "start_time": "09:45",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 50
     },
     {
@@ -1580,7 +1580,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-04",
       "start_time": "09:45",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
@@ -1600,7 +1600,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-05",
       "start_time": "18:40",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 50
     },
     {
@@ -1610,7 +1610,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-07",
       "start_time": "11:50",
-      "available_spot_count": 27,
+      "available_spot_count": 22,
       "capacity": 50
     },
     {
@@ -1620,7 +1620,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "06:00",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
