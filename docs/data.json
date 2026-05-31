@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T06:01:58.374552-07:00",
+  "last_updated": "2026-05-31T07:56:16.162012-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -40,7 +40,7 @@
       "location": "Gastown",
       "start_date": "2026-05-31",
       "start_time": "09:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -220,7 +220,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-01",
       "start_time": "09:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -660,7 +660,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-08",
       "start_time": "18:40",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 40
     },
     {
@@ -1250,7 +1250,7 @@
       "location": "West End",
       "start_date": "2026-06-01",
       "start_time": "07:00",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 23
     },
     {
@@ -1540,7 +1540,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-05-31",
       "start_time": "10:40",
-      "available_spot_count": 25,
+      "available_spot_count": 26,
       "capacity": 50
     },
     {
@@ -1610,7 +1610,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-05",
       "start_time": "16:20",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
