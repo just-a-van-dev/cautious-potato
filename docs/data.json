@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T14:05:08.052060-07:00",
+  "last_updated": "2026-06-01T16:09:39.296034-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -18,7 +18,7 @@
       "location": "West End",
       "start_date": "2026-06-04",
       "start_time": "19:30",
-      "available_spot_count": 16,
+      "available_spot_count": 14,
       "capacity": 23
     },
     {
@@ -28,18 +28,8 @@
       "location": "West End",
       "start_date": "2026-06-07",
       "start_time": "16:30",
-      "available_spot_count": 7,
+      "available_spot_count": 4,
       "capacity": 23
-    },
-    {
-      "studio": "Turf",
-      "name": "Archive Athletics x Full Fire",
-      "booking_start_date": "2026-06-13 14:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-06-20",
-      "start_time": "14:00",
-      "available_spot_count": 30,
-      "capacity": 30
     }
   ],
   "sponsored": [
@@ -60,7 +50,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-09",
       "start_time": "13:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -70,7 +60,7 @@
       "location": "Main St",
       "start_date": "2026-06-10",
       "start_time": "20:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 14
     },
     {
@@ -186,6 +176,36 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-05-26 11:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-02",
+      "start_time": "11:00",
+      "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-05-26 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-02",
+      "start_time": "13:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-05-26 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-02",
+      "start_time": "14:00",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-05-28 09:00",
       "location": "Vancouver",
       "start_date": "2026-06-04",
@@ -250,7 +270,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-02",
       "start_time": "05:45",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -270,7 +290,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-04",
       "start_time": "18:30",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -530,7 +550,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-02",
       "start_time": "07:30",
-      "available_spot_count": 37,
+      "available_spot_count": 38,
       "capacity": 38
     },
     {
@@ -550,7 +570,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-03",
       "start_time": "09:30",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 38
     },
     {
@@ -560,7 +580,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-03",
       "start_time": "12:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 26
     },
     {
@@ -570,7 +590,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-04",
       "start_time": "17:15",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 26
     },
     {
@@ -580,7 +600,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "09:30",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 26
     },
     {
@@ -590,7 +610,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 105,
+      "available_spot_count": 104,
       "capacity": 120
     },
     {
@@ -1480,7 +1500,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 34
     },
     {
@@ -1496,7 +1516,7 @@
     {
       "studio": "Turf",
       "name": "Archive Athletics x Full Fire",
-      "booking_start_date": "2026-06-13 14:00",
+      "booking_start_date": "2026-05-21 14:00",
       "location": "KITS - Vancouver",
       "start_date": "2026-06-20",
       "start_time": "14:00",
@@ -1530,7 +1550,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-03",
       "start_time": "19:50",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 50
     },
     {
@@ -1560,7 +1580,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-05",
       "start_time": "18:40",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 50
     },
     {
@@ -1570,7 +1590,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-07",
       "start_time": "11:50",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 50
     },
     {
@@ -1580,7 +1600,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "06:00",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
