@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T16:09:39.296034-07:00",
+  "last_updated": "2026-06-01T18:37:02.928181-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -18,7 +18,7 @@
       "location": "West End",
       "start_date": "2026-06-04",
       "start_time": "19:30",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 23
     },
     {
@@ -28,7 +28,7 @@
       "location": "West End",
       "start_date": "2026-06-07",
       "start_time": "16:30",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 23
     }
   ],
@@ -50,7 +50,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-09",
       "start_time": "13:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 20
     },
     {
@@ -70,7 +70,7 @@
       "location": "Kitsilano",
       "start_date": "2026-06-17",
       "start_time": "14:30",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 16
     },
     {
@@ -190,7 +190,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-02",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -264,6 +264,16 @@
       "capacity": 12
     },
     {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-07-09 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-16",
+      "start_time": "09:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
       "studio": "Evolution",
       "name": "Lagree - Trainer Development Class",
       "booking_start_date": "2026-05-19 05:45",
@@ -280,7 +290,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-02",
       "start_time": "06:45",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 10
     },
     {
@@ -320,7 +330,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "06:45",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -535,22 +545,12 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Arms + Abs",
-      "booking_start_date": "2026-05-18 18:40",
-      "location": "Vancouver",
-      "start_date": "2026-06-01",
-      "start_time": "18:40",
-      "available_spot_count": 27,
-      "capacity": 40
-    },
-    {
-      "studio": "ZenDen",
       "name": "Pilates Sculpt | Hot - Lower Body",
       "booking_start_date": "2026-05-26 07:30",
       "location": "Vancouver",
       "start_date": "2026-06-02",
       "start_time": "07:30",
-      "available_spot_count": 38,
+      "available_spot_count": 36,
       "capacity": 38
     },
     {
@@ -560,7 +560,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-02",
       "start_time": "12:00",
-      "available_spot_count": 32,
+      "available_spot_count": 34,
       "capacity": 38
     },
     {
@@ -610,7 +610,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 104,
+      "available_spot_count": 99,
       "capacity": 120
     },
     {
@@ -1044,6 +1044,16 @@
       "capacity": 26
     },
     {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Lower Body",
+      "booking_start_date": "2026-07-02 17:15",
+      "location": "Vancouver",
+      "start_date": "2026-07-16",
+      "start_time": "17:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
       "studio": "All Method Studio",
       "name": "ALL Reformer - Jump Happy Hour 55 mins",
       "booking_start_date": "2026-05-19 10:00",
@@ -1060,7 +1070,7 @@
       "location": "Railway",
       "start_date": "2026-06-03",
       "start_time": "10:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 9
     },
     {
@@ -1070,7 +1080,7 @@
       "location": "Railway",
       "start_date": "2026-06-04",
       "start_time": "10:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 9
     },
     {
@@ -1244,6 +1254,16 @@
       "capacity": 9
     },
     {
+      "studio": "All Method Studio",
+      "name": "ALL Reformer - Begin Happy Hour 55 mins",
+      "booking_start_date": "2026-07-02 10:00",
+      "location": "Railway",
+      "start_date": "2026-07-16",
+      "start_time": "10:00",
+      "available_spot_count": 9,
+      "capacity": 9
+    },
+    {
       "studio": "Ritual",
       "name": "Foundation | Strength + Cardio",
       "booking_start_date": "2026-03-04 18:00",
@@ -1280,7 +1300,7 @@
       "location": "West End",
       "start_date": "2026-06-04",
       "start_time": "18:00",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 23
     },
     {
@@ -1494,6 +1514,16 @@
       "capacity": 23
     },
     {
+      "studio": "Ritual",
+      "name": "Foundation | Stability + Core",
+      "booking_start_date": "2026-04-17 18:00",
+      "location": "West End",
+      "start_date": "2026-07-16",
+      "start_time": "18:00",
+      "available_spot_count": 23,
+      "capacity": 23
+    },
+    {
       "studio": "Turf",
       "name": "Meta + Mat Werk 60 min *Co-teach*",
       "booking_start_date": "2026-05-31 11:00",
@@ -1525,16 +1555,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: MADONNA X GAGA",
-      "booking_start_date": "2026-05-24 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-06-01",
-      "start_time": "19:50",
-      "available_spot_count": 31,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: FRED AGAIN x BUNT",
       "booking_start_date": "2026-05-25 12:00",
       "location": "MOUNT PLEASANT",
@@ -1550,7 +1570,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-03",
       "start_time": "19:50",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 50
     },
     {
@@ -1590,7 +1610,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-07",
       "start_time": "11:50",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 50
     },
     {
@@ -1620,7 +1640,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "19:50",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
