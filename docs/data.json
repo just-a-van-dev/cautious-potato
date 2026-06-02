@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T08:11:42.135028-07:00",
+  "last_updated": "2026-06-02T11:55:50.581881-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -50,7 +50,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-09",
       "start_time": "13:15",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -80,7 +80,7 @@
       "location": "Gastown",
       "start_date": "2026-06-18",
       "start_time": "11:00",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 15
     },
     {
@@ -180,7 +180,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-02",
       "start_time": "12:00",
-      "available_spot_count": 6,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -190,7 +190,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-02",
       "start_time": "13:00",
-      "available_spot_count": 5,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -200,7 +200,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-02",
       "start_time": "14:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -220,7 +220,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-03",
       "start_time": "11:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -230,7 +230,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-03",
       "start_time": "14:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -240,7 +240,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-04",
       "start_time": "09:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -310,7 +310,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-04",
       "start_time": "18:30",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
@@ -350,7 +350,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "07:45",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -460,7 +460,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-07",
       "start_time": "10:00",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 15
     },
     {
@@ -470,7 +470,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 15
     },
     {
@@ -555,22 +555,12 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Lower Body",
-      "booking_start_date": "2026-05-26 07:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-02",
-      "start_time": "07:30",
-      "available_spot_count": 35,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
       "name": "Pilates Sculpt | Warm - Arms + Abs",
       "booking_start_date": "2026-05-19 12:00",
       "location": "Vancouver",
       "start_date": "2026-06-02",
       "start_time": "12:00",
-      "available_spot_count": 34,
+      "available_spot_count": 30,
       "capacity": 38
     },
     {
@@ -590,7 +580,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-03",
       "start_time": "12:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 26
     },
     {
@@ -600,7 +590,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-04",
       "start_time": "17:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 26
     },
     {
@@ -610,7 +600,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "09:30",
-      "available_spot_count": 22,
+      "available_spot_count": 20,
       "capacity": 26
     },
     {
@@ -620,7 +610,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 94,
+      "available_spot_count": 92,
       "capacity": 120
     },
     {
@@ -650,7 +640,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-09",
       "start_time": "07:30",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 38
     },
     {
@@ -1065,16 +1055,6 @@
     },
     {
       "studio": "All Method Studio",
-      "name": "ALL Reformer - Jump Happy Hour 55 mins",
-      "booking_start_date": "2026-05-19 10:00",
-      "location": "Railway",
-      "start_date": "2026-06-02",
-      "start_time": "10:00",
-      "available_spot_count": 6,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
       "name": "ALL Reformer - Begin Happy Hour 55 mins",
       "booking_start_date": "2026-05-20 10:00",
       "location": "Railway",
@@ -1280,7 +1260,7 @@
       "location": "West End",
       "start_date": "2026-06-02",
       "start_time": "18:00",
-      "available_spot_count": 14,
+      "available_spot_count": 11,
       "capacity": 23
     },
     {
@@ -1310,7 +1290,7 @@
       "location": "West End",
       "start_date": "2026-06-04",
       "start_time": "18:00",
-      "available_spot_count": 19,
+      "available_spot_count": 17,
       "capacity": 23
     },
     {
@@ -1600,7 +1580,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-07",
       "start_time": "11:50",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 50
     },
     {
@@ -1620,7 +1600,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "07:15",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
