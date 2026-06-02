@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T04:08:22.725534-07:00",
+  "last_updated": "2026-06-02T08:11:42.135028-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -306,26 +306,6 @@
     {
       "studio": "Evolution",
       "name": "Lagree - Trainer Development Class",
-      "booking_start_date": "2026-05-19 05:45",
-      "location": "Vancouver",
-      "start_date": "2026-06-02",
-      "start_time": "05:45",
-      "available_spot_count": 9,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Lagree - Trainer Development Class",
-      "booking_start_date": "2026-05-19 06:45",
-      "location": "Vancouver",
-      "start_date": "2026-06-02",
-      "start_time": "06:45",
-      "available_spot_count": 0,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Lagree - Trainer Development Class",
       "booking_start_date": "2026-05-21 18:30",
       "location": "Vancouver",
       "start_date": "2026-06-04",
@@ -580,7 +560,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-02",
       "start_time": "07:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 38
     },
     {
@@ -610,7 +590,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-03",
       "start_time": "12:15",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 26
     },
     {
@@ -620,7 +600,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-04",
       "start_time": "17:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 26
     },
     {
@@ -640,7 +620,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 96,
+      "available_spot_count": 94,
       "capacity": 120
     },
     {
@@ -1300,7 +1280,7 @@
       "location": "West End",
       "start_date": "2026-06-02",
       "start_time": "18:00",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 23
     },
     {
@@ -1575,22 +1555,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: FRED AGAIN x BUNT",
-      "booking_start_date": "2026-05-25 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-06-02",
-      "start_time": "07:15",
-      "available_spot_count": 32,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: SLAYYYTER x CHARLI XCX",
       "booking_start_date": "2026-05-26 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-03",
       "start_time": "19:50",
-      "available_spot_count": 23,
+      "available_spot_count": 21,
       "capacity": 50
     },
     {
@@ -1600,7 +1570,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-04",
       "start_time": "09:45",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -1620,7 +1590,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-05",
       "start_time": "18:40",
-      "available_spot_count": 6,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -1640,7 +1610,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "06:00",
-      "available_spot_count": 42,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
@@ -1650,7 +1620,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "07:15",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
@@ -1660,7 +1630,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "19:50",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
