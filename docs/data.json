@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T22:15:44.831369-07:00",
+  "last_updated": "2026-06-03T03:25:08.794608-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -50,7 +50,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-09",
       "start_time": "13:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 20
     },
     {
@@ -400,7 +400,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-03",
       "start_time": "11:00",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -410,7 +410,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-03",
       "start_time": "14:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -540,7 +540,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "07:45",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
@@ -760,7 +760,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-03",
       "start_time": "12:15",
-      "available_spot_count": 11,
+      "available_spot_count": 7,
       "capacity": 26
     },
     {
@@ -810,7 +810,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-08",
       "start_time": "18:40",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 40
     },
     {
@@ -820,7 +820,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-09",
       "start_time": "07:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 38
     },
     {
@@ -1450,7 +1450,7 @@
       "location": "West End",
       "start_date": "2026-06-03",
       "start_time": "07:00",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 23
     },
     {
@@ -1460,7 +1460,7 @@
       "location": "West End",
       "start_date": "2026-06-03",
       "start_time": "17:45",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 17
     },
     {
@@ -1700,7 +1700,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 16,
+      "available_spot_count": 14,
       "capacity": 34
     },
     {
@@ -1710,7 +1710,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-10",
       "start_time": "07:00",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 32
     },
     {
@@ -1720,7 +1720,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-20",
       "start_time": "14:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 30
     },
     {
@@ -1730,7 +1730,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-03",
       "start_time": "19:50",
-      "available_spot_count": 20,
+      "available_spot_count": 21,
       "capacity": 50
     },
     {
@@ -1760,7 +1760,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-05",
       "start_time": "18:40",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -1770,7 +1770,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-07",
       "start_time": "11:50",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -1821,6 +1821,36 @@
       "start_date": "2026-06-11",
       "start_time": "12:30",
       "available_spot_count": 49,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: TLC x DUA LIPA",
+      "booking_start_date": "2026-06-04 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-06-12",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: NICKELBACK X CREED",
+      "booking_start_date": "2026-06-06 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-06-14",
+      "start_time": "10:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: 2000s HIP HOP x POP",
+      "booking_start_date": "2026-06-08 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-06-16",
+      "start_time": "07:15",
+      "available_spot_count": 50,
       "capacity": 50
     }
   ]
