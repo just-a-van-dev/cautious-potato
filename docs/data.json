@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T09:05:04.101650-07:00",
+  "last_updated": "2026-06-04T11:29:32.221528-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -386,16 +386,6 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-28 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-06-04",
-      "start_time": "09:00",
-      "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-05-28 11:00",
       "location": "Vancouver",
       "start_date": "2026-06-04",
@@ -415,12 +405,22 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-05-29 08:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-05",
+      "start_time": "08:00",
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-05-29 09:00",
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "09:00",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -440,7 +440,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "14:00",
-      "available_spot_count": 7,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -760,7 +760,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-04",
       "start_time": "17:15",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 26
     },
     {
@@ -1265,16 +1265,6 @@
     },
     {
       "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin Happy Hour 55 mins",
-      "booking_start_date": "2026-05-21 10:00",
-      "location": "Railway",
-      "start_date": "2026-06-04",
-      "start_time": "10:00",
-      "available_spot_count": 3,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
       "name": "ALL Reformer - Jump Happy Hour 55 mins",
       "booking_start_date": "2026-05-26 10:00",
       "location": "Railway",
@@ -1460,7 +1450,7 @@
       "location": "West End",
       "start_date": "2026-06-04",
       "start_time": "18:00",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 23
     },
     {
@@ -1690,7 +1680,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 34
     },
     {
@@ -1712,16 +1702,6 @@
       "start_time": "14:00",
       "available_spot_count": 0,
       "capacity": 30
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: ODESZA x KYGO",
-      "booking_start_date": "2026-05-27 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-06-04",
-      "start_time": "09:45",
-      "available_spot_count": 32,
-      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -1780,7 +1760,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "19:50",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -1810,7 +1790,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-11",
       "start_time": "17:30",
-      "available_spot_count": 39,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
