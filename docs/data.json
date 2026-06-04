@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T13:52:36.918351-07:00",
+  "last_updated": "2026-06-04T15:44:37.102549-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -28,7 +28,7 @@
       "location": "West End",
       "start_date": "2026-06-04",
       "start_time": "19:30",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 23
     },
     {
@@ -130,7 +130,7 @@
       "location": "Kitsilano",
       "start_date": "2026-06-17",
       "start_time": "14:30",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 16
     },
     {
@@ -400,7 +400,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "09:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -410,7 +410,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "13:00",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -430,7 +430,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-11",
       "start_time": "09:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -490,7 +490,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-04",
       "start_time": "18:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 10
     },
     {
@@ -520,7 +520,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "06:45",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -540,7 +540,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "18:30",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -750,7 +750,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "09:30",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 26
     },
     {
@@ -770,7 +770,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-08",
       "start_time": "12:15",
-      "available_spot_count": 17,
+      "available_spot_count": 13,
       "capacity": 26
     },
     {
@@ -1430,7 +1430,7 @@
       "location": "West End",
       "start_date": "2026-06-04",
       "start_time": "18:00",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 23
     },
     {
@@ -1740,7 +1740,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "19:50",
-      "available_spot_count": 32,
+      "available_spot_count": 28,
       "capacity": 50
     },
     {
@@ -1780,7 +1780,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-12",
       "start_time": "12:30",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
