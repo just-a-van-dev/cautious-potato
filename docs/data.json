@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T15:16:03.790130-07:00",
+  "last_updated": "2026-06-03T17:20:53.833463-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -28,7 +28,7 @@
       "location": "West End",
       "start_date": "2026-06-04",
       "start_time": "19:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 23
     },
     {
@@ -70,7 +70,7 @@
       "location": "Main St",
       "start_date": "2026-06-10",
       "start_time": "20:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 14
     },
     {
@@ -140,7 +140,7 @@
       "location": "Gastown",
       "start_date": "2026-06-18",
       "start_time": "11:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 15
     },
     {
@@ -400,7 +400,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-04",
       "start_time": "11:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -415,7 +415,7 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Club Lagree x Sahajan Samples",
+      "name": "Club Lagree x Rufus & Anema x Swae Samples",
       "booking_start_date": "2026-06-04 09:00",
       "location": "Vancouver",
       "start_date": "2026-06-11",
@@ -760,7 +760,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-08",
       "start_time": "12:15",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 26
     },
     {
@@ -780,7 +780,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-09",
       "start_time": "07:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 38
     },
     {
@@ -1135,6 +1135,16 @@
     },
     {
       "studio": "ZenDen",
+      "name": "Dating + Meditating Summer Social",
+      "booking_start_date": "2026-05-31 19:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-12",
+      "start_time": "19:00",
+      "available_spot_count": 120,
+      "capacity": 120
+    },
+    {
+      "studio": "ZenDen",
       "name": "Pilates Sculpt | Red Light - Lower Body",
       "booking_start_date": "2026-06-29 12:15",
       "location": "Vancouver",
@@ -1210,6 +1220,16 @@
       "location": "Vancouver",
       "start_date": "2026-07-17",
       "start_time": "09:30",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Arms + Abs",
+      "booking_start_date": "2026-07-04 08:15",
+      "location": "Vancouver",
+      "start_date": "2026-07-18",
+      "start_time": "08:15",
       "available_spot_count": 26,
       "capacity": 26
     },
@@ -1406,21 +1426,11 @@
     {
       "studio": "Ritual",
       "name": "Foundation | Stability + Core",
-      "booking_start_date": "2026-03-05 17:45",
-      "location": "West End",
-      "start_date": "2026-06-03",
-      "start_time": "17:45",
-      "available_spot_count": 8,
-      "capacity": 17
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core",
       "booking_start_date": "2026-03-06 18:00",
       "location": "West End",
       "start_date": "2026-06-04",
       "start_time": "18:00",
-      "available_spot_count": 16,
+      "available_spot_count": 17,
       "capacity": 23
     },
     {
@@ -1430,7 +1440,7 @@
       "location": "West End",
       "start_date": "2026-06-08",
       "start_time": "07:00",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 23
     },
     {
@@ -1675,22 +1685,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: SLAYYYTER x CHARLI XCX",
-      "booking_start_date": "2026-05-26 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-06-03",
-      "start_time": "19:50",
-      "available_spot_count": 20,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: ODESZA x KYGO",
       "booking_start_date": "2026-05-27 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-04",
       "start_time": "09:45",
-      "available_spot_count": 34,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
