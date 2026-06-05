@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T08:39:35.836510-07:00",
+  "last_updated": "2026-06-05T10:31:55.914793-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -40,7 +40,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-06",
       "start_time": "16:30",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 20
     },
     {
@@ -70,7 +70,7 @@
       "location": "Gastown",
       "start_date": "2026-06-13",
       "start_time": "08:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
@@ -375,26 +375,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-05-29 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-06-05",
-      "start_time": "08:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-29 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-06-05",
-      "start_time": "09:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-05-29 13:00",
       "location": "Vancouver",
@@ -530,7 +510,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-12",
       "start_time": "18:30",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -580,7 +560,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 15
     },
     {
@@ -665,22 +645,12 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Arms + Abs",
-      "booking_start_date": "2026-05-22 09:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-05",
-      "start_time": "09:30",
-      "available_spot_count": 10,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
       "name": "Coffee + Cacao Party",
       "booking_start_date": "2026-04-26 11:00",
       "location": "Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 72,
+      "available_spot_count": 73,
       "capacity": 120
     },
     {
@@ -710,7 +680,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-09",
       "start_time": "07:30",
-      "available_spot_count": 35,
+      "available_spot_count": 36,
       "capacity": 38
     },
     {
@@ -740,7 +710,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-10",
       "start_time": "12:15",
-      "available_spot_count": 20,
+      "available_spot_count": 17,
       "capacity": 26
     },
     {
@@ -750,7 +720,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-11",
       "start_time": "17:15",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 26
     },
     {
@@ -1640,7 +1610,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 34
     },
     {
@@ -1670,7 +1640,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-05",
       "start_time": "16:20",
-      "available_spot_count": 28,
+      "available_spot_count": 25,
       "capacity": 50
     },
     {
@@ -1680,7 +1650,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-05",
       "start_time": "18:40",
-      "available_spot_count": 8,
+      "available_spot_count": 11,
       "capacity": 50
     },
     {
@@ -1710,7 +1680,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "07:15",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -1730,7 +1700,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-10",
       "start_time": "07:15",
-      "available_spot_count": 34,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -1780,6 +1750,16 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-16",
       "start_time": "07:15",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: CLUB THROWBACKS - VOL 2",
+      "booking_start_date": "2026-06-11 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-06-19",
+      "start_time": "18:40",
       "available_spot_count": 50,
       "capacity": 50
     }
