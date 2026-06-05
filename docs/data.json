@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T05:19:41.319342-07:00",
+  "last_updated": "2026-06-05T08:39:35.836510-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -380,7 +380,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "08:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -390,7 +390,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "09:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -462,36 +462,6 @@
       "start_time": "09:00",
       "available_spot_count": 12,
       "capacity": 12
-    },
-    {
-      "studio": "Evolution",
-      "name": "Lagree - Trainer Development Class",
-      "booking_start_date": "2026-05-22 05:45",
-      "location": "Vancouver",
-      "start_date": "2026-06-05",
-      "start_time": "05:45",
-      "available_spot_count": 9,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Lagree - Trainer Development Class",
-      "booking_start_date": "2026-05-22 06:45",
-      "location": "Vancouver",
-      "start_date": "2026-06-05",
-      "start_time": "06:45",
-      "available_spot_count": 7,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Lagree - Trainer Development Class",
-      "booking_start_date": "2026-05-22 07:45",
-      "location": "Vancouver",
-      "start_date": "2026-06-05",
-      "start_time": "07:45",
-      "available_spot_count": 6,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
@@ -600,7 +570,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-07",
       "start_time": "10:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -710,7 +680,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 71,
+      "available_spot_count": 72,
       "capacity": 120
     },
     {
@@ -1320,7 +1290,7 @@
       "location": "Railway",
       "start_date": "2026-06-18",
       "start_time": "10:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 9
     },
     {
@@ -1670,7 +1640,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 7,
+      "available_spot_count": 4,
       "capacity": 34
     },
     {
@@ -1700,7 +1670,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-05",
       "start_time": "16:20",
-      "available_spot_count": 27,
+      "available_spot_count": 28,
       "capacity": 50
     },
     {
@@ -1710,7 +1680,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-05",
       "start_time": "18:40",
-      "available_spot_count": 5,
+      "available_spot_count": 8,
       "capacity": 50
     },
     {
@@ -1770,7 +1740,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-11",
       "start_time": "12:30",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -1780,7 +1750,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-11",
       "start_time": "17:30",
-      "available_spot_count": 29,
+      "available_spot_count": 25,
       "capacity": 50
     },
     {
@@ -1790,7 +1760,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-12",
       "start_time": "12:30",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
