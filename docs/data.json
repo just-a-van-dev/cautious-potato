@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T17:20:27.346185-07:00",
+  "last_updated": "2026-06-04T22:03:39.797352-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -50,7 +50,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-09",
       "start_time": "13:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 20
     },
     {
@@ -65,7 +65,7 @@
     },
     {
       "studio": "Lagree West",
-      "name": "Megaformer x Hips Dont Lie, Glutes Will Cry",
+      "name": "Happy Hour Mega x Hips Dont Lie, Glutes Will Cry",
       "booking_start_date": "2026-06-06 00:00",
       "location": "Gastown",
       "start_date": "2026-06-13",
@@ -75,7 +75,7 @@
     },
     {
       "studio": "Lagree West",
-      "name": "Megaformer x Hips Dont Lie, Glutes Will Cry",
+      "name": "Happy Hour Mega x Hips Dont Lie, Glutes Will Cry",
       "booking_start_date": "2026-06-06 00:00",
       "location": "Gastown",
       "start_date": "2026-06-13",
@@ -85,7 +85,7 @@
     },
     {
       "studio": "Lagree West",
-      "name": "Megaformer x Hips Dont Lie, Glutes Will Cry",
+      "name": "Happy Hour Mega x Hips Dont Lie, Glutes Will Cry",
       "booking_start_date": "2026-06-06 00:00",
       "location": "Gastown",
       "start_date": "2026-06-13",
@@ -95,7 +95,7 @@
     },
     {
       "studio": "Lagree West",
-      "name": "Megaformer x Hips Dont Lie, Glutes Will Cry",
+      "name": "Happy Hour Mega x Hips Dont Lie, Glutes Will Cry",
       "booking_start_date": "2026-06-06 00:00",
       "location": "Gastown",
       "start_date": "2026-06-13",
@@ -105,7 +105,7 @@
     },
     {
       "studio": "Lagree West",
-      "name": "Megaformer x Hips Dont Lie, Glutes Will Cry",
+      "name": "Happy Hour Mega x Hips Dont Lie, Glutes Will Cry",
       "booking_start_date": "2026-06-06 00:00",
       "location": "Gastown",
       "start_date": "2026-06-13",
@@ -380,7 +380,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "08:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -390,17 +390,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "09:00",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-29 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-06-05",
-      "start_time": "12:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -410,7 +400,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "13:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -500,7 +490,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "07:45",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -510,7 +500,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "18:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -610,7 +600,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-07",
       "start_time": "10:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -710,7 +700,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "09:30",
-      "available_spot_count": 13,
+      "available_spot_count": 10,
       "capacity": 26
     },
     {
@@ -720,7 +710,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 73,
+      "available_spot_count": 72,
       "capacity": 120
     },
     {
@@ -740,7 +730,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-08",
       "start_time": "18:40",
-      "available_spot_count": 28,
+      "available_spot_count": 29,
       "capacity": 40
     },
     {
@@ -770,7 +760,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-10",
       "start_time": "09:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 38
     },
     {
@@ -780,7 +770,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-10",
       "start_time": "12:15",
-      "available_spot_count": 23,
+      "available_spot_count": 20,
       "capacity": 26
     },
     {
@@ -790,8 +780,18 @@
       "location": "Vancouver",
       "start_date": "2026-06-11",
       "start_time": "17:15",
-      "available_spot_count": 23,
+      "available_spot_count": 21,
       "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Sound Bath | Warm",
+      "booking_start_date": "2026-05-28 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-11",
+      "start_time": "20:00",
+      "available_spot_count": 39,
+      "capacity": 40
     },
     {
       "studio": "ZenDen",
@@ -825,6 +825,16 @@
     },
     {
       "studio": "ZenDen",
+      "name": "Crystal Sound Bath for Sleep x Drink Ideally",
+      "booking_start_date": "2026-06-01 20:15",
+      "location": "Vancouver",
+      "start_date": "2026-06-15",
+      "start_time": "20:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
       "name": "Pilates Sculpt | Hot - Arms + Abs",
       "booking_start_date": "2026-06-03 09:30",
       "location": "Vancouver",
@@ -842,6 +852,16 @@
       "start_time": "17:15",
       "available_spot_count": 26,
       "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Sound Bath | Warm",
+      "booking_start_date": "2026-06-04 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-18",
+      "start_time": "20:00",
+      "available_spot_count": 39,
+      "capacity": 40
     },
     {
       "studio": "ZenDen",
@@ -902,6 +922,16 @@
       "start_time": "17:15",
       "available_spot_count": 26,
       "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Sound Bath | Warm",
+      "booking_start_date": "2026-06-11 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-25",
+      "start_time": "20:00",
+      "available_spot_count": 40,
+      "capacity": 40
     },
     {
       "studio": "ZenDen",
@@ -995,6 +1025,16 @@
     },
     {
       "studio": "ZenDen",
+      "name": "Yin + Sound Bath | Warm",
+      "booking_start_date": "2026-06-18 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-02",
+      "start_time": "20:00",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
       "name": "Pilates Sculpt | Red Light - Arms + Abs",
       "booking_start_date": "2026-06-19 09:30",
       "location": "Vancouver",
@@ -1082,6 +1122,16 @@
       "start_time": "17:15",
       "available_spot_count": 26,
       "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Sound Bath | Warm",
+      "booking_start_date": "2026-06-25 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-09",
+      "start_time": "20:00",
+      "available_spot_count": 40,
+      "capacity": 40
     },
     {
       "studio": "ZenDen",
@@ -1182,6 +1232,16 @@
       "start_time": "17:15",
       "available_spot_count": 26,
       "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Sound Bath | Warm",
+      "booking_start_date": "2026-07-02 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-16",
+      "start_time": "20:00",
+      "available_spot_count": 40,
+      "capacity": 40
     },
     {
       "studio": "ZenDen",
@@ -1610,7 +1670,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 34
     },
     {
@@ -1650,7 +1710,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-05",
       "start_time": "18:40",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -1670,7 +1730,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "06:00",
-      "available_spot_count": 36,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -1680,7 +1740,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "07:15",
-      "available_spot_count": 39,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -1690,7 +1750,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "19:50",
-      "available_spot_count": 28,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -1700,7 +1760,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-10",
       "start_time": "07:15",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -1720,7 +1780,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-11",
       "start_time": "17:30",
-      "available_spot_count": 35,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -1730,7 +1790,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-12",
       "start_time": "12:30",
-      "available_spot_count": 48,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
