@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T15:44:37.102549-07:00",
+  "last_updated": "2026-06-04T17:20:27.346185-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -20,16 +20,6 @@
       "start_time": "11:30",
       "available_spot_count": 38,
       "capacity": 38
-    },
-    {
-      "studio": "Ritual",
-      "name": "Yoga | Yin (Community Class)",
-      "booking_start_date": "2026-05-21 19:30",
-      "location": "West End",
-      "start_date": "2026-06-04",
-      "start_time": "19:30",
-      "available_spot_count": 3,
-      "capacity": 23
     },
     {
       "studio": "Ritual",
@@ -390,7 +380,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "08:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -406,21 +396,21 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-29 13:00",
+      "booking_start_date": "2026-05-29 12:00",
       "location": "Vancouver",
       "start_date": "2026-06-05",
-      "start_time": "13:00",
-      "available_spot_count": 7,
+      "start_time": "12:00",
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-05-29 14:00",
+      "booking_start_date": "2026-05-29 13:00",
       "location": "Vancouver",
       "start_date": "2026-06-05",
-      "start_time": "14:00",
-      "available_spot_count": 3,
+      "start_time": "13:00",
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -486,26 +476,6 @@
     {
       "studio": "Evolution",
       "name": "Lagree - Trainer Development Class",
-      "booking_start_date": "2026-05-21 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-04",
-      "start_time": "18:30",
-      "available_spot_count": 3,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Lagree - Trainer Development Class",
-      "booking_start_date": "2026-05-21 19:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-04",
-      "start_time": "19:30",
-      "available_spot_count": 7,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Lagree - Trainer Development Class",
       "booking_start_date": "2026-05-22 05:45",
       "location": "Vancouver",
       "start_date": "2026-06-05",
@@ -520,7 +490,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "06:45",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -540,7 +510,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-05",
       "start_time": "18:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -630,7 +600,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-10",
       "start_time": "18:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 11
     },
     {
@@ -735,16 +705,6 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Lower Body",
-      "booking_start_date": "2026-05-21 17:15",
-      "location": "Vancouver",
-      "start_date": "2026-06-04",
-      "start_time": "17:15",
-      "available_spot_count": 1,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
       "name": "Pilates Sculpt | Red Light - Arms + Abs",
       "booking_start_date": "2026-05-22 09:30",
       "location": "Vancouver",
@@ -780,7 +740,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-08",
       "start_time": "18:40",
-      "available_spot_count": 31,
+      "available_spot_count": 28,
       "capacity": 40
     },
     {
@@ -810,7 +770,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-10",
       "start_time": "09:30",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 38
     },
     {
@@ -830,7 +790,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-11",
       "start_time": "17:15",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 26
     },
     {
@@ -1425,16 +1385,6 @@
     },
     {
       "studio": "Ritual",
-      "name": "Foundation | Stability + Core",
-      "booking_start_date": "2026-03-06 18:00",
-      "location": "West End",
-      "start_date": "2026-06-04",
-      "start_time": "18:00",
-      "available_spot_count": 15,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
       "name": "Foundation | Stability + Core (heated)",
       "booking_start_date": "2026-03-10 07:00",
       "location": "West End",
@@ -1460,7 +1410,7 @@
       "location": "West End",
       "start_date": "2026-06-11",
       "start_time": "18:00",
-      "available_spot_count": 23,
+      "available_spot_count": 20,
       "capacity": 23
     },
     {
@@ -1660,7 +1610,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 34
     },
     {
@@ -1700,7 +1650,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-05",
       "start_time": "18:40",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -1720,7 +1670,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "06:00",
-      "available_spot_count": 39,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -1730,7 +1680,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "07:15",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
@@ -1750,7 +1700,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-10",
       "start_time": "07:15",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
