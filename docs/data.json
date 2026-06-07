@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T09:43:52.485502-07:00",
+  "last_updated": "2026-06-07T11:18:56.015307-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -380,7 +380,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-11",
       "start_time": "09:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -525,22 +525,12 @@
     },
     {
       "studio": "The Third",
-      "name": "Lagree - Pop Girlies: Sabrina Carpenter + Friends",
-      "booking_start_date": "2026-05-24 10:00",
-      "location": "4th Ave",
-      "start_date": "2026-06-07",
-      "start_time": "10:00",
-      "available_spot_count": 0,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
       "name": "Lagree - Taylor Swift",
       "booking_start_date": "2026-05-24 11:00",
       "location": "4th Ave",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -630,7 +620,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 60,
+      "available_spot_count": 58,
       "capacity": 120
     },
     {
@@ -640,7 +630,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-08",
       "start_time": "12:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 26
     },
     {
@@ -650,7 +640,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-08",
       "start_time": "18:40",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 40
     },
     {
@@ -670,7 +660,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-09",
       "start_time": "09:15",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 26
     },
     {
@@ -730,7 +720,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-12",
       "start_time": "09:30",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 26
     },
     {
@@ -1720,7 +1710,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-07",
       "start_time": "11:50",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 50
     },
     {
@@ -1730,7 +1720,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "06:00",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 50
     },
     {
@@ -1750,7 +1740,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "19:50",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 50
     },
     {
@@ -1790,7 +1780,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-12",
       "start_time": "12:30",
-      "available_spot_count": 45,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
