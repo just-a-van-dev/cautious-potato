@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T11:18:56.015307-07:00",
+  "last_updated": "2026-06-07T12:59:59.828922-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -28,7 +28,7 @@
       "location": "West End",
       "start_date": "2026-06-07",
       "start_time": "16:30",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 23
     }
   ],
@@ -60,7 +60,7 @@
       "location": "Gastown",
       "start_date": "2026-06-13",
       "start_time": "08:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -110,7 +110,7 @@
       "location": "Kitsilano",
       "start_date": "2026-06-17",
       "start_time": "14:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 16
     },
     {
@@ -440,7 +440,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-08",
       "start_time": "18:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -522,16 +522,6 @@
       "start_time": "18:30",
       "available_spot_count": 0,
       "capacity": 11
-    },
-    {
-      "studio": "The Third",
-      "name": "Lagree - Taylor Swift",
-      "booking_start_date": "2026-05-24 11:00",
-      "location": "4th Ave",
-      "start_date": "2026-06-07",
-      "start_time": "11:00",
-      "available_spot_count": 3,
-      "capacity": 15
     },
     {
       "studio": "The Third",
@@ -620,7 +610,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 58,
+      "available_spot_count": 57,
       "capacity": 120
     },
     {
@@ -700,7 +690,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-11",
       "start_time": "17:15",
-      "available_spot_count": 16,
+      "available_spot_count": 17,
       "capacity": 26
     },
     {
@@ -710,7 +700,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-11",
       "start_time": "20:00",
-      "available_spot_count": 39,
+      "available_spot_count": 40,
       "capacity": 40
     },
     {
@@ -790,7 +780,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-18",
       "start_time": "20:00",
-      "available_spot_count": 39,
+      "available_spot_count": 40,
       "capacity": 40
     },
     {
@@ -1675,16 +1665,6 @@
     },
     {
       "studio": "Turf",
-      "name": "Meta + Mat Werk 60 min *Co-teach*",
-      "booking_start_date": "2026-05-31 11:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-06-07",
-      "start_time": "11:00",
-      "available_spot_count": 0,
-      "capacity": 34
-    },
-    {
-      "studio": "Turf",
       "name": "Mat Werk 45 mins *Co-teach*",
       "booking_start_date": "2026-06-03 07:00",
       "location": "KITS - Vancouver",
@@ -1705,22 +1685,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: HOT K-POP SUMMER",
-      "booking_start_date": "2026-05-30 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-06-07",
-      "start_time": "11:50",
-      "available_spot_count": 0,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: REZZ x ZABO",
       "booking_start_date": "2026-05-31 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "06:00",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -1730,7 +1700,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "07:15",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -1750,7 +1720,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-10",
       "start_time": "07:15",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
