@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T08:01:28.076864-07:00",
+  "last_updated": "2026-06-07T09:43:52.485502-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -280,7 +280,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-09",
       "start_time": "07:15",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 36
     },
     {
@@ -530,7 +530,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-07",
       "start_time": "10:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 15
     },
     {
@@ -540,7 +540,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 15
     },
     {
@@ -650,7 +650,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-08",
       "start_time": "18:40",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 40
     },
     {
@@ -690,7 +690,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-10",
       "start_time": "09:30",
-      "available_spot_count": 29,
+      "available_spot_count": 30,
       "capacity": 38
     },
     {
@@ -1470,7 +1470,7 @@
       "location": "West End",
       "start_date": "2026-06-11",
       "start_time": "18:00",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 23
     },
     {
@@ -1690,7 +1690,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-07",
       "start_time": "11:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 34
     },
     {
@@ -1720,7 +1720,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-07",
       "start_time": "11:50",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -1730,7 +1730,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "06:00",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
