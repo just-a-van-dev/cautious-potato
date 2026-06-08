@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T03:08:10.297656-07:00",
+  "last_updated": "2026-06-08T07:21:59.222988-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -700,7 +700,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-09",
       "start_time": "09:15",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 26
     },
     {
@@ -1520,7 +1520,7 @@
       "location": "West End",
       "start_date": "2026-06-08",
       "start_time": "07:00",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 23
     },
     {
@@ -1785,22 +1785,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: REZZ x ZABO",
-      "booking_start_date": "2026-05-31 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-06-08",
-      "start_time": "06:00",
-      "available_spot_count": 27,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: BEYONC\u00c9 x RIHANNA",
       "booking_start_date": "2026-05-31 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "07:15",
-      "available_spot_count": 30,
+      "available_spot_count": 25,
       "capacity": 49
     },
     {
@@ -1810,7 +1800,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "19:50",
-      "available_spot_count": 17,
+      "available_spot_count": 21,
       "capacity": 49
     },
     {
@@ -1830,7 +1820,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-11",
       "start_time": "12:30",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 49
     },
     {
@@ -1840,7 +1830,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-11",
       "start_time": "17:30",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -1850,7 +1840,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-12",
       "start_time": "12:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
