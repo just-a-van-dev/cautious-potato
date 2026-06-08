@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T17:21:30.324230-07:00",
+  "last_updated": "2026-06-07T22:18:53.165107-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -60,7 +60,7 @@
       "location": "Gastown",
       "start_date": "2026-06-13",
       "start_time": "09:00",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 15
     },
     {
@@ -70,7 +70,7 @@
       "location": "Gastown",
       "start_date": "2026-06-13",
       "start_time": "10:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 15
     },
     {
@@ -270,7 +270,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-09",
       "start_time": "07:15",
-      "available_spot_count": 31,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -305,6 +305,76 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-06-01 08:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-08",
+      "start_time": "08:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-06-01 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-08",
+      "start_time": "13:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-06-01 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-08",
+      "start_time": "14:00",
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-06-01 15:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-08",
+      "start_time": "15:30",
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-06-02 08:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-09",
+      "start_time": "08:00",
+      "available_spot_count": 5,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-06-02 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-09",
+      "start_time": "10:00",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-06-02 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-09",
+      "start_time": "13:00",
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Club Lagree x Rufus & Anyma x Swae Samples",
       "booking_start_date": "2026-06-04 09:00",
       "location": "Vancouver",
@@ -320,6 +390,66 @@
       "location": "Vancouver",
       "start_date": "2026-06-18",
       "start_time": "09:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-06-15 08:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-22",
+      "start_time": "08:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-06-15 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-22",
+      "start_time": "13:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-06-15 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-22",
+      "start_time": "14:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-06-16 08:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-23",
+      "start_time": "08:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-06-16 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-23",
+      "start_time": "10:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-06-16 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-23",
+      "start_time": "13:00",
       "available_spot_count": 12,
       "capacity": 12
     },
@@ -370,7 +500,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-08",
       "start_time": "18:30",
-      "available_spot_count": 8,
+      "available_spot_count": 10,
       "capacity": 10
     },
     {
@@ -540,7 +670,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-08",
       "start_time": "12:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 26
     },
     {
@@ -560,7 +690,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-09",
       "start_time": "07:30",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 38
     },
     {
@@ -600,7 +730,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-10",
       "start_time": "12:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 26
     },
     {
@@ -905,6 +1035,16 @@
     },
     {
       "studio": "ZenDen",
+      "name": "Coffee + Cacao Party",
+      "booking_start_date": "2026-05-24 11:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-05",
+      "start_time": "11:00",
+      "available_spot_count": 120,
+      "capacity": 120
+    },
+    {
+      "studio": "ZenDen",
       "name": "Pilates Sculpt | Red Light - Lower Body",
       "booking_start_date": "2026-06-22 12:15",
       "location": "Vancouver",
@@ -1200,7 +1340,7 @@
       "location": "Railway",
       "start_date": "2026-06-11",
       "start_time": "10:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 9
     },
     {
@@ -1380,7 +1520,7 @@
       "location": "West End",
       "start_date": "2026-06-08",
       "start_time": "07:00",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 23
     },
     {
@@ -1660,7 +1800,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "07:15",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
@@ -1710,7 +1850,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-12",
       "start_time": "12:30",
-      "available_spot_count": 40,
+      "available_spot_count": 38,
       "capacity": 49
     },
     {
