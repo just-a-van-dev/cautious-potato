@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T07:21:59.222988-07:00",
+  "last_updated": "2026-06-08T10:38:18.177403-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -30,7 +30,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-09",
       "start_time": "13:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 20
     },
     {
@@ -106,10 +106,10 @@
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2026-05-19 11:00",
+      "booking_start_date": "2026-05-19 10:30",
       "location": "Gastown",
       "start_date": "2026-06-18",
-      "start_time": "11:00",
+      "start_time": "10:30",
       "available_spot_count": 11,
       "capacity": 15
     },
@@ -270,7 +270,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-09",
       "start_time": "07:15",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 36
     },
     {
@@ -305,16 +305,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-06-01 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-06-08",
-      "start_time": "08:00",
-      "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-06-01 13:00",
       "location": "Vancouver",
@@ -330,7 +320,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-08",
       "start_time": "14:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -350,7 +340,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-09",
       "start_time": "08:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -520,7 +510,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-12",
       "start_time": "05:45",
-      "available_spot_count": 8,
+      "available_spot_count": 10,
       "capacity": 10
     },
     {
@@ -530,7 +520,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-12",
       "start_time": "06:45",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 10
     },
     {
@@ -540,7 +530,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-12",
       "start_time": "07:45",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 10
     },
     {
@@ -670,7 +660,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-08",
       "start_time": "12:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 26
     },
     {
@@ -710,7 +700,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-09",
       "start_time": "12:00",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 38
     },
     {
@@ -730,7 +720,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-10",
       "start_time": "12:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 26
     },
     {
@@ -740,7 +730,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-11",
       "start_time": "17:15",
-      "available_spot_count": 16,
+      "available_spot_count": 13,
       "capacity": 26
     },
     {
@@ -1515,16 +1505,6 @@
     },
     {
       "studio": "Ritual",
-      "name": "Foundation | Stability + Core (heated)",
-      "booking_start_date": "2026-03-10 07:00",
-      "location": "West End",
-      "start_date": "2026-06-08",
-      "start_time": "07:00",
-      "available_spot_count": 13,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
       "name": "Foundation | Stability + Core",
       "booking_start_date": "2026-03-12 07:00",
       "location": "West End",
@@ -1540,7 +1520,7 @@
       "location": "West End",
       "start_date": "2026-06-11",
       "start_time": "18:00",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 23
     },
     {
@@ -1550,7 +1530,7 @@
       "location": "West End",
       "start_date": "2026-06-15",
       "start_time": "07:00",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 23
     },
     {
@@ -1785,16 +1765,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: BEYONC\u00c9 x RIHANNA",
-      "booking_start_date": "2026-05-31 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-06-08",
-      "start_time": "07:15",
-      "available_spot_count": 25,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: POP DIVAS REMIXED",
       "booking_start_date": "2026-05-31 12:00",
       "location": "MOUNT PLEASANT",
@@ -1810,7 +1780,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-10",
       "start_time": "07:15",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 49
     },
     {
@@ -1830,7 +1800,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-11",
       "start_time": "17:30",
-      "available_spot_count": 13,
+      "available_spot_count": 15,
       "capacity": 49
     },
     {
@@ -1840,7 +1810,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-12",
       "start_time": "12:30",
-      "available_spot_count": 36,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
