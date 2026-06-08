@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T15:46:03.994032-07:00",
+  "last_updated": "2026-06-07T17:21:30.324230-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -20,16 +20,6 @@
       "start_time": "11:30",
       "available_spot_count": 38,
       "capacity": 38
-    },
-    {
-      "studio": "Ritual",
-      "name": "Yoga | Ritual Hatha | Community Class",
-      "booking_start_date": "2026-05-24 16:30",
-      "location": "West End",
-      "start_date": "2026-06-07",
-      "start_time": "16:30",
-      "available_spot_count": 0,
-      "capacity": 23
     }
   ],
   "sponsored": [
@@ -60,7 +50,7 @@
       "location": "Gastown",
       "start_date": "2026-06-13",
       "start_time": "08:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -420,7 +410,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-12",
       "start_time": "07:45",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -560,7 +550,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-08",
       "start_time": "18:40",
-      "available_spot_count": 25,
+      "available_spot_count": 26,
       "capacity": 40
     },
     {
@@ -570,7 +560,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-09",
       "start_time": "07:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 38
     },
     {
@@ -590,7 +580,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-09",
       "start_time": "12:00",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 38
     },
     {
@@ -1164,6 +1154,26 @@
       "capacity": 38
     },
     {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Hot - Arms + Abs",
+      "booking_start_date": "2026-07-08 09:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-22",
+      "start_time": "09:30",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Pilates Sculpt | Red Light - Lower Body",
+      "booking_start_date": "2026-07-08 12:15",
+      "location": "Vancouver",
+      "start_date": "2026-07-22",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
       "studio": "All Method Studio",
       "name": "ALL Reformer - Jump Happy Hour 55 mins",
       "booking_start_date": "2026-05-26 10:00",
@@ -1349,6 +1359,16 @@
       "booking_start_date": "2026-07-07 10:00",
       "location": "Railway",
       "start_date": "2026-07-21",
+      "start_time": "10:00",
+      "available_spot_count": 9,
+      "capacity": 9
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Reformer - Begin Happy Hour 55 mins",
+      "booking_start_date": "2026-07-08 10:00",
+      "location": "Railway",
+      "start_date": "2026-07-22",
       "start_time": "10:00",
       "available_spot_count": 9,
       "capacity": 9
@@ -1594,6 +1614,16 @@
       "capacity": 23
     },
     {
+      "studio": "Ritual",
+      "name": "Foundation | Stability + Core",
+      "booking_start_date": "2026-04-23 07:00",
+      "location": "West End",
+      "start_date": "2026-07-22",
+      "start_time": "07:00",
+      "available_spot_count": 23,
+      "capacity": 23
+    },
+    {
       "studio": "Turf",
       "name": "Mat Werk 45 mins *Co-teach*",
       "booking_start_date": "2026-06-03 07:00",
@@ -1640,7 +1670,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-08",
       "start_time": "19:50",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 49
     },
     {
@@ -1680,7 +1710,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-12",
       "start_time": "12:30",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 49
     },
     {
