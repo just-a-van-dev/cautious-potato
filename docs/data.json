@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T15:14:07.798174-07:00",
+  "last_updated": "2026-06-09T16:58:53.172767-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -90,7 +90,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-10",
       "start_time": "06:00",
-      "available_spot_count": 8,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -100,7 +100,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-10",
       "start_time": "10:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -310,7 +310,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-10",
       "start_time": "18:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 11
     },
     {
@@ -514,13 +514,43 @@
       "capacity": 32
     },
     {
+      "studio": "Turf",
+      "name": "Mat Werk 45 mins *Co-teach*",
+      "booking_start_date": "2026-06-17 06:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-06-24",
+      "start_time": "06:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "meta 45 *Happy Hour \ud83d\udc1c* *Co-teach*",
+      "booking_start_date": "2026-06-22 08:15",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-06-29",
+      "start_time": "08:15",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "Mat Werk 45 mins *Co-teach*",
+      "booking_start_date": "2026-07-15 06:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-07-22",
+      "start_time": "06:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
       "studio": "Spin Society",
       "name": "THEME: BTS WAKE-UP",
       "booking_start_date": "2026-06-02 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-10",
       "start_time": "07:15",
-      "available_spot_count": 28,
+      "available_spot_count": 29,
       "capacity": 49
     },
     {
@@ -530,7 +560,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-11",
       "start_time": "12:30",
-      "available_spot_count": 30,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
@@ -540,7 +570,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-11",
       "start_time": "17:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 49
     },
     {
