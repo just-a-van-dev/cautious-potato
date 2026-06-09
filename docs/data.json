@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T16:36:04.881579-07:00",
+  "last_updated": "2026-06-08T17:48:44.356975-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -30,7 +30,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-09",
       "start_time": "13:15",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 20
     },
     {
@@ -42,56 +42,6 @@
       "start_time": "20:15",
       "available_spot_count": 0,
       "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Mega x Hips Dont Lie, Glutes Will Cry",
-      "booking_start_date": "2026-06-06 00:00",
-      "location": "Gastown",
-      "start_date": "2026-06-13",
-      "start_time": "08:00",
-      "available_spot_count": 5,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Mega x Hips Dont Lie, Glutes Will Cry",
-      "booking_start_date": "2026-06-06 00:00",
-      "location": "Gastown",
-      "start_date": "2026-06-13",
-      "start_time": "09:00",
-      "available_spot_count": 11,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Mega x Hips Dont Lie, Glutes Will Cry",
-      "booking_start_date": "2026-06-06 00:00",
-      "location": "Gastown",
-      "start_date": "2026-06-13",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Mega x Hips Dont Lie, Glutes Will Cry",
-      "booking_start_date": "2026-06-06 00:00",
-      "location": "Gastown",
-      "start_date": "2026-06-13",
-      "start_time": "11:00",
-      "available_spot_count": 11,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Mega x Hips Dont Lie, Glutes Will Cry",
-      "booking_start_date": "2026-06-06 00:00",
-      "location": "Gastown",
-      "start_date": "2026-06-13",
-      "start_time": "12:00",
-      "available_spot_count": 11,
-      "capacity": 15
     },
     {
       "studio": "Lagree West",
@@ -112,166 +62,6 @@
       "start_time": "10:30",
       "available_spot_count": 12,
       "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer X House Music Fridays",
-      "booking_start_date": "2026-06-12 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-06-19",
-      "start_time": "17:15",
-      "available_spot_count": 20,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer X House Music Fridays",
-      "booking_start_date": "2026-06-12 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-06-19",
-      "start_time": "18:15",
-      "available_spot_count": 20,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Booty GOALS",
-      "booking_start_date": "2026-06-19 00:00",
-      "location": "Main St",
-      "start_date": "2026-06-26",
-      "start_time": "05:15",
-      "available_spot_count": 14,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Booty GOALS",
-      "booking_start_date": "2026-06-19 00:00",
-      "location": "Main St",
-      "start_date": "2026-06-26",
-      "start_time": "06:15",
-      "available_spot_count": 14,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Booty GOALS",
-      "booking_start_date": "2026-06-19 00:00",
-      "location": "Main St",
-      "start_date": "2026-06-26",
-      "start_time": "07:15",
-      "available_spot_count": 14,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Booty GOALS",
-      "booking_start_date": "2026-06-19 00:00",
-      "location": "Main St",
-      "start_date": "2026-06-26",
-      "start_time": "08:15",
-      "available_spot_count": 14,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Booty GOALS",
-      "booking_start_date": "2026-06-19 00:00",
-      "location": "Main St",
-      "start_date": "2026-06-26",
-      "start_time": "10:15",
-      "available_spot_count": 14,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer X House Music Fridays",
-      "booking_start_date": "2026-06-19 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-06-26",
-      "start_time": "17:15",
-      "available_spot_count": 20,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer X House Music Fridays",
-      "booking_start_date": "2026-06-19 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-06-26",
-      "start_time": "18:15",
-      "available_spot_count": 20,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer X House Music Fridays",
-      "booking_start_date": "2026-06-26 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-07-03",
-      "start_time": "17:15",
-      "available_spot_count": 20,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer X House Music Fridays",
-      "booking_start_date": "2026-06-26 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-07-03",
-      "start_time": "18:15",
-      "available_spot_count": 20,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer X House Music Fridays",
-      "booking_start_date": "2026-07-03 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-07-10",
-      "start_time": "17:15",
-      "available_spot_count": 20,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer X House Music Fridays",
-      "booking_start_date": "2026-07-03 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-07-10",
-      "start_time": "18:15",
-      "available_spot_count": 20,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer X House Music Fridays",
-      "booking_start_date": "2026-07-10 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-07-17",
-      "start_time": "17:15",
-      "available_spot_count": 20,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer X House Music Fridays",
-      "booking_start_date": "2026-07-10 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-07-17",
-      "start_time": "18:15",
-      "available_spot_count": 20,
-      "capacity": 20
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Being \u2014 Happy Hour",
-      "booking_start_date": "2026-06-02 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-06-09",
-      "start_time": "07:15",
-      "available_spot_count": 26,
-      "capacity": 36
     },
     {
       "studio": "Jaybird",
@@ -310,7 +100,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-09",
       "start_time": "10:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -330,7 +120,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-11",
       "start_time": "09:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -444,24 +234,14 @@
       "capacity": 12
     },
     {
-      "studio": "Evolution",
-      "name": "Lagree - Trainer Development Class",
-      "booking_start_date": "2026-05-25 18:30",
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-07-16 09:00",
       "location": "Vancouver",
-      "start_date": "2026-06-08",
-      "start_time": "18:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Lagree - Trainer Development Class",
-      "booking_start_date": "2026-05-25 19:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-08",
-      "start_time": "19:30",
-      "available_spot_count": 10,
-      "capacity": 10
+      "start_date": "2026-07-23",
+      "start_time": "09:00",
+      "available_spot_count": 12,
+      "capacity": 12
     },
     {
       "studio": "Evolution",
@@ -615,16 +395,6 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Arms + Abs",
-      "booking_start_date": "2026-05-25 18:40",
-      "location": "Vancouver",
-      "start_date": "2026-06-08",
-      "start_time": "18:40",
-      "available_spot_count": 27,
-      "capacity": 40
-    },
-    {
-      "studio": "ZenDen",
       "name": "Pilates Sculpt | Hot- Lower Body x Tortured Poets",
       "booking_start_date": "2026-06-02 07:30",
       "location": "Vancouver",
@@ -640,7 +410,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-09",
       "start_time": "09:15",
-      "available_spot_count": 18,
+      "available_spot_count": 19,
       "capacity": 26
     },
     {
@@ -655,131 +425,11 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Arms + Abs",
-      "booking_start_date": "2026-05-27 09:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-10",
-      "start_time": "09:30",
-      "available_spot_count": 29,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Lower Body",
-      "booking_start_date": "2026-05-27 12:15",
-      "location": "Vancouver",
-      "start_date": "2026-06-10",
-      "start_time": "12:15",
-      "available_spot_count": 12,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Lower Body",
-      "booking_start_date": "2026-05-28 17:15",
-      "location": "Vancouver",
-      "start_date": "2026-06-11",
-      "start_time": "17:15",
-      "available_spot_count": 13,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Yin + Sound Bath | Warm",
-      "booking_start_date": "2026-05-28 20:00",
-      "location": "Vancouver",
-      "start_date": "2026-06-11",
-      "start_time": "20:00",
-      "available_spot_count": 40,
-      "capacity": 40
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Arms + Abs",
-      "booking_start_date": "2026-05-29 09:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-12",
-      "start_time": "09:30",
-      "available_spot_count": 23,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Arms + Abs",
-      "booking_start_date": "2026-05-30 08:15",
-      "location": "Vancouver",
-      "start_date": "2026-06-13",
-      "start_time": "08:15",
-      "available_spot_count": 21,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Arms + Abs",
-      "booking_start_date": "2026-06-01 18:40",
-      "location": "Vancouver",
-      "start_date": "2026-06-15",
-      "start_time": "18:40",
-      "available_spot_count": 38,
-      "capacity": 40
-    },
-    {
-      "studio": "ZenDen",
       "name": "Crystal Sound Bath for Sleep x Drink Ideally",
       "booking_start_date": "2026-06-01 20:15",
       "location": "Vancouver",
       "start_date": "2026-06-15",
       "start_time": "20:15",
-      "available_spot_count": 25,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Lower Body",
-      "booking_start_date": "2026-06-09 07:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-16",
-      "start_time": "07:30",
-      "available_spot_count": 40,
-      "capacity": 40
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Arms + Abs",
-      "booking_start_date": "2026-06-03 09:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-17",
-      "start_time": "09:30",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Lower Body",
-      "booking_start_date": "2026-06-04 17:15",
-      "location": "Vancouver",
-      "start_date": "2026-06-18",
-      "start_time": "17:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Yin + Sound Bath | Warm",
-      "booking_start_date": "2026-06-04 20:00",
-      "location": "Vancouver",
-      "start_date": "2026-06-18",
-      "start_time": "20:00",
-      "available_spot_count": 39,
-      "capacity": 40
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Arms + Abs",
-      "booking_start_date": "2026-06-06 08:15",
-      "location": "Vancouver",
-      "start_date": "2026-06-20",
-      "start_time": "08:15",
       "available_spot_count": 25,
       "capacity": 26
     },
@@ -795,86 +445,6 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Arms + Abs",
-      "booking_start_date": "2026-06-08 18:40",
-      "location": "Vancouver",
-      "start_date": "2026-06-22",
-      "start_time": "18:40",
-      "available_spot_count": 40,
-      "capacity": 40
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Lower Body",
-      "booking_start_date": "2026-06-16 07:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-23",
-      "start_time": "07:30",
-      "available_spot_count": 40,
-      "capacity": 40
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Arms + Abs",
-      "booking_start_date": "2026-06-10 09:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-24",
-      "start_time": "09:30",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Lower Body",
-      "booking_start_date": "2026-06-10 12:15",
-      "location": "Vancouver",
-      "start_date": "2026-06-24",
-      "start_time": "12:15",
-      "available_spot_count": 25,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Lower Body",
-      "booking_start_date": "2026-06-11 17:15",
-      "location": "Vancouver",
-      "start_date": "2026-06-25",
-      "start_time": "17:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Yin + Sound Bath | Warm",
-      "booking_start_date": "2026-06-11 20:00",
-      "location": "Vancouver",
-      "start_date": "2026-06-25",
-      "start_time": "20:00",
-      "available_spot_count": 40,
-      "capacity": 40
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Arms + Abs",
-      "booking_start_date": "2026-06-12 09:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-26",
-      "start_time": "09:30",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Arms + Abs",
-      "booking_start_date": "2026-06-13 08:15",
-      "location": "Vancouver",
-      "start_date": "2026-06-27",
-      "start_time": "08:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
       "name": "Coffee + Cacao Party",
       "booking_start_date": "2026-05-17 11:00",
       "location": "Vancouver",
@@ -882,206 +452,6 @@
       "start_time": "11:00",
       "available_spot_count": 120,
       "capacity": 120
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Lower Body",
-      "booking_start_date": "2026-06-15 12:15",
-      "location": "Vancouver",
-      "start_date": "2026-06-29",
-      "start_time": "12:15",
-      "available_spot_count": 25,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Arms + Abs",
-      "booking_start_date": "2026-06-15 18:40",
-      "location": "Vancouver",
-      "start_date": "2026-06-29",
-      "start_time": "18:40",
-      "available_spot_count": 40,
-      "capacity": 40
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Lower Body",
-      "booking_start_date": "2026-06-23 07:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-30",
-      "start_time": "07:30",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Warm - Arms + Abs",
-      "booking_start_date": "2026-06-16 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-06-30",
-      "start_time": "12:00",
-      "available_spot_count": 36,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Arms + Abs",
-      "booking_start_date": "2026-06-17 09:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-01",
-      "start_time": "09:30",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Lower Body",
-      "booking_start_date": "2026-06-17 12:15",
-      "location": "Vancouver",
-      "start_date": "2026-07-01",
-      "start_time": "12:15",
-      "available_spot_count": 25,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Lower Body",
-      "booking_start_date": "2026-06-18 17:15",
-      "location": "Vancouver",
-      "start_date": "2026-07-02",
-      "start_time": "17:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Yin + Sound Bath | Warm",
-      "booking_start_date": "2026-06-18 20:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-02",
-      "start_time": "20:00",
-      "available_spot_count": 40,
-      "capacity": 40
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Arms + Abs",
-      "booking_start_date": "2026-06-19 09:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-03",
-      "start_time": "09:30",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Arms + Abs",
-      "booking_start_date": "2026-06-20 08:15",
-      "location": "Vancouver",
-      "start_date": "2026-07-04",
-      "start_time": "08:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Lower Body",
-      "booking_start_date": "2026-06-22 12:15",
-      "location": "Vancouver",
-      "start_date": "2026-07-06",
-      "start_time": "12:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Arms + Abs",
-      "booking_start_date": "2026-06-22 18:40",
-      "location": "Vancouver",
-      "start_date": "2026-07-06",
-      "start_time": "18:40",
-      "available_spot_count": 40,
-      "capacity": 40
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Lower Body",
-      "booking_start_date": "2026-06-30 07:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-07",
-      "start_time": "07:30",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Warm - Arms + Abs",
-      "booking_start_date": "2026-06-23 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-07",
-      "start_time": "12:00",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Arms + Abs",
-      "booking_start_date": "2026-06-24 09:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-08",
-      "start_time": "09:30",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Lower Body",
-      "booking_start_date": "2026-06-24 12:15",
-      "location": "Vancouver",
-      "start_date": "2026-07-08",
-      "start_time": "12:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Lower Body",
-      "booking_start_date": "2026-06-25 17:15",
-      "location": "Vancouver",
-      "start_date": "2026-07-09",
-      "start_time": "17:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Yin + Sound Bath | Warm",
-      "booking_start_date": "2026-06-25 20:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-09",
-      "start_time": "20:00",
-      "available_spot_count": 40,
-      "capacity": 40
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Arms + Abs",
-      "booking_start_date": "2026-06-26 09:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-10",
-      "start_time": "09:30",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Arms + Abs",
-      "booking_start_date": "2026-06-27 08:15",
-      "location": "Vancouver",
-      "start_date": "2026-07-11",
-      "start_time": "08:15",
-      "available_spot_count": 26,
-      "capacity": 26
     },
     {
       "studio": "ZenDen",
@@ -1102,606 +472,6 @@
       "start_time": "19:00",
       "available_spot_count": 120,
       "capacity": 120
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Lower Body",
-      "booking_start_date": "2026-06-29 12:15",
-      "location": "Vancouver",
-      "start_date": "2026-07-13",
-      "start_time": "12:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Arms + Abs",
-      "booking_start_date": "2026-06-29 18:40",
-      "location": "Vancouver",
-      "start_date": "2026-07-13",
-      "start_time": "18:40",
-      "available_spot_count": 40,
-      "capacity": 40
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Lower Body",
-      "booking_start_date": "2026-07-07 07:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-14",
-      "start_time": "07:30",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Warm - Arms + Abs",
-      "booking_start_date": "2026-06-30 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-14",
-      "start_time": "12:00",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Arms + Abs",
-      "booking_start_date": "2026-07-01 09:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-15",
-      "start_time": "09:30",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Lower Body",
-      "booking_start_date": "2026-07-01 12:15",
-      "location": "Vancouver",
-      "start_date": "2026-07-15",
-      "start_time": "12:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Lower Body",
-      "booking_start_date": "2026-07-02 17:15",
-      "location": "Vancouver",
-      "start_date": "2026-07-16",
-      "start_time": "17:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Yin + Sound Bath | Warm",
-      "booking_start_date": "2026-07-02 20:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-16",
-      "start_time": "20:00",
-      "available_spot_count": 40,
-      "capacity": 40
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Arms + Abs",
-      "booking_start_date": "2026-07-03 09:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-17",
-      "start_time": "09:30",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Arms + Abs",
-      "booking_start_date": "2026-07-04 08:15",
-      "location": "Vancouver",
-      "start_date": "2026-07-18",
-      "start_time": "08:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Lower Body",
-      "booking_start_date": "2026-07-06 12:15",
-      "location": "Vancouver",
-      "start_date": "2026-07-20",
-      "start_time": "12:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Arms + Abs",
-      "booking_start_date": "2026-07-06 18:40",
-      "location": "Vancouver",
-      "start_date": "2026-07-20",
-      "start_time": "18:40",
-      "available_spot_count": 40,
-      "capacity": 40
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Lower Body",
-      "booking_start_date": "2026-07-14 07:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-21",
-      "start_time": "07:30",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Warm - Arms + Abs",
-      "booking_start_date": "2026-07-07 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-21",
-      "start_time": "12:00",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot - Arms + Abs",
-      "booking_start_date": "2026-07-08 09:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-22",
-      "start_time": "09:30",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Lower Body",
-      "booking_start_date": "2026-07-08 12:15",
-      "location": "Vancouver",
-      "start_date": "2026-07-22",
-      "start_time": "12:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Jump Happy Hour 55 mins",
-      "booking_start_date": "2026-05-26 10:00",
-      "location": "Railway",
-      "start_date": "2026-06-09",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin Happy Hour 55 mins",
-      "booking_start_date": "2026-05-27 10:00",
-      "location": "Railway",
-      "start_date": "2026-06-10",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin Happy Hour 55 mins",
-      "booking_start_date": "2026-05-28 10:00",
-      "location": "Railway",
-      "start_date": "2026-06-11",
-      "start_time": "10:00",
-      "available_spot_count": 7,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Jump Happy Hour 55 mins",
-      "booking_start_date": "2026-06-02 10:00",
-      "location": "Railway",
-      "start_date": "2026-06-16",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin Happy Hour 55 mins",
-      "booking_start_date": "2026-06-03 10:00",
-      "location": "Railway",
-      "start_date": "2026-06-17",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin Happy Hour 55 mins",
-      "booking_start_date": "2026-06-04 10:00",
-      "location": "Railway",
-      "start_date": "2026-06-18",
-      "start_time": "10:00",
-      "available_spot_count": 7,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Jump Happy Hour 55 mins",
-      "booking_start_date": "2026-06-09 10:00",
-      "location": "Railway",
-      "start_date": "2026-06-23",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin Happy Hour 55 mins",
-      "booking_start_date": "2026-06-10 10:00",
-      "location": "Railway",
-      "start_date": "2026-06-24",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin Happy Hour 55 mins",
-      "booking_start_date": "2026-06-11 10:00",
-      "location": "Railway",
-      "start_date": "2026-06-25",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Jump Happy Hour 55 mins",
-      "booking_start_date": "2026-06-16 10:00",
-      "location": "Railway",
-      "start_date": "2026-06-30",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin Happy Hour 55 mins",
-      "booking_start_date": "2026-06-17 10:00",
-      "location": "Railway",
-      "start_date": "2026-07-01",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin Happy Hour 55 mins",
-      "booking_start_date": "2026-06-18 10:00",
-      "location": "Railway",
-      "start_date": "2026-07-02",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Jump Happy Hour 55 mins",
-      "booking_start_date": "2026-06-23 10:00",
-      "location": "Railway",
-      "start_date": "2026-07-07",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin Happy Hour 55 mins",
-      "booking_start_date": "2026-06-24 10:00",
-      "location": "Railway",
-      "start_date": "2026-07-08",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin Happy Hour 55 mins",
-      "booking_start_date": "2026-06-25 10:00",
-      "location": "Railway",
-      "start_date": "2026-07-09",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Jump Happy Hour 55 mins",
-      "booking_start_date": "2026-06-30 10:00",
-      "location": "Railway",
-      "start_date": "2026-07-14",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin Happy Hour 55 mins",
-      "booking_start_date": "2026-07-01 10:00",
-      "location": "Railway",
-      "start_date": "2026-07-15",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin Happy Hour 55 mins",
-      "booking_start_date": "2026-07-02 10:00",
-      "location": "Railway",
-      "start_date": "2026-07-16",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Jump Happy Hour 55 mins",
-      "booking_start_date": "2026-07-07 10:00",
-      "location": "Railway",
-      "start_date": "2026-07-21",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Begin Happy Hour 55 mins",
-      "booking_start_date": "2026-07-08 10:00",
-      "location": "Railway",
-      "start_date": "2026-07-22",
-      "start_time": "10:00",
-      "available_spot_count": 9,
-      "capacity": 9
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core",
-      "booking_start_date": "2026-03-12 07:00",
-      "location": "West End",
-      "start_date": "2026-06-10",
-      "start_time": "07:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core",
-      "booking_start_date": "2026-03-13 18:00",
-      "location": "West End",
-      "start_date": "2026-06-11",
-      "start_time": "18:00",
-      "available_spot_count": 17,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core (heated)",
-      "booking_start_date": "2026-03-17 07:00",
-      "location": "West End",
-      "start_date": "2026-06-15",
-      "start_time": "07:00",
-      "available_spot_count": 22,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Strength + Cardio",
-      "booking_start_date": "2026-03-18 18:00",
-      "location": "West End",
-      "start_date": "2026-06-16",
-      "start_time": "18:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core",
-      "booking_start_date": "2026-03-19 07:00",
-      "location": "West End",
-      "start_date": "2026-06-17",
-      "start_time": "07:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core",
-      "booking_start_date": "2026-03-20 18:00",
-      "location": "West End",
-      "start_date": "2026-06-18",
-      "start_time": "18:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core (heated)",
-      "booking_start_date": "2026-03-24 07:00",
-      "location": "West End",
-      "start_date": "2026-06-22",
-      "start_time": "07:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Strength + Cardio",
-      "booking_start_date": "2026-03-25 18:00",
-      "location": "West End",
-      "start_date": "2026-06-23",
-      "start_time": "18:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core",
-      "booking_start_date": "2026-03-27 18:00",
-      "location": "West End",
-      "start_date": "2026-06-25",
-      "start_time": "18:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core (heated)",
-      "booking_start_date": "2026-03-31 07:00",
-      "location": "West End",
-      "start_date": "2026-06-29",
-      "start_time": "07:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Strength + Cardio",
-      "booking_start_date": "2026-04-01 18:00",
-      "location": "West End",
-      "start_date": "2026-06-30",
-      "start_time": "18:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core",
-      "booking_start_date": "2026-04-02 07:00",
-      "location": "West End",
-      "start_date": "2026-07-01",
-      "start_time": "07:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core",
-      "booking_start_date": "2026-04-03 18:00",
-      "location": "West End",
-      "start_date": "2026-07-02",
-      "start_time": "18:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core (heated)",
-      "booking_start_date": "2026-04-07 07:00",
-      "location": "West End",
-      "start_date": "2026-07-06",
-      "start_time": "07:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Strength + Cardio",
-      "booking_start_date": "2026-04-08 18:00",
-      "location": "West End",
-      "start_date": "2026-07-07",
-      "start_time": "18:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core",
-      "booking_start_date": "2026-04-09 07:00",
-      "location": "West End",
-      "start_date": "2026-07-08",
-      "start_time": "07:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core",
-      "booking_start_date": "2026-04-10 18:00",
-      "location": "West End",
-      "start_date": "2026-07-09",
-      "start_time": "18:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core (heated)",
-      "booking_start_date": "2026-04-14 07:00",
-      "location": "West End",
-      "start_date": "2026-07-13",
-      "start_time": "07:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Strength + Cardio",
-      "booking_start_date": "2026-04-15 18:00",
-      "location": "West End",
-      "start_date": "2026-07-14",
-      "start_time": "18:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core",
-      "booking_start_date": "2026-04-16 07:00",
-      "location": "West End",
-      "start_date": "2026-07-15",
-      "start_time": "07:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core",
-      "booking_start_date": "2026-04-17 18:00",
-      "location": "West End",
-      "start_date": "2026-07-16",
-      "start_time": "18:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core (heated)",
-      "booking_start_date": "2026-04-21 07:00",
-      "location": "West End",
-      "start_date": "2026-07-20",
-      "start_time": "07:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Strength + Cardio",
-      "booking_start_date": "2026-04-22 18:00",
-      "location": "West End",
-      "start_date": "2026-07-21",
-      "start_time": "18:00",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Foundation | Stability + Core",
-      "booking_start_date": "2026-04-23 07:00",
-      "location": "West End",
-      "start_date": "2026-07-22",
-      "start_time": "07:00",
-      "available_spot_count": 23,
-      "capacity": 23
     },
     {
       "studio": "Turf",
@@ -1725,12 +495,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: POP DIVAS REMIXED",
-      "booking_start_date": "2026-05-31 12:00",
+      "name": "THEME: RISE + RAVE",
+      "booking_start_date": "2026-06-01 12:00",
       "location": "MOUNT PLEASANT",
-      "start_date": "2026-06-08",
-      "start_time": "19:50",
-      "available_spot_count": 18,
+      "start_date": "2026-06-09",
+      "start_time": "07:15",
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
@@ -1740,7 +510,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-10",
       "start_time": "07:15",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 49
     },
     {
@@ -1760,7 +530,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-11",
       "start_time": "17:30",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -1780,7 +550,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-14",
       "start_time": "10:40",
-      "available_spot_count": 43,
+      "available_spot_count": 41,
       "capacity": 49
     },
     {
@@ -1842,6 +612,56 @@
       "start_time": "17:30",
       "available_spot_count": 49,
       "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: RISE + RAVE",
+      "booking_start_date": "2026-06-15 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-06-23",
+      "start_time": "07:15",
+      "available_spot_count": 49,
+      "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: RISE + RAVE",
+      "booking_start_date": "2026-06-22 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-06-30",
+      "start_time": "07:15",
+      "available_spot_count": 49,
+      "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: RISE + RAVE",
+      "booking_start_date": "2026-06-29 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-07",
+      "start_time": "07:15",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: RISE + RAVE",
+      "booking_start_date": "2026-07-06 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-14",
+      "start_time": "07:15",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: RISE + RAVE",
+      "booking_start_date": "2026-07-13 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-21",
+      "start_time": "07:15",
+      "available_spot_count": 50,
+      "capacity": 50
     }
   ]
 }
