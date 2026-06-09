@@ -4,6 +4,7 @@ from datetime import datetime, timedelta, timezone
 
 from filter_out import FILTER_OUT
 
+LAGREE_STUDIO = "lagree studio"
 TUNNEL = "tunnel"
 TUNNEL_CLASSES = [
 "heated mat pilates",
@@ -27,8 +28,9 @@ TARGET_NAMES = [
 
 
 
-def is_free_class(class_data) -> bool:
-    return class_data.get("is_free_class") and class_data.get("name").lower().strip() not in FILTER_OUT
+def is_free_class(class_data, studio_name) -> bool:
+    return (class_data.get("is_free_class") and
+            class_data.get("name").lower().strip() not in FILTER_OUT.get(studio_name.lower(), []))
 
 
 def is_sponsored_class(class_data, studio_name) -> bool:
@@ -39,14 +41,17 @@ def is_sponsored_class(class_data, studio_name) -> bool:
     if studio_name.lower() == TUNNEL:
         return name not in TUNNEL_CLASSES
 
+    if studio_name.lower() == LAGREE_STUDIO:
+        return name not in FILTER_OUT.get(studio_name.lower(), [])
+
     if name.startswith("happy hour") or name.endswith("happy hour"):
         name = name.replace("happy hour", "").strip()
-        name = name.strip("-").strip()
+        name = name.strip("-").strip().strip("\u2014").strip()
 
     if "mid-day" in name:
         name = name.replace("mid-day", "").strip()
 
-    if any(target == name for target in FILTER_OUT):
+    if any(target == name for target in FILTER_OUT.get(studio_name.lower(), [])):
         return False
     return any(target in name for target in TARGET_NAMES)
 
@@ -114,7 +119,7 @@ async def fetch_studio_data(studios: dict, days=45):
                     "capacity": cls.get("capacity"),
                 }
 
-                if is_free_class(cls):
+                if is_free_class(cls, studio_name):
                     SPECIAL_CLASSES.append(record)
                 if is_sponsored_class(cls, studio_name):
                     SPONSORED_CLASSES.append(record)
