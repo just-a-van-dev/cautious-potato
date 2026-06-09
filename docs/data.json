@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T05:50:46.734553-07:00",
+  "last_updated": "2026-06-09T09:13:04.770730-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -100,7 +100,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-09",
       "start_time": "11:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -120,7 +120,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-10",
       "start_time": "06:00",
-      "available_spot_count": 4,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -340,7 +340,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-10",
       "start_time": "18:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 11
     },
     {
@@ -425,22 +425,12 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Pilates Sculpt | Hot- Lower Body x Tortured Poets",
-      "booking_start_date": "2026-06-02 07:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-09",
-      "start_time": "07:30",
-      "available_spot_count": 30,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
       "name": "Pilates Sculpt | Red Light x Tortured Poets",
       "booking_start_date": "2026-05-26 09:15",
       "location": "Vancouver",
       "start_date": "2026-06-09",
       "start_time": "09:15",
-      "available_spot_count": 13,
+      "available_spot_count": 16,
       "capacity": 26
     },
     {
@@ -450,7 +440,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-09",
       "start_time": "12:00",
-      "available_spot_count": 29,
+      "available_spot_count": 27,
       "capacity": 38
     },
     {
@@ -525,22 +515,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: RISE + RAVE",
-      "booking_start_date": "2026-06-01 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-06-09",
-      "start_time": "07:15",
-      "available_spot_count": 33,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: BTS WAKE-UP",
       "booking_start_date": "2026-06-02 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-10",
       "start_time": "07:15",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 49
     },
     {
@@ -580,7 +560,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-14",
       "start_time": "10:40",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 49
     },
     {
