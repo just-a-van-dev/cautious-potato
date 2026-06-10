@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T09:25:43.606390-07:00",
+  "last_updated": "2026-06-10T12:19:38.915667-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -60,7 +60,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-16",
       "start_time": "12:05",
-      "available_spot_count": 33,
+      "available_spot_count": 29,
       "capacity": 36
     },
     {
@@ -70,7 +70,7 @@
       "location": "Kingsway",
       "start_date": "2026-06-17",
       "start_time": "12:00",
-      "available_spot_count": 45,
+      "available_spot_count": 42,
       "capacity": 45
     },
     {
@@ -86,31 +86,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-06-03 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-06-10",
-      "start_time": "09:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-06-03 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-06-10",
-      "start_time": "10:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-06-03 13:00",
       "location": "Vancouver",
       "start_date": "2026-06-10",
       "start_time": "13:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -120,7 +100,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-11",
       "start_time": "09:00",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -140,7 +120,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-11",
       "start_time": "13:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -150,7 +130,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-11",
       "start_time": "14:00",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -565,22 +545,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: RUFUS DU SOL x JOHN SUMMIT",
-      "booking_start_date": "2026-06-02 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-06-10",
-      "start_time": "09:45",
-      "available_spot_count": 42,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: ILLENIUM X GRYFFIN",
       "booking_start_date": "2026-06-03 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-11",
       "start_time": "12:30",
-      "available_spot_count": 30,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
@@ -590,7 +560,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-11",
       "start_time": "17:30",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 49
     },
     {
