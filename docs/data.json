@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T05:36:00.936159-07:00",
+  "last_updated": "2026-06-10T09:25:43.606390-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -65,7 +65,7 @@
     },
     {
       "studio": "Jaybird",
-      "name": "Sweat for a Cause | The Bird",
+      "name": "Sweat for a Cause | The Burn",
       "booking_start_date": "2026-06-10 00:00",
       "location": "Kingsway",
       "start_date": "2026-06-17",
@@ -85,22 +85,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-06-03 06:00",
-      "location": "Vancouver",
-      "start_date": "2026-06-10",
-      "start_time": "06:00",
-      "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-06-03 09:00",
       "location": "Vancouver",
       "start_date": "2026-06-10",
       "start_time": "09:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -120,7 +110,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-10",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -130,7 +120,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-11",
       "start_time": "09:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -140,7 +130,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-11",
       "start_time": "11:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -150,7 +140,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-11",
       "start_time": "13:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -525,16 +515,6 @@
     },
     {
       "studio": "Turf",
-      "name": "Mat Werk 45 mins *Co-teach*",
-      "booking_start_date": "2026-06-03 07:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-06-10",
-      "start_time": "07:00",
-      "available_spot_count": 0,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "Archive Athletics x Full Fire",
       "booking_start_date": "2026-05-21 14:00",
       "location": "KITS - Vancouver",
@@ -585,22 +565,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: BTS WAKE-UP",
-      "booking_start_date": "2026-06-02 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-06-10",
-      "start_time": "07:15",
-      "available_spot_count": 27,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: RUFUS DU SOL x JOHN SUMMIT",
       "booking_start_date": "2026-06-02 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-10",
       "start_time": "09:45",
-      "available_spot_count": 44,
+      "available_spot_count": 42,
       "capacity": 49
     },
     {
@@ -610,7 +580,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-11",
       "start_time": "12:30",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 49
     },
     {
@@ -630,7 +600,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-12",
       "start_time": "12:30",
-      "available_spot_count": 30,
+      "available_spot_count": 28,
       "capacity": 49
     },
     {
@@ -650,7 +620,17 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-16",
       "start_time": "07:15",
-      "available_spot_count": 43,
+      "available_spot_count": 41,
+      "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: RISE + RAP",
+      "booking_start_date": "2026-06-10 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-06-18",
+      "start_time": "06:00",
+      "available_spot_count": 49,
       "capacity": 49
     },
     {
@@ -700,16 +680,6 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-22",
       "start_time": "17:30",
-      "available_spot_count": 49,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: RISE + RAVE",
-      "booking_start_date": "2026-06-15 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-06-23",
-      "start_time": "07:15",
       "available_spot_count": 49,
       "capacity": 49
     },
