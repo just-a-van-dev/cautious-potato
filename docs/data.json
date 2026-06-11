@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T12:44:55.732476-07:00",
+  "last_updated": "2026-06-11T15:15:25.179655-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -50,7 +50,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-16",
       "start_time": "12:05",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 36
     },
     {
@@ -110,7 +110,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-12",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -555,22 +555,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: ILLENIUM X GRYFFIN",
-      "booking_start_date": "2026-06-03 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-06-11",
-      "start_time": "12:30",
-      "available_spot_count": 26,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: HIP HOP x K-POP",
       "booking_start_date": "2026-06-03 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-11",
       "start_time": "17:30",
-      "available_spot_count": 18,
+      "available_spot_count": 16,
       "capacity": 49
     },
     {
@@ -580,7 +570,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-12",
       "start_time": "12:30",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 49
     },
     {
@@ -600,7 +590,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-16",
       "start_time": "07:15",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
@@ -620,7 +610,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-19",
       "start_time": "12:30",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 49
     },
     {
@@ -630,7 +620,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-19",
       "start_time": "18:40",
-      "available_spot_count": 33,
+      "available_spot_count": 29,
       "capacity": 49
     },
     {
