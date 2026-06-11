@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T06:05:11.821594-07:00",
+  "last_updated": "2026-06-11T10:02:03.778927-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -30,7 +30,7 @@
       "location": "Kitsilano",
       "start_date": "2026-06-17",
       "start_time": "14:30",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 16
     },
     {
@@ -40,7 +40,7 @@
       "location": "Gastown",
       "start_date": "2026-06-18",
       "start_time": "10:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 15
     },
     {
@@ -85,16 +85,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Club Lagree x Rufus & Anyma x Swae Samples",
-      "booking_start_date": "2026-06-04 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-06-11",
-      "start_time": "09:00",
-      "available_spot_count": 0,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-06-05 10:00",
       "location": "Vancouver",
@@ -120,7 +110,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-12",
       "start_time": "13:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -130,7 +120,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-12",
       "start_time": "15:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -540,7 +530,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-11",
       "start_time": "12:30",
-      "available_spot_count": 34,
+      "available_spot_count": 32,
       "capacity": 49
     },
     {
@@ -550,7 +540,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-11",
       "start_time": "17:30",
-      "available_spot_count": 18,
+      "available_spot_count": 19,
       "capacity": 49
     },
     {
@@ -560,7 +550,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-12",
       "start_time": "12:30",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 49
     },
     {
@@ -570,7 +560,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-14",
       "start_time": "10:40",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 49
     },
     {
@@ -585,7 +575,7 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: RISE + RAP",
+      "name": "THEME: RISE + RAP | HIP HOP FAVES",
       "booking_start_date": "2026-06-10 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-18",
@@ -610,7 +600,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-21",
       "start_time": "11:50",
-      "available_spot_count": 50,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
