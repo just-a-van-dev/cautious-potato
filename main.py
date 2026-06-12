@@ -5,6 +5,7 @@ from datetime import datetime, timedelta, timezone
 from filter_out import FILTER_OUT
 
 LAGREE_STUDIO = "lagree studio"
+LAGREE_X = "lagree x"
 TUNNEL = "tunnel"
 TUNNEL_CLASSES = [
 "heated mat pilates",
@@ -25,7 +26,11 @@ TARGET_NAMES = [
     "-",
     "—",
 ]
-
+STUDIO_WITH_MANY_CLASSES = [
+    "Lagree West",
+    "Jaybird",
+    "Spin Society"
+]
 
 
 def is_free_class(class_data, studio_name) -> bool:
@@ -41,7 +46,7 @@ def is_sponsored_class(class_data, studio_name) -> bool:
     if studio_name.lower() == TUNNEL:
         return name not in TUNNEL_CLASSES
 
-    if studio_name.lower() == LAGREE_STUDIO:
+    if studio_name.lower() in [LAGREE_STUDIO, LAGREE_X]:
         return name not in FILTER_OUT.get(studio_name.lower(), [])
 
     if name.startswith("happy hour") or name.endswith("happy hour"):
@@ -85,7 +90,7 @@ async def fetch_studio_data(studios: dict, days=45):
         meta = []
 
         for studio_name, base_url in studios.items():
-            if studio_name in ["Lagree West", "Jaybird"]:
+            if studio_name in STUDIO_WITH_MANY_CLASSES:
                 interval = 5
             for day_offset in range(0, days, interval):
                 min_date = today + timedelta(days=day_offset)

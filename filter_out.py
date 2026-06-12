@@ -27,6 +27,7 @@ FILTER_OUT = {
         "postpartum +baby: control + core",
         "sweatcon arms + abs",
         "prenatal pilates + core",
+        "yoga + mobility",
     ],
     "jaybird": [
         "the balance + sound bath",
@@ -65,6 +66,9 @@ FILTER_OUT = {
         "megaformer x house music fridays",
         "megaformer x booty goals",
     ],
+    "lagree x":[
+        "megapro full body",
+    ],
     "turf": [
         "mat werk + weights",
         "meta + mat werk 45",
@@ -99,6 +103,7 @@ FILTER_OUT = {
         "pilates sculpt | hot - arms + abs",
         "pilates sculpt | hot - lower body",
         "pilates sculpt | red light - arms + abs",
+        "pilates sculpt | red light - arms & abs",
         "pilates sculpt | red light - lower body",
         "pilates sweat | hot",
         "pilates sculpt | warm - arms + abs",
