@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T22:02:26.480772-07:00",
+  "last_updated": "2026-06-11T23:35:24.370796-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -30,7 +30,7 @@
       "location": "Kitsilano",
       "start_date": "2026-06-17",
       "start_time": "14:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 16
     },
     {
@@ -50,7 +50,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-16",
       "start_time": "12:05",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 36
     },
     {
@@ -82,6 +82,16 @@
       "start_time": "16:20",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body With Headsets",
+      "booking_start_date": "2026-06-05 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-12",
+      "start_time": "10:00",
+      "available_spot_count": 7,
+      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -320,7 +330,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-25",
       "start_time": "18:30",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 15
     },
     {
@@ -374,6 +384,36 @@
       "capacity": 15
     },
     {
+      "studio": "Lagree X",
+      "name": "Rihanna Theme \ud83d\udc8e",
+      "booking_start_date": "2026-06-05 08:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-12",
+      "start_time": "08:30",
+      "available_spot_count": 4,
+      "capacity": 11
+    },
+    {
+      "studio": "Lagree X",
+      "name": "Drake \ud83e\udd89 Theme",
+      "booking_start_date": "2026-06-12 08:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-19",
+      "start_time": "08:30",
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "Dads Who Lagree \ud83d\udcaa",
+      "booking_start_date": "2026-06-07 10:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-21",
+      "start_time": "10:30",
+      "available_spot_count": 6,
+      "capacity": 12
+    },
+    {
       "studio": "ZenDen",
       "name": "Crystal Sound Bath for Sleep x Drink Ideally",
       "booking_start_date": "2026-06-01 20:15",
@@ -395,16 +435,6 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Arms & Abs",
-      "booking_start_date": "2026-06-10 18:40",
-      "location": "Vancouver",
-      "start_date": "2026-06-24",
-      "start_time": "18:40",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
       "name": "Coffee + Cacao Party",
       "booking_start_date": "2026-05-17 11:00",
       "location": "Vancouver",
@@ -412,26 +442,6 @@
       "start_time": "11:00",
       "available_spot_count": 120,
       "capacity": 120
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Arms & Abs",
-      "booking_start_date": "2026-06-17 18:40",
-      "location": "Vancouver",
-      "start_date": "2026-07-01",
-      "start_time": "18:40",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Arms & Abs",
-      "booking_start_date": "2026-06-24 18:40",
-      "location": "Vancouver",
-      "start_date": "2026-07-08",
-      "start_time": "18:40",
-      "available_spot_count": 26,
-      "capacity": 26
     },
     {
       "studio": "ZenDen",
@@ -454,16 +464,6 @@
       "capacity": 120
     },
     {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Arms & Abs",
-      "booking_start_date": "2026-07-08 18:40",
-      "location": "Vancouver",
-      "start_date": "2026-07-22",
-      "start_time": "18:40",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
       "studio": "Ritual",
       "name": "Microdose Mini Retreat | Breathwork + Sound",
       "booking_start_date": "2026-04-20 14:00",
@@ -482,26 +482,6 @@
       "start_time": "14:00",
       "available_spot_count": 25,
       "capacity": 25
-    },
-    {
-      "studio": "Hustle",
-      "name": "YOGA + MOBILITY",
-      "booking_start_date": "2026-06-17 20:00",
-      "location": "Mount Pleasant",
-      "start_date": "2026-06-25",
-      "start_time": "20:00",
-      "available_spot_count": 18,
-      "capacity": 18
-    },
-    {
-      "studio": "Hustle",
-      "name": "YOGA + MOBILITY",
-      "booking_start_date": "2026-06-24 20:00",
-      "location": "Mount Pleasant",
-      "start_date": "2026-07-02",
-      "start_time": "20:00",
-      "available_spot_count": 18,
-      "capacity": 18
     },
     {
       "studio": "Turf",
@@ -560,8 +540,48 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-12",
       "start_time": "12:30",
-      "available_spot_count": 20,
+      "available_spot_count": 24,
       "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: THE WEEKND X FRED AGAIN",
+      "booking_start_date": "2026-06-04 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-06-12",
+      "start_time": "12:30",
+      "available_spot_count": 24,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: LUDACRIS x TIMBALAND x FLO RIDA",
+      "booking_start_date": "2026-06-04 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-06-12",
+      "start_time": "17:30",
+      "available_spot_count": 24,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: CLUBBING IN THE 2010s - PART 2",
+      "booking_start_date": "2026-06-05 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-06-13",
+      "start_time": "10:40",
+      "available_spot_count": 4,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: CLUBBING IN THE 2010s - PART 2",
+      "booking_start_date": "2026-06-06 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-06-14",
+      "start_time": "09:30",
+      "available_spot_count": 27,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -575,13 +595,73 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: DILJIT DOSANJH x HIP-HOP",
+      "booking_start_date": "2026-06-06 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-06-14",
+      "start_time": "11:50",
+      "available_spot_count": 35,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: 2000s HIP HOP x POP",
       "booking_start_date": "2026-06-08 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-16",
       "start_time": "07:15",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: SELENA GOMEZ x SABRINA CARPENTER",
+      "booking_start_date": "2026-06-08 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-06-16",
+      "start_time": "09:45",
+      "available_spot_count": 38,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: REMIXES: HIP HOP x POP - VOL 3",
+      "booking_start_date": "2026-06-08 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-06-16",
+      "start_time": "12:30",
+      "available_spot_count": 33,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: JOHN SUMMIT x FRED AGAIN..",
+      "booking_start_date": "2026-06-08 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-06-16",
+      "start_time": "18:40",
+      "available_spot_count": 24,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: DESTINY\u2019S CHILD + SOLOS",
+      "booking_start_date": "2026-06-08 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-06-16",
+      "start_time": "18:40",
+      "available_spot_count": 31,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: DRAKE x DON TOLIVER x TRAVIS SCOTT",
+      "booking_start_date": "2026-06-09 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-06-17",
+      "start_time": "12:30",
+      "available_spot_count": 44,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -595,12 +675,62 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: HOUSE X TECHNO BEATS",
+      "booking_start_date": "2026-06-10 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-06-18",
+      "start_time": "09:45",
+      "available_spot_count": 33,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: HOUSE X TECHNO BEATS",
+      "booking_start_date": "2026-06-10 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-06-18",
+      "start_time": "12:30",
+      "available_spot_count": 44,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: THROWBACKS: 2010-2015",
+      "booking_start_date": "2026-06-10 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-06-18",
+      "start_time": "12:30",
+      "available_spot_count": 35,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: 50 CENT x RIHANNA x BLACK EYED PEAS",
+      "booking_start_date": "2026-06-10 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-06-18",
+      "start_time": "17:30",
+      "available_spot_count": 24,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: FIRST 10 YEARS: BEYONC\u00c9 - VOL 2",
+      "booking_start_date": "2026-06-11 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-06-19",
+      "start_time": "12:30",
+      "available_spot_count": 47,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: SHANIA TWAIN x BEYONCE",
       "booking_start_date": "2026-06-11 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-19",
       "start_time": "12:30",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 49
     },
     {
@@ -610,8 +740,38 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-19",
       "start_time": "18:40",
-      "available_spot_count": 21,
+      "available_spot_count": 19,
       "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: YACHT ROCK x EDM",
+      "booking_start_date": "2026-06-12 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-06-20",
+      "start_time": "08:20",
+      "available_spot_count": 35,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: REZZ x DEATHPACT x ZABO",
+      "booking_start_date": "2026-06-12 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-06-20",
+      "start_time": "10:40",
+      "available_spot_count": 48,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: CLASSIC ROCK REMIXED (Vol. 2)",
+      "booking_start_date": "2026-06-13 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-06-21",
+      "start_time": "10:40",
+      "available_spot_count": 50,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -645,6 +805,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: EDM x HIP HOP COLLABS",
+      "booking_start_date": "2026-06-14 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-06-22",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: EMMIT FENN x BEN B\u00d6HMER x ELDERBROOK",
       "booking_start_date": "2026-06-14 12:00",
       "location": "MOUNT PLEASANT",
@@ -655,11 +825,31 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: 2010s POP x EDM",
+      "booking_start_date": "2026-06-15 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-06-23",
+      "start_time": "06:00",
+      "available_spot_count": 37,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: EDM x HIP HOP COLLABS",
       "booking_start_date": "2026-06-15 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-23",
       "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: EMMIT FENN x BEN B\u00d6HMER x ELDERBROOK",
+      "booking_start_date": "2026-06-15 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-06-23",
+      "start_time": "17:30",
       "available_spot_count": 50,
       "capacity": 50
     },
@@ -682,6 +872,26 @@
       "start_time": "16:20",
       "available_spot_count": 50,
       "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: KYGO X R\u00dcF\u00dcS X JOHN SUMMIT",
+      "booking_start_date": "2026-06-16 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-06-24",
+      "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: KENDRICK x SAWEETIE x USHER",
+      "booking_start_date": "2026-06-17 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-06-25",
+      "start_time": "12:30",
+      "available_spot_count": 37,
+      "capacity": 37
     },
     {
       "studio": "Spin Society",
