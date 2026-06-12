@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T05:32:37.251870-07:00",
+  "last_updated": "2026-06-12T08:54:14.281864-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -30,7 +30,7 @@
       "location": "Kitsilano",
       "start_date": "2026-06-17",
       "start_time": "14:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 16
     },
     {
@@ -245,36 +245,6 @@
     },
     {
       "studio": "Evolution",
-      "name": "Lagree - Trainer Development Class",
-      "booking_start_date": "2026-05-29 05:45",
-      "location": "Vancouver",
-      "start_date": "2026-06-12",
-      "start_time": "05:45",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Lagree - Trainer Development Class",
-      "booking_start_date": "2026-05-29 06:45",
-      "location": "Vancouver",
-      "start_date": "2026-06-12",
-      "start_time": "06:45",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Lagree - Trainer Development Class",
-      "booking_start_date": "2026-05-29 07:45",
-      "location": "Vancouver",
-      "start_date": "2026-06-12",
-      "start_time": "07:45",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
       "name": "Infrared Lagree - BACK TO Y2K",
       "booking_start_date": "2026-05-29 18:30",
       "location": "Vancouver",
@@ -391,7 +361,7 @@
       "start_date": "2026-06-12",
       "start_time": "08:30",
       "available_spot_count": 4,
-      "capacity": 11
+      "capacity": 12
     },
     {
       "studio": "Lagree X",
@@ -400,7 +370,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-19",
       "start_time": "08:30",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -570,7 +540,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-13",
       "start_time": "10:40",
-      "available_spot_count": 4,
+      "available_spot_count": 6,
       "capacity": 37
     },
     {
@@ -660,7 +630,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-17",
       "start_time": "12:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
@@ -670,7 +640,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-18",
       "start_time": "06:00",
-      "available_spot_count": 38,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
@@ -680,7 +650,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-18",
       "start_time": "09:45",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 37
     },
     {
@@ -710,7 +680,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-18",
       "start_time": "17:30",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 37
     },
     {
@@ -740,7 +710,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-19",
       "start_time": "18:40",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 49
     },
     {
@@ -820,7 +790,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-22",
       "start_time": "17:30",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
