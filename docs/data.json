@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T08:54:14.281864-07:00",
+  "last_updated": "2026-06-12T11:19:24.345002-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -30,7 +30,7 @@
       "location": "Kitsilano",
       "start_date": "2026-06-17",
       "start_time": "14:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 16
     },
     {
@@ -50,7 +50,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-16",
       "start_time": "12:05",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 36
     },
     {
@@ -60,7 +60,7 @@
       "location": "Kingsway",
       "start_date": "2026-06-17",
       "start_time": "12:00",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 45
     },
     {
@@ -85,22 +85,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body With Headsets",
-      "booking_start_date": "2026-06-05 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-06-12",
-      "start_time": "10:00",
-      "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body Workout With Headsets",
       "booking_start_date": "2026-06-05 11:00",
       "location": "Vancouver",
       "start_date": "2026-06-12",
       "start_time": "11:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -110,7 +100,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-12",
       "start_time": "14:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -290,7 +280,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-25",
       "start_time": "07:00",
-      "available_spot_count": 14,
+      "available_spot_count": 15,
       "capacity": 15
     },
     {
@@ -300,7 +290,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-25",
       "start_time": "18:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 15
     },
     {
@@ -352,16 +342,6 @@
       "start_time": "16:30",
       "available_spot_count": 15,
       "capacity": 15
-    },
-    {
-      "studio": "Lagree X",
-      "name": "Rihanna Theme \ud83d\udc8e",
-      "booking_start_date": "2026-06-05 08:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-12",
-      "start_time": "08:30",
-      "available_spot_count": 4,
-      "capacity": 12
     },
     {
       "studio": "Lagree X",
@@ -510,7 +490,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-12",
       "start_time": "12:30",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 49
     },
     {
@@ -520,8 +500,8 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-12",
       "start_time": "12:30",
-      "available_spot_count": 25,
-      "capacity": 37
+      "available_spot_count": 24,
+      "capacity": 36
     },
     {
       "studio": "Spin Society",
@@ -530,8 +510,8 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-12",
       "start_time": "17:30",
-      "available_spot_count": 24,
-      "capacity": 37
+      "available_spot_count": 21,
+      "capacity": 36
     },
     {
       "studio": "Spin Society",
@@ -540,7 +520,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-13",
       "start_time": "10:40",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 37
     },
     {
@@ -570,7 +550,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-14",
       "start_time": "11:50",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -680,7 +660,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-18",
       "start_time": "17:30",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 37
     },
     {
@@ -700,7 +680,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-19",
       "start_time": "12:30",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 49
     },
     {
@@ -710,7 +690,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-19",
       "start_time": "18:40",
-      "available_spot_count": 17,
+      "available_spot_count": 12,
       "capacity": 49
     },
     {
@@ -790,7 +770,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-22",
       "start_time": "17:30",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
@@ -860,6 +840,16 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-25",
       "start_time": "12:30",
+      "available_spot_count": 37,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: RHIANNA x A$AP ROCKY",
+      "booking_start_date": "2026-06-17 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-06-25",
+      "start_time": "17:30",
       "available_spot_count": 37,
       "capacity": 37
     },
