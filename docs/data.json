@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T18:33:57.701462-07:00",
+  "last_updated": "2026-06-12T21:16:47.354679-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -85,12 +85,32 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-06-06 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-13",
+      "start_time": "14:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk  - Full Body",
+      "booking_start_date": "2026-06-06 15:00",
+      "location": "Vancouver",
+      "start_date": "2026-06-13",
+      "start_time": "15:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body With Headsets",
       "booking_start_date": "2026-06-11 09:00",
       "location": "Vancouver",
       "start_date": "2026-06-18",
       "start_time": "09:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -310,7 +330,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-19",
       "start_time": "08:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -330,7 +350,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-15",
       "start_time": "20:15",
-      "available_spot_count": 22,
+      "available_spot_count": 19,
       "capacity": 26
     },
     {
@@ -450,7 +470,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-13",
       "start_time": "10:40",
-      "available_spot_count": 7,
+      "available_spot_count": 12,
       "capacity": 36
     },
     {
@@ -460,7 +480,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-14",
       "start_time": "09:30",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 50
     },
     {
@@ -480,7 +500,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-14",
       "start_time": "11:50",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
@@ -520,7 +540,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-16",
       "start_time": "18:40",
-      "available_spot_count": 16,
+      "available_spot_count": 17,
       "capacity": 50
     },
     {
@@ -550,7 +570,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-18",
       "start_time": "06:00",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
@@ -580,7 +600,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-18",
       "start_time": "12:30",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 36
     },
     {
@@ -590,7 +610,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-18",
       "start_time": "17:30",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 36
     },
     {
@@ -610,7 +630,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-19",
       "start_time": "12:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
@@ -620,7 +640,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-19",
       "start_time": "18:40",
-      "available_spot_count": 11,
+      "available_spot_count": 9,
       "capacity": 49
     },
     {
@@ -630,7 +650,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-20",
       "start_time": "08:20",
-      "available_spot_count": 30,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
