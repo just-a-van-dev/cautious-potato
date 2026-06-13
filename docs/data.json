@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T09:49:34.467531-07:00",
+  "last_updated": "2026-06-13T11:43:16.008407-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -90,7 +90,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-13",
       "start_time": "14:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -486,21 +486,11 @@
     {
       "studio": "Spin Society",
       "name": "THEME: CLUBBING IN THE 2010s - PART 2",
-      "booking_start_date": "2026-06-05 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-06-13",
-      "start_time": "10:40",
-      "available_spot_count": 15,
-      "capacity": 36
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: CLUBBING IN THE 2010s - PART 2",
       "booking_start_date": "2026-06-06 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-06-14",
       "start_time": "09:30",
-      "available_spot_count": 22,
+      "available_spot_count": 20,
       "capacity": 50
     },
     {
@@ -510,7 +500,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-14",
       "start_time": "10:40",
-      "available_spot_count": 30,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
@@ -530,7 +520,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-16",
       "start_time": "07:15",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
@@ -560,7 +550,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-16",
       "start_time": "18:40",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 50
     },
     {
@@ -570,7 +560,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-16",
       "start_time": "18:40",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -590,7 +580,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-18",
       "start_time": "06:00",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 49
     },
     {
@@ -660,7 +650,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-19",
       "start_time": "18:40",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 49
     },
     {
@@ -680,7 +670,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-20",
       "start_time": "10:40",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
