@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T15:47:00.017379-07:00",
+  "last_updated": "2026-06-12T18:33:57.701462-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -82,16 +82,6 @@
       "start_time": "16:20",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Headsets",
-      "booking_start_date": "2026-06-05 15:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-12",
-      "start_time": "15:30",
-      "available_spot_count": 7,
-      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -212,16 +202,6 @@
       "start_time": "09:00",
       "available_spot_count": 12,
       "capacity": 12
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - BACK TO Y2K",
-      "booking_start_date": "2026-05-29 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-12",
-      "start_time": "18:30",
-      "available_spot_count": 10,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
@@ -350,7 +330,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-15",
       "start_time": "20:15",
-      "available_spot_count": 21,
+      "available_spot_count": 22,
       "capacity": 26
     },
     {
@@ -465,22 +445,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: LUDACRIS x TIMBALAND x FLO RIDA",
-      "booking_start_date": "2026-06-04 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-06-12",
-      "start_time": "17:30",
-      "available_spot_count": 20,
-      "capacity": 36
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: CLUBBING IN THE 2010s - PART 2",
       "booking_start_date": "2026-06-05 12:00",
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-13",
       "start_time": "10:40",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 36
     },
     {
@@ -490,7 +460,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-14",
       "start_time": "09:30",
-      "available_spot_count": 26,
+      "available_spot_count": 24,
       "capacity": 50
     },
     {
@@ -530,7 +500,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-16",
       "start_time": "09:45",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -550,7 +520,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-16",
       "start_time": "18:40",
-      "available_spot_count": 18,
+      "available_spot_count": 16,
       "capacity": 50
     },
     {
@@ -600,7 +570,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-18",
       "start_time": "12:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
@@ -630,7 +600,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-19",
       "start_time": "12:30",
-      "available_spot_count": 47,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
@@ -660,7 +630,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-20",
       "start_time": "08:20",
-      "available_spot_count": 34,
+      "available_spot_count": 30,
       "capacity": 36
     },
     {
