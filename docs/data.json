@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T14:37:27.901154-07:00",
+  "last_updated": "2026-06-13T15:45:48.163966-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -86,26 +86,6 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-06-06 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-06-13",
-      "start_time": "14:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
-      "booking_start_date": "2026-06-06 15:00",
-      "location": "Vancouver",
-      "start_date": "2026-06-13",
-      "start_time": "15:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk  - Full Body",
       "booking_start_date": "2026-06-07 09:00",
       "location": "Vancouver",
       "start_date": "2026-06-14",
@@ -120,7 +100,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-14",
       "start_time": "14:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -490,7 +470,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-14",
       "start_time": "09:30",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 50
     },
     {
@@ -550,7 +530,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-16",
       "start_time": "18:40",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 50
     },
     {
@@ -670,7 +650,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-20",
       "start_time": "10:40",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
