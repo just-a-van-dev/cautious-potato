@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T11:43:16.008407-07:00",
+  "last_updated": "2026-06-13T13:07:58.215981-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -30,7 +30,7 @@
       "location": "Kitsilano",
       "start_date": "2026-06-17",
       "start_time": "14:30",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 16
     },
     {
@@ -90,7 +90,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-13",
       "start_time": "14:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -110,7 +110,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-14",
       "start_time": "09:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -500,8 +500,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-14",
       "start_time": "10:40",
-      "available_spot_count": 31,
-      "capacity": 49
+      "available_spot_count": 29,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -520,8 +520,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-16",
       "start_time": "07:15",
-      "available_spot_count": 31,
-      "capacity": 49
+      "available_spot_count": 29,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -680,7 +680,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-21",
       "start_time": "10:40",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -690,7 +690,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-21",
       "start_time": "11:50",
-      "available_spot_count": 46,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -700,7 +700,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-21",
       "start_time": "13:00",
-      "available_spot_count": 49,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
