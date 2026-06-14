@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T11:44:08.599381-07:00",
+  "last_updated": "2026-06-14T13:40:42.191925-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -50,7 +50,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-16",
       "start_time": "12:05",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 36
     },
     {
@@ -60,7 +60,7 @@
       "location": "Kingsway",
       "start_date": "2026-06-17",
       "start_time": "12:00",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 45
     },
     {
@@ -310,7 +310,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-19",
       "start_time": "08:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -445,16 +445,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: DILJIT DOSANJH x HIP-HOP",
-      "booking_start_date": "2026-06-06 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-06-14",
-      "start_time": "11:50",
-      "available_spot_count": 37,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: 2000s HIP HOP x POP",
       "booking_start_date": "2026-06-08 12:00",
       "location": "MOUNT PLEASANT",
@@ -550,7 +540,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-18",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 36
     },
     {
@@ -590,7 +580,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-19",
       "start_time": "18:40",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 49
     },
     {
@@ -610,7 +600,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-20",
       "start_time": "10:40",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -620,7 +610,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-21",
       "start_time": "10:40",
-      "available_spot_count": 43,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -630,7 +620,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-21",
       "start_time": "11:50",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 50
     },
     {
@@ -640,7 +630,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-21",
       "start_time": "13:00",
-      "available_spot_count": 45,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
@@ -650,7 +640,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-22",
       "start_time": "07:15",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -660,7 +650,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-22",
       "start_time": "12:30",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -670,7 +660,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-22",
       "start_time": "17:30",
-      "available_spot_count": 45,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
