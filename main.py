@@ -31,6 +31,14 @@ STUDIO_WITH_MANY_CLASSES = [
     "Jaybird",
     "Spin Society"
 ]
+STUDIO_WITH_LOW_CLASSES = [
+    "Evolution",
+    "Tunnel",
+    "The Third",
+    "Lagree X",
+    "Hustle",
+    "Lagree Pulse",
+]
 
 
 def is_free_class(class_data, studio_name) -> bool:
@@ -92,9 +100,11 @@ async def fetch_studio_data(studios: dict, days=45):
         for studio_name, base_url in studios.items():
             if studio_name in STUDIO_WITH_MANY_CLASSES:
                 interval = 5
+            if studio_name in STUDIO_WITH_LOW_CLASSES:
+                interval = 15
             for day_offset in range(0, days, interval):
                 min_date = today + timedelta(days=day_offset)
-                max_date = min_date + timedelta(days=4)  # 5-day span (inclusive)
+                max_date = min_date + timedelta(days=interval - 1)
 
                 min_date_str = min_date.strftime("%Y-%m-%d")
                 max_date_str = max_date.strftime("%Y-%m-%d")
