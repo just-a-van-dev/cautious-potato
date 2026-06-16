@@ -13,6 +13,7 @@ FILTER_OUT = {
         "infrared lagree - arms + core",
         "infrared lagree - full body",
         "infrared lagree - legs + core",
+        "infrared lagree - themed",
         "lagree - fundamentals",
         "lagree - full body",
         "sculpt x (strength lower body + core)",
