@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T19:12:21.056016-07:00",
+  "last_updated": "2026-06-15T22:56:56.175071-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -40,7 +40,7 @@
       "location": "Gastown",
       "start_date": "2026-06-18",
       "start_time": "10:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -50,7 +50,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-16",
       "start_time": "12:05",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 36
     },
     {
@@ -75,6 +75,16 @@
     },
     {
       "studio": "Jaybird",
+      "name": "The Bird x lululemon",
+      "booking_start_date": "2026-06-15 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-06-22",
+      "start_time": "10:00",
+      "available_spot_count": 31,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
       "name": "The Burn |  Sweat to Support Survivors & BWSS",
       "booking_start_date": "2026-07-18 00:00",
       "location": "Yaletown",
@@ -90,7 +100,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-16",
       "start_time": "08:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -150,7 +160,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-18",
       "start_time": "09:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -284,6 +294,46 @@
       "capacity": 10
     },
     {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - Themed",
+      "booking_start_date": "2026-06-26 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-03",
+      "start_time": "18:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - Themed",
+      "booking_start_date": "2026-07-03 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-10",
+      "start_time": "18:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - Themed",
+      "booking_start_date": "2026-07-10 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-17",
+      "start_time": "18:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - Themed",
+      "booking_start_date": "2026-07-17 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-24",
+      "start_time": "18:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
       "studio": "The Third",
       "name": "lagree full body x Pop Queens\ud83d\udc51",
       "booking_start_date": "2026-06-07 12:00",
@@ -330,7 +380,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-25",
       "start_time": "18:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 15
     },
     {
@@ -390,7 +440,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-19",
       "start_time": "08:30",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -400,7 +450,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-21",
       "start_time": "10:30",
-      "available_spot_count": 6,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -450,7 +500,7 @@
       "location": "West End",
       "start_date": "2026-06-17",
       "start_time": "19:30",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 22
     },
     {
@@ -550,7 +600,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-16",
       "start_time": "12:30",
-      "available_spot_count": 25,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
@@ -570,7 +620,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-16",
       "start_time": "18:40",
-      "available_spot_count": 26,
+      "available_spot_count": 24,
       "capacity": 36
     },
     {
@@ -580,7 +630,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-17",
       "start_time": "12:30",
-      "available_spot_count": 37,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
@@ -610,7 +660,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-18",
       "start_time": "12:30",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -650,7 +700,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-19",
       "start_time": "12:30",
-      "available_spot_count": 30,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
@@ -700,7 +750,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-21",
       "start_time": "11:50",
-      "available_spot_count": 8,
+      "available_spot_count": 3,
       "capacity": 50
     },
     {
@@ -710,7 +760,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-21",
       "start_time": "13:00",
-      "available_spot_count": 40,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -730,7 +780,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-22",
       "start_time": "12:30",
-      "available_spot_count": 46,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
@@ -740,7 +790,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-22",
       "start_time": "17:30",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 50
     },
     {
@@ -760,7 +810,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-23",
       "start_time": "09:45",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
@@ -770,7 +820,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-23",
       "start_time": "12:30",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -780,7 +830,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-23",
       "start_time": "17:30",
-      "available_spot_count": 45,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
