@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T16:09:57.718217-07:00",
+  "last_updated": "2026-06-16T18:41:37.152188-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -30,7 +30,7 @@
       "location": "Kitsilano",
       "start_date": "2026-06-17",
       "start_time": "14:30",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 16
     },
     {
@@ -90,7 +90,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-17",
       "start_time": "09:00",
-      "available_spot_count": 9,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -310,7 +310,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-21",
       "start_time": "13:00",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 15
     },
     {
@@ -480,7 +480,7 @@
       "location": "West End",
       "start_date": "2026-07-26",
       "start_time": "14:00",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 25
     },
     {
@@ -535,32 +535,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: JOHN SUMMIT x FRED AGAIN..",
-      "booking_start_date": "2026-06-08 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-06-16",
-      "start_time": "18:40",
-      "available_spot_count": 11,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: DESTINY\u2019S CHILD + SOLOS",
-      "booking_start_date": "2026-06-08 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-06-16",
-      "start_time": "18:40",
-      "available_spot_count": 27,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: DRAKE x DON TOLIVER x TRAVIS SCOTT",
       "booking_start_date": "2026-06-09 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-06-17",
       "start_time": "12:30",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
@@ -580,7 +560,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-18",
       "start_time": "09:45",
-      "available_spot_count": 26,
+      "available_spot_count": 24,
       "capacity": 37
     },
     {
@@ -610,7 +590,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-18",
       "start_time": "17:30",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 37
     },
     {
@@ -620,7 +600,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-19",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -630,7 +610,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-19",
       "start_time": "12:30",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 49
     },
     {
@@ -650,7 +630,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-20",
       "start_time": "08:20",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 37
     },
     {
@@ -710,7 +690,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-22",
       "start_time": "12:30",
-      "available_spot_count": 38,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -760,7 +740,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-23",
       "start_time": "17:30",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
@@ -770,7 +750,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-24",
       "start_time": "07:15",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
@@ -780,7 +760,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-24",
       "start_time": "12:30",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
