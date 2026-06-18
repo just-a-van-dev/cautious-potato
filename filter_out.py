@@ -48,6 +48,9 @@ FILTER_OUT = {
         "advanced (min 30 classes) with headsets",
         "ass & abs with headsets",
         "ass and abs with headsets",
+        "daytime perk ass & abs with headsets",
+        "daytime perk - full body",
+        "daytime perk full body with headsets",
         "full body",
         "full body with headsets",
         "full body workout with headsets",
@@ -60,6 +63,7 @@ FILTER_OUT = {
         "mega cardio xpress- ass/abs+tread (45 min)",
         "mega x hips dont lie, glutes will cry",
         "megaformer arms + abs",
+        "megaformer arms + ass",
         "megaformer ass + abs",
         "megaformer strength + stretch (45 min)",
         "megaformer x flashback friday",
@@ -69,6 +73,9 @@ FILTER_OUT = {
     ],
     "lagree x":[
         "megapro full body",
+    ],
+    "spin society": [
+      "theme: rise + rave"
     ],
     "turf": [
         "mat werk + weights",
