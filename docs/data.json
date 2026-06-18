@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T04:01:10.091110-07:00",
+  "last_updated": "2026-06-18T07:22:22.520754-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -30,7 +30,7 @@
       "location": "Gastown",
       "start_date": "2026-06-18",
       "start_time": "10:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -200,7 +200,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-25",
       "start_time": "18:30",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -415,16 +415,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: RISE + RAP | HIP HOP FAVES",
-      "booking_start_date": "2026-06-10 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-06-18",
-      "start_time": "06:00",
-      "available_spot_count": 29,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: HOUSE X TECHNO BEATS",
       "booking_start_date": "2026-06-10 12:00",
       "location": "DOWNTOWN VANCOUVER",
@@ -440,7 +430,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-18",
       "start_time": "12:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
@@ -450,7 +440,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-18",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 33,
       "capacity": 37
     },
     {
@@ -460,7 +450,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-18",
       "start_time": "17:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 37
     },
     {
@@ -510,7 +500,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-20",
       "start_time": "10:40",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -580,7 +570,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-23",
       "start_time": "06:00",
-      "available_spot_count": 33,
+      "available_spot_count": 31,
       "capacity": 37
     },
     {
@@ -630,7 +620,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-24",
       "start_time": "12:30",
-      "available_spot_count": 43,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -750,7 +740,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-28",
       "start_time": "09:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 37
     },
     {
