@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T12:51:12.389583-07:00",
+  "last_updated": "2026-06-18T13:38:13.363506-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -160,7 +160,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-21",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 15
     },
     {
@@ -180,7 +180,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-25",
       "start_time": "07:00",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 15
     },
     {
@@ -455,26 +455,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: HOUSE X TECHNO BEATS",
-      "booking_start_date": "2026-06-10 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-06-18",
-      "start_time": "12:30",
-      "available_spot_count": 40,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: THROWBACKS: 2010-2015",
-      "booking_start_date": "2026-06-10 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-06-18",
-      "start_time": "12:30",
-      "available_spot_count": 31,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: 50 CENT x RIHANNA x BLACK EYED PEAS",
       "booking_start_date": "2026-06-10 12:00",
       "location": "DOWNTOWN VANCOUVER",
@@ -500,7 +480,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-19",
       "start_time": "12:30",
-      "available_spot_count": 18,
+      "available_spot_count": 20,
       "capacity": 49
     },
     {
@@ -590,7 +570,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-22",
       "start_time": "17:30",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 50
     },
     {
@@ -730,7 +710,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-26",
       "start_time": "17:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 37
     },
     {
@@ -740,7 +720,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-26",
       "start_time": "18:40",
-      "available_spot_count": 39,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
