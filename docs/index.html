@@ -223,11 +223,25 @@
 
     topRow.appendChild(nameSpan);
 
-              const badgeSpan = document.createElement("span");
-              badgeSpan.className = "text-xs font-bold text-red-600 px-2 py-0.5 rounded bg-red-100";
-              badgeSpan.style.display = cls.available_spot_count===0?"inline-block":"none";
-              badgeSpan.textContent = "FULL";
-              topRow.appendChild(badgeSpan);
+    const badgeSpan = document.createElement("span");
+
+    if (cls.available_spot_count === 0) {
+      badgeSpan.className =
+        "text-sm font-bold text-red-600 px-2 py-0.5 rounded bg-red-100";
+      badgeSpan.textContent = "FULL";
+    } else {
+      badgeSpan.className =
+        "text-sm font-bold text-gray-500 px-2 py-1 rounded flex flex-col items-center leading-tight";
+
+      const capacity = cls.capacity || "?";
+
+      badgeSpan.innerHTML = `
+        <span>${cls.available_spot_count}/${capacity}</span>
+        <span class="font-normal text-[8px]">spots left</span>
+      `;
+    }
+
+    topRow.appendChild(badgeSpan);
 
               const bottomRow = document.createElement("div");
               bottomRow.className = "text-sm text-gray-600";
