@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T15:33:17.855280-07:00",
+  "last_updated": "2026-06-18T17:07:00.312873-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -64,13 +64,23 @@
       "capacity": 36
     },
     {
+      "studio": "Jaybird",
+      "name": "The Burn - Sweat to Support Survivors & BWSS",
+      "booking_start_date": "2026-07-26 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-08-02",
+      "start_time": "17:45",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body Workout With Headsets",
       "booking_start_date": "2026-06-12 11:00",
       "location": "Vancouver",
       "start_date": "2026-06-19",
       "start_time": "11:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -455,16 +465,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: 50 CENT x RIHANNA x BLACK EYED PEAS",
-      "booking_start_date": "2026-06-10 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-06-18",
-      "start_time": "17:30",
-      "available_spot_count": 8,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: FIRST 10 YEARS: BEYONC\u00c9 - VOL 2",
       "booking_start_date": "2026-06-11 12:00",
       "location": "BRENTWOOD",
@@ -580,7 +580,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-23",
       "start_time": "06:00",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 37
     },
     {
@@ -600,7 +600,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-23",
       "start_time": "12:30",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
