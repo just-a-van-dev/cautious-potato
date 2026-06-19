@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T12:09:39.978371-07:00",
+  "last_updated": "2026-06-19T13:35:00.550641-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -160,7 +160,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-20",
       "start_time": "10:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -440,7 +440,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-20",
       "start_time": "14:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 30
     },
     {
@@ -450,7 +450,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-22",
       "start_time": "08:15",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 32
     },
     {
@@ -485,26 +485,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: FIRST 10 YEARS: BEYONC\u00c9 - VOL 2",
-      "booking_start_date": "2026-06-11 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-06-19",
-      "start_time": "12:30",
-      "available_spot_count": 35,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: SHANIA TWAIN x BEYONCE",
-      "booking_start_date": "2026-06-11 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-06-19",
-      "start_time": "12:30",
-      "available_spot_count": 21,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: CLUB THROWBACKS - VOL 2",
       "booking_start_date": "2026-06-11 12:00",
       "location": "MOUNT PLEASANT",
@@ -520,7 +500,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-20",
       "start_time": "08:20",
-      "available_spot_count": 15,
+      "available_spot_count": 17,
       "capacity": 37
     },
     {
@@ -530,7 +510,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-20",
       "start_time": "10:40",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 50
     },
     {
@@ -550,7 +530,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-21",
       "start_time": "11:50",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -590,7 +570,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-22",
       "start_time": "17:30",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 50
     },
     {
@@ -700,7 +680,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-25",
       "start_time": "17:30",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 37
     },
     {
@@ -730,7 +710,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-26",
       "start_time": "17:30",
-      "available_spot_count": 34,
+      "available_spot_count": 32,
       "capacity": 37
     },
     {
