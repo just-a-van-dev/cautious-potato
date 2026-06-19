@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T03:57:07.897894-07:00",
+  "last_updated": "2026-06-19T07:21:44.948912-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -9,6 +9,16 @@
       "start_date": "2026-06-20",
       "start_time": "17:45",
       "available_spot_count": 0,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Balance + ALO Community Class",
+      "booking_start_date": "2026-07-11 17:45",
+      "location": "Yaletown",
+      "start_date": "2026-07-18",
+      "start_time": "17:45",
+      "available_spot_count": 36,
       "capacity": 36
     },
     {
@@ -51,6 +61,26 @@
       "start_date": "2026-06-22",
       "start_time": "10:00",
       "available_spot_count": 11,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn + ALO",
+      "booking_start_date": "2026-06-29 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-07-06",
+      "start_time": "07:15",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Balance + ALO Community Class",
+      "booking_start_date": "2026-07-11 17:45",
+      "location": "Yaletown",
+      "start_date": "2026-07-18",
+      "start_time": "17:45",
+      "available_spot_count": 36,
       "capacity": 36
     },
     {
@@ -140,7 +170,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-20",
       "start_time": "09:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 15
     },
     {
@@ -150,7 +180,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-20",
       "start_time": "10:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 15
     },
     {
@@ -440,7 +470,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-20",
       "start_time": "14:00",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 30
     },
     {
@@ -460,7 +490,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-24",
       "start_time": "06:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 32
     },
     {
@@ -500,8 +530,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-19",
       "start_time": "12:30",
-      "available_spot_count": 23,
-      "capacity": 49
+      "available_spot_count": 22,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -510,8 +540,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-19",
       "start_time": "18:40",
-      "available_spot_count": 3,
-      "capacity": 49
+      "available_spot_count": 7,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -520,7 +550,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-20",
       "start_time": "08:20",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 37
     },
     {
@@ -561,7 +591,7 @@
       "start_date": "2026-06-21",
       "start_time": "13:00",
       "available_spot_count": 30,
-      "capacity": 50
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -580,7 +610,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-22",
       "start_time": "12:30",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
@@ -640,7 +670,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-24",
       "start_time": "07:15",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -710,7 +740,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-26",
       "start_time": "12:30",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -740,7 +770,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-26",
       "start_time": "18:40",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 50
     },
     {
@@ -790,7 +820,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-29",
       "start_time": "07:15",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -800,7 +830,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-29",
       "start_time": "17:30",
-      "available_spot_count": 37,
+      "available_spot_count": 35,
       "capacity": 37
     },
     {
