@@ -31,6 +31,43 @@ let data = null;
 let currentTab = "special";
 let studioInfo = null
 
+function classKey(cls) {
+  return [
+    cls.studio,
+    cls.name,
+    cls.start_date,
+    cls.start_time
+  ].join("|");
+}
+
+function markNewClasses(data) {
+  const stored = JSON.parse(
+    localStorage.getItem("knownClasses") || "{}"
+  );
+
+  const now = Date.now();
+
+  ["special", "sponsored"].forEach(category => {
+    (data[category] || []).forEach(cls => {
+      const key = classKey(cls);
+
+      if (!stored[key]) {
+        stored[key] = now;
+      }
+
+      const ageDays =
+        (now - stored[key]) / (1000 * 60 * 60 * 24);
+
+      cls.isNew = ageDays <= 2;
+    });
+  });
+
+  localStorage.setItem(
+    "knownClasses",
+    JSON.stringify(stored)
+  );
+}
+
 async function loadData() {
   try {
     const response = await fetch("./data.json");
@@ -40,9 +77,10 @@ async function loadData() {
     }
 
     data = await response.json();
+    markNewClasses(data);
 
     const resp = await fetch("./studio.json");
-    if (!response.ok){
+    if (!resp.ok){
         throw new Error(`Failed to load studio.json`);
     }
     studioInfo = await resp.json();
@@ -142,22 +180,24 @@ function render() {
                   <div class="flex-1">
 
                     <div class="flex items-center gap-2 mb-2">
-
+                      ${isNewClass(cls)
+                        ? `<span class="px-2 py-1 rounded-full bg-indigo-500 text-white text-[10px] font-bold">NEW</span>`
+                        : ""
+                      }
                       <div class="text-sm text-gray-500">
                         ${formatDate(cls.start_date, cls.start_time)}
                       </div>
 
-                      ${isNewClass(cls)
-                        ? `<span class="px-2 py-1 rounded-full bg-black text-white text-[10px] font-bold">NEW</span>`
-                        : ""
-                      }
+
 
                     </div>
 
                     <h3 class="text-xl md:text-2xl font-semibold leading-tight">
                       ${cls.name}
                     </h3>
-
+                    <div class="mt-2 text-gray-500 text-xs">
+                      🗓️ Booking opens ${formatDate(cls.booking_start_date.split(" ")[0],cls.booking_start_date.split(" ")[1]) }
+                    </div>
                     <div class="mt-3 text-gray-500">
                       📍 ${cls.location}
                     </div>
