@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T10:47:19.408366-07:00",
+  "last_updated": "2026-06-20T12:55:30.866771-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -80,7 +80,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-22",
       "start_time": "10:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 36
     },
     {
@@ -135,26 +135,6 @@
     },
     {
       "studio": "The Third",
-      "name": "The Third x Popoff",
-      "booking_start_date": "2026-06-06 11:00",
-      "location": "4th Ave",
-      "start_date": "2026-06-20",
-      "start_time": "11:00",
-      "available_spot_count": 9,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
-      "name": "The Third x Popoff",
-      "booking_start_date": "2026-06-06 12:00",
-      "location": "4th Ave",
-      "start_date": "2026-06-20",
-      "start_time": "12:00",
-      "available_spot_count": 5,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
       "name": "lagree full body x Pop Queens\ud83d\udc51",
       "booking_start_date": "2026-06-07 12:00",
       "location": "4th Ave",
@@ -170,7 +150,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-21",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -420,7 +400,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-20",
       "start_time": "14:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 30
     },
     {
@@ -440,7 +420,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-24",
       "start_time": "06:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 32
     },
     {
@@ -465,22 +445,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: REZZ x DEATHPACT x ZABO",
-      "booking_start_date": "2026-06-12 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-06-20",
-      "start_time": "10:40",
-      "available_spot_count": 28,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: CLASSIC ROCK REMIXED (Vol. 2)",
       "booking_start_date": "2026-06-13 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-06-21",
       "start_time": "10:40",
-      "available_spot_count": 41,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
@@ -500,7 +470,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-21",
       "start_time": "13:00",
-      "available_spot_count": 33,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -580,7 +550,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-24",
       "start_time": "07:15",
-      "available_spot_count": 31,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -600,7 +570,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-24",
       "start_time": "16:20",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -610,7 +580,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-24",
       "start_time": "18:40",
-      "available_spot_count": 26,
+      "available_spot_count": 24,
       "capacity": 50
     },
     {
@@ -680,7 +650,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-26",
       "start_time": "18:40",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 50
     },
     {
