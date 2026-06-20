@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T09:06:20.831709-07:00",
+  "last_updated": "2026-06-20T10:47:19.408366-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -136,31 +136,11 @@
     {
       "studio": "The Third",
       "name": "The Third x Popoff",
-      "booking_start_date": "2026-06-06 09:00",
-      "location": "4th Ave",
-      "start_date": "2026-06-20",
-      "start_time": "09:00",
-      "available_spot_count": 6,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
-      "name": "The Third x Popoff",
-      "booking_start_date": "2026-06-06 10:00",
-      "location": "4th Ave",
-      "start_date": "2026-06-20",
-      "start_time": "10:00",
-      "available_spot_count": 5,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
-      "name": "The Third x Popoff",
       "booking_start_date": "2026-06-06 11:00",
       "location": "4th Ave",
       "start_date": "2026-06-20",
       "start_time": "11:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 15
     },
     {
@@ -170,7 +150,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-20",
       "start_time": "12:00",
-      "available_spot_count": 8,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -190,7 +170,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-21",
       "start_time": "13:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 15
     },
     {
@@ -440,7 +420,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-20",
       "start_time": "14:00",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 30
     },
     {
@@ -485,22 +465,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: YACHT ROCK x EDM",
-      "booking_start_date": "2026-06-12 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-06-20",
-      "start_time": "08:20",
-      "available_spot_count": 7,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: REZZ x DEATHPACT x ZABO",
       "booking_start_date": "2026-06-12 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-06-20",
       "start_time": "10:40",
-      "available_spot_count": 31,
+      "available_spot_count": 28,
       "capacity": 50
     },
     {
@@ -510,7 +480,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-21",
       "start_time": "10:40",
-      "available_spot_count": 40,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -540,7 +510,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-22",
       "start_time": "07:15",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -550,7 +520,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-22",
       "start_time": "12:30",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 50
     },
     {
@@ -560,7 +530,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-22",
       "start_time": "17:30",
-      "available_spot_count": 5,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -610,7 +580,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-24",
       "start_time": "07:15",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -630,7 +600,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-24",
       "start_time": "16:20",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -640,7 +610,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-24",
       "start_time": "18:40",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 50
     },
     {
@@ -650,7 +620,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-25",
       "start_time": "12:30",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 37
     },
     {
@@ -680,7 +650,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-26",
       "start_time": "12:30",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
@@ -690,7 +660,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-26",
       "start_time": "16:20",
-      "available_spot_count": 45,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
