@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T16:17:03.035190-07:00",
+  "last_updated": "2026-06-19T18:50:56.373077-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -125,16 +125,6 @@
     },
     {
       "studio": "Evolution",
-      "name": "Infrared Lagree - GROOVY R&B",
-      "booking_start_date": "2026-06-05 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-19",
-      "start_time": "18:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
       "name": "Infrared Lagree - POP MIX",
       "booking_start_date": "2026-06-12 18:30",
       "location": "Vancouver",
@@ -160,7 +150,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-20",
       "start_time": "10:00",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 15
     },
     {
@@ -170,7 +160,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-20",
       "start_time": "11:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
@@ -230,7 +220,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-25",
       "start_time": "18:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -240,7 +230,7 @@
       "location": "4th Ave",
       "start_date": "2026-07-03",
       "start_time": "06:30",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 15
     },
     {
@@ -280,7 +270,7 @@
       "location": "4th Ave",
       "start_date": "2026-07-03",
       "start_time": "16:30",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 15
     },
     {
@@ -300,7 +290,17 @@
       "location": "Vancouver",
       "start_date": "2026-06-26",
       "start_time": "08:30",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "Britney vs Justin \ud83c\udfb5\ud83d\udd25",
+      "booking_start_date": "2026-06-26 08:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-03",
+      "start_time": "08:30",
+      "available_spot_count": 12,
       "capacity": 12
     },
     {
@@ -340,7 +340,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-25",
       "start_time": "19:45",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 40
     },
     {
@@ -485,22 +485,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: CLUB THROWBACKS - VOL 2",
-      "booking_start_date": "2026-06-11 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-06-19",
-      "start_time": "18:40",
-      "available_spot_count": 8,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: YACHT ROCK x EDM",
       "booking_start_date": "2026-06-12 12:00",
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-20",
       "start_time": "08:20",
-      "available_spot_count": 15,
+      "available_spot_count": 10,
       "capacity": 37
     },
     {
@@ -540,7 +530,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-21",
       "start_time": "13:00",
-      "available_spot_count": 31,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
@@ -570,7 +560,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-22",
       "start_time": "17:30",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 50
     },
     {
@@ -580,7 +570,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-23",
       "start_time": "06:00",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 37
     },
     {
@@ -600,7 +590,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-23",
       "start_time": "12:30",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -620,7 +610,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-24",
       "start_time": "07:15",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
@@ -640,7 +630,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-24",
       "start_time": "16:20",
-      "available_spot_count": 40,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
@@ -660,7 +650,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-25",
       "start_time": "12:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 37
     },
     {
@@ -680,7 +670,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-25",
       "start_time": "17:30",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 37
     },
     {
@@ -700,7 +690,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-26",
       "start_time": "16:20",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
@@ -720,7 +710,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-26",
       "start_time": "18:40",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 50
     },
     {
