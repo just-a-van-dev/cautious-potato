@@ -1,16 +1,6 @@
 {
-  "last_updated": "2026-06-20T15:49:26.878721-07:00",
+  "last_updated": "2026-06-20T17:21:06.213290-07:00",
   "special": [
-    {
-      "studio": "Jaybird",
-      "name": "The Balance + ALO Community Class",
-      "booking_start_date": "2026-06-13 17:45",
-      "location": "Yaletown",
-      "start_date": "2026-06-20",
-      "start_time": "17:45",
-      "available_spot_count": 0,
-      "capacity": 36
-    },
     {
       "studio": "Jaybird",
       "name": "The Balance + ALO Community Class",
@@ -65,22 +55,12 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Balance + ALO Community Class",
-      "booking_start_date": "2026-06-13 17:45",
-      "location": "Yaletown",
-      "start_date": "2026-06-20",
-      "start_time": "17:45",
-      "available_spot_count": 0,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Bird x lululemon",
       "booking_start_date": "2026-06-15 00:00",
       "location": "Yaletown",
       "start_date": "2026-06-22",
       "start_time": "10:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 36
     },
     {
@@ -150,7 +130,7 @@
       "location": "4th Ave",
       "start_date": "2026-06-21",
       "start_time": "13:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 15
     },
     {
@@ -190,7 +170,7 @@
       "location": "4th Ave",
       "start_date": "2026-07-03",
       "start_time": "06:30",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
@@ -450,7 +430,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-21",
       "start_time": "11:50",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 50
     },
     {
@@ -460,7 +440,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-21",
       "start_time": "13:00",
-      "available_spot_count": 35,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -530,7 +510,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-23",
       "start_time": "17:30",
-      "available_spot_count": 32,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
@@ -610,7 +590,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-26",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 50
     },
     {
