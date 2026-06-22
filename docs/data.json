@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T18:26:58.156387-07:00",
+  "last_updated": "2026-06-21T18:40:18.407791-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -510,7 +510,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-25",
       "start_time": "17:30",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 37
     },
     {
@@ -560,7 +560,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-27",
       "start_time": "10:40",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 37
     },
     {
