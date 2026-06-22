@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T10:48:43.715141-07:00",
+  "last_updated": "2026-06-22T13:44:55.866654-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -20,7 +20,7 @@
       "location": "Gastown",
       "start_date": "2026-06-22",
       "start_time": "19:15",
-      "available_spot_count": 15,
+      "available_spot_count": 10,
       "capacity": 15
     },
     {
@@ -30,7 +30,7 @@
       "location": "Yaletown",
       "start_date": "2026-06-23",
       "start_time": "20:15",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 20
     },
     {
@@ -42,16 +42,6 @@
       "start_time": "17:15",
       "available_spot_count": 20,
       "capacity": 20
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Bird x lululemon",
-      "booking_start_date": "2026-06-15 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-06-22",
-      "start_time": "10:00",
-      "available_spot_count": 0,
-      "capacity": 36
     },
     {
       "studio": "Jaybird",
@@ -115,12 +105,42 @@
     },
     {
       "studio": "Evolution",
+      "name": "Personal Training",
+      "booking_start_date": "2026-06-15 19:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-22",
+      "start_time": "19:30",
+      "available_spot_count": 8,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Personal Training",
+      "booking_start_date": "2026-06-17 19:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-24",
+      "start_time": "19:30",
+      "available_spot_count": 8,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
       "name": "Infrared Lagree - POP MIX",
       "booking_start_date": "2026-06-12 18:30",
       "location": "Vancouver",
       "start_date": "2026-06-26",
       "start_time": "18:30",
       "available_spot_count": 9,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Personal Training",
+      "booking_start_date": "2026-06-22 19:30",
+      "location": "Vancouver",
+      "start_date": "2026-06-29",
+      "start_time": "19:30",
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -140,7 +160,17 @@
       "location": "4th Ave",
       "start_date": "2026-06-25",
       "start_time": "07:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
+      "capacity": 15
+    },
+    {
+      "studio": "The Third",
+      "name": "The Third x Blume",
+      "booking_start_date": "2026-06-11 17:30",
+      "location": "4th Ave",
+      "start_date": "2026-06-25",
+      "start_time": "17:30",
+      "available_spot_count": 14,
       "capacity": 15
     },
     {
@@ -151,26 +181,6 @@
       "start_date": "2026-06-25",
       "start_time": "18:30",
       "available_spot_count": 0,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
-      "name": "The Third x Gummy Gainz",
-      "booking_start_date": "2026-06-19 06:30",
-      "location": "4th Ave",
-      "start_date": "2026-07-03",
-      "start_time": "06:30",
-      "available_spot_count": 13,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
-      "name": "The Third x Gummy Gainz",
-      "booking_start_date": "2026-06-19 07:30",
-      "location": "4th Ave",
-      "start_date": "2026-07-03",
-      "start_time": "07:30",
-      "available_spot_count": 15,
       "capacity": 15
     },
     {
@@ -210,7 +220,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-26",
       "start_time": "07:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -235,22 +245,12 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Future Self Sound Bath - 40 min",
-      "booking_start_date": "2026-06-08 11:45",
-      "location": "Vancouver",
-      "start_date": "2026-06-22",
-      "start_time": "11:45",
-      "available_spot_count": 34,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
       "name": "Red Light Reiki + Sound for Sleep x Spora",
       "booking_start_date": "2026-06-10 20:20",
       "location": "Vancouver",
       "start_date": "2026-06-24",
       "start_time": "20:20",
-      "available_spot_count": 20,
+      "available_spot_count": 17,
       "capacity": 26
     },
     {
@@ -271,6 +271,16 @@
       "start_date": "2026-06-26",
       "start_time": "17:35",
       "available_spot_count": 33,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Full Moon Sound Bath - 40 mins",
+      "booking_start_date": "2026-06-15 11:45",
+      "location": "Vancouver",
+      "start_date": "2026-06-29",
+      "start_time": "11:45",
+      "available_spot_count": 38,
       "capacity": 38
     },
     {
@@ -385,22 +395,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: EDM x HIP HOP COLLABS",
-      "booking_start_date": "2026-06-14 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-06-22",
-      "start_time": "12:30",
-      "available_spot_count": 30,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: EMMIT FENN x BEN B\u00d6HMER x ELDERBROOK",
       "booking_start_date": "2026-06-14 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-22",
       "start_time": "17:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 48
     },
     {
@@ -430,7 +430,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-23",
       "start_time": "12:30",
-      "available_spot_count": 39,
+      "available_spot_count": 40,
       "capacity": 48
     },
     {
@@ -440,7 +440,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-23",
       "start_time": "17:30",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 50
     },
     {
@@ -450,7 +450,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-24",
       "start_time": "07:15",
-      "available_spot_count": 21,
+      "available_spot_count": 22,
       "capacity": 48
     },
     {
@@ -460,7 +460,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-24",
       "start_time": "12:30",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
@@ -500,7 +500,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-25",
       "start_time": "12:30",
-      "available_spot_count": 38,
+      "available_spot_count": 36,
       "capacity": 48
     },
     {
@@ -510,7 +510,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-25",
       "start_time": "17:30",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 37
     },
     {
@@ -530,7 +530,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-26",
       "start_time": "16:20",
-      "available_spot_count": 42,
+      "available_spot_count": 40,
       "capacity": 48
     },
     {
@@ -540,7 +540,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-26",
       "start_time": "17:30",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 37
     },
     {
@@ -550,7 +550,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-26",
       "start_time": "18:40",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 48
     },
     {
@@ -660,7 +660,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-30",
       "start_time": "18:40",
-      "available_spot_count": 50,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -742,6 +742,16 @@
       "start_time": "12:30",
       "available_spot_count": 50,
       "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: YACHT ROCK x EDM",
+      "booking_start_date": "2026-06-25 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-03",
+      "start_time": "12:30",
+      "available_spot_count": 48,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
