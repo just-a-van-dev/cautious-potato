@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T14:13:21.362582-07:00",
+  "last_updated": "2026-06-22T15:56:35.401719-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -20,7 +20,7 @@
       "location": "Gastown",
       "start_date": "2026-06-22",
       "start_time": "19:15",
-      "available_spot_count": 10,
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -320,7 +320,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-12",
       "start_time": "19:00",
-      "available_spot_count": 119,
+      "available_spot_count": 118,
       "capacity": 120
     },
     {
@@ -400,7 +400,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-22",
       "start_time": "17:30",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 48
     },
     {
@@ -420,7 +420,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-23",
       "start_time": "09:45",
-      "available_spot_count": 43,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -430,7 +430,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-23",
       "start_time": "12:30",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 48
     },
     {
@@ -450,7 +450,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-24",
       "start_time": "07:15",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 48
     },
     {
@@ -470,7 +470,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-24",
       "start_time": "16:20",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 48
     },
     {
@@ -510,7 +510,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-25",
       "start_time": "17:30",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 37
     },
     {
@@ -540,7 +540,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-26",
       "start_time": "17:30",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 37
     },
     {
@@ -550,7 +550,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-26",
       "start_time": "18:40",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 48
     },
     {
@@ -600,7 +600,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-29",
       "start_time": "07:15",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 48
     },
     {
@@ -620,7 +620,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-29",
       "start_time": "18:40",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -630,7 +630,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-30",
       "start_time": "09:45",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
