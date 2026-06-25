@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T02:43:06.472430-07:00",
+  "last_updated": "2026-06-25T05:07:32.187014-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -210,7 +210,7 @@
       "location": "4th Ave",
       "start_date": "2026-07-03",
       "start_time": "12:00",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 15
     },
     {
@@ -500,7 +500,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-25",
       "start_time": "17:30",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 37
     },
     {
@@ -520,7 +520,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-26",
       "start_time": "12:30",
-      "available_spot_count": 16,
+      "available_spot_count": 14,
       "capacity": 50
     },
     {
