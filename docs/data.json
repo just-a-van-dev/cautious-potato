@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T10:23:46.107276-07:00",
+  "last_updated": "2026-06-25T12:29:56.617299-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -260,7 +260,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-26",
       "start_time": "17:35",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 38
     },
     {
@@ -430,7 +430,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-25",
       "start_time": "16:00",
-      "available_spot_count": 28,
+      "available_spot_count": 25,
       "capacity": 32
     },
     {
@@ -441,6 +441,26 @@
       "start_date": "2026-06-29",
       "start_time": "08:15",
       "available_spot_count": 26,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "meta + Mat Werk 45 *Happy Hour \ud83d\udc1c*",
+      "booking_start_date": "2026-07-02 16:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-07-09",
+      "start_time": "16:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "meta + Mat Werk 45 *Happy Hour \ud83d\udc1c*",
+      "booking_start_date": "2026-07-06 16:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-07-13",
+      "start_time": "16:00",
+      "available_spot_count": 32,
       "capacity": 32
     },
     {
@@ -460,7 +480,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-25",
       "start_time": "12:30",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 37
     },
     {
@@ -470,7 +490,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-25",
       "start_time": "12:30",
-      "available_spot_count": 29,
+      "available_spot_count": 26,
       "capacity": 48
     },
     {
@@ -480,7 +500,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-25",
       "start_time": "17:30",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 37
     },
     {
@@ -640,7 +660,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-30",
       "start_time": "18:40",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -680,7 +700,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-02",
       "start_time": "09:45",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 48
     },
     {
@@ -700,7 +720,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-02",
       "start_time": "17:30",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 48
     },
     {
@@ -710,7 +730,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-02",
       "start_time": "18:40",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -740,7 +760,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-03",
       "start_time": "17:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 37
     },
     {
@@ -750,7 +770,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-03",
       "start_time": "18:40",
-      "available_spot_count": 42,
+      "available_spot_count": 39,
       "capacity": 48
     },
     {
@@ -782,6 +802,16 @@
       "start_time": "08:20",
       "available_spot_count": 50,
       "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: THE WEEKND X RIHANNA",
+      "booking_start_date": "2026-06-28 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-07-06",
+      "start_time": "17:30",
+      "available_spot_count": 37,
+      "capacity": 37
     },
     {
       "studio": "Spin Society",
@@ -865,6 +895,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: THROWBACKS: 2010-2015 - VOL 2",
+      "booking_start_date": "2026-07-01 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-07-09",
+      "start_time": "12:30",
+      "available_spot_count": 37,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: 50 CENT x DRAKE",
       "booking_start_date": "2026-07-02 12:00",
       "location": "DOWNTOWN VANCOUVER",
@@ -880,6 +920,16 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-10",
       "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ARIANA: REMIXES - VOL. 1",
+      "booking_start_date": "2026-07-02 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-10",
+      "start_time": "18:40",
       "available_spot_count": 50,
       "capacity": 50
     },
