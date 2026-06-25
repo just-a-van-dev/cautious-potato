@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T08:11:33.614216-07:00",
+  "last_updated": "2026-06-25T10:23:46.107276-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -140,7 +140,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-26",
       "start_time": "18:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -250,7 +250,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-25",
       "start_time": "19:45",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 40
     },
     {
@@ -280,7 +280,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-02",
       "start_time": "19:45",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 40
     },
     {
@@ -310,7 +310,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-12",
       "start_time": "19:00",
-      "available_spot_count": 118,
+      "available_spot_count": 117,
       "capacity": 120
     },
     {
@@ -460,7 +460,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-25",
       "start_time": "12:30",
-      "available_spot_count": 28,
+      "available_spot_count": 25,
       "capacity": 37
     },
     {
@@ -470,7 +470,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-25",
       "start_time": "12:30",
-      "available_spot_count": 31,
+      "available_spot_count": 29,
       "capacity": 48
     },
     {
@@ -490,7 +490,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-26",
       "start_time": "09:45",
-      "available_spot_count": 28,
+      "available_spot_count": 29,
       "capacity": 37
     },
     {
@@ -500,7 +500,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-26",
       "start_time": "12:30",
-      "available_spot_count": 15,
+      "available_spot_count": 16,
       "capacity": 50
     },
     {
@@ -510,7 +510,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-26",
       "start_time": "16:20",
-      "available_spot_count": 43,
+      "available_spot_count": 41,
       "capacity": 48
     },
     {
@@ -530,7 +530,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-26",
       "start_time": "18:40",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 48
     },
     {
@@ -540,7 +540,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-27",
       "start_time": "10:40",
-      "available_spot_count": 20,
+      "available_spot_count": 18,
       "capacity": 37
     },
     {
@@ -580,7 +580,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-29",
       "start_time": "07:15",
-      "available_spot_count": 42,
+      "available_spot_count": 40,
       "capacity": 48
     },
     {
@@ -600,7 +600,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-29",
       "start_time": "18:40",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 50
     },
     {
@@ -650,7 +650,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-01",
       "start_time": "09:30",
-      "available_spot_count": 23,
+      "available_spot_count": 15,
       "capacity": 50
     },
     {
@@ -700,7 +700,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-02",
       "start_time": "17:30",
-      "available_spot_count": 22,
+      "available_spot_count": 20,
       "capacity": 48
     },
     {
@@ -710,7 +710,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-02",
       "start_time": "18:40",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -785,6 +785,76 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: JOHN SUMMIT X ILLENIUM X MARTIN GARRIX",
+      "booking_start_date": "2026-06-28 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-06",
+      "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: DOJA CAT x THE WEEKND",
+      "booking_start_date": "2026-06-29 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-07",
+      "start_time": "09:45",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: THE WEEKND X RIHANNA",
+      "booking_start_date": "2026-06-29 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-07",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: JOHN SUMMIT X BUNT.",
+      "booking_start_date": "2026-06-29 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-07",
+      "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ZARA LARSSON x TATE MCRAE",
+      "booking_start_date": "2026-06-30 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-08",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: EXCISION X SUBTRONICS X ZEDD",
+      "booking_start_date": "2026-06-30 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-08",
+      "start_time": "17:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BEYONC\u00c9 X 50 CENT X AKON",
+      "booking_start_date": "2026-06-30 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-08",
+      "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: BRITNEY SPEARS x DUA LIPA",
       "booking_start_date": "2026-07-01 12:00",
       "location": "DOWNTOWN VANCOUVER",
@@ -802,6 +872,26 @@
       "start_time": "07:15",
       "available_spot_count": 37,
       "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ARIANA: HITS - ARI & FRIENDS",
+      "booking_start_date": "2026-07-02 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-10",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: THROWBACKS! 2005-2010",
+      "booking_start_date": "2026-07-03 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-11",
+      "start_time": "10:40",
+      "available_spot_count": 50,
+      "capacity": 50
     }
   ]
 }
