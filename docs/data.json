@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T16:21:40.347756-07:00",
+  "last_updated": "2026-06-24T18:19:49.906183-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -70,7 +70,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-01",
       "start_time": "13:30",
-      "available_spot_count": 17,
+      "available_spot_count": 14,
       "capacity": 20
     },
     {
@@ -132,16 +132,6 @@
       "start_time": "09:00",
       "available_spot_count": 12,
       "capacity": 12
-    },
-    {
-      "studio": "Evolution",
-      "name": "Personal Training",
-      "booking_start_date": "2026-06-17 19:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-24",
-      "start_time": "19:30",
-      "available_spot_count": 8,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
@@ -275,22 +265,12 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Red Light Reiki + Sound for Sleep x Spora",
-      "booking_start_date": "2026-06-10 20:20",
-      "location": "Vancouver",
-      "start_date": "2026-06-24",
-      "start_time": "20:20",
-      "available_spot_count": 13,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
       "name": "Yin + Ancient Sound Bath | Warm",
       "booking_start_date": "2026-06-11 19:45",
       "location": "Vancouver",
       "start_date": "2026-06-25",
       "start_time": "19:45",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 40
     },
     {
@@ -470,7 +450,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-25",
       "start_time": "16:00",
-      "available_spot_count": 25,
+      "available_spot_count": 28,
       "capacity": 32
     },
     {
@@ -495,32 +475,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: KYGO X R\u00dcF\u00dcS X JOHN SUMMIT",
-      "booking_start_date": "2026-06-16 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-06-24",
-      "start_time": "16:20",
-      "available_spot_count": 26,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: KYGO X R\u00dcF\u00dcS X JOHN SUMMIT",
-      "booking_start_date": "2026-06-16 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-06-24",
-      "start_time": "18:40",
-      "available_spot_count": 22,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: KENDRICK x SAWEETIE x USHER",
       "booking_start_date": "2026-06-17 12:00",
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-25",
       "start_time": "12:30",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 37
     },
     {
@@ -530,7 +490,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-25",
       "start_time": "12:30",
-      "available_spot_count": 27,
+      "available_spot_count": 28,
       "capacity": 48
     },
     {
@@ -720,7 +680,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-01",
       "start_time": "10:40",
-      "available_spot_count": 45,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
@@ -730,7 +690,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-02",
       "start_time": "06:00",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 37
     },
     {
@@ -740,7 +700,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-02",
       "start_time": "09:45",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 48
     },
     {
@@ -760,7 +720,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-02",
       "start_time": "17:30",
-      "available_spot_count": 31,
+      "available_spot_count": 28,
       "capacity": 48
     },
     {
@@ -770,7 +730,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-02",
       "start_time": "18:40",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
