@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T16:02:31.676776-07:00",
+  "last_updated": "2026-06-25T18:17:41.028593-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -110,7 +110,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-01",
       "start_time": "13:30",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 20
     },
     {
@@ -205,26 +205,6 @@
     },
     {
       "studio": "The Third",
-      "name": "The Third x Blume",
-      "booking_start_date": "2026-06-11 17:30",
-      "location": "4th Ave",
-      "start_date": "2026-06-25",
-      "start_time": "17:30",
-      "available_spot_count": 6,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
-      "name": "The Third x Blume",
-      "booking_start_date": "2026-06-11 18:30",
-      "location": "4th Ave",
-      "start_date": "2026-06-25",
-      "start_time": "18:30",
-      "available_spot_count": 0,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
       "name": "The Third x Gummy Gainz",
       "booking_start_date": "2026-06-19 12:00",
       "location": "4th Ave",
@@ -285,22 +265,12 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Yin + Ancient Sound Bath | Warm",
-      "booking_start_date": "2026-06-11 19:45",
-      "location": "Vancouver",
-      "start_date": "2026-06-25",
-      "start_time": "19:45",
-      "available_spot_count": 32,
-      "capacity": 40
-    },
-    {
-      "studio": "ZenDen",
       "name": "Flow State Somatic Movement | Warm x Spora",
       "booking_start_date": "2026-06-12 17:35",
       "location": "Vancouver",
       "start_date": "2026-06-26",
       "start_time": "17:35",
-      "available_spot_count": 29,
+      "available_spot_count": 30,
       "capacity": 38
     },
     {
@@ -465,16 +435,6 @@
     },
     {
       "studio": "Turf",
-      "name": "meta + Mat Werk 45 *Happy Hour \ud83d\udc1c*",
-      "booking_start_date": "2026-06-18 16:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-06-25",
-      "start_time": "16:00",
-      "available_spot_count": 19,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "meta 45 *Happy Hour \ud83d\udc1c* *Co-teach*",
       "booking_start_date": "2026-06-22 08:15",
       "location": "KITS - Vancouver",
@@ -515,16 +475,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: RHIANNA x A$AP ROCKY",
-      "booking_start_date": "2026-06-17 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-06-25",
-      "start_time": "17:30",
-      "available_spot_count": 15,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: OLIVIA RODRIGO + FRIENDS",
       "booking_start_date": "2026-06-18 12:00",
       "location": "DOWNTOWN VANCOUVER",
@@ -540,7 +490,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-26",
       "start_time": "12:30",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 50
     },
     {
@@ -550,7 +500,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-26",
       "start_time": "16:20",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 48
     },
     {
@@ -570,7 +520,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-26",
       "start_time": "18:40",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 48
     },
     {
@@ -590,7 +540,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-28",
       "start_time": "09:30",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 50
     },
     {
@@ -600,7 +550,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-28",
       "start_time": "09:30",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 37
     },
     {
@@ -690,7 +640,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-01",
       "start_time": "09:30",
-      "available_spot_count": 13,
+      "available_spot_count": 10,
       "capacity": 50
     },
     {
@@ -760,7 +710,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-03",
       "start_time": "12:30",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
@@ -790,7 +740,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-03",
       "start_time": "18:40",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 48
     },
     {
