@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T02:50:52.646597-07:00",
+  "last_updated": "2026-06-26T05:26:21.828873-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -20,7 +20,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-09",
       "start_time": "11:15",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 20
     },
     {
@@ -40,7 +40,7 @@
       "location": "Kitsilano",
       "start_date": "2026-07-15",
       "start_time": "13:30",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 16
     },
     {
@@ -360,7 +360,7 @@
       "location": "West End",
       "start_date": "2026-07-04",
       "start_time": "19:30",
-      "available_spot_count": 22,
+      "available_spot_count": 20,
       "capacity": 23
     },
     {
@@ -500,7 +500,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-26",
       "start_time": "16:20",
-      "available_spot_count": 40,
+      "available_spot_count": 41,
       "capacity": 48
     },
     {
@@ -710,7 +710,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-03",
       "start_time": "12:30",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
@@ -780,7 +780,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-06",
       "start_time": "17:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 37
     },
     {
