@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T08:16:14.316751-07:00",
+  "last_updated": "2026-06-26T10:23:04.085819-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -110,7 +110,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-01",
       "start_time": "13:30",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -122,6 +122,46 @@
       "start_time": "07:15",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Build \u2014 Happy Hour x Aikenka Matcha",
+      "booking_start_date": "2026-07-01 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-07-08",
+      "start_time": "10:00",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Aikenka Matcha",
+      "booking_start_date": "2026-07-01 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-07-08",
+      "start_time": "10:20",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x Aikenka Matcha",
+      "booking_start_date": "2026-07-01 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-07-08",
+      "start_time": "12:00",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer \u2014 Happy Hour x Aikenka Matcha",
+      "booking_start_date": "2026-07-01 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-07-08",
+      "start_time": "12:15",
+      "available_spot_count": 20,
+      "capacity": 20
     },
     {
       "studio": "Jaybird",
@@ -170,7 +210,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-03",
       "start_time": "09:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -200,7 +240,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-01",
       "start_time": "09:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 11
     },
     {
@@ -210,7 +250,7 @@
       "location": "4th Ave",
       "start_date": "2026-07-03",
       "start_time": "12:00",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 15
     },
     {
@@ -235,22 +275,12 @@
     },
     {
       "studio": "Lagree X",
-      "name": "The Weeknd \ud83e\ude78",
-      "booking_start_date": "2026-06-19 08:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-26",
-      "start_time": "08:30",
-      "available_spot_count": 1,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
       "name": "Britney vs Justin \ud83c\udfb5\ud83d\udd25",
       "booking_start_date": "2026-06-26 08:30",
       "location": "Vancouver",
       "start_date": "2026-07-03",
       "start_time": "08:30",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -260,7 +290,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-26",
       "start_time": "17:35",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 38
     },
     {
@@ -470,7 +500,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-26",
       "start_time": "09:45",
-      "available_spot_count": 22,
+      "available_spot_count": 19,
       "capacity": 37
     },
     {
@@ -500,7 +530,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-26",
       "start_time": "17:30",
-      "available_spot_count": 19,
+      "available_spot_count": 21,
       "capacity": 37
     },
     {
@@ -510,7 +540,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-26",
       "start_time": "18:40",
-      "available_spot_count": 9,
+      "available_spot_count": 12,
       "capacity": 48
     },
     {
@@ -530,7 +560,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-28",
       "start_time": "09:30",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 50
     },
     {
@@ -580,7 +610,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-29",
       "start_time": "18:40",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 50
     },
     {
@@ -590,7 +620,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-30",
       "start_time": "09:45",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -600,7 +630,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-30",
       "start_time": "09:45",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 37
     },
     {
@@ -610,7 +640,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-30",
       "start_time": "12:30",
-      "available_spot_count": 33,
+      "available_spot_count": 34,
       "capacity": 37
     },
     {
@@ -630,7 +660,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-01",
       "start_time": "09:30",
-      "available_spot_count": 5,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -660,7 +690,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-02",
       "start_time": "09:45",
-      "available_spot_count": 42,
+      "available_spot_count": 43,
       "capacity": 48
     },
     {
@@ -680,7 +710,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-02",
       "start_time": "17:30",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 48
     },
     {
@@ -690,7 +720,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-02",
       "start_time": "18:40",
-      "available_spot_count": 40,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
@@ -700,7 +730,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-03",
       "start_time": "12:30",
-      "available_spot_count": 45,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
@@ -710,7 +740,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-03",
       "start_time": "12:30",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 48
     },
     {
@@ -720,7 +750,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-03",
       "start_time": "17:30",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 37
     },
     {
@@ -730,7 +760,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-03",
       "start_time": "18:40",
-      "available_spot_count": 23,
+      "available_spot_count": 18,
       "capacity": 48
     },
     {
