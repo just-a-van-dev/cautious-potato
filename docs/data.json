@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T11:17:39.027233-07:00",
+  "last_updated": "2026-06-27T12:57:04.310340-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -486,16 +486,6 @@
     {
       "studio": "Spin Society",
       "name": "THEME: EDM X POP",
-      "booking_start_date": "2026-06-19 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-06-27",
-      "start_time": "10:40",
-      "available_spot_count": 14,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: EDM X POP",
       "booking_start_date": "2026-06-20 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-06-28",
@@ -550,7 +540,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-29",
       "start_time": "18:40",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 50
     },
     {
@@ -580,7 +570,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-30",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 37
     },
     {
@@ -590,7 +580,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-30",
       "start_time": "18:40",
-      "available_spot_count": 34,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -620,7 +610,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-02",
       "start_time": "06:00",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 37
     },
     {
