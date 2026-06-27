@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T16:46:44.775740-07:00",
+  "last_updated": "2026-06-26T21:15:29.083478-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -215,16 +215,6 @@
     },
     {
       "studio": "Evolution",
-      "name": "Infrared Lagree - POP MIX",
-      "booking_start_date": "2026-06-12 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-26",
-      "start_time": "18:30",
-      "available_spot_count": 6,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
       "name": "Personal Training",
       "booking_start_date": "2026-06-22 19:30",
       "location": "Vancouver",
@@ -282,16 +272,6 @@
       "start_time": "08:30",
       "available_spot_count": 4,
       "capacity": 12
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Flow State Somatic Movement | Warm x Spora",
-      "booking_start_date": "2026-06-12 17:35",
-      "location": "Vancouver",
-      "start_date": "2026-06-26",
-      "start_time": "17:35",
-      "available_spot_count": 23,
-      "capacity": 38
     },
     {
       "studio": "ZenDen",
@@ -454,6 +434,16 @@
       "capacity": 23
     },
     {
+      "studio": "Ritual",
+      "name": "Yoga | Yin + Live Sound Journey",
+      "booking_start_date": "2026-05-12 19:30",
+      "location": "West End",
+      "start_date": "2026-08-10",
+      "start_time": "19:30",
+      "available_spot_count": 23,
+      "capacity": 23
+    },
+    {
       "studio": "Turf",
       "name": "meta 45 *Happy Hour \ud83d\udc1c* *Co-teach*",
       "booking_start_date": "2026-06-22 08:15",
@@ -495,42 +485,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: THROWBACK JOCK-JAMS",
-      "booking_start_date": "2026-06-18 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-06-26",
-      "start_time": "16:20",
-      "available_spot_count": 38,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: HIP HOP | OLD SCHOOL x NEW SCHOOL",
-      "booking_start_date": "2026-06-18 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-06-26",
-      "start_time": "17:30",
-      "available_spot_count": 16,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: ARIANA: DEEP TRACKS + LIVE SONGS",
-      "booking_start_date": "2026-06-18 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-06-26",
-      "start_time": "18:40",
-      "available_spot_count": 5,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: EDM X POP",
       "booking_start_date": "2026-06-19 12:00",
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-27",
       "start_time": "10:40",
-      "available_spot_count": 16,
+      "available_spot_count": 17,
       "capacity": 37
     },
     {
@@ -540,7 +500,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-28",
       "start_time": "09:30",
-      "available_spot_count": 17,
+      "available_spot_count": 18,
       "capacity": 50
     },
     {
@@ -550,7 +510,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-28",
       "start_time": "09:30",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 37
     },
     {
@@ -570,7 +530,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-29",
       "start_time": "07:15",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 48
     },
     {
@@ -580,7 +540,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-29",
       "start_time": "17:30",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 37
     },
     {
@@ -590,7 +550,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-29",
       "start_time": "18:40",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 50
     },
     {
@@ -600,7 +560,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-30",
       "start_time": "09:45",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
@@ -630,7 +590,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-30",
       "start_time": "18:40",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -680,7 +640,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-02",
       "start_time": "12:30",
-      "available_spot_count": 36,
+      "available_spot_count": 34,
       "capacity": 37
     },
     {
@@ -690,7 +650,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-02",
       "start_time": "17:30",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 48
     },
     {
@@ -710,7 +670,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-03",
       "start_time": "12:30",
-      "available_spot_count": 41,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
@@ -740,7 +700,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-03",
       "start_time": "18:40",
-      "available_spot_count": 11,
+      "available_spot_count": 8,
       "capacity": 48
     },
     {
@@ -750,7 +710,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-04",
       "start_time": "08:20",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 48
     },
     {
@@ -760,7 +720,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-04",
       "start_time": "10:40",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 37
     },
     {
