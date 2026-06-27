@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T14:19:06.776473-07:00",
+  "last_updated": "2026-06-27T15:43:13.298884-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -10,16 +10,6 @@
       "start_time": "17:45",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Hadis Friends & Family - Red Light Pilates Sculpt",
-      "booking_start_date": "2026-06-20 14:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-27",
-      "start_time": "14:30",
-      "available_spot_count": 26,
-      "capacity": 26
     }
   ],
   "sponsored": [
@@ -240,7 +230,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-01",
       "start_time": "09:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 11
     },
     {
@@ -282,16 +272,6 @@
       "start_time": "08:30",
       "available_spot_count": 3,
       "capacity": 12
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Hadis Friends & Family - Red Light Pilates Sculpt",
-      "booking_start_date": "2026-06-20 14:30",
-      "location": "Vancouver",
-      "start_date": "2026-06-27",
-      "start_time": "14:30",
-      "available_spot_count": 26,
-      "capacity": 26
     },
     {
       "studio": "ZenDen",
@@ -470,7 +450,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-06-29",
       "start_time": "08:15",
-      "available_spot_count": 24,
+      "available_spot_count": 25,
       "capacity": 32
     },
     {
@@ -510,7 +490,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-28",
       "start_time": "09:30",
-      "available_spot_count": 15,
+      "available_spot_count": 16,
       "capacity": 50
     },
     {
@@ -520,7 +500,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-28",
       "start_time": "09:30",
-      "available_spot_count": 22,
+      "available_spot_count": 23,
       "capacity": 37
     },
     {
@@ -560,7 +540,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-29",
       "start_time": "18:40",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 50
     },
     {
@@ -660,7 +640,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-02",
       "start_time": "17:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 48
     },
     {
@@ -670,7 +650,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-02",
       "start_time": "18:40",
-      "available_spot_count": 36,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -710,7 +690,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-03",
       "start_time": "18:40",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 48
     },
     {
