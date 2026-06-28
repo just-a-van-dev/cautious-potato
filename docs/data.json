@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T03:54:13.403049-07:00",
+  "last_updated": "2026-06-28T05:20:25.477809-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -815,11 +815,31 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: BRITNEY SPEARS x DUA LIPA",
+      "booking_start_date": "2026-06-29 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-07",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: JOHN SUMMIT X BUNT.",
       "booking_start_date": "2026-06-29 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-07-07",
       "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: DIVAS x DJs",
+      "booking_start_date": "2026-06-30 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-08",
+      "start_time": "06:00",
       "available_spot_count": 50,
       "capacity": 50
     },
@@ -875,6 +895,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: LANE 8 x KASKADE",
+      "booking_start_date": "2026-07-01 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-09",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: 50 CENT x DRAKE",
       "booking_start_date": "2026-07-02 12:00",
       "location": "DOWNTOWN VANCOUVER",
@@ -885,7 +915,7 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: BAD BUNNY x DRAKE x LIZZO",
+      "name": "THEME: BAD BUNNY X DRAKE X LIZZO",
       "booking_start_date": "2026-07-02 12:00",
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-10",
@@ -925,7 +955,47 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: TAYLOR SWIFT x OLIVIA RODRIGO",
+      "name": "THEME: LADY GAGA | MAYHEM X ARTPOP",
+      "booking_start_date": "2026-07-04 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-12",
+      "start_time": "10:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: LADY GAGA | MAYHEM x ARTPOP",
+      "booking_start_date": "2026-07-04 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-12",
+      "start_time": "13:00",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: EMMIT FENN x BEN B\u00d6HMER x ELDERBROOK Vol 2",
+      "booking_start_date": "2026-07-05 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-13",
+      "start_time": "17:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: EMMIT FENN x BEN B\u00d6HMER x ELDERBROOK Vol 2",
+      "booking_start_date": "2026-07-06 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-14",
+      "start_time": "17:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: TAYLOR SWIFT X OLIVIA RODRIGO",
       "booking_start_date": "2026-07-11 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-19",
