@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T01:28:24.812106-07:00",
+  "last_updated": "2026-06-28T03:54:13.403049-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -685,6 +685,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: JOHN SUMMIT x AVICII x THE WEEKND",
+      "booking_start_date": "2026-06-25 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-07-03",
+      "start_time": "09:45",
+      "available_spot_count": 36,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: THROWBACKS! 2000-2005",
       "booking_start_date": "2026-06-25 12:00",
       "location": "BRENTWOOD",
@@ -752,6 +762,16 @@
       "start_time": "08:20",
       "available_spot_count": 47,
       "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: JUSTIN BIEBER X SELENA GOMEZ",
+      "booking_start_date": "2026-06-27 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-05",
+      "start_time": "11:50",
+      "available_spot_count": 48,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -865,6 +885,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: BAD BUNNY x DRAKE x LIZZO",
+      "booking_start_date": "2026-07-02 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-07-10",
+      "start_time": "09:45",
+      "available_spot_count": 37,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: ARIANA: HITS - ARI & FRIENDS",
       "booking_start_date": "2026-07-02 12:00",
       "location": "BRENTWOOD",
@@ -890,6 +920,26 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-11",
       "start_time": "10:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: TAYLOR SWIFT x OLIVIA RODRIGO",
+      "booking_start_date": "2026-07-11 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-19",
+      "start_time": "11:50",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: JOHN SUMMIT X AVICII",
+      "booking_start_date": "2026-07-18 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-26",
+      "start_time": "11:50",
       "available_spot_count": 50,
       "capacity": 50
     }
