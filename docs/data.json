@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T08:56:39.473157-07:00",
+  "last_updated": "2026-06-28T10:34:46.300488-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -132,6 +132,16 @@
       "start_time": "07:15",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Balance + Sound Bath x All is Well",
+      "booking_start_date": "2026-06-30 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-07-07",
+      "start_time": "20:00",
+      "available_spot_count": 45,
+      "capacity": 45
     },
     {
       "studio": "Jaybird",
@@ -270,7 +280,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-01",
       "start_time": "09:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 11
     },
     {
@@ -585,32 +595,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: EDM X POP",
-      "booking_start_date": "2026-06-20 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-06-28",
-      "start_time": "09:30",
-      "available_spot_count": 17,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: THROWBACK JOCK-JAMS",
-      "booking_start_date": "2026-06-20 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-06-28",
-      "start_time": "09:30",
-      "available_spot_count": 26,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: CALVIN HARRIS X DAVID GUETTA",
       "booking_start_date": "2026-06-21 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-06-29",
       "start_time": "06:00",
-      "available_spot_count": 48,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -630,7 +620,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-29",
       "start_time": "17:30",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 37
     },
     {
@@ -680,7 +670,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-30",
       "start_time": "18:40",
-      "available_spot_count": 31,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -760,7 +750,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-03",
       "start_time": "09:45",
-      "available_spot_count": 34,
+      "available_spot_count": 32,
       "capacity": 37
     },
     {
@@ -770,7 +760,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-03",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -790,7 +780,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-03",
       "start_time": "17:30",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 37
     },
     {
@@ -800,7 +790,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-03",
       "start_time": "18:40",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 48
     },
     {
@@ -810,7 +800,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-04",
       "start_time": "08:20",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 48
     },
     {
@@ -820,7 +810,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-04",
       "start_time": "10:40",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 37
     },
     {
