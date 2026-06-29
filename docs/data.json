@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T20:41:34.648567-07:00",
+  "last_updated": "2026-06-28T23:23:10.370744-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -105,7 +105,7 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn Reformer - Teacher Development ($18)",
+      "name": "Teacher Development | The Burn \u2014 Reformer $25",
       "booking_start_date": "2026-06-24 00:00",
       "location": "Kingsway",
       "start_date": "2026-07-01",
@@ -210,7 +210,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-29",
       "start_time": "09:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -230,7 +230,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-29",
       "start_time": "12:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -240,7 +240,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-29",
       "start_time": "13:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -250,7 +250,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-30",
       "start_time": "09:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -274,83 +274,13 @@
       "capacity": 10
     },
     {
-      "studio": "Tunnel",
-      "name": "Heated Mat",
-      "booking_start_date": "2026-06-24 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-01",
-      "start_time": "09:00",
-      "available_spot_count": 3,
-      "capacity": 11
-    },
-    {
-      "studio": "Tunnel",
-      "name": "Heated Mat",
-      "booking_start_date": "2026-06-30 07:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-07",
-      "start_time": "07:00",
-      "available_spot_count": 11,
-      "capacity": 11
-    },
-    {
-      "studio": "Tunnel",
-      "name": "Heated Mat",
-      "booking_start_date": "2026-07-07 07:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-14",
-      "start_time": "07:00",
-      "available_spot_count": 11,
-      "capacity": 11
-    },
-    {
-      "studio": "Tunnel",
-      "name": "Heated Mat",
-      "booking_start_date": "2026-07-14 07:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-21",
-      "start_time": "07:00",
-      "available_spot_count": 11,
-      "capacity": 11
-    },
-    {
-      "studio": "Tunnel",
-      "name": "Heated Mat",
-      "booking_start_date": "2026-07-21 07:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-28",
-      "start_time": "07:00",
-      "available_spot_count": 11,
-      "capacity": 11
-    },
-    {
-      "studio": "Tunnel",
-      "name": "Heated Mat",
-      "booking_start_date": "2026-07-28 07:00",
-      "location": "Vancouver",
-      "start_date": "2026-08-04",
-      "start_time": "07:00",
-      "available_spot_count": 11,
-      "capacity": 11
-    },
-    {
-      "studio": "Tunnel",
-      "name": "Heated Mat",
-      "booking_start_date": "2026-08-04 07:00",
-      "location": "Vancouver",
-      "start_date": "2026-08-11",
-      "start_time": "07:00",
-      "available_spot_count": 11,
-      "capacity": 11
-    },
-    {
       "studio": "The Third",
       "name": "The Third x Gummy Gainz",
       "booking_start_date": "2026-06-19 12:00",
       "location": "4th Ave",
       "start_date": "2026-07-03",
       "start_time": "12:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 15
     },
     {
@@ -400,8 +330,8 @@
       "location": "Vancouver",
       "start_date": "2026-07-02",
       "start_time": "19:45",
-      "available_spot_count": 36,
-      "capacity": 40
+      "available_spot_count": 33,
+      "capacity": 38
     },
     {
       "studio": "ZenDen",
@@ -410,8 +340,8 @@
       "location": "Vancouver",
       "start_date": "2026-07-09",
       "start_time": "19:45",
-      "available_spot_count": 40,
-      "capacity": 40
+      "available_spot_count": 38,
+      "capacity": 38
     },
     {
       "studio": "ZenDen",
@@ -420,7 +350,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-12",
       "start_time": "11:00",
-      "available_spot_count": 119,
+      "available_spot_count": 118,
       "capacity": 120
     },
     {
@@ -440,8 +370,8 @@
       "location": "Vancouver",
       "start_date": "2026-07-16",
       "start_time": "19:45",
-      "available_spot_count": 40,
-      "capacity": 40
+      "available_spot_count": 38,
+      "capacity": 38
     },
     {
       "studio": "ZenDen",
@@ -450,8 +380,8 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "19:45",
-      "available_spot_count": 40,
-      "capacity": 40
+      "available_spot_count": 38,
+      "capacity": 38
     },
     {
       "studio": "ZenDen",
@@ -460,8 +390,8 @@
       "location": "Vancouver",
       "start_date": "2026-08-06",
       "start_time": "19:45",
-      "available_spot_count": 40,
-      "capacity": 40
+      "available_spot_count": 38,
+      "capacity": 38
     },
     {
       "studio": "Ritual",
@@ -600,7 +530,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-29",
       "start_time": "06:00",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
@@ -610,7 +540,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-06-29",
       "start_time": "07:15",
-      "available_spot_count": 36,
+      "available_spot_count": 33,
       "capacity": 48
     },
     {
@@ -620,7 +550,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-29",
       "start_time": "17:30",
-      "available_spot_count": 12,
+      "available_spot_count": 14,
       "capacity": 37
     },
     {
@@ -630,7 +560,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-29",
       "start_time": "18:40",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 50
     },
     {
@@ -730,7 +660,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-02",
       "start_time": "17:30",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 48
     },
     {
@@ -740,7 +670,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-02",
       "start_time": "18:40",
-      "available_spot_count": 27,
+      "available_spot_count": 28,
       "capacity": 50
     },
     {
@@ -760,7 +690,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-03",
       "start_time": "12:30",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 50
     },
     {
@@ -770,7 +700,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-03",
       "start_time": "12:30",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 48
     },
     {
@@ -800,7 +730,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-04",
       "start_time": "08:20",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 48
     },
     {
@@ -830,7 +760,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-05",
       "start_time": "11:50",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 48
     },
     {
@@ -850,7 +780,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-06",
       "start_time": "18:40",
-      "available_spot_count": 37,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
