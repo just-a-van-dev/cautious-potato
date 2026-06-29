@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T05:07:44.346719-07:00",
+  "last_updated": "2026-06-29T09:10:01.312355-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -120,7 +120,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-06",
       "start_time": "07:15",
-      "available_spot_count": 32,
+      "available_spot_count": 16,
       "capacity": 36
     },
     {
@@ -210,7 +210,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-29",
       "start_time": "09:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -220,7 +220,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-29",
       "start_time": "11:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -400,7 +400,7 @@
       "location": "West End",
       "start_date": "2026-07-04",
       "start_time": "19:30",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 23
     },
     {
@@ -485,16 +485,6 @@
     },
     {
       "studio": "Turf",
-      "name": "meta 45 *Happy Hour \ud83d\udc1c* *Co-teach*",
-      "booking_start_date": "2026-06-22 08:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-06-29",
-      "start_time": "08:15",
-      "available_spot_count": 19,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "meta + Mat Werk 45 *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-07-02 16:00",
       "location": "KITS - Vancouver",
@@ -525,32 +515,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: CALVIN HARRIS X DAVID GUETTA",
-      "booking_start_date": "2026-06-21 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-06-29",
-      "start_time": "06:00",
-      "available_spot_count": 45,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: EURO SUMMER SEND-OFF",
-      "booking_start_date": "2026-06-21 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-06-29",
-      "start_time": "07:15",
-      "available_spot_count": 34,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: EURO SUMMER SEND-OFF",
       "booking_start_date": "2026-06-21 12:00",
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-29",
       "start_time": "17:30",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 37
     },
     {
@@ -570,7 +540,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-30",
       "start_time": "09:45",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
@@ -580,7 +550,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-06-30",
       "start_time": "09:45",
-      "available_spot_count": 28,
+      "available_spot_count": 29,
       "capacity": 37
     },
     {
@@ -620,7 +590,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-01",
       "start_time": "10:40",
-      "available_spot_count": 24,
+      "available_spot_count": 21,
       "capacity": 50
     },
     {
@@ -640,7 +610,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-02",
       "start_time": "09:45",
-      "available_spot_count": 39,
+      "available_spot_count": 40,
       "capacity": 48
     },
     {
@@ -690,7 +660,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-03",
       "start_time": "12:30",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 50
     },
     {
@@ -710,7 +680,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-03",
       "start_time": "17:30",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 37
     },
     {
@@ -730,7 +700,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-04",
       "start_time": "08:20",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 48
     },
     {
@@ -740,7 +710,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-04",
       "start_time": "10:40",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 37
     },
     {
@@ -760,7 +730,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-05",
       "start_time": "11:50",
-      "available_spot_count": 38,
+      "available_spot_count": 36,
       "capacity": 48
     },
     {
@@ -780,7 +750,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-06",
       "start_time": "18:40",
-      "available_spot_count": 31,
+      "available_spot_count": 28,
       "capacity": 50
     },
     {
