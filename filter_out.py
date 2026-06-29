@@ -89,6 +89,13 @@ FILTER_OUT = {
         "on the mat with nat *happy hour 🐜*",
         "mrc x turf free run club (no sign up needed)",
     ],
+    "tunnel":[
+        "heated mat",
+        "heated mat pilates",
+        "heated reformer full body burn",
+        "heated reformer sculpt & stretch",
+        "reformer full body burn",
+    ],
     "ritual": [
         "foundation | stability + core",
         "foundation | stability + core (heated)",

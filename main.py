@@ -7,12 +7,7 @@ from filter_out import FILTER_OUT
 LAGREE_STUDIO = "lagree studio"
 LAGREE_X = "lagree x"
 TUNNEL = "tunnel"
-TUNNEL_CLASSES = [
-"heated mat pilates",
-"heated reformer full body burn",
-"heated reformer sculpt & stretch",
-"reformer full body burn",
-]
+
 TARGET_NAMES = [
     "sweat for a cause",
     "train",
@@ -50,11 +45,7 @@ def is_sponsored_class(class_data, studio_name) -> bool:
 
     name = class_data.get("name").lower().strip()
 
-    # Tunnel has different naming conventions
-    if studio_name.lower() == TUNNEL:
-        return name not in TUNNEL_CLASSES
-
-    if studio_name.lower() in [LAGREE_STUDIO, LAGREE_X]:
+    if studio_name.lower() in [LAGREE_STUDIO, LAGREE_X, TUNNEL]:
         return name not in FILTER_OUT.get(studio_name.lower(), [])
 
     if name.startswith("happy hour") or name.endswith("happy hour"):
