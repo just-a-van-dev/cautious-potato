@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T12:23:52.641463-07:00",
+  "last_updated": "2026-06-30T14:19:04.403820-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -130,7 +130,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-07",
       "start_time": "20:00",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 45
     },
     {
@@ -210,7 +210,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-30",
       "start_time": "15:30",
-      "available_spot_count": 9,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -436,16 +436,6 @@
     {
       "studio": "Ritual",
       "name": "Yoga | Yin + Live Sound Journey",
-      "booking_start_date": "2026-04-05 19:30",
-      "location": "West End",
-      "start_date": "2026-07-04",
-      "start_time": "19:30",
-      "available_spot_count": 19,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Yoga | Yin + Live Sound Journey",
       "booking_start_date": "2026-04-07 19:30",
       "location": "West End",
       "start_date": "2026-07-06",
@@ -565,16 +555,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: REMIXES: RIHANNA x BEYONC\u00c9",
-      "booking_start_date": "2026-06-22 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-06-30",
-      "start_time": "12:30",
-      "available_spot_count": 23,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: THE WEEKND X  SWEDISH HOUSE MAFIA",
       "booking_start_date": "2026-06-22 12:00",
       "location": "BRENTWOOD",
@@ -600,7 +580,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-01",
       "start_time": "10:40",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 50
     },
     {
@@ -630,7 +610,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-02",
       "start_time": "12:30",
-      "available_spot_count": 48,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
@@ -640,7 +620,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-02",
       "start_time": "12:30",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 37
     },
     {
@@ -650,7 +630,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-02",
       "start_time": "17:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 48
     },
     {
@@ -660,7 +640,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-02",
       "start_time": "18:40",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 50
     },
     {
@@ -720,7 +700,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-04",
       "start_time": "08:20",
-      "available_spot_count": 21,
+      "available_spot_count": 22,
       "capacity": 48
     },
     {
@@ -770,7 +750,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-06",
       "start_time": "18:40",
-      "available_spot_count": 6,
+      "available_spot_count": 3,
       "capacity": 50
     },
     {
@@ -790,7 +770,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-07",
       "start_time": "12:30",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -810,7 +790,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-07",
       "start_time": "18:40",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -820,7 +800,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-08",
       "start_time": "06:00",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -840,7 +820,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-08",
       "start_time": "17:30",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
