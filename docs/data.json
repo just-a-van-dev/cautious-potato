@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T03:00:03.059742-07:00",
+  "last_updated": "2026-06-30T05:23:21.183776-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -260,7 +260,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-03",
       "start_time": "18:30",
-      "available_spot_count": 4,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
@@ -341,6 +341,16 @@
       "start_date": "2026-07-03",
       "start_time": "08:30",
       "available_spot_count": 0,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "Beyonc\u00e9 & Jay-Z \ud83d\udc51\ud83d\udc1d x \ud83d\udc8e",
+      "booking_start_date": "2026-07-03 08:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-10",
+      "start_time": "08:30",
+      "available_spot_count": 12,
       "capacity": 12
     },
     {
