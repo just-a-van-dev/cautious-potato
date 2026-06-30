@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T14:19:04.403820-07:00",
+  "last_updated": "2026-06-30T15:56:21.172286-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -210,7 +210,7 @@
       "location": "Vancouver",
       "start_date": "2026-06-30",
       "start_time": "15:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -270,6 +270,46 @@
       "location": "Vancouver",
       "start_date": "2026-07-13",
       "start_time": "06:00",
+      "available_spot_count": 11,
+      "capacity": 11
+    },
+    {
+      "studio": "Tunnel",
+      "name": "Heated Reformer x Spicy Dan",
+      "booking_start_date": "2026-07-17 06:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-24",
+      "start_time": "06:00",
+      "available_spot_count": 11,
+      "capacity": 11
+    },
+    {
+      "studio": "Tunnel",
+      "name": "Heated Reformer X Spicy Dan",
+      "booking_start_date": "2026-07-17 07:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-24",
+      "start_time": "07:00",
+      "available_spot_count": 11,
+      "capacity": 11
+    },
+    {
+      "studio": "Tunnel",
+      "name": "Reformer X Spicy Dan",
+      "booking_start_date": "2026-07-17 08:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-24",
+      "start_time": "08:00",
+      "available_spot_count": 11,
+      "capacity": 11
+    },
+    {
+      "studio": "Tunnel",
+      "name": "Heated Mat X Spicy Dan",
+      "booking_start_date": "2026-07-17 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-24",
+      "start_time": "09:00",
       "available_spot_count": 11,
       "capacity": 11
     },
@@ -370,7 +410,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-12",
       "start_time": "19:00",
-      "available_spot_count": 64,
+      "available_spot_count": 63,
       "capacity": 70
     },
     {
@@ -516,6 +556,16 @@
     {
       "studio": "Turf",
       "name": "meta + Mat Werk 45 *Happy Hour \ud83d\udc1c*",
+      "booking_start_date": "2026-06-25 16:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-07-02",
+      "start_time": "16:00",
+      "available_spot_count": 27,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "meta + Mat Werk 45 *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-07-02 16:00",
       "location": "KITS - Vancouver",
       "start_date": "2026-07-09",
@@ -532,6 +582,16 @@
       "start_time": "18:00",
       "available_spot_count": 40,
       "capacity": 40
+    },
+    {
+      "studio": "Turf",
+      "name": "meta + Mat Werk",
+      "booking_start_date": "2026-07-06 07:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-07-13",
+      "start_time": "07:00",
+      "available_spot_count": 32,
+      "capacity": 32
     },
     {
       "studio": "Turf",
@@ -560,7 +620,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-06-30",
       "start_time": "18:40",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 50
     },
     {
@@ -650,7 +710,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-03",
       "start_time": "09:45",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 37
     },
     {
@@ -700,7 +760,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-04",
       "start_time": "08:20",
-      "available_spot_count": 22,
+      "available_spot_count": 23,
       "capacity": 48
     },
     {
@@ -730,7 +790,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-05",
       "start_time": "11:50",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 48
     },
     {
@@ -750,7 +810,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-06",
       "start_time": "18:40",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -780,7 +840,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-07",
       "start_time": "12:30",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -820,7 +880,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-08",
       "start_time": "17:30",
-      "available_spot_count": 48,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
