@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T18:21:10.510460-07:00",
+  "last_updated": "2026-06-29T18:36:46.660614-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -310,7 +310,7 @@
       "location": "4th Ave",
       "start_date": "2026-07-03",
       "start_time": "12:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 15
     },
     {
