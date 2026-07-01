@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T08:28:31.081006-07:00",
+  "last_updated": "2026-07-01T10:31:52.535868-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -20,6 +20,16 @@
       "start_time": "16:30",
       "available_spot_count": 23,
       "capacity": 23
+    },
+    {
+      "studio": "Ritual",
+      "name": "Sound Journey (Community Class)",
+      "booking_start_date": "2026-06-28 18:00",
+      "location": "West End",
+      "start_date": "2026-07-12",
+      "start_time": "18:00",
+      "available_spot_count": 21,
+      "capacity": 21
     }
   ],
   "sponsored": [
@@ -130,7 +140,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-01",
       "start_time": "13:30",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 20
     },
     {
@@ -170,7 +180,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-08",
       "start_time": "10:20",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 20
     },
     {
@@ -180,7 +190,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-08",
       "start_time": "12:00",
-      "available_spot_count": 40,
+      "available_spot_count": 37,
       "capacity": 45
     },
     {
@@ -190,7 +200,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-08",
       "start_time": "12:15",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 20
     },
     {
@@ -570,7 +580,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-02",
       "start_time": "16:00",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 32
     },
     {
@@ -625,22 +635,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: CANADIAN BOYS: JUSTIN BIEBER x SHAWN MENDES",
-      "booking_start_date": "2026-06-23 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-07-01",
-      "start_time": "09:30",
-      "available_spot_count": 1,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: ALEXANDRIA\u2019S ANTHEMS V2",
       "booking_start_date": "2026-06-23 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-07-01",
       "start_time": "10:40",
-      "available_spot_count": 9,
+      "available_spot_count": 5,
       "capacity": 50
     },
     {
@@ -680,7 +680,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-02",
       "start_time": "12:30",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 37
     },
     {
@@ -700,7 +700,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-02",
       "start_time": "18:40",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 50
     },
     {
@@ -830,7 +830,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-07",
       "start_time": "12:30",
-      "available_spot_count": 49,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -840,7 +840,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-07",
       "start_time": "12:30",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
@@ -860,7 +860,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-08",
       "start_time": "06:00",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -980,7 +980,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-11",
       "start_time": "10:40",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
