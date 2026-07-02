@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T10:19:02.660295-07:00",
+  "last_updated": "2026-07-02T12:02:01.690063-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -10,66 +10,6 @@
       "start_time": "17:45",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer Fullbody",
-      "booking_start_date": "2026-07-01 15:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-07-08",
-      "start_time": "15:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer Fullbody",
-      "booking_start_date": "2026-07-08 15:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-07-15",
-      "start_time": "15:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer Fullbody",
-      "booking_start_date": "2026-07-15 15:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-07-22",
-      "start_time": "15:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer Fullbody",
-      "booking_start_date": "2026-07-22 15:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-07-29",
-      "start_time": "15:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer Fullbody",
-      "booking_start_date": "2026-07-29 15:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-08-05",
-      "start_time": "15:15",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Lagree Pulse",
-      "name": "Megaformer Fullbody",
-      "booking_start_date": "2026-08-05 15:15",
-      "location": "Vancouver Downtown",
-      "start_date": "2026-08-12",
-      "start_time": "15:15",
-      "available_spot_count": 10,
-      "capacity": 10
     },
     {
       "studio": "Ritual",
@@ -240,7 +180,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-08",
       "start_time": "10:20",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -415,16 +355,6 @@
     },
     {
       "studio": "The Third",
-      "name": "The Third Creator Class x Gummy Gainz",
-      "booking_start_date": "2026-06-19 14:00",
-      "location": "4th Ave",
-      "start_date": "2026-07-03",
-      "start_time": "14:00",
-      "available_spot_count": 0,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
       "name": "The Third x Gummy Gainz",
       "booking_start_date": "2026-06-19 15:30",
       "location": "4th Ave",
@@ -450,7 +380,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-03",
       "start_time": "08:30",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 12
     },
     {
@@ -470,7 +400,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-02",
       "start_time": "19:45",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 38
     },
     {
@@ -480,7 +410,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-06",
       "start_time": "11:45",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 38
     },
     {
@@ -670,7 +600,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-02",
       "start_time": "16:00",
-      "available_spot_count": 26,
+      "available_spot_count": 24,
       "capacity": 32
     },
     {
@@ -712,16 +642,6 @@
       "start_time": "06:00",
       "available_spot_count": 32,
       "capacity": 32
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: R\u00dcF\u00dcS DU SOL x ODESZA",
-      "booking_start_date": "2026-06-24 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-07-02",
-      "start_time": "09:45",
-      "available_spot_count": 27,
-      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -770,7 +690,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-03",
       "start_time": "09:45",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 37
     },
     {
@@ -780,7 +700,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-03",
       "start_time": "12:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 50
     },
     {
@@ -850,7 +770,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-05",
       "start_time": "11:50",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 48
     },
     {
@@ -930,7 +850,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-08",
       "start_time": "12:30",
-      "available_spot_count": 45,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
@@ -940,7 +860,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-08",
       "start_time": "17:30",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
@@ -1030,7 +950,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-10",
       "start_time": "18:40",
-      "available_spot_count": 46,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
