@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T08:40:10.035138-07:00",
+  "last_updated": "2026-07-03T11:57:29.953860-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -36,6 +36,26 @@
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
+      "booking_start_date": "2026-06-09 11:15",
+      "location": "Yaletown",
+      "start_date": "2026-07-09",
+      "start_time": "11:15",
+      "available_spot_count": 11,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer Arms + Ass x House Music Fridays",
+      "booking_start_date": "2026-07-03 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-07-10",
+      "start_time": "17:15",
+      "available_spot_count": 13,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
       "booking_start_date": "2026-06-15 13:30",
       "location": "Kitsilano",
       "start_date": "2026-07-15",
@@ -49,6 +69,26 @@
       "booking_start_date": "2026-07-10 00:00",
       "location": "Yaletown",
       "start_date": "2026-07-17",
+      "start_time": "17:15",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
+      "booking_start_date": "2026-06-22 20:15",
+      "location": "Main St",
+      "start_date": "2026-07-22",
+      "start_time": "20:15",
+      "available_spot_count": 9,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer Arms + Ass x House Music Fridays",
+      "booking_start_date": "2026-07-17 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-07-24",
       "start_time": "17:15",
       "available_spot_count": 20,
       "capacity": 20
@@ -76,6 +116,16 @@
     {
       "studio": "Lagree West",
       "name": "Megaformer Arms + Ass X House Music Fridays",
+      "booking_start_date": "2026-07-31 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-08-07",
+      "start_time": "17:15",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer Arms + Ass X House Music Fridays",
       "booking_start_date": "2026-08-07 00:00",
       "location": "Yaletown",
       "start_date": "2026-08-14",
@@ -90,7 +140,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-04",
       "start_time": "11:25",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -120,7 +170,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-07",
       "start_time": "20:00",
-      "available_spot_count": 31,
+      "available_spot_count": 32,
       "capacity": 45
     },
     {
@@ -130,7 +180,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-08",
       "start_time": "10:00",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 45
     },
     {
@@ -160,7 +210,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-08",
       "start_time": "12:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 20
     },
     {
@@ -202,16 +252,6 @@
       "start_time": "17:45",
       "available_spot_count": 45,
       "capacity": 45
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Club Lagree x Fvded In The Park x Sahajan",
-      "booking_start_date": "2026-06-26 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-03",
-      "start_time": "09:00",
-      "available_spot_count": 5,
-      "capacity": 12
     },
     {
       "studio": "Evolution",
@@ -310,7 +350,7 @@
       "location": "4th Ave",
       "start_date": "2026-07-03",
       "start_time": "12:00",
-      "available_spot_count": 3,
+      "available_spot_count": 0,
       "capacity": 15
     },
     {
@@ -320,7 +360,7 @@
       "location": "4th Ave",
       "start_date": "2026-07-03",
       "start_time": "15:30",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 15
     },
     {
@@ -335,22 +375,12 @@
     },
     {
       "studio": "Lagree X",
-      "name": "Britney vs Justin \ud83c\udfb5\ud83d\udd25",
-      "booking_start_date": "2026-06-26 08:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-03",
-      "start_time": "08:30",
-      "available_spot_count": 0,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
       "name": "Beyonc\u00e9 & Jay-Z \ud83d\udc51\ud83d\udc1d x \ud83d\udc8e",
       "booking_start_date": "2026-07-03 08:30",
       "location": "Vancouver",
       "start_date": "2026-07-10",
       "start_time": "08:30",
-      "available_spot_count": 11,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -490,7 +520,7 @@
       "location": "West End",
       "start_date": "2026-07-19",
       "start_time": "14:00",
-      "available_spot_count": 23,
+      "available_spot_count": 20,
       "capacity": 25
     },
     {
@@ -585,22 +615,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: JOHN SUMMIT x AVICII x THE WEEKND",
-      "booking_start_date": "2026-06-25 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-07-03",
-      "start_time": "09:45",
-      "available_spot_count": 21,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: THROWBACKS! 2000-2005",
       "booking_start_date": "2026-06-25 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-07-03",
       "start_time": "12:30",
-      "available_spot_count": 13,
+      "available_spot_count": 7,
       "capacity": 50
     },
     {
@@ -610,7 +630,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-03",
       "start_time": "12:30",
-      "available_spot_count": 23,
+      "available_spot_count": 21,
       "capacity": 48
     },
     {
@@ -620,7 +640,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-03",
       "start_time": "17:30",
-      "available_spot_count": 23,
+      "available_spot_count": 18,
       "capacity": 37
     },
     {
@@ -630,7 +650,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-03",
       "start_time": "18:40",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 48
     },
     {
@@ -640,7 +660,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-04",
       "start_time": "08:20",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 48
     },
     {
@@ -650,7 +670,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-04",
       "start_time": "10:40",
-      "available_spot_count": 21,
+      "available_spot_count": 22,
       "capacity": 37
     },
     {
@@ -660,7 +680,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-05",
       "start_time": "08:20",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
@@ -680,7 +700,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-06",
       "start_time": "17:30",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 37
     },
     {
@@ -710,7 +730,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-07",
       "start_time": "12:30",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
@@ -732,6 +752,336 @@
       "start_time": "18:40",
       "available_spot_count": 41,
       "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: DIVAS x DJs",
+      "booking_start_date": "2026-06-30 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-08",
+      "start_time": "06:00",
+      "available_spot_count": 35,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ZARA LARSSON x TATE MCRAE",
+      "booking_start_date": "2026-06-30 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-08",
+      "start_time": "12:30",
+      "available_spot_count": 42,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: EXCISION X SUBTRONICS X ZEDD",
+      "booking_start_date": "2026-06-30 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-08",
+      "start_time": "17:30",
+      "available_spot_count": 36,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BEYONC\u00c9 X 50 CENT X AKON",
+      "booking_start_date": "2026-06-30 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-08",
+      "start_time": "18:40",
+      "available_spot_count": 38,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BRITNEY SPEARS x DUA LIPA",
+      "booking_start_date": "2026-07-01 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-07-09",
+      "start_time": "07:15",
+      "available_spot_count": 34,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: THROWBACKS: 2010-2015 - VOL 2",
+      "booking_start_date": "2026-07-01 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-07-09",
+      "start_time": "12:30",
+      "available_spot_count": 34,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: LANE 8 x KASKADE",
+      "booking_start_date": "2026-07-01 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-09",
+      "start_time": "12:30",
+      "available_spot_count": 44,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: 50 CENT x DRAKE",
+      "booking_start_date": "2026-07-02 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-07-10",
+      "start_time": "07:15",
+      "available_spot_count": 33,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BAD BUNNY X DRAKE X LIZZO",
+      "booking_start_date": "2026-07-02 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-07-10",
+      "start_time": "09:45",
+      "available_spot_count": 36,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: POP X HIP HOP REMIXED",
+      "booking_start_date": "2026-07-02 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-10",
+      "start_time": "09:45",
+      "available_spot_count": 43,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ARIANA: HITS - ARI & FRIENDS",
+      "booking_start_date": "2026-07-02 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-10",
+      "start_time": "12:30",
+      "available_spot_count": 32,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ARIANA: REMIXES - VOL. 1",
+      "booking_start_date": "2026-07-02 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-10",
+      "start_time": "18:40",
+      "available_spot_count": 19,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: THROWBACKS! 2005-2010",
+      "booking_start_date": "2026-07-03 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-11",
+      "start_time": "10:40",
+      "available_spot_count": 47,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: TAYLOR SWIFT REMIXES X ORIGINALS",
+      "booking_start_date": "2026-07-04 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-12",
+      "start_time": "08:20",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: LADY GAGA | MAYHEM X ARTPOP",
+      "booking_start_date": "2026-07-04 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-12",
+      "start_time": "10:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: LADY GAGA | MAYHEM x ARTPOP",
+      "booking_start_date": "2026-07-04 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-12",
+      "start_time": "13:00",
+      "available_spot_count": 47,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: TAYLOR SWIFT x ARIANA GRANDE",
+      "booking_start_date": "2026-07-05 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-07-13",
+      "start_time": "16:20",
+      "available_spot_count": 36,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: EMMIT FENN x BEN B\u00d6HMER x ELDERBROOK Vol 2",
+      "booking_start_date": "2026-07-05 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-13",
+      "start_time": "17:30",
+      "available_spot_count": 44,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: R\u00dcF\u00dcS DU SOL x JOHN SUMMIT",
+      "booking_start_date": "2026-07-06 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-07-14",
+      "start_time": "07:15",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: RIHANNA x ARIANA",
+      "booking_start_date": "2026-07-06 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-14",
+      "start_time": "09:45",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BRITNEY x CHRISTINA",
+      "booking_start_date": "2026-07-06 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-07-14",
+      "start_time": "12:30",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: KAYTRANADA x HONEY DIJON",
+      "booking_start_date": "2026-07-06 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-14",
+      "start_time": "16:20",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: EMMIT FENN x BEN B\u00d6HMER x ELDERBROOK Vol 2",
+      "booking_start_date": "2026-07-06 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-14",
+      "start_time": "17:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: HARRY STYLES X ONE DIRECTION",
+      "booking_start_date": "2026-07-06 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-14",
+      "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BILLIE X CHARLI X GAGA",
+      "booking_start_date": "2026-07-07 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-15",
+      "start_time": "06:00",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: GLOW RIDE: ZHU x FRED AGAIN..",
+      "booking_start_date": "2026-07-07 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-15",
+      "start_time": "18:40",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: THROWBACKS x EDM",
+      "booking_start_date": "2026-07-08 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-07-16",
+      "start_time": "09:45",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ARIANA: DEEP TRACKS + LIVE SONGS",
+      "booking_start_date": "2026-07-08 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-07-16",
+      "start_time": "12:30",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: R\u00dcF\u00dcS DU SOL x JOHN SUMMIT",
+      "booking_start_date": "2026-07-08 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-16",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: JUSTIN BIEBER x JOHN SUMMIT",
+      "booking_start_date": "2026-07-08 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-16",
+      "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "ARIANA: DEEP TRACKS + LIVE SONGS",
+      "booking_start_date": "2026-07-09 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-17",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BRITNEY X CHRISTINA",
+      "booking_start_date": "2026-07-09 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-17",
+      "start_time": "16:20",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ARIANA: REMIXES - VOL 2",
+      "booking_start_date": "2026-07-09 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-17",
+      "start_time": "18:40",
+      "available_spot_count": 48,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
