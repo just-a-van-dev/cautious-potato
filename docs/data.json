@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T15:42:03.085578-07:00",
+  "last_updated": "2026-07-03T16:42:24.999933-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -170,7 +170,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-07",
       "start_time": "20:00",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 45
     },
     {
@@ -221,6 +221,16 @@
       "start_date": "2026-07-09",
       "start_time": "13:30",
       "available_spot_count": 18,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "Teacher Development | The Reformer $25",
+      "booking_start_date": "2026-07-02 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-07-09",
+      "start_time": "14:30",
+      "available_spot_count": 20,
       "capacity": 20
     },
     {
@@ -346,21 +356,11 @@
     {
       "studio": "The Third",
       "name": "The Third x Gummy Gainz",
-      "booking_start_date": "2026-06-19 15:30",
-      "location": "4th Ave",
-      "start_date": "2026-07-03",
-      "start_time": "15:30",
-      "available_spot_count": 9,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
-      "name": "The Third x Gummy Gainz",
       "booking_start_date": "2026-06-19 16:30",
       "location": "4th Ave",
       "start_date": "2026-07-03",
       "start_time": "16:30",
-      "available_spot_count": 11,
+      "available_spot_count": 8,
       "capacity": 15
     },
     {
@@ -570,7 +570,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-09",
       "start_time": "16:00",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 32
     },
     {
@@ -700,7 +700,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-07",
       "start_time": "12:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
@@ -730,7 +730,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-08",
       "start_time": "06:00",
-      "available_spot_count": 35,
+      "available_spot_count": 36,
       "capacity": 48
     },
     {
@@ -820,7 +820,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-10",
       "start_time": "09:45",
-      "available_spot_count": 42,
+      "available_spot_count": 39,
       "capacity": 48
     },
     {
@@ -830,7 +830,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-10",
       "start_time": "12:30",
-      "available_spot_count": 28,
+      "available_spot_count": 25,
       "capacity": 50
     },
     {
