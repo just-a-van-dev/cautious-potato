@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T13:21:35.359169-07:00",
+  "last_updated": "2026-07-03T14:43:14.495372-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -620,7 +620,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-03",
       "start_time": "18:40",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 48
     },
     {
@@ -670,7 +670,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-06",
       "start_time": "17:30",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 37
     },
     {
@@ -720,7 +720,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-07",
       "start_time": "18:40",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
@@ -760,7 +760,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-08",
       "start_time": "18:40",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
@@ -800,7 +800,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-10",
       "start_time": "07:15",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 37
     },
     {
@@ -830,7 +830,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-10",
       "start_time": "12:30",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -840,7 +840,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-10",
       "start_time": "18:40",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 48
     },
     {
@@ -850,7 +850,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-11",
       "start_time": "10:40",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
