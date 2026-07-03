@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T11:57:29.953860-07:00",
+  "last_updated": "2026-07-03T13:21:35.359169-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -180,7 +180,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-08",
       "start_time": "10:00",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 45
     },
     {
@@ -346,21 +346,11 @@
     {
       "studio": "The Third",
       "name": "The Third x Gummy Gainz",
-      "booking_start_date": "2026-06-19 12:00",
-      "location": "4th Ave",
-      "start_date": "2026-07-03",
-      "start_time": "12:00",
-      "available_spot_count": 0,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
-      "name": "The Third x Gummy Gainz",
       "booking_start_date": "2026-06-19 15:30",
       "location": "4th Ave",
       "start_date": "2026-07-03",
       "start_time": "15:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 15
     },
     {
@@ -380,7 +370,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-10",
       "start_time": "08:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -500,7 +490,7 @@
       "location": "West End",
       "start_date": "2026-07-06",
       "start_time": "19:30",
-      "available_spot_count": 18,
+      "available_spot_count": 15,
       "capacity": 23
     },
     {
@@ -520,7 +510,7 @@
       "location": "West End",
       "start_date": "2026-07-19",
       "start_time": "14:00",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 25
     },
     {
@@ -615,32 +605,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: THROWBACKS! 2000-2005",
-      "booking_start_date": "2026-06-25 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-07-03",
-      "start_time": "12:30",
-      "available_spot_count": 7,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: YACHT ROCK x EDM",
-      "booking_start_date": "2026-06-25 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-07-03",
-      "start_time": "12:30",
-      "available_spot_count": 21,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: LIL WAYNE x DRAKE",
       "booking_start_date": "2026-06-25 12:00",
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-03",
       "start_time": "17:30",
-      "available_spot_count": 18,
+      "available_spot_count": 16,
       "capacity": 37
     },
     {
@@ -690,7 +660,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-05",
       "start_time": "11:50",
-      "available_spot_count": 21,
+      "available_spot_count": 19,
       "capacity": 48
     },
     {
@@ -700,7 +670,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-06",
       "start_time": "17:30",
-      "available_spot_count": 18,
+      "available_spot_count": 19,
       "capacity": 37
     },
     {
@@ -730,7 +700,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-07",
       "start_time": "12:30",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -780,7 +750,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-08",
       "start_time": "17:30",
-      "available_spot_count": 36,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -790,7 +760,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-08",
       "start_time": "18:40",
-      "available_spot_count": 38,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
@@ -850,7 +820,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-10",
       "start_time": "09:45",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 48
     },
     {
@@ -860,7 +830,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-10",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 50
     },
     {
@@ -870,7 +840,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-10",
       "start_time": "18:40",
-      "available_spot_count": 19,
+      "available_spot_count": 15,
       "capacity": 48
     },
     {
@@ -880,7 +850,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-11",
       "start_time": "10:40",
-      "available_spot_count": 47,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
