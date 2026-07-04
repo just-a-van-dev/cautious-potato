@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T03:35:30.731489-07:00",
+  "last_updated": "2026-07-04T04:54:59.481586-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -28,7 +28,7 @@
       "location": "West End",
       "start_date": "2026-07-12",
       "start_time": "18:00",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 21
     }
   ],
@@ -630,7 +630,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-05",
       "start_time": "11:50",
-      "available_spot_count": 20,
+      "available_spot_count": 21,
       "capacity": 48
     },
     {
