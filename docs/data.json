@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T12:49:53.740212-07:00",
+  "last_updated": "2026-07-04T14:12:21.662433-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -190,7 +190,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-08",
       "start_time": "12:00",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 45
     },
     {
@@ -260,7 +260,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-06",
       "start_time": "05:45",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -410,7 +410,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-10",
       "start_time": "05:45",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -500,7 +500,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-10",
       "start_time": "11:45",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -510,7 +510,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-10",
       "start_time": "12:45",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -530,7 +530,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-10",
       "start_time": "17:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -540,7 +540,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-10",
       "start_time": "17:30",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -590,7 +590,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-12",
       "start_time": "09:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -630,7 +630,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-12",
       "start_time": "11:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -660,7 +660,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-15",
       "start_time": "05:45",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -700,7 +700,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-15",
       "start_time": "10:45",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -970,7 +970,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-12",
       "start_time": "19:00",
-      "available_spot_count": 53,
+      "available_spot_count": 52,
       "capacity": 70
     },
     {
@@ -1035,6 +1035,16 @@
     },
     {
       "studio": "Turf",
+      "name": "Strengthen 45 mins *Co-teach*",
+      "booking_start_date": "2026-07-03 17:15",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-07-10",
+      "start_time": "17:15",
+      "available_spot_count": 21,
+      "capacity": 22
+    },
+    {
+      "studio": "Turf",
       "name": "meta + Mat Werk",
       "booking_start_date": "2026-07-06 07:00",
       "location": "KITS - Vancouver",
@@ -1080,7 +1090,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-05",
       "start_time": "11:50",
-      "available_spot_count": 22,
+      "available_spot_count": 24,
       "capacity": 48
     },
     {
@@ -1090,7 +1100,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-06",
       "start_time": "17:30",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 37
     },
     {
@@ -1260,7 +1270,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-10",
       "start_time": "18:40",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 48
     },
     {
@@ -1270,7 +1280,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-11",
       "start_time": "10:40",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 50
     },
     {
@@ -1290,7 +1300,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-12",
       "start_time": "10:40",
-      "available_spot_count": 47,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
