@@ -109,6 +109,7 @@ FILTER_OUT = {
         "yoga | restorative + breath (warm)",
         "yoga | yin + aromatherapy (warm)",
         "yoga | yin + breath (warm)",
+        "yoga | yin + live sound journey ",
 
     ],
     "zenden": [
@@ -134,5 +135,6 @@ FILTER_OUT = {
         "vinyasa flow + sound bath | hot",
         "yin + sound bath",
         "yin + sound bath | warm",
+        "yin + ancient sound bath | warm ",
     ],
 }
