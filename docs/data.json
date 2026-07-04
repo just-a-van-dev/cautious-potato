@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T16:42:24.999933-07:00",
+  "last_updated": "2026-07-03T18:15:52.215445-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -50,7 +50,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-10",
       "start_time": "17:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -180,7 +180,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-08",
       "start_time": "10:00",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 45
     },
     {
@@ -210,7 +210,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-08",
       "start_time": "12:15",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -262,16 +262,6 @@
       "start_time": "17:45",
       "available_spot_count": 45,
       "capacity": 45
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - Back to Y2K",
-      "booking_start_date": "2026-06-26 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-03",
-      "start_time": "18:30",
-      "available_spot_count": 7,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
@@ -354,16 +344,6 @@
       "capacity": 11
     },
     {
-      "studio": "The Third",
-      "name": "The Third x Gummy Gainz",
-      "booking_start_date": "2026-06-19 16:30",
-      "location": "4th Ave",
-      "start_date": "2026-07-03",
-      "start_time": "16:30",
-      "available_spot_count": 8,
-      "capacity": 15
-    },
-    {
       "studio": "Lagree X",
       "name": "Beyonc\u00e9 & Jay-Z \ud83d\udc51\ud83d\udc1d x \ud83d\udc8e",
       "booking_start_date": "2026-07-03 08:30",
@@ -410,7 +390,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-12",
       "start_time": "19:00",
-      "available_spot_count": 55,
+      "available_spot_count": 54,
       "capacity": 70
     },
     {
@@ -564,13 +544,23 @@
       "capacity": 23
     },
     {
+      "studio": "Ritual",
+      "name": "Yoga | Yin + Live Sound Journey",
+      "booking_start_date": "2026-05-19 19:30",
+      "location": "West End",
+      "start_date": "2026-08-17",
+      "start_time": "19:30",
+      "available_spot_count": 23,
+      "capacity": 23
+    },
+    {
       "studio": "Turf",
       "name": "meta + Mat Werk 45 *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-07-02 16:00",
       "location": "KITS - Vancouver",
       "start_date": "2026-07-09",
       "start_time": "16:00",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 32
     },
     {
@@ -605,32 +595,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: LIL WAYNE x DRAKE",
-      "booking_start_date": "2026-06-25 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-07-03",
-      "start_time": "17:30",
-      "available_spot_count": 15,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: THROWBACKS! 2000-2005",
-      "booking_start_date": "2026-06-25 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-07-03",
-      "start_time": "18:40",
-      "available_spot_count": 1,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: SUMMER RAVE CAVE FT. K-POP",
       "booking_start_date": "2026-06-26 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-04",
       "start_time": "08:20",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 48
     },
     {
@@ -660,7 +630,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-05",
       "start_time": "11:50",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 48
     },
     {
@@ -760,7 +730,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-08",
       "start_time": "18:40",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -840,7 +810,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-10",
       "start_time": "18:40",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 48
     },
     {
@@ -850,7 +820,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-11",
       "start_time": "10:40",
-      "available_spot_count": 38,
+      "available_spot_count": 30,
       "capacity": 50
     },
     {
