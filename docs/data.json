@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T09:38:04.356084-07:00",
+  "last_updated": "2026-07-04T10:40:10.763487-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -18,7 +18,7 @@
       "location": "West End",
       "start_date": "2026-07-09",
       "start_time": "16:30",
-      "available_spot_count": 23,
+      "available_spot_count": 21,
       "capacity": 23
     },
     {
@@ -40,7 +40,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-09",
       "start_time": "11:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 20
     },
     {
@@ -526,16 +526,6 @@
     {
       "studio": "Ritual",
       "name": "Yoga | Yin + Live Sound Journey",
-      "booking_start_date": "2026-05-05 19:30",
-      "location": "West End",
-      "start_date": "2026-08-03",
-      "start_time": "19:30",
-      "available_spot_count": 23,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
-      "name": "Yoga | Yin + Live Sound Journey",
       "booking_start_date": "2026-05-12 19:30",
       "location": "West End",
       "start_date": "2026-08-10",
@@ -560,7 +550,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-09",
       "start_time": "16:00",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 32
     },
     {
@@ -620,7 +610,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-05",
       "start_time": "11:50",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 48
     },
     {
@@ -810,7 +800,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-11",
       "start_time": "10:40",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 50
     },
     {
