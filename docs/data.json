@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T15:10:16.813296-07:00",
+  "last_updated": "2026-07-04T16:11:24.999225-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -1026,6 +1026,26 @@
     {
       "studio": "Turf",
       "name": "meta + Mat Werk 45 *Happy Hour \ud83d\udc1c*",
+      "booking_start_date": "2026-06-29 08:15",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-07-06",
+      "start_time": "08:15",
+      "available_spot_count": 16,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "meta + Mat Werk 45 *Happy Hour \ud83d\udc1c*",
+      "booking_start_date": "2026-06-29 16:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-07-06",
+      "start_time": "16:00",
+      "available_spot_count": 28,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "meta + Mat Werk 45 *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-07-02 16:00",
       "location": "KITS - Vancouver",
       "start_date": "2026-07-09",
@@ -1270,7 +1290,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-10",
       "start_time": "18:40",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 48
     },
     {
@@ -1300,7 +1320,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-12",
       "start_time": "10:40",
-      "available_spot_count": 45,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
