@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T07:35:00.037417-07:00",
+  "last_updated": "2026-07-06T10:23:41.367041-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -28,7 +28,7 @@
       "location": "West End",
       "start_date": "2026-07-12",
       "start_time": "18:00",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 21
     }
   ],
@@ -50,7 +50,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-10",
       "start_time": "17:15",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 20
     },
     {
@@ -135,22 +135,12 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn + ALO",
-      "booking_start_date": "2026-06-29 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-07-06",
-      "start_time": "07:15",
-      "available_spot_count": 0,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn Reformer - Teacher Development ($25)",
       "booking_start_date": "2026-06-30 00:00",
       "location": "Kingsway",
       "start_date": "2026-07-07",
       "start_time": "13:15",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -160,7 +150,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-07",
       "start_time": "20:00",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 45
     },
     {
@@ -170,7 +160,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-08",
       "start_time": "10:00",
-      "available_spot_count": 22,
+      "available_spot_count": 23,
       "capacity": 45
     },
     {
@@ -190,7 +180,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-08",
       "start_time": "12:00",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 45
     },
     {
@@ -260,7 +250,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-06",
       "start_time": "11:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -270,7 +260,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-06",
       "start_time": "12:00",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -280,7 +270,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-06",
       "start_time": "13:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -475,32 +465,12 @@
     },
     {
       "studio": "Evolution",
-      "name": "EVO X ORGANIKA (Sculpt X - Lower Body+Core)",
-      "booking_start_date": "2026-06-22 07:15",
-      "location": "Vancouver",
-      "start_date": "2026-07-06",
-      "start_time": "07:15",
-      "available_spot_count": 0,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVOLUTION X ORGANIKA (Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-06-29 07:45",
-      "location": "Vancouver",
-      "start_date": "2026-07-06",
-      "start_time": "07:45",
-      "available_spot_count": 5,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
       "name": "EVOLUTION X ORGANIKA (Infrared Lagree-Full Body)",
       "booking_start_date": "2026-06-29 09:45",
       "location": "Vancouver",
       "start_date": "2026-07-06",
       "start_time": "09:45",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 10
     },
     {
@@ -530,7 +500,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-06",
       "start_time": "12:45",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 10
     },
     {
@@ -610,7 +580,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-10",
       "start_time": "06:45",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
@@ -720,7 +690,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-10",
       "start_time": "17:00",
-      "available_spot_count": 7,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
@@ -730,7 +700,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-10",
       "start_time": "17:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -760,7 +730,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-12",
       "start_time": "08:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
@@ -1080,7 +1050,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-13",
       "start_time": "06:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 11
     },
     {
@@ -1140,7 +1110,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-12",
       "start_time": "11:00",
-      "available_spot_count": 115,
+      "available_spot_count": 114,
       "capacity": 120
     },
     {
@@ -1180,7 +1150,7 @@
       "location": "Railway",
       "start_date": "2026-07-08",
       "start_time": "16:15",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 9
     },
     {
@@ -1266,21 +1236,11 @@
     {
       "studio": "Turf",
       "name": "meta + Mat Werk 45 *Happy Hour \ud83d\udc1c*",
-      "booking_start_date": "2026-06-29 08:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-07-06",
-      "start_time": "08:15",
-      "available_spot_count": 17,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-06-29 16:00",
       "location": "KITS - Vancouver",
       "start_date": "2026-07-06",
       "start_time": "16:00",
-      "available_spot_count": 27,
+      "available_spot_count": 24,
       "capacity": 32
     },
     {
@@ -1310,7 +1270,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-13",
       "start_time": "07:00",
-      "available_spot_count": 26,
+      "available_spot_count": 23,
       "capacity": 32
     },
     {
@@ -1320,7 +1280,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-13",
       "start_time": "16:00",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 32
     },
     {
@@ -1360,7 +1320,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-06",
       "start_time": "18:40",
-      "available_spot_count": 5,
+      "available_spot_count": 7,
       "capacity": 50
     },
     {
@@ -1390,7 +1350,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-07",
       "start_time": "12:30",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 49
     },
     {
@@ -1400,7 +1360,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-07",
       "start_time": "18:40",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -1410,7 +1370,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-08",
       "start_time": "06:00",
-      "available_spot_count": 32,
+      "available_spot_count": 33,
       "capacity": 48
     },
     {
@@ -1430,7 +1390,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-08",
       "start_time": "17:30",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -1440,7 +1400,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-08",
       "start_time": "18:40",
-      "available_spot_count": 30,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -1500,7 +1460,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-10",
       "start_time": "09:45",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 48
     },
     {
@@ -1520,7 +1480,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-10",
       "start_time": "18:40",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 48
     },
     {
@@ -1530,7 +1490,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-11",
       "start_time": "10:40",
-      "available_spot_count": 11,
+      "available_spot_count": 9,
       "capacity": 50
     },
     {
@@ -1560,7 +1520,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-12",
       "start_time": "13:00",
-      "available_spot_count": 37,
+      "available_spot_count": 34,
       "capacity": 48
     },
     {
@@ -1570,7 +1530,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-13",
       "start_time": "16:20",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 37
     },
     {
@@ -1580,8 +1540,18 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-13",
       "start_time": "17:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: USHER x PITBULL x FLO RIDA",
+      "booking_start_date": "2026-07-05 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-13",
+      "start_time": "17:30",
+      "available_spot_count": 49,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -1660,6 +1630,26 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-15",
       "start_time": "18:40",
+      "available_spot_count": 47,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: LANE 8 x SOLOMUN",
+      "booking_start_date": "2026-07-08 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-07-16",
+      "start_time": "06:00",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: RIHANNA x A$AP ROCKY",
+      "booking_start_date": "2026-07-08 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-16",
+      "start_time": "07:15",
       "available_spot_count": 48,
       "capacity": 48
     },
@@ -1705,6 +1695,36 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: BACKSTREET X NSYNC",
+      "booking_start_date": "2026-07-09 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-17",
+      "start_time": "06:00",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME:RUFUS DU SOL X VINTAGE CULTURE",
+      "booking_start_date": "2026-07-09 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-07-17",
+      "start_time": "07:15",
+      "available_spot_count": 37,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: 50 CENT x DRAKE",
+      "booking_start_date": "2026-07-09 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-17",
+      "start_time": "12:30",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
       "name": "ARIANA: DEEP TRACKS + LIVE SONGS",
       "booking_start_date": "2026-07-09 12:00",
       "location": "BRENTWOOD",
@@ -1725,6 +1745,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: PITBULL x USHER x JLO",
+      "booking_start_date": "2026-07-09 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-07-17",
+      "start_time": "17:30",
+      "available_spot_count": 37,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: ARIANA: REMIXES - VOL 2",
       "booking_start_date": "2026-07-09 12:00",
       "location": "MOUNT PLEASANT",
@@ -1732,6 +1762,16 @@
       "start_time": "18:40",
       "available_spot_count": 48,
       "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ARIANA: REMIXES - VOL 1",
+      "booking_start_date": "2026-07-10 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-18",
+      "start_time": "10:40",
+      "available_spot_count": 50,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -1745,6 +1785,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: DABIN x K-POP",
+      "booking_start_date": "2026-07-11 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-19",
+      "start_time": "10:40",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: TAYLOR SWIFT X OLIVIA RODRIGO",
       "booking_start_date": "2026-07-11 12:00",
       "location": "MOUNT PLEASANT",
@@ -1752,6 +1802,46 @@
       "start_time": "11:50",
       "available_spot_count": 48,
       "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME:RUFUS DU SOL X VINTAGE CULTURE",
+      "booking_start_date": "2026-07-12 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-20",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: CHRIS STAPLETON PRE-PARTY",
+      "booking_start_date": "2026-07-12 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-20",
+      "start_time": "16:20",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: CHRIS STAPLETON PRE-PARTY",
+      "booking_start_date": "2026-07-12 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-07-20",
+      "start_time": "18:40",
+      "available_spot_count": 37,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: KASKADE X DEADMAU5 AP",
+      "booking_start_date": "2026-07-12 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-20",
+      "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
