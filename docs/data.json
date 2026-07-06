@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T03:59:24.826879-07:00",
+  "last_updated": "2026-07-06T07:35:00.037417-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -170,7 +170,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-08",
       "start_time": "10:00",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 45
     },
     {
@@ -475,42 +475,12 @@
     },
     {
       "studio": "Evolution",
-      "name": "EVOLUTION X ORGANIKA (Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-06-29 05:45",
-      "location": "Vancouver",
-      "start_date": "2026-07-06",
-      "start_time": "05:45",
-      "available_spot_count": 8,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVO X ORGANIKA (Define X - Full Body)",
-      "booking_start_date": "2026-06-22 06:15",
-      "location": "Vancouver",
-      "start_date": "2026-07-06",
-      "start_time": "06:15",
-      "available_spot_count": 5,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVOLUTION X ORGANIKA (Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-06-29 06:45",
-      "location": "Vancouver",
-      "start_date": "2026-07-06",
-      "start_time": "06:45",
-      "available_spot_count": 2,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
       "name": "EVO X ORGANIKA (Sculpt X - Lower Body+Core)",
       "booking_start_date": "2026-06-22 07:15",
       "location": "Vancouver",
       "start_date": "2026-07-06",
       "start_time": "07:15",
-      "available_spot_count": 10,
+      "available_spot_count": 0,
       "capacity": 10
     },
     {
@@ -600,7 +570,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-06",
       "start_time": "18:00",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
@@ -810,7 +780,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-12",
       "start_time": "09:15",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -850,7 +820,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-12",
       "start_time": "11:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 10
     },
     {
@@ -1110,7 +1080,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-13",
       "start_time": "06:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 11
     },
     {
@@ -1300,7 +1270,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-06",
       "start_time": "08:15",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 32
     },
     {
@@ -1340,7 +1310,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-13",
       "start_time": "07:00",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 32
     },
     {
@@ -1440,7 +1410,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-08",
       "start_time": "06:00",
-      "available_spot_count": 35,
+      "available_spot_count": 32,
       "capacity": 48
     },
     {
@@ -1460,7 +1430,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-08",
       "start_time": "17:30",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 50
     },
     {
@@ -1490,7 +1460,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-09",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 37
     },
     {
@@ -1530,7 +1500,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-10",
       "start_time": "09:45",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 48
     },
     {
@@ -1540,7 +1510,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-10",
       "start_time": "12:30",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 50
     },
     {
