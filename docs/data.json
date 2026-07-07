@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T06:51:09.293734-07:00",
+  "last_updated": "2026-07-07T09:40:56.604113-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -60,7 +60,7 @@
       "location": "Kitsilano",
       "start_date": "2026-07-15",
       "start_time": "13:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 16
     },
     {
@@ -150,7 +150,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-07",
       "start_time": "20:00",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 45
     },
     {
@@ -180,7 +180,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-08",
       "start_time": "12:00",
-      "available_spot_count": 23,
+      "available_spot_count": 25,
       "capacity": 45
     },
     {
@@ -210,7 +210,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-09",
       "start_time": "14:30",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 20
     },
     {
@@ -261,16 +261,6 @@
       "start_date": "2026-07-08",
       "start_time": "09:00",
       "available_spot_count": 10,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Headsets",
-      "booking_start_date": "2026-07-01 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-08",
-      "start_time": "10:00",
-      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -330,7 +320,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-14",
       "start_time": "08:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -480,7 +470,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-10",
       "start_time": "06:45",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
@@ -560,7 +550,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-10",
       "start_time": "11:45",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
@@ -955,11 +945,371 @@
     },
     {
       "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "booking_start_date": "2026-07-16 05:45",
+      "location": "Vancouver",
+      "start_date": "2026-07-23",
+      "start_time": "05:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "booking_start_date": "2026-07-16 06:45",
+      "location": "Vancouver",
+      "start_date": "2026-07-23",
+      "start_time": "06:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Arms+Core)",
+      "booking_start_date": "2026-07-16 09:45",
+      "location": "Vancouver",
+      "start_date": "2026-07-23",
+      "start_time": "09:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "booking_start_date": "2026-07-16 10:45",
+      "location": "Vancouver",
+      "start_date": "2026-07-23",
+      "start_time": "10:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "booking_start_date": "2026-07-16 11:45",
+      "location": "Vancouver",
+      "start_date": "2026-07-23",
+      "start_time": "11:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "booking_start_date": "2026-07-16 12:45",
+      "location": "Vancouver",
+      "start_date": "2026-07-23",
+      "start_time": "12:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "booking_start_date": "2026-07-16 16:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-23",
+      "start_time": "16:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(DefineX- Full Body)",
+      "booking_start_date": "2026-07-09 17:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-23",
+      "start_time": "17:00",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "booking_start_date": "2026-07-16 17:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-23",
+      "start_time": "17:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Rhythmic Boxing&Endurance)",
+      "booking_start_date": "2026-07-09 18:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-23",
+      "start_time": "18:00",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "booking_start_date": "2026-07-16 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-23",
+      "start_time": "18:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "booking_start_date": "2026-07-16 19:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-23",
+      "start_time": "19:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
       "name": "Infrared Lagree - Summer Anthems",
       "booking_start_date": "2026-07-17 18:30",
       "location": "Vancouver",
       "start_date": "2026-07-24",
       "start_time": "18:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X URSA (Infrared Lagree - Arms + Core)",
+      "booking_start_date": "2026-07-18 07:15",
+      "location": "Vancouver",
+      "start_date": "2026-07-25",
+      "start_time": "07:15",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X URSA (Define X-Strength Full Body)",
+      "booking_start_date": "2026-07-11 07:45",
+      "location": "Vancouver",
+      "start_date": "2026-07-25",
+      "start_time": "07:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X URSA (Infrared Lagree- Full Body)",
+      "booking_start_date": "2026-07-18 08:15",
+      "location": "Vancouver",
+      "start_date": "2026-07-25",
+      "start_time": "08:15",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X URSA (Define X-Strength Full Body)",
+      "booking_start_date": "2026-07-11 08:45",
+      "location": "Vancouver",
+      "start_date": "2026-07-25",
+      "start_time": "08:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X URSA (Infrared Lagree- Full Body)",
+      "booking_start_date": "2026-07-18 09:15",
+      "location": "Vancouver",
+      "start_date": "2026-07-25",
+      "start_time": "09:15",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X URSA (Rhythmic Boxing & Endurance)",
+      "booking_start_date": "2026-07-11 09:45",
+      "location": "Vancouver",
+      "start_date": "2026-07-25",
+      "start_time": "09:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X URSA (Infrared Lagree- Full Body)",
+      "booking_start_date": "2026-07-18 10:15",
+      "location": "Vancouver",
+      "start_date": "2026-07-25",
+      "start_time": "10:15",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X URSA (Infrared Lagree- Full Body)",
+      "booking_start_date": "2026-07-18 11:15",
+      "location": "Vancouver",
+      "start_date": "2026-07-25",
+      "start_time": "11:15",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X URSA (Infrared Lagree- Full Body)",
+      "booking_start_date": "2026-07-18 12:15",
+      "location": "Vancouver",
+      "start_date": "2026-07-25",
+      "start_time": "12:15",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "booking_start_date": "2026-07-20 05:45",
+      "location": "Vancouver",
+      "start_date": "2026-07-27",
+      "start_time": "05:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Define X-Full Body)",
+      "booking_start_date": "2026-07-13 06:15",
+      "location": "Vancouver",
+      "start_date": "2026-07-27",
+      "start_time": "06:15",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "booking_start_date": "2026-07-20 06:45",
+      "location": "Vancouver",
+      "start_date": "2026-07-27",
+      "start_time": "06:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Sculpt X- Lower Body+Core)",
+      "booking_start_date": "2026-07-13 07:15",
+      "location": "Vancouver",
+      "start_date": "2026-07-27",
+      "start_time": "07:15",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "booking_start_date": "2026-07-20 07:45",
+      "location": "Vancouver",
+      "start_date": "2026-07-27",
+      "start_time": "07:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "booking_start_date": "2026-07-20 09:45",
+      "location": "Vancouver",
+      "start_date": "2026-07-27",
+      "start_time": "09:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "booking_start_date": "2026-07-20 10:45",
+      "location": "Vancouver",
+      "start_date": "2026-07-27",
+      "start_time": "10:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "booking_start_date": "2026-07-20 11:45",
+      "location": "Vancouver",
+      "start_date": "2026-07-27",
+      "start_time": "11:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "booking_start_date": "2026-07-20 12:45",
+      "location": "Vancouver",
+      "start_date": "2026-07-27",
+      "start_time": "12:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "booking_start_date": "2026-07-20 16:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-27",
+      "start_time": "16:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Define X-Full Body)",
+      "booking_start_date": "2026-07-13 17:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-27",
+      "start_time": "17:00",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "booking_start_date": "2026-07-20 17:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-27",
+      "start_time": "17:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Define X-Full Body)",
+      "booking_start_date": "2026-07-13 18:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-27",
+      "start_time": "18:00",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "booking_start_date": "2026-07-20 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-27",
+      "start_time": "18:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "booking_start_date": "2026-07-20 19:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-27",
+      "start_time": "19:30",
       "available_spot_count": 10,
       "capacity": 10
     },
@@ -1024,13 +1374,63 @@
       "capacity": 12
     },
     {
+      "studio": "Lagree X",
+      "name": "Club classics \ud83e\udea9",
+      "booking_start_date": "2026-07-07 09:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-14",
+      "start_time": "09:30",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "Afro House \ud83c\udfdd\ufe0f",
+      "booking_start_date": "2026-07-07 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-14",
+      "start_time": "18:30",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "Drake & Shake!\ud83e\udd89",
+      "booking_start_date": "2026-07-08 09:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-15",
+      "start_time": "09:30",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "Throwback Thursday\ud83c\udfb6",
+      "booking_start_date": "2026-07-09 09:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-16",
+      "start_time": "09:30",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "Kanye x Travis \ud83c\udf35\ud83d\udd25",
+      "booking_start_date": "2026-07-10 08:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-17",
+      "start_time": "08:30",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
       "studio": "ZenDen",
       "name": "Coffee + Cacao Party",
       "booking_start_date": "2026-05-31 11:00",
       "location": "Vancouver",
       "start_date": "2026-07-12",
       "start_time": "11:00",
-      "available_spot_count": 112,
+      "available_spot_count": 111,
       "capacity": 120
     },
     {
@@ -1170,7 +1570,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-10",
       "start_time": "17:15",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 22
     },
     {
@@ -1190,7 +1590,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-13",
       "start_time": "16:00",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 32
     },
     {
@@ -1200,7 +1600,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-16",
       "start_time": "18:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 40
     },
     {
@@ -1220,7 +1620,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-07",
       "start_time": "09:45",
-      "available_spot_count": 39,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -1250,7 +1650,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-07",
       "start_time": "18:40",
-      "available_spot_count": 34,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -1260,7 +1660,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-08",
       "start_time": "06:00",
-      "available_spot_count": 30,
+      "available_spot_count": 33,
       "capacity": 48
     },
     {
@@ -1290,7 +1690,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-08",
       "start_time": "18:40",
-      "available_spot_count": 26,
+      "available_spot_count": 28,
       "capacity": 50
     },
     {
@@ -1350,7 +1750,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-10",
       "start_time": "09:45",
-      "available_spot_count": 22,
+      "available_spot_count": 24,
       "capacity": 48
     },
     {
@@ -1360,7 +1760,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-10",
       "start_time": "12:30",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 50
     },
     {
@@ -1380,7 +1780,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-11",
       "start_time": "10:40",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 50
     },
     {
@@ -1400,7 +1800,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-12",
       "start_time": "10:40",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -1420,7 +1820,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-13",
       "start_time": "16:20",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 37
     },
     {
@@ -1450,7 +1850,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-14",
       "start_time": "07:15",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 36
     },
     {
@@ -1460,7 +1860,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-14",
       "start_time": "09:45",
-      "available_spot_count": 47,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
