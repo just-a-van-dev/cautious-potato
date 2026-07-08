@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T02:11:08.233154-07:00",
+  "last_updated": "2026-07-08T04:15:31.181254-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -180,7 +180,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-08",
       "start_time": "12:15",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 20
     },
     {
