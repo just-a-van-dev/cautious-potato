@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T15:39:31.590481-07:00",
+  "last_updated": "2026-07-08T16:42:39.271484-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -145,16 +145,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn \u2014 Reformer x Aikenka Matcha",
-      "booking_start_date": "2026-07-01 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-07-08",
-      "start_time": "15:45",
-      "available_spot_count": 2,
-      "capacity": 20
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn \u2014 Happy Hour x Aikenka Matcha",
       "booking_start_date": "2026-07-01 00:00",
       "location": "Kingsway",
@@ -230,7 +220,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-09",
       "start_time": "09:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -250,7 +240,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-09",
       "start_time": "11:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -260,7 +250,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-09",
       "start_time": "13:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -480,7 +470,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-10",
       "start_time": "06:45",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 10
     },
     {
@@ -580,7 +570,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-10",
       "start_time": "16:30",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
@@ -1440,7 +1430,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-12",
       "start_time": "11:00",
-      "available_spot_count": 104,
+      "available_spot_count": 102,
       "capacity": 120
     },
     {
@@ -1610,7 +1600,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-16",
       "start_time": "07:00",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 32
     },
     {
@@ -1660,7 +1650,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-08",
       "start_time": "17:30",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 50
     },
     {
@@ -1720,7 +1710,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-10",
       "start_time": "09:45",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 37
     },
     {
@@ -1810,7 +1800,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-13",
       "start_time": "17:30",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 48
     },
     {
@@ -1900,7 +1890,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-15",
       "start_time": "18:40",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 48
     },
     {
