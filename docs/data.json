@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T13:01:26.938520-07:00",
+  "last_updated": "2026-07-09T14:40:06.988966-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -18,7 +18,7 @@
       "location": "West End",
       "start_date": "2026-07-09",
       "start_time": "16:30",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 23
     },
     {
@@ -40,7 +40,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-10",
       "start_time": "17:15",
-      "available_spot_count": 9,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -50,7 +50,7 @@
       "location": "Kitsilano",
       "start_date": "2026-07-15",
       "start_time": "13:30",
-      "available_spot_count": 7,
+      "available_spot_count": 9,
       "capacity": 16
     },
     {
@@ -135,22 +135,12 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn Reformer - Teacher Development ($25)",
-      "booking_start_date": "2026-07-02 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-07-09",
-      "start_time": "13:30",
-      "available_spot_count": 11,
-      "capacity": 20
-    },
-    {
-      "studio": "Jaybird",
       "name": "Teacher Development | The Reformer $25",
       "booking_start_date": "2026-07-02 00:00",
       "location": "Kingsway",
       "start_date": "2026-07-09",
       "start_time": "14:30",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 20
     },
     {
@@ -182,16 +172,6 @@
       "start_time": "17:45",
       "available_spot_count": 45,
       "capacity": 45
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk With Headsets x Sahajan",
-      "booking_start_date": "2026-07-02 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-09",
-      "start_time": "13:00",
-      "available_spot_count": 5,
-      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -260,7 +240,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-14",
       "start_time": "08:00",
-      "available_spot_count": 11,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -430,7 +410,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-10",
       "start_time": "07:45",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 10
     },
     {
@@ -510,7 +490,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-10",
       "start_time": "16:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 10
     },
     {
@@ -660,7 +640,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-15",
       "start_time": "06:45",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -710,7 +690,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-15",
       "start_time": "12:45",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -740,7 +720,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-15",
       "start_time": "18:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -1370,7 +1350,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-16",
       "start_time": "09:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -1430,7 +1410,7 @@
       "location": "Railway",
       "start_date": "2026-07-15",
       "start_time": "16:15",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 9
     },
     {
@@ -1550,7 +1530,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-16",
       "start_time": "07:00",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 32
     },
     {
@@ -1595,26 +1575,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: THROWBACKS: 2010-2015 - VOL 2",
-      "booking_start_date": "2026-07-01 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-07-09",
-      "start_time": "12:30",
-      "available_spot_count": 25,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: LANE 8 x KASKADE",
-      "booking_start_date": "2026-07-01 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-07-09",
-      "start_time": "12:30",
-      "available_spot_count": 35,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: 50 CENT x DRAKE",
       "booking_start_date": "2026-07-02 12:00",
       "location": "DOWNTOWN VANCOUVER",
@@ -1640,7 +1600,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-10",
       "start_time": "09:45",
-      "available_spot_count": 18,
+      "available_spot_count": 16,
       "capacity": 48
     },
     {
@@ -1650,7 +1610,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-10",
       "start_time": "12:30",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -1730,7 +1690,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-13",
       "start_time": "17:30",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 50
     },
     {
@@ -1750,7 +1710,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-14",
       "start_time": "09:45",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
@@ -1860,7 +1820,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-16",
       "start_time": "12:30",
-      "available_spot_count": 44,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
@@ -1870,7 +1830,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-16",
       "start_time": "18:40",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
@@ -1900,7 +1860,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-17",
       "start_time": "12:30",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 48
     },
     {
@@ -1910,7 +1870,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-17",
       "start_time": "12:30",
-      "available_spot_count": 50,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
@@ -1920,7 +1880,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-17",
       "start_time": "16:20",
-      "available_spot_count": 45,
+      "available_spot_count": 43,
       "capacity": 48
     },
     {
@@ -1970,7 +1930,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-19",
       "start_time": "10:40",
-      "available_spot_count": 43,
+      "available_spot_count": 41,
       "capacity": 48
     },
     {
@@ -1992,6 +1952,16 @@
       "start_time": "11:50",
       "available_spot_count": 47,
       "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: LANE 8 x SOLOMUN",
+      "booking_start_date": "2026-07-12 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-20",
+      "start_time": "06:00",
+      "available_spot_count": 48,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -2032,6 +2002,26 @@
       "start_time": "18:40",
       "available_spot_count": 50,
       "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME:RUFUS DU SOL X VINTAGE CULTURE",
+      "booking_start_date": "2026-07-13 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-21",
+      "start_time": "12:30",
+      "available_spot_count": 48,
+      "capacity": 48
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: REMIXES: RIHANNA x BEYONC\u00c9 - VOL 2",
+      "booking_start_date": "2026-07-13 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-07-21",
+      "start_time": "12:30",
+      "available_spot_count": 37,
+      "capacity": 37
     },
     {
       "studio": "Spin Society",
