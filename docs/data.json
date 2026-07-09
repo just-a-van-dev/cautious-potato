@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T16:42:39.271484-07:00",
+  "last_updated": "2026-07-08T18:15:19.797255-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -28,7 +28,7 @@
       "location": "West End",
       "start_date": "2026-07-12",
       "start_time": "18:00",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 21
     }
   ],
@@ -40,7 +40,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-09",
       "start_time": "11:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -142,16 +142,6 @@
       "start_time": "17:15",
       "available_spot_count": 20,
       "capacity": 20
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn \u2014 Happy Hour x Aikenka Matcha",
-      "booking_start_date": "2026-07-01 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-07-08",
-      "start_time": "16:00",
-      "available_spot_count": 25,
-      "capacity": 45
     },
     {
       "studio": "Jaybird",
@@ -580,7 +570,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-10",
       "start_time": "17:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
@@ -590,7 +580,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-10",
       "start_time": "17:30",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 10
     },
     {
@@ -730,7 +720,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-15",
       "start_time": "07:45",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 10
     },
     {
@@ -1370,7 +1360,27 @@
       "location": "Vancouver",
       "start_date": "2026-07-10",
       "start_time": "08:30",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "Y2K Throwback \ud83e\udea9",
+      "booking_start_date": "2026-07-05 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-12",
+      "start_time": "13:00",
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "Y2K Throwback \ud83e\udea9",
+      "booking_start_date": "2026-07-05 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-12",
+      "start_time": "14:00",
+      "available_spot_count": 0,
       "capacity": 12
     },
     {
@@ -1400,7 +1410,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-15",
       "start_time": "09:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -1430,7 +1440,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-12",
       "start_time": "11:00",
-      "available_spot_count": 102,
+      "available_spot_count": 101,
       "capacity": 120
     },
     {
@@ -1462,16 +1472,6 @@
       "start_time": "19:45",
       "available_spot_count": 36,
       "capacity": 40
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Elevate Happy Hour 55 mins",
-      "booking_start_date": "2026-06-24 16:15",
-      "location": "Railway",
-      "start_date": "2026-07-08",
-      "start_time": "16:15",
-      "available_spot_count": 3,
-      "capacity": 9
     },
     {
       "studio": "All Method Studio",
@@ -1570,7 +1570,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-10",
       "start_time": "17:15",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 22
     },
     {
@@ -1645,32 +1645,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: EXCISION X SUBTRONICS X ZEDD",
-      "booking_start_date": "2026-06-30 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-07-08",
-      "start_time": "17:30",
-      "available_spot_count": 12,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: BEYONC\u00c9 X 50 CENT X AKON",
-      "booking_start_date": "2026-06-30 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-07-08",
-      "start_time": "18:40",
-      "available_spot_count": 20,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: BRITNEY SPEARS x DUA LIPA",
       "booking_start_date": "2026-07-01 12:00",
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-09",
       "start_time": "07:15",
-      "available_spot_count": 24,
+      "available_spot_count": 26,
       "capacity": 37
     },
     {
@@ -1720,7 +1700,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-10",
       "start_time": "09:45",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 48
     },
     {
@@ -1730,7 +1710,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-10",
       "start_time": "12:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 50
     },
     {
@@ -1800,7 +1780,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-13",
       "start_time": "17:30",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 48
     },
     {
@@ -1810,7 +1790,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-13",
       "start_time": "17:30",
-      "available_spot_count": 39,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
