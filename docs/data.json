@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T10:57:57.293186-07:00",
+  "last_updated": "2026-07-10T12:48:21.883176-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -30,7 +30,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-10",
       "start_time": "17:15",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 20
     },
     {
@@ -50,7 +50,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-17",
       "start_time": "17:15",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -130,7 +130,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-13",
       "start_time": "13:30",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 20
     },
     {
@@ -355,36 +355,6 @@
     },
     {
       "studio": "Evolution",
-      "name": "EVO X BODY ENERGY CLUB(Define X-Full Body)",
-      "booking_start_date": "2026-06-26 10:15",
-      "location": "Vancouver",
-      "start_date": "2026-07-10",
-      "start_time": "10:15",
-      "available_spot_count": 7,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-07-03 10:45",
-      "location": "Vancouver",
-      "start_date": "2026-07-10",
-      "start_time": "10:45",
-      "available_spot_count": 0,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-07-03 11:45",
-      "location": "Vancouver",
-      "start_date": "2026-07-10",
-      "start_time": "11:45",
-      "available_spot_count": 2,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
       "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
       "booking_start_date": "2026-07-03 12:45",
       "location": "Vancouver",
@@ -410,7 +380,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-10",
       "start_time": "17:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -450,7 +420,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-12",
       "start_time": "08:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
@@ -690,7 +660,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-21",
       "start_time": "10:45",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -810,7 +780,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "10:45",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -1200,7 +1170,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-12",
       "start_time": "13:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -1470,7 +1440,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-10",
       "start_time": "12:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -1500,7 +1470,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-12",
       "start_time": "08:20",
-      "available_spot_count": 38,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -1510,7 +1480,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-12",
       "start_time": "10:40",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 50
     },
     {
@@ -1530,7 +1500,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-13",
       "start_time": "16:20",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 37
     },
     {
@@ -1550,7 +1520,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-13",
       "start_time": "17:30",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 50
     },
     {
@@ -1600,7 +1570,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-14",
       "start_time": "17:30",
-      "available_spot_count": 40,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
@@ -1620,7 +1590,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-15",
       "start_time": "06:00",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 48
     },
     {
@@ -1630,7 +1600,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-15",
       "start_time": "18:40",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 48
     },
     {
@@ -1650,7 +1620,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-16",
       "start_time": "07:15",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 48
     },
     {
@@ -1660,7 +1630,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-16",
       "start_time": "09:45",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 36
     },
     {
@@ -1690,7 +1660,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-16",
       "start_time": "18:40",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 50
     },
     {
@@ -1770,7 +1740,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-18",
       "start_time": "10:40",
-      "available_spot_count": 48,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -1850,7 +1820,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-20",
       "start_time": "18:40",
-      "available_spot_count": 37,
+      "available_spot_count": 35,
       "capacity": 37
     },
     {
