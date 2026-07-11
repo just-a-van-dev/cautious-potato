@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T11:05:37.708966-07:00",
+  "last_updated": "2026-07-11T12:22:01.834231-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -18,7 +18,7 @@
       "location": "West End",
       "start_date": "2026-07-12",
       "start_time": "18:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 21
     }
   ],
@@ -166,21 +166,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Full Body x Sahajan Sample",
-      "booking_start_date": "2026-07-04 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-11",
-      "start_time": "11:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Full Body x Sahajan Sample",
       "booking_start_date": "2026-07-04 12:00",
       "location": "Vancouver",
       "start_date": "2026-07-11",
       "start_time": "12:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -200,7 +190,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-11",
       "start_time": "14:00",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -241,6 +231,26 @@
       "start_date": "2026-07-12",
       "start_time": "17:00",
       "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Headsets",
+      "booking_start_date": "2026-07-06 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-13",
+      "start_time": "13:00",
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Headsets",
+      "booking_start_date": "2026-07-06 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-13",
+      "start_time": "14:00",
+      "available_spot_count": 12,
       "capacity": 12
     },
     {
@@ -420,7 +430,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-12",
       "start_time": "09:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
@@ -440,7 +450,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-12",
       "start_time": "10:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
@@ -540,7 +550,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-15",
       "start_time": "11:45",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
@@ -1150,7 +1160,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-12",
       "start_time": "13:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 12
     },
     {
@@ -1360,7 +1370,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-16",
       "start_time": "07:00",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 32
     },
     {
@@ -1405,22 +1415,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: THROWBACKS! 2005-2010",
-      "booking_start_date": "2026-07-03 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-07-11",
-      "start_time": "10:40",
-      "available_spot_count": 6,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: TAYLOR SWIFT REMIXES X ORIGINALS",
       "booking_start_date": "2026-07-04 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-07-12",
       "start_time": "08:20",
-      "available_spot_count": 30,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -1430,7 +1430,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-12",
       "start_time": "10:40",
-      "available_spot_count": 24,
+      "available_spot_count": 25,
       "capacity": 50
     },
     {
@@ -1440,7 +1440,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-12",
       "start_time": "13:00",
-      "available_spot_count": 17,
+      "available_spot_count": 15,
       "capacity": 48
     },
     {
@@ -1690,7 +1690,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-18",
       "start_time": "10:40",
-      "available_spot_count": 33,
+      "available_spot_count": 28,
       "capacity": 50
     },
     {
@@ -1730,7 +1730,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-19",
       "start_time": "11:50",
-      "available_spot_count": 47,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
