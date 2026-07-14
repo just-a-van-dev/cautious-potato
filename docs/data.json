@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T12:53:59.771130-07:00",
+  "last_updated": "2026-07-14T14:11:53.013345-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -60,6 +60,26 @@
       "location": "Yaletown",
       "start_date": "2026-07-24",
       "start_time": "17:15",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer Ass + Abs x Amy's Last Booty Burn",
+      "booking_start_date": "2026-07-21 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-07-28",
+      "start_time": "18:15",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Amy's Grand Finale Hip Hop",
+      "booking_start_date": "2026-07-21 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-07-28",
+      "start_time": "19:15",
       "available_spot_count": 20,
       "capacity": 20
     },
@@ -171,16 +191,6 @@
       "start_date": "2026-07-14",
       "start_time": "16:30",
       "available_spot_count": 9,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Headsets",
-      "booking_start_date": "2026-07-08 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-15",
-      "start_time": "09:00",
-      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -1010,7 +1020,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-14",
       "start_time": "19:45",
-      "available_spot_count": 34,
+      "available_spot_count": 32,
       "capacity": 40
     },
     {
@@ -1250,7 +1260,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-16",
       "start_time": "07:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 32
     },
     {
@@ -1270,7 +1280,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-22",
       "start_time": "06:00",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 32
     },
     {
@@ -1295,16 +1305,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: BRITNEY x CHRISTINA",
-      "booking_start_date": "2026-07-06 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-07-14",
-      "start_time": "12:30",
-      "available_spot_count": 14,
-      "capacity": 36
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: KAYTRANADA x HONEY DIJON",
       "booking_start_date": "2026-07-06 12:00",
       "location": "MOUNT PLEASANT",
@@ -1320,7 +1320,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-14",
       "start_time": "17:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -1350,7 +1350,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-15",
       "start_time": "18:40",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 49
     },
     {
@@ -1370,7 +1370,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-16",
       "start_time": "07:15",
-      "available_spot_count": 25,
+      "available_spot_count": 26,
       "capacity": 49
     },
     {
@@ -1390,7 +1390,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-16",
       "start_time": "12:30",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -1410,7 +1410,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-16",
       "start_time": "18:40",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 50
     },
     {
@@ -1420,7 +1420,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-17",
       "start_time": "06:00",
-      "available_spot_count": 45,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
@@ -1450,7 +1450,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-17",
       "start_time": "12:30",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 50
     },
     {
@@ -1520,7 +1520,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-19",
       "start_time": "11:50",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 49
     },
     {
@@ -1560,7 +1560,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-20",
       "start_time": "16:20",
-      "available_spot_count": 43,
+      "available_spot_count": 44,
       "capacity": 49
     },
     {
@@ -1590,7 +1590,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-21",
       "start_time": "12:30",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 49
     },
     {
@@ -1672,6 +1672,16 @@
       "start_time": "11:50",
       "available_spot_count": 49,
       "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: POP X HIP HOP REMIXES",
+      "booking_start_date": "2026-07-26 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-08-03",
+      "start_time": "09:30",
+      "available_spot_count": 50,
+      "capacity": 50
     }
   ]
 }
