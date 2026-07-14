@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T14:11:53.013345-07:00",
+  "last_updated": "2026-07-14T15:11:23.603325-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -135,13 +135,53 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn - Reformer | Teacher Development ($25)",
-      "booking_start_date": "2026-07-07 00:00",
+      "name": "The Burn x Body Energy Club",
+      "booking_start_date": "2026-07-10 00:00",
       "location": "Kingsway",
-      "start_date": "2026-07-14",
-      "start_time": "13:30",
-      "available_spot_count": 11,
+      "start_date": "2026-07-17",
+      "start_time": "07:15",
+      "available_spot_count": 24,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Body Energy Club",
+      "booking_start_date": "2026-07-10 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-07-17",
+      "start_time": "09:15",
+      "available_spot_count": 15,
       "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x Body Energy Club",
+      "booking_start_date": "2026-07-10 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-07-17",
+      "start_time": "10:00",
+      "available_spot_count": 20,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn \u2014 Reformer x Body Energy Club",
+      "booking_start_date": "2026-07-10 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-07-17",
+      "start_time": "10:20",
+      "available_spot_count": 18,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "Teacher Development | The Burn $18",
+      "booking_start_date": "2026-07-10 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-07-17",
+      "start_time": "13:30",
+      "available_spot_count": 45,
+      "capacity": 45
     },
     {
       "studio": "Jaybird",
@@ -155,11 +195,31 @@
     },
     {
       "studio": "Jaybird",
+      "name": "The Burn - Reformer | Teacher Development ($25)",
+      "booking_start_date": "2026-07-15 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-07-22",
+      "start_time": "13:45",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
       "name": "The Burn |  Sweat to Support Survivors & BWSS",
       "booking_start_date": "2026-07-18 00:00",
       "location": "Yaletown",
       "start_date": "2026-07-25",
       "start_time": "16:20",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "Teacher Development | The Burn $18",
+      "booking_start_date": "2026-07-20 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-07-27",
+      "start_time": "13:30",
       "available_spot_count": 36,
       "capacity": 36
     },
@@ -270,7 +330,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-17",
       "start_time": "18:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -350,7 +410,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-15",
       "start_time": "09:45",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -1250,7 +1310,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-07-19",
       "start_time": "11:40",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 18
     },
     {
@@ -1350,7 +1410,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-15",
       "start_time": "18:40",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 49
     },
     {
@@ -1370,7 +1430,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-16",
       "start_time": "07:15",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 49
     },
     {
@@ -1410,7 +1470,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-16",
       "start_time": "18:40",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 50
     },
     {
@@ -1440,7 +1500,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-17",
       "start_time": "12:30",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 49
     },
     {
@@ -1460,7 +1520,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-17",
       "start_time": "16:20",
-      "available_spot_count": 23,
+      "available_spot_count": 24,
       "capacity": 49
     },
     {
@@ -1560,7 +1620,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-20",
       "start_time": "16:20",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
