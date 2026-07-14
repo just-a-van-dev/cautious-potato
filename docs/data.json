@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T16:09:08.744361-07:00",
+  "last_updated": "2026-07-13T17:03:05.251649-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -120,7 +120,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-14",
       "start_time": "13:30",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -155,17 +155,17 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "New Instructor Drop In Class",
+      "name": "Daytime Perk - New Instructor Drop In",
       "booking_start_date": "2026-07-07 07:00",
       "location": "Vancouver",
       "start_date": "2026-07-14",
       "start_time": "07:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
       "studio": "Lagree Studio",
-      "name": "New Instructor Drop In Class",
+      "name": "Daytime Perk - New Instructor Drop In",
       "booking_start_date": "2026-07-07 08:00",
       "location": "Vancouver",
       "start_date": "2026-07-14",
@@ -190,7 +190,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-14",
       "start_time": "10:00",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -200,7 +200,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-16",
       "start_time": "07:00",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -340,7 +340,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-15",
       "start_time": "07:45",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
@@ -830,7 +830,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-27",
       "start_time": "09:45",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -970,7 +970,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-14",
       "start_time": "09:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -1020,7 +1020,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-19",
       "start_time": "09:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -1050,7 +1050,7 @@
       "location": "Railway",
       "start_date": "2026-07-22",
       "start_time": "16:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 9
     },
     {
@@ -1125,16 +1125,6 @@
     },
     {
       "studio": "Turf",
-      "name": "meta + Mat Werk 45 *Happy Hour \ud83d\udc1c*",
-      "booking_start_date": "2026-07-06 16:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-07-13",
-      "start_time": "16:00",
-      "available_spot_count": 17,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "meta + mat werk *Canadian Icons*",
       "booking_start_date": "2026-07-09 07:00",
       "location": "KITS - Vancouver",
@@ -1185,36 +1175,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: TAYLOR SWIFT x ARIANA GRANDE",
-      "booking_start_date": "2026-07-05 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-07-13",
-      "start_time": "16:20",
-      "available_spot_count": 13,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: EMMIT FENN x BEN B\u00d6HMER x ELDERBROOK Vol 2",
-      "booking_start_date": "2026-07-05 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-07-13",
-      "start_time": "17:30",
-      "available_spot_count": 5,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: USHER x PITBULL x FLO RIDA",
-      "booking_start_date": "2026-07-05 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-07-13",
-      "start_time": "17:30",
-      "available_spot_count": 20,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: R\u00dcF\u00dcS DU SOL x JOHN SUMMIT",
       "booking_start_date": "2026-07-06 12:00",
       "location": "DOWNTOWN VANCOUVER",
@@ -1230,7 +1190,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-14",
       "start_time": "09:45",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -1270,7 +1230,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-14",
       "start_time": "18:40",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 50
     },
     {
@@ -1330,7 +1290,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-16",
       "start_time": "12:30",
-      "available_spot_count": 30,
+      "available_spot_count": 31,
       "capacity": 36
     },
     {
@@ -1400,7 +1360,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-17",
       "start_time": "16:20",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 49
     },
     {
@@ -1450,7 +1410,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-19",
       "start_time": "10:40",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 49
     },
     {
@@ -1460,7 +1420,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-19",
       "start_time": "11:50",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 49
     },
     {
@@ -1490,7 +1450,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-20",
       "start_time": "12:30",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
@@ -1510,7 +1470,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-20",
       "start_time": "18:40",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 37
     },
     {
