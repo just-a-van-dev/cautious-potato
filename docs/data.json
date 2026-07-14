@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T08:42:00.038685-07:00",
+  "last_updated": "2026-07-14T09:50:14.126774-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -165,16 +165,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk New Instructor Drop In Class Headsets",
-      "booking_start_date": "2026-07-07 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-14",
-      "start_time": "09:00",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Deal Full Body With Headsets",
       "booking_start_date": "2026-07-07 16:30",
       "location": "Vancouver",
@@ -190,7 +180,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-15",
       "start_time": "09:00",
-      "available_spot_count": 6,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -640,7 +630,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "17:30",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -660,7 +650,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "18:30",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -870,7 +860,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-27",
       "start_time": "16:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -970,7 +960,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-14",
       "start_time": "09:30",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -980,7 +970,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-14",
       "start_time": "18:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -1030,8 +1020,18 @@
       "location": "Vancouver",
       "start_date": "2026-07-14",
       "start_time": "19:45",
-      "available_spot_count": 33,
+      "available_spot_count": 34,
       "capacity": 40
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Access: Run x Run",
+      "booking_start_date": "2026-06-30 18:30",
+      "location": "Railway",
+      "start_date": "2026-07-14",
+      "start_time": "18:30",
+      "available_spot_count": 50,
+      "capacity": 50
     },
     {
       "studio": "All Method Studio",
@@ -1045,6 +1045,16 @@
     },
     {
       "studio": "All Method Studio",
+      "name": "ALL Access: Run x Run",
+      "booking_start_date": "2026-07-07 18:30",
+      "location": "Railway",
+      "start_date": "2026-07-21",
+      "start_time": "18:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "All Method Studio",
       "name": "ALL Reformer - Elevate Happy Hour 55 mins",
       "booking_start_date": "2026-07-08 16:15",
       "location": "Railway",
@@ -1052,6 +1062,16 @@
       "start_time": "16:15",
       "available_spot_count": 6,
       "capacity": 9
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Access: Run x Run",
+      "booking_start_date": "2026-07-14 18:30",
+      "location": "Railway",
+      "start_date": "2026-07-28",
+      "start_time": "18:30",
+      "available_spot_count": 50,
+      "capacity": 50
     },
     {
       "studio": "All Method Studio",
@@ -1065,6 +1085,16 @@
     },
     {
       "studio": "All Method Studio",
+      "name": "ALL Access: Run x Run",
+      "booking_start_date": "2026-07-21 18:30",
+      "location": "Railway",
+      "start_date": "2026-08-04",
+      "start_time": "18:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "All Method Studio",
       "name": "ALL Reformer - Elevate Happy Hour 55 mins",
       "booking_start_date": "2026-07-22 16:15",
       "location": "Railway",
@@ -1072,6 +1102,16 @@
       "start_time": "16:15",
       "available_spot_count": 9,
       "capacity": 9
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Access: Run x Run",
+      "booking_start_date": "2026-07-28 18:30",
+      "location": "Railway",
+      "start_date": "2026-08-11",
+      "start_time": "18:30",
+      "available_spot_count": 50,
+      "capacity": 50
     },
     {
       "studio": "All Method Studio",
@@ -1085,6 +1125,16 @@
     },
     {
       "studio": "All Method Studio",
+      "name": "ALL Access: Run x Run",
+      "booking_start_date": "2026-08-04 18:30",
+      "location": "Railway",
+      "start_date": "2026-08-18",
+      "start_time": "18:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "All Method Studio",
       "name": "ALL Reformer - Elevate Happy Hour 55 mins",
       "booking_start_date": "2026-08-05 16:15",
       "location": "Railway",
@@ -1092,6 +1142,16 @@
       "start_time": "16:15",
       "available_spot_count": 9,
       "capacity": 9
+    },
+    {
+      "studio": "All Method Studio",
+      "name": "ALL Access: Run x Run",
+      "booking_start_date": "2026-08-11 18:30",
+      "location": "Railway",
+      "start_date": "2026-08-25",
+      "start_time": "18:30",
+      "available_spot_count": 50,
+      "capacity": 50
     },
     {
       "studio": "All Method Studio",
@@ -1220,7 +1280,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-22",
       "start_time": "06:00",
-      "available_spot_count": 29,
+      "available_spot_count": 26,
       "capacity": 32
     },
     {
@@ -1250,7 +1310,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-14",
       "start_time": "09:45",
-      "available_spot_count": 38,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -1260,7 +1320,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-14",
       "start_time": "12:30",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 36
     },
     {
@@ -1280,7 +1340,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-14",
       "start_time": "17:30",
-      "available_spot_count": 36,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -1330,7 +1390,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-16",
       "start_time": "07:15",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 49
     },
     {
@@ -1340,7 +1400,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-16",
       "start_time": "09:45",
-      "available_spot_count": 30,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -1390,7 +1450,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-17",
       "start_time": "07:15",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 37
     },
     {
@@ -1400,7 +1460,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-17",
       "start_time": "12:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
@@ -1430,7 +1490,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-17",
       "start_time": "17:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 37
     },
     {
