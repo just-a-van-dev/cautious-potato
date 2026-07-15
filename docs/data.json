@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T16:10:12.377796-07:00",
+  "last_updated": "2026-07-14T17:03:26.774961-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -13,16 +13,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Trainer Development",
-      "booking_start_date": "2026-07-07 20:15",
-      "location": "Yaletown",
-      "start_date": "2026-07-14",
-      "start_time": "20:15",
-      "available_spot_count": 20,
-      "capacity": 20
-    },
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
@@ -134,6 +124,16 @@
       "capacity": 20
     },
     {
+      "studio": "Lagree West",
+      "name": "Megaformer Arms + Ass X House Music Fridays",
+      "booking_start_date": "2026-08-21 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-08-28",
+      "start_time": "17:15",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
       "studio": "Jaybird",
       "name": "The Burn x Body Energy Club",
       "booking_start_date": "2026-07-10 00:00",
@@ -150,7 +150,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-17",
       "start_time": "09:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -160,7 +160,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-17",
       "start_time": "10:00",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 45
     },
     {
@@ -170,7 +170,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-17",
       "start_time": "10:20",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 20
     },
     {
@@ -242,16 +242,6 @@
       "start_time": "13:30",
       "available_spot_count": 20,
       "capacity": 20
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Deal Full Body With Headsets",
-      "booking_start_date": "2026-07-07 16:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-14",
-      "start_time": "16:30",
-      "available_spot_count": 8,
-      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -400,7 +390,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-15",
       "start_time": "07:45",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
@@ -410,7 +400,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-15",
       "start_time": "09:45",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
@@ -430,7 +420,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-15",
       "start_time": "11:45",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -820,7 +810,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-25",
       "start_time": "11:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -1025,16 +1015,6 @@
     },
     {
       "studio": "Lagree X",
-      "name": "Afro House \ud83c\udfdd\ufe0f",
-      "booking_start_date": "2026-07-07 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-14",
-      "start_time": "18:30",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
       "name": "Drake & Shake!\ud83e\udd89",
       "booking_start_date": "2026-07-08 09:30",
       "location": "Vancouver",
@@ -1072,26 +1052,6 @@
       "start_time": "09:30",
       "available_spot_count": 0,
       "capacity": 12
-    },
-    {
-      "studio": "ZenDen",
-      "name": "New Moon Breathwork + Sound Bath - Happy Hour",
-      "booking_start_date": "2026-06-30 19:45",
-      "location": "Vancouver",
-      "start_date": "2026-07-14",
-      "start_time": "19:45",
-      "available_spot_count": 32,
-      "capacity": 40
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Access: Run x Run",
-      "booking_start_date": "2026-06-30 18:30",
-      "location": "Railway",
-      "start_date": "2026-07-14",
-      "start_time": "18:30",
-      "available_spot_count": 26,
-      "capacity": 50
     },
     {
       "studio": "All Method Studio",
@@ -1290,7 +1250,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-07-19",
       "start_time": "09:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 18
     },
     {
@@ -1365,42 +1325,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: KAYTRANADA x HONEY DIJON",
-      "booking_start_date": "2026-07-06 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-07-14",
-      "start_time": "16:20",
-      "available_spot_count": 35,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: EMMIT FENN x BEN B\u00d6HMER x ELDERBROOK Vol 2",
-      "booking_start_date": "2026-07-06 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-07-14",
-      "start_time": "17:30",
-      "available_spot_count": 34,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: HARRY STYLES X ONE DIRECTION",
-      "booking_start_date": "2026-07-06 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-07-14",
-      "start_time": "18:40",
-      "available_spot_count": 28,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: BILLIE X CHARLI X GAGA",
       "booking_start_date": "2026-07-07 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-15",
       "start_time": "06:00",
-      "available_spot_count": 24,
+      "available_spot_count": 26,
       "capacity": 49
     },
     {
@@ -1490,7 +1420,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-17",
       "start_time": "07:15",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 37
     },
     {
@@ -1510,7 +1440,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-17",
       "start_time": "12:30",
-      "available_spot_count": 19,
+      "available_spot_count": 17,
       "capacity": 50
     },
     {
@@ -1550,7 +1480,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-18",
       "start_time": "10:40",
-      "available_spot_count": 19,
+      "available_spot_count": 20,
       "capacity": 50
     },
     {
