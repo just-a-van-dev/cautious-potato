@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T07:05:55.920477-07:00",
+  "last_updated": "2026-07-15T08:45:10.408931-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -140,7 +140,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-17",
       "start_time": "07:15",
-      "available_spot_count": 20,
+      "available_spot_count": 21,
       "capacity": 45
     },
     {
@@ -150,7 +150,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-17",
       "start_time": "09:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 20
     },
     {
@@ -170,7 +170,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-17",
       "start_time": "10:20",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -196,10 +196,10 @@
     {
       "studio": "Jaybird",
       "name": "The Burn - Reformer | Teacher Development ($25)",
-      "booking_start_date": "2026-07-15 00:00",
+      "booking_start_date": "2026-07-13 00:00",
       "location": "Kingsway",
-      "start_date": "2026-07-22",
-      "start_time": "13:45",
+      "start_date": "2026-07-20",
+      "start_time": "13:30",
       "available_spot_count": 20,
       "capacity": 20
     },
@@ -250,7 +250,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-15",
       "start_time": "09:00",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -270,7 +270,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-15",
       "start_time": "11:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -290,7 +290,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-15",
       "start_time": "14:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -340,7 +340,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-16",
       "start_time": "13:00",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -432,26 +432,6 @@
       "start_time": "16:00",
       "available_spot_count": 12,
       "capacity": 12
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVOLUTION X ORGANIKA (Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-07-08 06:45",
-      "location": "Vancouver",
-      "start_date": "2026-07-15",
-      "start_time": "06:45",
-      "available_spot_count": 1,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVOLUTION X ORGANIKA (Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-07-08 07:45",
-      "location": "Vancouver",
-      "start_date": "2026-07-15",
-      "start_time": "07:45",
-      "available_spot_count": 2,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
@@ -650,7 +630,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-21",
       "start_time": "18:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -1050,7 +1030,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-24",
       "start_time": "07:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 11
     },
     {
@@ -1100,7 +1080,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-17",
       "start_time": "08:30",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -1260,7 +1240,7 @@
       "location": "West End",
       "start_date": "2026-07-26",
       "start_time": "14:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 25
     },
     {
@@ -1320,7 +1300,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-07-19",
       "start_time": "10:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 18
     },
     {
@@ -1340,7 +1320,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-16",
       "start_time": "07:00",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 32
     },
     {
@@ -1352,16 +1332,6 @@
       "start_time": "18:00",
       "available_spot_count": 0,
       "capacity": 40
-    },
-    {
-      "studio": "Turf",
-      "name": "Mat Werk 45 mins *Co-teach*",
-      "booking_start_date": "2026-07-15 06:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-07-22",
-      "start_time": "06:00",
-      "available_spot_count": 22,
-      "capacity": 32
     },
     {
       "studio": "Turf",
@@ -1390,7 +1360,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-15",
       "start_time": "18:40",
-      "available_spot_count": 22,
+      "available_spot_count": 23,
       "capacity": 49
     },
     {
@@ -1410,7 +1380,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-16",
       "start_time": "07:15",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 49
     },
     {
@@ -1510,7 +1480,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-17",
       "start_time": "17:30",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 37
     },
     {
@@ -1530,7 +1500,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-18",
       "start_time": "10:40",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 50
     },
     {
@@ -1540,7 +1510,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-19",
       "start_time": "09:30",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 37
     },
     {
