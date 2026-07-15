@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T20:27:46.669448-07:00",
+  "last_updated": "2026-07-14T22:57:02.399104-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -20,7 +20,7 @@
       "location": "Kitsilano",
       "start_date": "2026-07-15",
       "start_time": "13:30",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 16
     },
     {
@@ -140,7 +140,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-17",
       "start_time": "07:15",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 45
     },
     {
@@ -150,7 +150,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-17",
       "start_time": "09:15",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -160,7 +160,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-17",
       "start_time": "10:00",
-      "available_spot_count": 19,
+      "available_spot_count": 17,
       "capacity": 45
     },
     {
@@ -170,7 +170,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-17",
       "start_time": "10:20",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 20
     },
     {
@@ -270,7 +270,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-15",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -295,17 +295,17 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "New Instructor Class",
+      "name": "Daytime Perk New Instructor Class x Sahajan",
       "booking_start_date": "2026-07-09 08:00",
       "location": "Vancouver",
       "start_date": "2026-07-16",
       "start_time": "08:00",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
       "studio": "Lagree Studio",
-      "name": "New Instructor Class With Headsets",
+      "name": "Daytime Perk New Instructor Class Headsets",
       "booking_start_date": "2026-07-09 09:00",
       "location": "Vancouver",
       "start_date": "2026-07-16",
@@ -315,12 +315,32 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Headsets x Sahajan",
+      "booking_start_date": "2026-07-09 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-16",
+      "start_time": "10:00",
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Headsets x Sahajan",
+      "booking_start_date": "2026-07-09 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-16",
+      "start_time": "13:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Club Lagree  x Veggiet",
       "booking_start_date": "2026-07-10 09:00",
       "location": "Vancouver",
       "start_date": "2026-07-17",
       "start_time": "09:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -360,7 +380,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-17",
       "start_time": "18:30",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -420,7 +440,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-15",
       "start_time": "06:45",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 10
     },
     {
@@ -510,7 +530,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-15",
       "start_time": "19:30",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -570,7 +590,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-21",
       "start_time": "11:45",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -630,7 +650,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-21",
       "start_time": "18:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -820,7 +840,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-25",
       "start_time": "09:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -1080,7 +1100,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-17",
       "start_time": "08:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -1240,7 +1260,7 @@
       "location": "West End",
       "start_date": "2026-07-26",
       "start_time": "14:00",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 25
     },
     {
@@ -1300,7 +1320,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-07-19",
       "start_time": "10:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 18
     },
     {
@@ -1310,7 +1330,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-07-19",
       "start_time": "11:40",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 18
     },
     {
@@ -1320,7 +1340,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-16",
       "start_time": "07:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 32
     },
     {
@@ -1370,7 +1390,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-15",
       "start_time": "06:00",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 49
     },
     {
@@ -1380,7 +1400,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-15",
       "start_time": "18:40",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 49
     },
     {
@@ -1400,7 +1420,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-16",
       "start_time": "07:15",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 49
     },
     {
@@ -1420,7 +1440,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-16",
       "start_time": "12:30",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 36
     },
     {
@@ -1430,7 +1450,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-16",
       "start_time": "12:30",
-      "available_spot_count": 30,
+      "available_spot_count": 28,
       "capacity": 50
     },
     {
@@ -1440,7 +1460,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-16",
       "start_time": "18:40",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 50
     },
     {
@@ -1460,7 +1480,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-17",
       "start_time": "07:15",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 37
     },
     {
@@ -1470,7 +1490,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-17",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
@@ -1520,7 +1540,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-18",
       "start_time": "10:40",
-      "available_spot_count": 20,
+      "available_spot_count": 16,
       "capacity": 50
     },
     {
@@ -1540,7 +1560,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-19",
       "start_time": "10:40",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 49
     },
     {
@@ -1590,7 +1610,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-20",
       "start_time": "16:20",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 49
     },
     {
