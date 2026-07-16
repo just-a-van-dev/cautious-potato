@@ -1,10 +1,12 @@
 FILTER_OUT = {
     "all method studio": [
+        "all access: run x run",
         "all lift at the set - private booking",
         "all reformer - begin",
         "all reformer - begin happy hour 55 mins",
         "all reformer - bridge",
         "all reformer - elevate",
+        "all reformer - elevate happy hour 55 mins",
         "all reformer - jump",
         "all reformer - jump happy hour 55 mins",
     ],
@@ -65,6 +67,7 @@ FILTER_OUT = {
         "mega x hips dont lie, glutes will cry",
         "megaformer arms + abs",
         "megaformer arms + ass",
+        "megaformer arms + ass x house music fridays",
         "megaformer ass + abs",
         "megaformer strength + stretch (45 min)",
         "megaformer x flashback friday",
@@ -128,6 +131,7 @@ FILTER_OUT = {
         "red light reiki + sound for sleep",
         "red light yin + sound bath",
         "reiki infused sound bath | red light - 40 min",
+        "reiki infused sound bath w/ scent - 40 min",
         "reiki infused sound bath w/ scent + integration",
         "self inquiry + sound bath w/ integration",
         "vinyasa flow + sound bath",
