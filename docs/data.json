@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T01:30:40.113640-07:00",
+  "last_updated": "2026-07-16T03:31:52.183347-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -1130,7 +1130,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-17",
       "start_time": "12:30",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 49
     },
     {
@@ -1140,7 +1140,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-17",
       "start_time": "12:30",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 50
     },
     {
