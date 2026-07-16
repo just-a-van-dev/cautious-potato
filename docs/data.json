@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T16:11:22.147928-07:00",
+  "last_updated": "2026-07-15T17:08:14.665003-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -140,7 +140,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-17",
       "start_time": "07:15",
-      "available_spot_count": 22,
+      "available_spot_count": 20,
       "capacity": 45
     },
     {
@@ -395,46 +395,6 @@
     },
     {
       "studio": "Evolution",
-      "name": "EVOLUTION X ORGANIKA (Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-07-08 16:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-15",
-      "start_time": "16:30",
-      "available_spot_count": 5,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVOLUTION X ORGANIKA (Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-07-08 17:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-15",
-      "start_time": "17:30",
-      "available_spot_count": 3,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVOLUTION X ORGANIKA (Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-07-08 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-15",
-      "start_time": "18:30",
-      "available_spot_count": 5,
-      "capacity": 9
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVOLUTION X ORGANIKA (Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-07-08 19:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-15",
-      "start_time": "19:30",
-      "available_spot_count": 0,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
       "name": "Infrared Lagree - Drake & Shake",
       "booking_start_date": "2026-07-10 18:30",
       "location": "Vancouver",
@@ -460,7 +420,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-21",
       "start_time": "06:45",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -1065,16 +1025,6 @@
     },
     {
       "studio": "All Method Studio",
-      "name": "ALL Reformer - Elevate Happy Hour 55 mins",
-      "booking_start_date": "2026-07-01 16:15",
-      "location": "Railway",
-      "start_date": "2026-07-15",
-      "start_time": "16:15",
-      "available_spot_count": 2,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
       "name": "ALL Access: Run x Run",
       "booking_start_date": "2026-07-07 18:30",
       "location": "Railway",
@@ -1220,7 +1170,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-07-16",
       "start_time": "07:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 18
     },
     {
@@ -1250,7 +1200,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-07-19",
       "start_time": "08:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 18
     },
     {
@@ -1270,7 +1220,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-07-19",
       "start_time": "10:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 18
     },
     {
@@ -1290,7 +1240,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-16",
       "start_time": "07:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 32
     },
     {
@@ -1325,22 +1275,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: GLOW RIDE: ZHU x FRED AGAIN..",
-      "booking_start_date": "2026-07-07 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-07-15",
-      "start_time": "18:40",
-      "available_spot_count": 23,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: LANE 8 x SOLOMUN",
       "booking_start_date": "2026-07-08 12:00",
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-16",
       "start_time": "06:00",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 36
     },
     {
@@ -1350,7 +1290,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-16",
       "start_time": "07:15",
-      "available_spot_count": 23,
+      "available_spot_count": 28,
       "capacity": 49
     },
     {
@@ -1450,7 +1390,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-17",
       "start_time": "17:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 37
     },
     {
@@ -1500,7 +1440,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-19",
       "start_time": "11:50",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -1600,7 +1540,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-22",
       "start_time": "12:30",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
