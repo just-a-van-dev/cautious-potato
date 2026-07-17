@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T07:15:21.156412-07:00",
+  "last_updated": "2026-07-17T09:01:46.735325-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -65,22 +65,12 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn x Body Energy Club",
-      "booking_start_date": "2026-07-10 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-07-17",
-      "start_time": "07:15",
-      "available_spot_count": 0,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn \u2014 Reformer x Body Energy Club",
       "booking_start_date": "2026-07-10 00:00",
       "location": "Kingsway",
       "start_date": "2026-07-17",
       "start_time": "09:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 20
     },
     {
@@ -90,7 +80,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-17",
       "start_time": "10:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 45
     },
     {
@@ -175,22 +165,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body x Sahajan",
-      "booking_start_date": "2026-07-10 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-17",
-      "start_time": "08:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Club Lagree  x Veggiet",
       "booking_start_date": "2026-07-10 09:00",
       "location": "Vancouver",
       "start_date": "2026-07-17",
       "start_time": "09:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -230,7 +210,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-17",
       "start_time": "16:30",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -490,7 +470,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "06:45",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -560,7 +540,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "17:30",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -905,6 +885,16 @@
     },
     {
       "studio": "Lagree X",
+      "name": "Summer Hits\ud83d\udd25",
+      "booking_start_date": "2026-07-12 10:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-19",
+      "start_time": "10:30",
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
       "name": "\ud83c\udfa4 Janet \u00d7 Mariah \u2728",
       "booking_start_date": "2026-07-17 08:30",
       "location": "Vancouver",
@@ -990,7 +980,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-07-19",
       "start_time": "11:40",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 18
     },
     {
@@ -1015,22 +1005,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME:RUFUS DU SOL X VINTAGE CULTURE",
-      "booking_start_date": "2026-07-09 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-07-17",
-      "start_time": "07:15",
-      "available_spot_count": 19,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: 50 CENT x DRAKE",
       "booking_start_date": "2026-07-09 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-17",
       "start_time": "12:30",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 49
     },
     {
@@ -1050,7 +1030,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-17",
       "start_time": "16:20",
-      "available_spot_count": 31,
+      "available_spot_count": 32,
       "capacity": 49
     },
     {
@@ -1060,8 +1040,8 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-17",
       "start_time": "17:30",
-      "available_spot_count": 6,
-      "capacity": 37
+      "available_spot_count": 4,
+      "capacity": 36
     },
     {
       "studio": "Spin Society",
@@ -1070,7 +1050,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-17",
       "start_time": "18:40",
-      "available_spot_count": 2,
+      "available_spot_count": 4,
       "capacity": 49
     },
     {
@@ -1100,7 +1080,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-19",
       "start_time": "10:40",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 49
     },
     {
@@ -1110,7 +1090,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-19",
       "start_time": "11:50",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -1160,7 +1140,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-20",
       "start_time": "18:40",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 37
     },
     {
@@ -1200,7 +1180,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-22",
       "start_time": "09:45",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 49
     },
     {
@@ -1230,7 +1210,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-23",
       "start_time": "12:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
