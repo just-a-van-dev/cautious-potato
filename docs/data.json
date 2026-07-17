@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T10:21:32.658087-07:00",
+  "last_updated": "2026-07-17T11:38:59.543176-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -65,26 +65,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn x Body Energy Club",
-      "booking_start_date": "2026-07-10 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-07-17",
-      "start_time": "10:00",
-      "available_spot_count": 3,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn \u2014 Reformer x Body Energy Club",
-      "booking_start_date": "2026-07-10 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-07-17",
-      "start_time": "10:20",
-      "available_spot_count": 7,
-      "capacity": 20
-    },
-    {
-      "studio": "Jaybird",
       "name": "Teacher Development | The Burn $18",
       "booking_start_date": "2026-07-10 00:00",
       "location": "Kingsway",
@@ -110,7 +90,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-20",
       "start_time": "13:30",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -135,16 +115,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn - Sweat to Support Survivors & BWSS",
-      "booking_start_date": "2026-07-26 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-08-02",
-      "start_time": "17:45",
-      "available_spot_count": 45,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn - Reformer | Teacher Development ($25)",
       "booking_start_date": "2026-07-29 00:00",
       "location": "Kingsway",
@@ -154,14 +124,14 @@
       "capacity": 20
     },
     {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Headsets x Sahajan",
-      "booking_start_date": "2026-07-10 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-17",
-      "start_time": "10:00",
-      "available_spot_count": 7,
-      "capacity": 12
+      "studio": "Jaybird",
+      "name": "The Balance + Sound Bath (Unheated)",
+      "booking_start_date": "2026-08-07 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-08-14",
+      "start_time": "18:40",
+      "available_spot_count": 45,
+      "capacity": 45
     },
     {
       "studio": "Lagree Studio",
@@ -170,7 +140,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-17",
       "start_time": "11:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -260,7 +230,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-18",
       "start_time": "16:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -530,7 +500,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "17:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -550,7 +520,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "18:30",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
@@ -840,7 +810,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-24",
       "start_time": "08:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 11
     },
     {
@@ -990,7 +960,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-17",
       "start_time": "12:30",
-      "available_spot_count": 22,
+      "available_spot_count": 17,
       "capacity": 49
     },
     {
@@ -1030,7 +1000,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-17",
       "start_time": "18:40",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 49
     },
     {
@@ -1060,7 +1030,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-19",
       "start_time": "10:40",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 49
     },
     {
@@ -1070,7 +1040,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-19",
       "start_time": "11:50",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -1160,7 +1130,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-22",
       "start_time": "09:45",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
@@ -1190,7 +1160,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-23",
       "start_time": "12:30",
-      "available_spot_count": 40,
+      "available_spot_count": 38,
       "capacity": 49
     },
     {
@@ -1275,6 +1245,26 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: RUFUS DU SOL X JOHN SUMMIT",
+      "booking_start_date": "2026-07-22 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-30",
+      "start_time": "07:15",
+      "available_spot_count": 49,
+      "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: T-PAIN x 50 CENT x TIMBALAND",
+      "booking_start_date": "2026-07-22 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-07-30",
+      "start_time": "09:45",
+      "available_spot_count": 37,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: ARIANA: REMIXES - VOL 1",
       "booking_start_date": "2026-07-22 12:00",
       "location": "DOWNTOWN VANCOUVER",
@@ -1282,6 +1272,16 @@
       "start_time": "12:30",
       "available_spot_count": 37,
       "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: T-PAIN x 50 CENT x TIMBALAND",
+      "booking_start_date": "2026-07-22 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-30",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -1300,6 +1300,16 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-30",
       "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ARIANA: REMIXES - VOL 2",
+      "booking_start_date": "2026-07-23 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-31",
+      "start_time": "12:30",
       "available_spot_count": 50,
       "capacity": 50
     },
