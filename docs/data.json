@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T16:33:17.777667-07:00",
+  "last_updated": "2026-07-16T18:08:13.337678-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -80,7 +80,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-17",
       "start_time": "09:15",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -90,7 +90,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-17",
       "start_time": "10:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 45
     },
     {
@@ -100,7 +100,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-17",
       "start_time": "10:20",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 20
     },
     {
@@ -345,6 +345,16 @@
     },
     {
       "studio": "Evolution",
+      "name": "Personal Training",
+      "booking_start_date": "2026-07-10 19:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-17",
+      "start_time": "19:30",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
       "name": "EVOLUTION X ORGANIKA (Infrared Lagree-Full Body)",
       "booking_start_date": "2026-07-14 05:45",
       "location": "Vancouver",
@@ -360,7 +370,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-21",
       "start_time": "06:45",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -450,7 +460,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-21",
       "start_time": "18:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
@@ -480,7 +490,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "06:45",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -570,7 +580,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "18:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -740,7 +750,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-27",
       "start_time": "09:45",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -880,7 +890,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-17",
       "start_time": "08:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -910,7 +920,7 @@
       "location": "West End",
       "start_date": "2026-07-19",
       "start_time": "14:00",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 25
     },
     {
@@ -985,16 +995,6 @@
     },
     {
       "studio": "Turf",
-      "name": "VIN VAN x TurF: Core + Pour",
-      "booking_start_date": "2026-06-16 18:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-07-16",
-      "start_time": "18:00",
-      "available_spot_count": 0,
-      "capacity": 40
-    },
-    {
-      "studio": "Turf",
       "name": "Mat Werk 60 min *Co-teach*",
       "booking_start_date": "2026-07-18 12:30",
       "location": "KITS - Vancouver",
@@ -1015,16 +1015,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: JUSTIN BIEBER x JOHN SUMMIT",
-      "booking_start_date": "2026-07-08 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-07-16",
-      "start_time": "18:40",
-      "available_spot_count": 17,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: BACKSTREET X NSYNC",
       "booking_start_date": "2026-07-09 12:00",
       "location": "BRENTWOOD",
@@ -1040,7 +1030,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-17",
       "start_time": "07:15",
-      "available_spot_count": 19,
+      "available_spot_count": 21,
       "capacity": 37
     },
     {
@@ -1050,7 +1040,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-17",
       "start_time": "12:30",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 49
     },
     {
@@ -1070,7 +1060,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-17",
       "start_time": "16:20",
-      "available_spot_count": 22,
+      "available_spot_count": 23,
       "capacity": 49
     },
     {
@@ -1080,7 +1070,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-17",
       "start_time": "17:30",
-      "available_spot_count": 4,
+      "available_spot_count": 6,
       "capacity": 37
     },
     {
@@ -1100,7 +1090,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-18",
       "start_time": "10:40",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 50
     },
     {
@@ -1120,7 +1110,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-19",
       "start_time": "10:40",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 49
     },
     {
@@ -1240,7 +1230,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-23",
       "start_time": "09:45",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -1250,7 +1240,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-23",
       "start_time": "12:30",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 49
     },
     {
