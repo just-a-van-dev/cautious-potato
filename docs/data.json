@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T04:08:43.148165-07:00",
+  "last_updated": "2026-07-17T05:19:21.895463-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -340,7 +340,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-17",
       "start_time": "18:30",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
@@ -1050,7 +1050,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-17",
       "start_time": "12:30",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 50
     },
     {
