@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T14:05:41.396747-07:00",
+  "last_updated": "2026-07-17T15:03:44.873118-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -65,16 +65,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "Teacher Development | The Burn $18",
-      "booking_start_date": "2026-07-10 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-07-17",
-      "start_time": "13:30",
-      "available_spot_count": 39,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Balance + ALO Community Class",
       "booking_start_date": "2026-07-11 17:45",
       "location": "Yaletown",
@@ -90,7 +80,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-20",
       "start_time": "13:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -140,12 +130,12 @@
       "location": "Vancouver",
       "start_date": "2026-07-17",
       "start_time": "15:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
       "studio": "Lagree Studio",
-      "name": "New Instructor Class",
+      "name": "New Instructor Class x Sahajan Sample",
       "booking_start_date": "2026-07-10 16:30",
       "location": "Vancouver",
       "start_date": "2026-07-17",
@@ -155,7 +145,7 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "New Instructor Class",
+      "name": "New Instructor Class x Sahajan Sample",
       "booking_start_date": "2026-07-10 17:30",
       "location": "Vancouver",
       "start_date": "2026-07-17",
@@ -180,7 +170,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-18",
       "start_time": "10:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -925,16 +915,6 @@
     },
     {
       "studio": "Hustle",
-      "name": "CONTROL - Sponsored by Tractor at home",
-      "booking_start_date": "2026-07-09 13:45",
-      "location": "Mount Pleasant",
-      "start_date": "2026-07-17",
-      "start_time": "13:45",
-      "available_spot_count": 0,
-      "capacity": 18
-    },
-    {
-      "studio": "Hustle",
       "name": "BOOTY + CORE - Sponsored by SHADE Hair Studio",
       "booking_start_date": "2026-07-10 09:15",
       "location": "Mount Pleasant",
@@ -970,7 +950,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-07-19",
       "start_time": "10:30",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 18
     },
     {
@@ -980,7 +960,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-07-19",
       "start_time": "11:40",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 18
     },
     {
@@ -1010,7 +990,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-17",
       "start_time": "16:20",
-      "available_spot_count": 31,
+      "available_spot_count": 29,
       "capacity": 49
     },
     {
@@ -1030,7 +1010,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-17",
       "start_time": "18:40",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 49
     },
     {
@@ -1050,7 +1030,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-19",
       "start_time": "09:30",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 37
     },
     {
@@ -1070,7 +1050,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-19",
       "start_time": "11:50",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 49
     },
     {
@@ -1080,7 +1060,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-19",
       "start_time": "11:50",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -1170,7 +1150,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-22",
       "start_time": "12:30",
-      "available_spot_count": 44,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
@@ -1180,7 +1160,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-23",
       "start_time": "09:45",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -1210,7 +1190,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-25",
       "start_time": "09:30",
-      "available_spot_count": 40,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
