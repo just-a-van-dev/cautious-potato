@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T15:29:12.696918-07:00",
+  "last_updated": "2026-07-18T16:33:42.095689-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -126,16 +126,6 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body x Scentuals Sample",
-      "booking_start_date": "2026-07-11 15:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-18",
-      "start_time": "15:00",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body x Scentuals Sample",
       "booking_start_date": "2026-07-11 16:00",
       "location": "Vancouver",
       "start_date": "2026-07-18",
@@ -151,16 +141,6 @@
       "start_date": "2026-07-19",
       "start_time": "12:00",
       "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "New Instructor Class x Scentuals Sample",
-      "booking_start_date": "2026-07-12 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-19",
-      "start_time": "13:00",
-      "available_spot_count": 12,
       "capacity": 12
     },
     {
@@ -205,36 +185,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "New Instructor Class",
-      "booking_start_date": "2026-07-14 07:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-21",
-      "start_time": "07:00",
-      "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "New Instructor Class",
-      "booking_start_date": "2026-07-14 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-21",
-      "start_time": "08:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "New Instructor Class With Headsets",
-      "booking_start_date": "2026-07-14 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-21",
-      "start_time": "09:00",
-      "available_spot_count": 11,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Club Lagree x 80\u2019s x Veggiet Sample",
       "booking_start_date": "2026-07-14 15:30",
       "location": "Vancouver",
@@ -270,7 +220,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-19",
       "start_time": "08:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
@@ -280,7 +230,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-19",
       "start_time": "09:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
@@ -310,7 +260,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-19",
       "start_time": "12:15",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -570,7 +520,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-24",
       "start_time": "18:30",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
@@ -600,7 +550,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-25",
       "start_time": "10:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -910,7 +860,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-07-19",
       "start_time": "11:40",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 18
     },
     {
@@ -920,7 +870,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-25",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 32
     },
     {
@@ -950,7 +900,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-19",
       "start_time": "10:40",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 49
     },
     {
@@ -970,7 +920,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-19",
       "start_time": "11:50",
-      "available_spot_count": 34,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -1000,7 +950,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-20",
       "start_time": "16:20",
-      "available_spot_count": 35,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
