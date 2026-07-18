@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T14:30:28.253919-07:00",
+  "last_updated": "2026-07-18T15:29:12.696918-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -70,7 +70,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-20",
       "start_time": "13:30",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -126,16 +126,6 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body x Scentuals Sample",
-      "booking_start_date": "2026-07-11 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-18",
-      "start_time": "14:00",
-      "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body x Scentuals Sample",
       "booking_start_date": "2026-07-11 15:00",
       "location": "Vancouver",
       "start_date": "2026-07-18",
@@ -150,7 +140,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-18",
       "start_time": "16:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -280,7 +270,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-19",
       "start_time": "08:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 10
     },
     {
@@ -300,7 +290,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-19",
       "start_time": "10:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 10
     },
     {
@@ -320,7 +310,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-19",
       "start_time": "12:15",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
@@ -400,7 +390,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-21",
       "start_time": "16:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -870,7 +860,7 @@
       "location": "West End",
       "start_date": "2026-07-19",
       "start_time": "14:00",
-      "available_spot_count": 11,
+      "available_spot_count": 9,
       "capacity": 25
     },
     {
@@ -970,7 +960,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-19",
       "start_time": "11:50",
-      "available_spot_count": 19,
+      "available_spot_count": 20,
       "capacity": 49
     },
     {
@@ -1030,7 +1020,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-20",
       "start_time": "18:40",
-      "available_spot_count": 23,
+      "available_spot_count": 24,
       "capacity": 50
     },
     {
@@ -1090,7 +1080,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-23",
       "start_time": "12:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 49
     },
     {
