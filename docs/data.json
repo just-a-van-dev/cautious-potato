@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T00:11:36.883429-07:00",
+  "last_updated": "2026-07-19T02:16:53.009300-07:00",
   "special": [],
   "sponsored": [
     {
@@ -49,7 +49,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-20",
       "start_time": "13:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -409,7 +409,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "11:45",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -939,7 +939,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-19",
       "start_time": "10:40",
-      "available_spot_count": 14,
+      "available_spot_count": 15,
       "capacity": 49
     },
     {
@@ -949,7 +949,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-19",
       "start_time": "11:50",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 49
     },
     {
@@ -1099,7 +1099,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-26",
       "start_time": "11:50",
-      "available_spot_count": 45,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
