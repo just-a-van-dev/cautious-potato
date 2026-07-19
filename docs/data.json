@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T05:05:26.094928-07:00",
+  "last_updated": "2026-07-19T06:47:37.521402-07:00",
   "special": [],
   "sponsored": [
     {
@@ -59,7 +59,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-21",
       "start_time": "08:30",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 45
     },
     {
@@ -869,7 +869,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-07-19",
       "start_time": "08:00",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 18
     },
     {
@@ -889,7 +889,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-07-19",
       "start_time": "10:30",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 18
     },
     {
