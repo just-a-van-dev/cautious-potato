@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T15:31:43.409173-07:00",
+  "last_updated": "2026-07-19T16:35:31.048617-07:00",
   "special": [],
   "sponsored": [
     {
@@ -144,16 +144,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "New Instructor Class x Scentuals Sample",
-      "booking_start_date": "2026-07-12 15:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-19",
-      "start_time": "15:00",
-      "available_spot_count": 3,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "New Instructor Class",
       "booking_start_date": "2026-07-13 18:30",
       "location": "Vancouver",
@@ -169,7 +159,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-20",
       "start_time": "19:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -859,7 +849,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-20",
       "start_time": "16:20",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 49
     },
     {
@@ -869,7 +859,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-20",
       "start_time": "18:40",
-      "available_spot_count": 20,
+      "available_spot_count": 21,
       "capacity": 37
     },
     {
@@ -879,7 +869,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-20",
       "start_time": "18:40",
-      "available_spot_count": 20,
+      "available_spot_count": 21,
       "capacity": 50
     },
     {
@@ -909,7 +899,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-22",
       "start_time": "09:45",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 49
     },
     {
@@ -959,7 +949,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-25",
       "start_time": "09:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 50
     },
     {
@@ -969,7 +959,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-26",
       "start_time": "11:50",
-      "available_spot_count": 38,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
@@ -979,7 +969,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-27",
       "start_time": "16:20",
-      "available_spot_count": 48,
+      "available_spot_count": 45,
       "capacity": 49
     },
     {
