@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T09:08:14.515596-07:00",
+  "last_updated": "2026-07-19T10:12:11.987501-07:00",
   "special": [],
   "sponsored": [
     {
@@ -181,16 +181,6 @@
       "start_time": "08:00",
       "available_spot_count": 8,
       "capacity": 12
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVO X SWAE LAB (Infrared Lagree - Full Body)",
-      "booking_start_date": "2026-07-12 09:15",
-      "location": "Vancouver",
-      "start_date": "2026-07-19",
-      "start_time": "09:15",
-      "available_spot_count": 1,
-      "capacity": 9
     },
     {
       "studio": "Evolution",
@@ -724,22 +714,12 @@
     },
     {
       "studio": "Lagree X",
-      "name": "Bad Bunny \ud83d\udc30\ud83d\udda4",
-      "booking_start_date": "2026-07-12 09:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-19",
-      "start_time": "09:30",
-      "available_spot_count": 0,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
       "name": "Summer Hits\ud83d\udd25",
       "booking_start_date": "2026-07-12 10:30",
       "location": "Vancouver",
       "start_date": "2026-07-19",
       "start_time": "10:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -854,16 +834,6 @@
     },
     {
       "studio": "Hustle",
-      "name": "SWEATCON ARMS + ABS - Sponsored by FACECRIME",
-      "booking_start_date": "2026-07-11 09:15",
-      "location": "Mount Pleasant",
-      "start_date": "2026-07-19",
-      "start_time": "09:15",
-      "available_spot_count": 0,
-      "capacity": 18
-    },
-    {
-      "studio": "Hustle",
       "name": "BOOTY - Sponsored by FACECRIME Vit B Shots",
       "booking_start_date": "2026-07-11 10:30",
       "location": "Mount Pleasant",
@@ -879,7 +849,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-07-19",
       "start_time": "11:40",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 18
     },
     {
@@ -909,7 +879,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-19",
       "start_time": "09:30",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 37
     },
     {
@@ -1009,8 +979,8 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-21",
       "start_time": "12:30",
-      "available_spot_count": 26,
-      "capacity": 36
+      "available_spot_count": 27,
+      "capacity": 37
     },
     {
       "studio": "Spin Society",
@@ -1029,7 +999,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-22",
       "start_time": "12:30",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -1079,7 +1049,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-26",
       "start_time": "11:50",
-      "available_spot_count": 42,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
