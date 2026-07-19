@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T06:47:37.521402-07:00",
+  "last_updated": "2026-07-19T08:10:47.434321-07:00",
   "special": [],
   "sponsored": [
     {
@@ -69,7 +69,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-25",
       "start_time": "16:20",
-      "available_spot_count": 31,
+      "available_spot_count": 32,
       "capacity": 36
     },
     {
@@ -869,7 +869,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-07-19",
       "start_time": "08:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 18
     },
     {
@@ -889,7 +889,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-07-19",
       "start_time": "10:30",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 18
     },
     {
@@ -929,7 +929,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-19",
       "start_time": "09:30",
-      "available_spot_count": 6,
+      "available_spot_count": 8,
       "capacity": 37
     },
     {
@@ -989,7 +989,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-20",
       "start_time": "16:20",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 49
     },
     {
@@ -1029,7 +1029,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-21",
       "start_time": "12:30",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 36
     },
     {
@@ -1039,7 +1039,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-22",
       "start_time": "09:45",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 49
     },
     {
@@ -1099,7 +1099,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-26",
       "start_time": "11:50",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 49
     },
     {
