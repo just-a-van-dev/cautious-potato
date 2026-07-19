@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T10:12:11.987501-07:00",
+  "last_updated": "2026-07-19T11:06:58.121888-07:00",
   "special": [],
   "sponsored": [
     {
@@ -185,21 +185,11 @@
     {
       "studio": "Evolution",
       "name": "EVO X SWAE LAB (Infrared Lagree - Full Body)",
-      "booking_start_date": "2026-07-12 10:15",
-      "location": "Vancouver",
-      "start_date": "2026-07-19",
-      "start_time": "10:15",
-      "available_spot_count": 1,
-      "capacity": 9
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVO X SWAE LAB (Infrared Lagree - Full Body)",
       "booking_start_date": "2026-07-12 11:15",
       "location": "Vancouver",
       "start_date": "2026-07-19",
       "start_time": "11:15",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 9
     },
     {
@@ -209,7 +199,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-19",
       "start_time": "12:15",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 9
     },
     {
@@ -874,22 +864,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: BRITNEY X CHRISTINA",
-      "booking_start_date": "2026-07-11 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-07-19",
-      "start_time": "09:30",
-      "available_spot_count": 10,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: DABIN x K-POP",
       "booking_start_date": "2026-07-11 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-19",
       "start_time": "10:40",
-      "available_spot_count": 15,
+      "available_spot_count": 16,
       "capacity": 49
     },
     {
@@ -899,7 +879,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-19",
       "start_time": "11:50",
-      "available_spot_count": 19,
+      "available_spot_count": 21,
       "capacity": 49
     },
     {
@@ -949,7 +929,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-20",
       "start_time": "18:40",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 37
     },
     {
@@ -959,7 +939,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-20",
       "start_time": "18:40",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 50
     },
     {
@@ -1039,7 +1019,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-25",
       "start_time": "09:30",
-      "available_spot_count": 16,
+      "available_spot_count": 14,
       "capacity": 50
     },
     {
