@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-07-19T16:35:31.048617-07:00",
-  "special": [],
+  "last_updated": "2026-07-19T18:10:17.036769-07:00",
+  "special": [
+    {
+      "studio": "Lagree West",
+      "name": "Friends + Family | MegaCardio",
+      "booking_start_date": "2026-07-06 20:30",
+      "location": "Kitsilano",
+      "start_date": "2026-07-20",
+      "start_time": "20:30",
+      "available_spot_count": 26,
+      "capacity": 26
+    }
+  ],
   "sponsored": [
+    {
+      "studio": "Lagree West",
+      "name": "Friends + Family | MegaCardio",
+      "booking_start_date": "2026-07-06 20:30",
+      "location": "Kitsilano",
+      "start_date": "2026-07-20",
+      "start_time": "20:30",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
@@ -49,7 +70,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-20",
       "start_time": "13:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -79,7 +100,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-21",
       "start_time": "10:20",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -359,7 +380,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "11:45",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
@@ -479,7 +500,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-25",
       "start_time": "11:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 10
     },
     {
@@ -784,16 +805,6 @@
     },
     {
       "studio": "Ritual",
-      "name": "Microdose Mini Retreat | Breathwork + Sound",
-      "booking_start_date": "2026-04-20 14:00",
-      "location": "West End",
-      "start_date": "2026-07-19",
-      "start_time": "14:00",
-      "available_spot_count": 3,
-      "capacity": 25
-    },
-    {
-      "studio": "Ritual",
       "name": "Microdose Mini Retreat | Lymphatic Yin + Sound",
       "booking_start_date": "2026-04-27 14:00",
       "location": "West End",
@@ -829,7 +840,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-20",
       "start_time": "06:00",
-      "available_spot_count": 30,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
@@ -839,7 +850,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-20",
       "start_time": "12:30",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -979,7 +990,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-27",
       "start_time": "18:40",
-      "available_spot_count": 42,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
