@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T06:02:09.007652-07:00",
+  "last_updated": "2026-07-21T08:14:41.678075-07:00",
   "special": [],
   "sponsored": [
     {
@@ -19,7 +19,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-28",
       "start_time": "18:15",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 20
     },
     {
@@ -59,7 +59,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-21",
       "start_time": "08:30",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 45
     },
     {
@@ -79,7 +79,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-21",
       "start_time": "10:20",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 20
     },
     {
@@ -89,7 +89,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-21",
       "start_time": "12:00",
-      "available_spot_count": 27,
+      "available_spot_count": 29,
       "capacity": 45
     },
     {
@@ -149,7 +149,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-21",
       "start_time": "09:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -169,7 +169,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-22",
       "start_time": "09:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -201,26 +201,6 @@
       "start_time": "08:00",
       "available_spot_count": 7,
       "capacity": 12
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVOLUTION X ORGANIKA (Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-07-14 05:45",
-      "location": "Vancouver",
-      "start_date": "2026-07-21",
-      "start_time": "05:45",
-      "available_spot_count": 8,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVOLUTION X ORGANIKA (Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-07-14 06:45",
-      "location": "Vancouver",
-      "start_date": "2026-07-21",
-      "start_time": "06:45",
-      "available_spot_count": 2,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
@@ -259,7 +239,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-21",
       "start_time": "12:45",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -309,7 +289,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-21",
       "start_time": "18:30",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 9
     },
     {
@@ -429,7 +409,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "18:30",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 10
     },
     {
@@ -859,7 +839,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-21",
       "start_time": "12:30",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 37
     },
     {
@@ -919,7 +899,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-25",
       "start_time": "09:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 50
     },
     {
@@ -929,7 +909,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-26",
       "start_time": "11:50",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 49
     },
     {
@@ -969,7 +949,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-28",
       "start_time": "18:40",
-      "available_spot_count": 46,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -1089,7 +1069,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-31",
       "start_time": "17:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 37
     },
     {
