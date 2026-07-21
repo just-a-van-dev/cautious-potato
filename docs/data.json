@@ -1,28 +1,7 @@
 {
-  "last_updated": "2026-07-20T16:12:02.874144-07:00",
-  "special": [
-    {
-      "studio": "Lagree West",
-      "name": "Friends + Family | MegaCardio",
-      "booking_start_date": "2026-07-06 20:30",
-      "location": "Kitsilano",
-      "start_date": "2026-07-20",
-      "start_time": "20:30",
-      "available_spot_count": 26,
-      "capacity": 26
-    }
-  ],
+  "last_updated": "2026-07-20T17:08:17.884428-07:00",
+  "special": [],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Friends + Family | MegaCardio",
-      "booking_start_date": "2026-07-06 20:30",
-      "location": "Kitsilano",
-      "start_date": "2026-07-20",
-      "start_time": "20:30",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
@@ -100,7 +79,7 @@
       "location": "Kingsway",
       "start_date": "2026-07-21",
       "start_time": "10:20",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -162,26 +141,6 @@
       "start_time": "18:40",
       "available_spot_count": 45,
       "capacity": 45
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk New Instructor Class",
-      "booking_start_date": "2026-07-13 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-20",
-      "start_time": "18:30",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk New Instructor Class",
-      "booking_start_date": "2026-07-13 19:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-20",
-      "start_time": "19:30",
-      "available_spot_count": 8,
-      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -250,7 +209,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-21",
       "start_time": "06:45",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
@@ -340,8 +299,8 @@
       "location": "Vancouver",
       "start_date": "2026-07-21",
       "start_time": "18:30",
-      "available_spot_count": 4,
-      "capacity": 10
+      "available_spot_count": 2,
+      "capacity": 9
     },
     {
       "studio": "Evolution",
@@ -350,7 +309,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-21",
       "start_time": "19:30",
-      "available_spot_count": 9,
+      "available_spot_count": 0,
       "capacity": 10
     },
     {
@@ -710,7 +669,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-24",
       "start_time": "08:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 11
     },
     {
@@ -875,36 +834,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: CHRIS STAPLETON PRE-PARTY",
-      "booking_start_date": "2026-07-12 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-07-20",
-      "start_time": "16:20",
-      "available_spot_count": 29,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: CHRIS STAPLETON PRE-PARTY",
-      "booking_start_date": "2026-07-12 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-07-20",
-      "start_time": "18:40",
-      "available_spot_count": 22,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: KASKADE X DEADMAU5 AP",
-      "booking_start_date": "2026-07-12 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-07-20",
-      "start_time": "18:40",
-      "available_spot_count": 19,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME:RUFUS DU SOL X VINTAGE CULTURE",
       "booking_start_date": "2026-07-13 12:00",
       "location": "MOUNT PLEASANT",
@@ -920,7 +849,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-21",
       "start_time": "12:30",
-      "available_spot_count": 24,
+      "available_spot_count": 25,
       "capacity": 37
     },
     {
@@ -970,7 +899,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-23",
       "start_time": "18:40",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 50
     },
     {
