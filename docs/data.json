@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T15:32:17.803789-07:00",
+  "last_updated": "2026-07-21T16:36:49.612350-07:00",
   "special": [],
   "sponsored": [
     {
@@ -19,7 +19,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-28",
       "start_time": "18:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -94,22 +94,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Club Lagree x 80\u2019s x Veggiet Sample",
-      "booking_start_date": "2026-07-14 15:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-21",
-      "start_time": "15:30",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body Headsets",
       "booking_start_date": "2026-07-15 09:00",
       "location": "Vancouver",
       "start_date": "2026-07-22",
       "start_time": "09:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -154,32 +144,12 @@
     },
     {
       "studio": "Evolution",
-      "name": "EVO X ORGANIKA (Sculpt X- Lower Body + Core)",
-      "booking_start_date": "2026-07-07 17:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-21",
-      "start_time": "17:00",
-      "available_spot_count": 5,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
       "name": "EVOLUTION X ORGANIKA (Infrared Lagree-Full Body)",
       "booking_start_date": "2026-07-14 17:30",
       "location": "Vancouver",
       "start_date": "2026-07-21",
       "start_time": "17:30",
-      "available_spot_count": 6,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVO X ORGANIKA (Rhythmic Boxing & Endurance)",
-      "booking_start_date": "2026-07-07 18:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-21",
-      "start_time": "18:00",
-      "available_spot_count": 8,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
@@ -189,7 +159,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-21",
       "start_time": "18:30",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 9
     },
     {
@@ -809,7 +779,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-22",
       "start_time": "09:45",
-      "available_spot_count": 34,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
