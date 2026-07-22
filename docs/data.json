@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T00:17:58.074841-07:00",
+  "last_updated": "2026-07-22T03:04:52.737056-07:00",
   "special": [],
   "sponsored": [
     {
@@ -199,7 +199,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "16:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
@@ -799,7 +799,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-26",
       "start_time": "11:50",
-      "available_spot_count": 23,
+      "available_spot_count": 24,
       "capacity": 49
     },
     {
@@ -809,7 +809,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-27",
       "start_time": "16:20",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 49
     },
     {
@@ -819,7 +819,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-27",
       "start_time": "18:40",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 50
     },
     {
@@ -859,7 +859,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-29",
       "start_time": "12:30",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
