@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T10:38:12.709418-07:00",
+  "last_updated": "2026-07-22T11:45:00.344056-07:00",
   "special": [],
   "sponsored": [
     {
@@ -19,7 +19,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-28",
       "start_time": "18:15",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 20
     },
     {
@@ -74,6 +74,16 @@
     },
     {
       "studio": "Jaybird",
+      "name": "The Burn + ALO Community Class",
+      "booking_start_date": "2026-07-27 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-08-03",
+      "start_time": "08:15",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
       "name": "The Burn - Reformer | Teacher Development ($25)",
       "booking_start_date": "2026-07-29 00:00",
       "location": "Kingsway",
@@ -94,22 +104,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk Ass and Abs With Headsets",
-      "booking_start_date": "2026-07-15 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-22",
-      "start_time": "11:00",
-      "available_spot_count": 3,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body Headsets",
       "booking_start_date": "2026-07-15 12:00",
       "location": "Vancouver",
       "start_date": "2026-07-22",
       "start_time": "12:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -279,7 +279,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-25",
       "start_time": "10:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
@@ -379,7 +379,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-27",
       "start_time": "11:45",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
@@ -453,6 +453,16 @@
       "capacity": 10
     },
     {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - Full Body - Rihanna & Beyonc\u00e9",
+      "booking_start_date": "2026-08-07 12:45",
+      "location": "Vancouver",
+      "start_date": "2026-08-14",
+      "start_time": "12:45",
+      "available_spot_count": 10,
+      "capacity": 10
+    },
+    {
       "studio": "Tunnel",
       "name": "Heated Reformer x Spicy Dan",
       "booking_start_date": "2026-07-17 06:00",
@@ -499,7 +509,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-07",
       "start_time": "18:30",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 11
     },
     {
@@ -779,7 +789,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-22",
       "start_time": "12:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -829,7 +839,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-26",
       "start_time": "11:50",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 49
     },
     {
@@ -869,7 +879,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-28",
       "start_time": "17:30",
-      "available_spot_count": 23,
+      "available_spot_count": 24,
       "capacity": 50
     },
     {
