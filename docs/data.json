@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T09:05:47.029203-07:00",
+  "last_updated": "2026-07-22T10:38:12.709418-07:00",
   "special": [],
   "sponsored": [
     {
@@ -94,22 +94,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Headsets",
-      "booking_start_date": "2026-07-15 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-22",
-      "start_time": "09:00",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Ass and Abs With Headsets",
       "booking_start_date": "2026-07-15 11:00",
       "location": "Vancouver",
       "start_date": "2026-07-22",
       "start_time": "11:00",
-      "available_spot_count": 7,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -119,7 +109,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-22",
       "start_time": "12:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -159,7 +149,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "09:45",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -169,7 +159,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "10:45",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
@@ -194,7 +184,7 @@
     },
     {
       "studio": "Evolution",
-      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "name": "EVO X BODY ENERGY CLUB (Lagree-Full Body)",
       "booking_start_date": "2026-07-16 16:30",
       "location": "Vancouver",
       "start_date": "2026-07-23",
@@ -214,7 +204,7 @@
     },
     {
       "studio": "Evolution",
-      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "name": "EVO X BODY ENERGY CLUB (Lagree-Full Body)",
       "booking_start_date": "2026-07-16 17:30",
       "location": "Vancouver",
       "start_date": "2026-07-23",
@@ -234,7 +224,7 @@
     },
     {
       "studio": "Evolution",
-      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
+      "name": "EVO X BODY ENERGY CLUB (Lagree-Full Body)",
       "booking_start_date": "2026-07-16 18:30",
       "location": "Vancouver",
       "start_date": "2026-07-23",
@@ -389,7 +379,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-27",
       "start_time": "11:45",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -509,7 +499,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-07",
       "start_time": "18:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 11
     },
     {
@@ -519,7 +509,7 @@
       "location": "4th Ave",
       "start_date": "2026-07-28",
       "start_time": "17:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -539,7 +529,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-24",
       "start_time": "08:30",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -784,22 +774,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: ICONA POP x CHARLI XCX",
-      "booking_start_date": "2026-07-14 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-07-22",
-      "start_time": "09:45",
-      "available_spot_count": 34,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: 50 CENT x DRAKE",
       "booking_start_date": "2026-07-14 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-07-22",
       "start_time": "12:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -819,7 +799,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-23",
       "start_time": "12:30",
-      "available_spot_count": 29,
+      "available_spot_count": 27,
       "capacity": 49
     },
     {
@@ -829,7 +809,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-23",
       "start_time": "18:40",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -849,7 +829,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-26",
       "start_time": "11:50",
-      "available_spot_count": 24,
+      "available_spot_count": 22,
       "capacity": 49
     },
     {
@@ -869,7 +849,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-27",
       "start_time": "18:40",
-      "available_spot_count": 4,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -889,7 +869,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-28",
       "start_time": "17:30",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 50
     },
     {
@@ -919,7 +899,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-29",
       "start_time": "18:40",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 37
     },
     {
