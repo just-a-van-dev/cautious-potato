@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T16:36:49.612350-07:00",
+  "last_updated": "2026-07-21T18:03:37.809825-07:00",
   "special": [],
   "sponsored": [
     {
@@ -69,7 +69,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-27",
       "start_time": "13:30",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 36
     },
     {
@@ -119,7 +119,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-22",
       "start_time": "12:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -131,46 +131,6 @@
       "start_time": "08:00",
       "available_spot_count": 7,
       "capacity": 12
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVOLUTION X ORGANIKA (Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-07-14 16:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-21",
-      "start_time": "16:30",
-      "available_spot_count": 2,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVOLUTION X ORGANIKA (Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-07-14 17:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-21",
-      "start_time": "17:30",
-      "available_spot_count": 4,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVOLUTION X ORGANIKA (Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-07-14 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-21",
-      "start_time": "18:30",
-      "available_spot_count": 0,
-      "capacity": 9
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVOLUTION X ORGANIKA (Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-07-14 19:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-21",
-      "start_time": "19:30",
-      "available_spot_count": 0,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
@@ -419,7 +379,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-27",
       "start_time": "10:45",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -439,7 +399,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-27",
       "start_time": "12:45",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -673,14 +633,14 @@
       "capacity": 38
     },
     {
-      "studio": "All Method Studio",
-      "name": "ALL Access: Run x Recover",
-      "booking_start_date": "2026-07-07 18:30",
-      "location": "Railway",
-      "start_date": "2026-07-21",
-      "start_time": "18:30",
-      "available_spot_count": 24,
-      "capacity": 50
+      "studio": "ZenDen",
+      "name": "Power Yoga + Sound Bath",
+      "booking_start_date": "2026-08-21 12:15",
+      "location": "Vancouver",
+      "start_date": "2026-09-04",
+      "start_time": "12:15",
+      "available_spot_count": 38,
+      "capacity": 38
     },
     {
       "studio": "All Method Studio",
@@ -779,7 +739,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-22",
       "start_time": "09:45",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 49
     },
     {
@@ -789,7 +749,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-22",
       "start_time": "12:30",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
@@ -809,7 +769,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-23",
       "start_time": "12:30",
-      "available_spot_count": 29,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
@@ -839,7 +799,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-26",
       "start_time": "11:50",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 49
     },
     {
@@ -874,6 +834,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: BORN THIS WAY | GAGA PRIDE X BLUME",
+      "booking_start_date": "2026-07-20 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-28",
+      "start_time": "17:30",
+      "available_spot_count": 31,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: DOJA CAT X SZA X THE WEEKND",
       "booking_start_date": "2026-07-20 12:00",
       "location": "BRENTWOOD",
@@ -889,7 +859,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-29",
       "start_time": "12:30",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -899,7 +869,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-29",
       "start_time": "18:40",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 37
     },
     {
@@ -954,6 +924,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: PRIDE RIDE x NUDE",
+      "booking_start_date": "2026-07-22 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-07-30",
+      "start_time": "17:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: OFF CAMPUS x HEATED RIVALRY",
       "booking_start_date": "2026-07-22 12:00",
       "location": "MOUNT PLEASANT",
@@ -991,6 +971,16 @@
       "start_time": "12:30",
       "available_spot_count": 50,
       "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: PRIDE: LGBTQ ICONS X NUDE BEVS",
+      "booking_start_date": "2026-07-23 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-07-31",
+      "start_time": "15:00",
+      "available_spot_count": 46,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
