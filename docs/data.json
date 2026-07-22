@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T11:45:00.344056-07:00",
+  "last_updated": "2026-07-22T13:19:22.477400-07:00",
   "special": [],
   "sponsored": [
     {
@@ -19,7 +19,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-28",
       "start_time": "18:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 20
     },
     {
@@ -29,7 +29,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-28",
       "start_time": "19:15",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 20
     },
     {
@@ -101,16 +101,6 @@
       "start_time": "18:40",
       "available_spot_count": 45,
       "capacity": 45
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Headsets",
-      "booking_start_date": "2026-07-15 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-22",
-      "start_time": "12:00",
-      "available_spot_count": 6,
-      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -279,7 +269,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-25",
       "start_time": "10:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 10
     },
     {
@@ -769,7 +759,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-25",
       "start_time": "12:30",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 32
     },
     {
@@ -789,7 +779,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-22",
       "start_time": "12:30",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
@@ -819,7 +809,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-23",
       "start_time": "18:40",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 50
     },
     {
@@ -839,7 +829,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-26",
       "start_time": "11:50",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 49
     },
     {
@@ -849,7 +839,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-27",
       "start_time": "16:20",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 49
     },
     {
@@ -899,7 +889,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-29",
       "start_time": "12:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
@@ -919,7 +909,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "07:15",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 49
     },
     {
@@ -929,7 +919,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-30",
       "start_time": "09:45",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 37
     },
     {
@@ -939,7 +929,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-30",
       "start_time": "12:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 37
     },
     {
@@ -949,7 +939,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-30",
       "start_time": "12:30",
-      "available_spot_count": 50,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -959,7 +949,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "17:30",
-      "available_spot_count": 49,
+      "available_spot_count": 46,
       "capacity": 49
     },
     {
@@ -979,7 +969,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "18:40",
-      "available_spot_count": 49,
+      "available_spot_count": 47,
       "capacity": 49
     },
     {
@@ -989,8 +979,18 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-30",
       "start_time": "18:40",
-      "available_spot_count": 50,
+      "available_spot_count": 46,
       "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: RIHANNA x EDM",
+      "booking_start_date": "2026-07-23 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-07-31",
+      "start_time": "07:15",
+      "available_spot_count": 37,
+      "capacity": 37
     },
     {
       "studio": "Spin Society",
@@ -1034,11 +1034,101 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: EDM X THROWBACKS",
+      "booking_start_date": "2026-07-25 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-08-02",
+      "start_time": "08:20",
+      "available_spot_count": 37,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: POP X HIP HOP REMIXES",
       "booking_start_date": "2026-07-26 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-08-03",
       "start_time": "09:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: THROWBACKS: 2015-2020",
+      "booking_start_date": "2026-07-27 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-08-04",
+      "start_time": "12:30",
+      "available_spot_count": 37,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: JUSTIN BEIBER X JUSTIN TIMBERLAKE",
+      "booking_start_date": "2026-07-27 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-08-04",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: CALVIN HARRIS X ELLIE GOULDING",
+      "booking_start_date": "2026-07-27 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-08-04",
+      "start_time": "18:40",
+      "available_spot_count": 37,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: WAKE UP WITH EMMIT FENN",
+      "booking_start_date": "2026-07-28 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-08-05",
+      "start_time": "06:00",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: GAGA X TATE",
+      "booking_start_date": "2026-07-28 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-08-05",
+      "start_time": "16:20",
+      "available_spot_count": 37,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ARIANA: REMIXES - VOL 2",
+      "booking_start_date": "2026-07-29 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-08-06",
+      "start_time": "12:30",
+      "available_spot_count": 37,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: GAGA X TATE",
+      "booking_start_date": "2026-07-29 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-08-06",
+      "start_time": "17:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: RIHANNA X DRAKE",
+      "booking_start_date": "2026-07-30 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-08-07",
+      "start_time": "09:45",
       "available_spot_count": 50,
       "capacity": 50
     }
