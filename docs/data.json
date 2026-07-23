@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T05:00:50.299862-07:00",
+  "last_updated": "2026-07-23T07:27:15.325758-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -60,7 +60,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-25",
       "start_time": "16:20",
-      "available_spot_count": 29,
+      "available_spot_count": 30,
       "capacity": 36
     },
     {
@@ -156,21 +156,11 @@
     {
       "studio": "Evolution",
       "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-07-16 05:45",
-      "location": "Vancouver",
-      "start_date": "2026-07-23",
-      "start_time": "05:45",
-      "available_spot_count": 7,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
       "booking_start_date": "2026-07-16 06:45",
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "06:45",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
@@ -200,8 +190,8 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "11:45",
-      "available_spot_count": 2,
-      "capacity": 10
+      "available_spot_count": 1,
+      "capacity": 9
     },
     {
       "studio": "Evolution",
@@ -210,7 +200,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "12:45",
-      "available_spot_count": 9,
+      "available_spot_count": 0,
       "capacity": 10
     },
     {
@@ -270,8 +260,8 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "19:30",
-      "available_spot_count": 8,
-      "capacity": 10
+      "available_spot_count": 7,
+      "capacity": 9
     },
     {
       "studio": "Evolution",
@@ -330,7 +320,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-25",
       "start_time": "12:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
@@ -400,7 +390,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-27",
       "start_time": "10:45",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
@@ -470,7 +460,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-27",
       "start_time": "18:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -500,7 +490,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-24",
       "start_time": "06:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 11
     },
     {
@@ -520,7 +510,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-24",
       "start_time": "08:00",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 11
     },
     {
@@ -530,7 +520,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-24",
       "start_time": "09:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 11
     },
     {
@@ -540,7 +530,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-07",
       "start_time": "18:30",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 11
     },
     {
@@ -580,7 +570,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-26",
       "start_time": "17:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -814,6 +804,46 @@
       "capacity": 32
     },
     {
+      "studio": "Turf",
+      "name": "meta + Mat Werk 45 *Happy Hour \ud83d\udc1c*",
+      "booking_start_date": "2026-07-30 16:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-08-06",
+      "start_time": "16:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "meta + Mat Werk 45 *Happy Hour \ud83d\udc1c*",
+      "booking_start_date": "2026-08-13 16:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-08-20",
+      "start_time": "16:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "meta + Mat Werk 45 *Happy Hour \ud83d\udc1c*",
+      "booking_start_date": "2026-08-20 16:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-08-27",
+      "start_time": "16:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "meta + Mat Werk 45 *Happy Hour \ud83d\udc1c*",
+      "booking_start_date": "2026-08-27 16:00",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-09-03",
+      "start_time": "16:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
       "studio": "Spin Society",
       "name": "THEME: ICONA POP x CHARLI XCX",
       "booking_start_date": "2026-07-15 12:00",
@@ -840,7 +870,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-23",
       "start_time": "18:40",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 50
     },
     {
@@ -860,7 +890,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-26",
       "start_time": "11:50",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 49
     },
     {
@@ -900,7 +930,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-28",
       "start_time": "17:30",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 50
     },
     {
@@ -910,7 +940,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-28",
       "start_time": "18:40",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -1000,7 +1030,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "18:40",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 49
     },
     {
@@ -1010,7 +1040,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-30",
       "start_time": "18:40",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -1080,7 +1110,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-02",
       "start_time": "08:20",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 37
     },
     {
