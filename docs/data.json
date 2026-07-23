@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T21:28:26.094114-07:00",
+  "last_updated": "2026-07-23T00:14:39.662949-07:00",
   "special": [],
   "sponsored": [
     {
@@ -149,7 +149,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "06:45",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 10
     },
     {
@@ -179,7 +179,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "11:45",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 10
     },
     {
@@ -219,7 +219,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "17:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
@@ -229,7 +229,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "18:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -239,7 +239,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "18:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
@@ -419,7 +419,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-27",
       "start_time": "17:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -779,7 +779,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-25",
       "start_time": "12:30",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 32
     },
     {
@@ -799,7 +799,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-23",
       "start_time": "09:45",
-      "available_spot_count": 35,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -809,7 +809,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-23",
       "start_time": "12:30",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 49
     },
     {
@@ -819,7 +819,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-23",
       "start_time": "18:40",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 50
     },
     {
@@ -839,7 +839,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-26",
       "start_time": "11:50",
-      "available_spot_count": 16,
+      "available_spot_count": 14,
       "capacity": 49
     },
     {
@@ -879,7 +879,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-28",
       "start_time": "17:30",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 50
     },
     {
@@ -889,7 +889,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-28",
       "start_time": "18:40",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -939,7 +939,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-30",
       "start_time": "12:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 37
     },
     {
@@ -959,7 +959,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "17:30",
-      "available_spot_count": 38,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
@@ -979,7 +979,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "18:40",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 49
     },
     {
@@ -989,7 +989,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-30",
       "start_time": "18:40",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -1041,6 +1041,16 @@
       "start_time": "17:30",
       "available_spot_count": 36,
       "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: RUFUS DU SOL x ODESZA x TINLICKER",
+      "booking_start_date": "2026-07-24 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-08-01",
+      "start_time": "10:40",
+      "available_spot_count": 49,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
