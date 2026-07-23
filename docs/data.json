@@ -1,17 +1,7 @@
 {
-  "last_updated": "2026-07-22T16:37:09.865474-07:00",
+  "last_updated": "2026-07-22T18:08:15.555567-07:00",
   "special": [],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2026-06-22 20:15",
-      "location": "Main St",
-      "start_date": "2026-07-22",
-      "start_time": "20:15",
-      "available_spot_count": 0,
-      "capacity": 14
-    },
     {
       "studio": "Lagree West",
       "name": "Megaformer Ass + Abs x Amy's Last Booty Burn",
@@ -109,7 +99,17 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "08:00",
-      "available_spot_count": 6,
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Full Body x Wize",
+      "booking_start_date": "2026-07-24 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-31",
+      "start_time": "18:30",
+      "available_spot_count": 12,
       "capacity": 12
     },
     {
@@ -139,7 +139,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "09:45",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -159,7 +159,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-23",
       "start_time": "11:45",
-      "available_spot_count": 4,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
@@ -339,7 +339,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-27",
       "start_time": "07:45",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -429,7 +429,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-27",
       "start_time": "18:30",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -489,7 +489,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-24",
       "start_time": "09:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 11
     },
     {
@@ -509,7 +509,7 @@
       "location": "4th Ave",
       "start_date": "2026-07-28",
       "start_time": "17:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -519,7 +519,7 @@
       "location": "4th Ave",
       "start_date": "2026-07-28",
       "start_time": "18:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 15
     },
     {
@@ -749,7 +749,7 @@
       "location": "West End",
       "start_date": "2026-07-26",
       "start_time": "14:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 25
     },
     {
@@ -779,7 +779,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-23",
       "start_time": "09:45",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -799,7 +799,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-23",
       "start_time": "18:40",
-      "available_spot_count": 1,
+      "available_spot_count": 3,
       "capacity": 50
     },
     {
@@ -839,7 +839,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-27",
       "start_time": "18:40",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 50
     },
     {
@@ -869,7 +869,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-28",
       "start_time": "18:40",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -879,7 +879,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-29",
       "start_time": "12:30",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -939,7 +939,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "17:30",
-      "available_spot_count": 42,
+      "available_spot_count": 40,
       "capacity": 49
     },
     {
@@ -969,7 +969,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-30",
       "start_time": "18:40",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
