@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T04:53:29.086731-07:00",
+  "last_updated": "2026-07-24T07:07:26.494542-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -190,7 +190,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-25",
       "start_time": "12:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 10
     },
     {
@@ -355,16 +355,6 @@
     },
     {
       "studio": "Tunnel",
-      "name": "Heated Reformer x Spicy Dan",
-      "booking_start_date": "2026-07-17 06:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-24",
-      "start_time": "06:00",
-      "available_spot_count": 5,
-      "capacity": 11
-    },
-    {
-      "studio": "Tunnel",
       "name": "Heated Reformer X Spicy Dan",
       "booking_start_date": "2026-07-17 07:00",
       "location": "Vancouver",
@@ -440,7 +430,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-26",
       "start_time": "09:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -610,7 +600,7 @@
       "location": "Railway",
       "start_date": "2026-08-04",
       "start_time": "18:30",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 50
     },
     {
@@ -620,7 +610,7 @@
       "location": "Railway",
       "start_date": "2026-08-11",
       "start_time": "18:30",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 50
     },
     {
@@ -630,7 +620,7 @@
       "location": "Railway",
       "start_date": "2026-08-18",
       "start_time": "18:30",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 50
     },
     {
@@ -640,7 +630,7 @@
       "location": "Railway",
       "start_date": "2026-08-25",
       "start_time": "18:30",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 50
     },
     {
@@ -650,7 +640,7 @@
       "location": "Railway",
       "start_date": "2026-09-01",
       "start_time": "18:30",
-      "available_spot_count": 50,
+      "available_spot_count": 27,
       "capacity": 50
     },
     {
@@ -820,7 +810,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-29",
       "start_time": "18:40",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 37
     },
     {
@@ -870,7 +860,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "17:30",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 49
     },
     {
@@ -890,7 +880,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "18:40",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 49
     },
     {
@@ -990,7 +980,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-03",
       "start_time": "11:50",
-      "available_spot_count": 50,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
