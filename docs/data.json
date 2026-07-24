@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T08:41:48.948280-07:00",
+  "last_updated": "2026-07-24T10:11:00.069122-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -50,7 +50,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-25",
       "start_time": "16:20",
-      "available_spot_count": 27,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -190,7 +190,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-25",
       "start_time": "12:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
@@ -260,7 +260,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-27",
       "start_time": "10:45",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 10
     },
     {
@@ -355,26 +355,6 @@
     },
     {
       "studio": "Tunnel",
-      "name": "Reformer X Spicy Dan",
-      "booking_start_date": "2026-07-17 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-24",
-      "start_time": "08:00",
-      "available_spot_count": 1,
-      "capacity": 11
-    },
-    {
-      "studio": "Tunnel",
-      "name": "Heated Mat X Spicy Dan",
-      "booking_start_date": "2026-07-17 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-24",
-      "start_time": "09:00",
-      "available_spot_count": 6,
-      "capacity": 11
-    },
-    {
-      "studio": "Tunnel",
       "name": "Le Jungle Disco",
       "booking_start_date": "2026-07-31 18:30",
       "location": "Vancouver",
@@ -405,16 +385,6 @@
     },
     {
       "studio": "Lagree X",
-      "name": "\ud83c\udfa4 Janet \u00d7 Mariah \u2728",
-      "booking_start_date": "2026-07-17 08:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-24",
-      "start_time": "08:30",
-      "available_spot_count": 2,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
       "name": "Sunday Funday \ud83d\udcaa",
       "booking_start_date": "2026-07-19 09:30",
       "location": "Vancouver",
@@ -431,6 +401,16 @@
       "start_date": "2026-07-26",
       "start_time": "17:00",
       "available_spot_count": 1,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "\ud83d\udc51 Madonna x J.Lo \ud83d\udd25",
+      "booking_start_date": "2026-07-24 08:30",
+      "location": "Vancouver",
+      "start_date": "2026-07-31",
+      "start_time": "08:30",
+      "available_spot_count": 12,
       "capacity": 12
     },
     {
@@ -790,7 +770,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-29",
       "start_time": "12:30",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
@@ -810,7 +790,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "07:15",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
@@ -870,7 +850,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "18:40",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 49
     },
     {
@@ -920,7 +900,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-31",
       "start_time": "15:00",
-      "available_spot_count": 20,
+      "available_spot_count": 17,
       "capacity": 49
     },
     {
@@ -1025,6 +1005,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: RIHANNA | HITS x REMIXES",
+      "booking_start_date": "2026-07-28 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-08-05",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: POP PUNK X HIP HOP",
       "booking_start_date": "2026-07-29 12:00",
       "location": "MOUNT PLEASANT",
@@ -1055,11 +1045,31 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: HIGH SCHOOL MUSICAL x CAMP ROCK",
+      "booking_start_date": "2026-07-29 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-08-06",
+      "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: RIHANNA X DRAKE",
       "booking_start_date": "2026-07-30 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-07",
       "start_time": "09:45",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: THROWBACKS: 2010-2015 - VOL 1",
+      "booking_start_date": "2026-07-30 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-08-07",
+      "start_time": "12:30",
       "available_spot_count": 50,
       "capacity": 50
     },
