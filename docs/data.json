@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T09:30:17.638868-07:00",
+  "last_updated": "2026-07-25T10:37:23.419810-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -18,7 +18,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-02",
       "start_time": "14:00",
-      "available_spot_count": 38,
+      "available_spot_count": 36,
       "capacity": 40
     }
   ],
@@ -40,7 +40,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-28",
       "start_time": "10:15",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 20
     },
     {
@@ -70,7 +70,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-28",
       "start_time": "19:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 20
     },
     {
@@ -186,26 +186,6 @@
     {
       "studio": "Evolution",
       "name": "EVO X URSA (Infrared Lagree- Full Body)",
-      "booking_start_date": "2026-07-18 09:15",
-      "location": "Vancouver",
-      "start_date": "2026-07-25",
-      "start_time": "09:15",
-      "available_spot_count": 0,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVO X URSA (Rhythmic Boxing & Endurance)",
-      "booking_start_date": "2026-07-11 09:45",
-      "location": "Vancouver",
-      "start_date": "2026-07-25",
-      "start_time": "09:45",
-      "available_spot_count": 4,
-      "capacity": 9
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVO X URSA (Infrared Lagree- Full Body)",
       "booking_start_date": "2026-07-18 10:15",
       "location": "Vancouver",
       "start_date": "2026-07-25",
@@ -220,7 +200,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-25",
       "start_time": "11:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 10
     },
     {
@@ -230,7 +210,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-25",
       "start_time": "12:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 10
     },
     {
@@ -250,7 +230,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-27",
       "start_time": "06:15",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 10
     },
     {
@@ -460,7 +440,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-26",
       "start_time": "09:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -540,7 +520,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-02",
       "start_time": "14:00",
-      "available_spot_count": 38,
+      "available_spot_count": 36,
       "capacity": 40
     },
     {
@@ -760,7 +740,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-07-25",
       "start_time": "12:30",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 32
     },
     {
@@ -822,16 +802,6 @@
       "start_time": "16:00",
       "available_spot_count": 32,
       "capacity": 32
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: BTS X BLACKPINK",
-      "booking_start_date": "2026-07-17 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-07-25",
-      "start_time": "09:30",
-      "available_spot_count": 2,
-      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -920,7 +890,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "07:15",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 48
     },
     {
@@ -1010,7 +980,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-31",
       "start_time": "09:45",
-      "available_spot_count": 39,
+      "available_spot_count": 37,
       "capacity": 48
     },
     {
@@ -1030,7 +1000,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-31",
       "start_time": "15:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 48
     },
     {
@@ -1040,7 +1010,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-31",
       "start_time": "17:30",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 37
     },
     {
