@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T04:48:04.082896-07:00",
+  "last_updated": "2026-07-25T06:58:37.305964-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -30,7 +30,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-28",
       "start_time": "09:15",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 20
     },
     {
@@ -1030,7 +1030,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-31",
       "start_time": "12:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -1040,7 +1040,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-31",
       "start_time": "15:00",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 48
     },
     {
