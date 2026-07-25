@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T12:51:47.706943-07:00",
+  "last_updated": "2026-07-25T14:06:27.861725-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -182,16 +182,6 @@
       "start_time": "18:30",
       "available_spot_count": 10,
       "capacity": 12
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVO X URSA (Infrared Lagree- Full Body)",
-      "booking_start_date": "2026-07-18 12:15",
-      "location": "Vancouver",
-      "start_date": "2026-07-25",
-      "start_time": "12:15",
-      "available_spot_count": 0,
-      "capacity": 9
     },
     {
       "studio": "Evolution",
@@ -440,7 +430,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-31",
       "start_time": "08:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -715,16 +705,6 @@
     },
     {
       "studio": "Turf",
-      "name": "Mat Werk 60 min *Co-teach*",
-      "booking_start_date": "2026-07-18 12:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-07-25",
-      "start_time": "12:30",
-      "available_spot_count": 11,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "meta + Mat Werk 45 *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-07-27 08:15",
       "location": "KITS - Vancouver",
@@ -790,7 +770,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-26",
       "start_time": "11:50",
-      "available_spot_count": 7,
+      "available_spot_count": 10,
       "capacity": 48
     },
     {
@@ -880,7 +860,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-30",
       "start_time": "09:45",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 37
     },
     {
@@ -930,7 +910,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "18:40",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 48
     },
     {
@@ -940,7 +920,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-30",
       "start_time": "18:40",
-      "available_spot_count": 39,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
@@ -950,7 +930,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-31",
       "start_time": "07:15",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 37
     },
     {
@@ -960,7 +940,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-31",
       "start_time": "09:45",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 48
     },
     {
@@ -980,7 +960,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-31",
       "start_time": "15:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 48
     },
     {
@@ -990,7 +970,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-31",
       "start_time": "17:30",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 37
     },
     {
@@ -1000,7 +980,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-01",
       "start_time": "10:40",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
@@ -1010,7 +990,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-02",
       "start_time": "08:20",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 37
     },
     {
