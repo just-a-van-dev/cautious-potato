@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T11:39:50.694966-07:00",
+  "last_updated": "2026-07-26T12:50:31.318037-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -50,7 +50,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-28",
       "start_time": "11:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 20
     },
     {
@@ -210,7 +210,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-27",
       "start_time": "06:15",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -260,7 +260,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-27",
       "start_time": "10:45",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 10
     },
     {
@@ -290,7 +290,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-27",
       "start_time": "16:30",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
@@ -430,7 +430,7 @@
       "location": "Vancouver",
       "start_date": "2026-07-31",
       "start_time": "08:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -775,16 +775,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: JOHN SUMMIT X AVICII",
-      "booking_start_date": "2026-07-18 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-07-26",
-      "start_time": "11:50",
-      "available_spot_count": 15,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: GLORILLA x MEGAN THE STALLION",
       "booking_start_date": "2026-07-19 12:00",
       "location": "MOUNT PLEASANT",
@@ -820,7 +810,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-28",
       "start_time": "17:30",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -920,7 +910,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "18:40",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 48
     },
     {
@@ -950,7 +940,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-31",
       "start_time": "09:45",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 48
     },
     {
@@ -970,7 +960,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-31",
       "start_time": "15:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 48
     },
     {
@@ -1010,7 +1000,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-03",
       "start_time": "09:30",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 49
     },
     {
@@ -1020,7 +1010,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-03",
       "start_time": "11:50",
-      "available_spot_count": 46,
+      "available_spot_count": 39,
       "capacity": 49
     },
     {
