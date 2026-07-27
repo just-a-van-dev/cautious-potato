@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T14:22:05.828998-07:00",
+  "last_updated": "2026-07-27T15:39:08.928155-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -18,7 +18,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-02",
       "start_time": "14:00",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 40
     }
   ],
@@ -30,7 +30,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-28",
       "start_time": "09:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -50,7 +50,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-28",
       "start_time": "11:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 20
     },
     {
@@ -70,7 +70,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-28",
       "start_time": "19:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 20
     },
     {
@@ -122,16 +122,6 @@
       "start_time": "07:00",
       "available_spot_count": 13,
       "capacity": 15
-    },
-    {
-      "studio": "Jaybird",
-      "name": "Teacher Development | The Burn $18",
-      "booking_start_date": "2026-07-20 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-07-27",
-      "start_time": "13:30",
-      "available_spot_count": 22,
-      "capacity": 36
     },
     {
       "studio": "Jaybird",
@@ -340,7 +330,7 @@
       "location": "4th Ave",
       "start_date": "2026-07-28",
       "start_time": "17:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -420,7 +410,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-02",
       "start_time": "14:00",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 40
     },
     {
@@ -740,7 +730,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-28",
       "start_time": "17:30",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 49
     },
     {
@@ -830,7 +820,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-30",
       "start_time": "17:30",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 49
     },
     {
@@ -840,7 +830,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "18:40",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 48
     },
     {
@@ -850,7 +840,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-30",
       "start_time": "18:40",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 49
     },
     {
@@ -880,7 +870,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-31",
       "start_time": "12:30",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 49
     },
     {
@@ -970,7 +960,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-04",
       "start_time": "12:30",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 49
     },
     {
