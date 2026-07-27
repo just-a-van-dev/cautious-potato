@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T16:09:31.172534-07:00",
+  "last_updated": "2026-07-26T17:10:13.769689-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -40,7 +40,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-28",
       "start_time": "10:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 20
     },
     {
@@ -385,6 +385,16 @@
     },
     {
       "studio": "Tunnel",
+      "name": "Le Jungle Disco Mat",
+      "booking_start_date": "2026-07-31 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-08-07",
+      "start_time": "18:30",
+      "available_spot_count": 10,
+      "capacity": 11
+    },
+    {
+      "studio": "Tunnel",
       "name": "Le Jungle Disco",
       "booking_start_date": "2026-07-31 18:30",
       "location": "Vancouver",
@@ -412,16 +422,6 @@
       "start_time": "18:30",
       "available_spot_count": 7,
       "capacity": 15
-    },
-    {
-      "studio": "Lagree X",
-      "name": "Strength & Recovery \ud83e\uddd8\ud83c\udffd\u200d\u2640\ufe0f",
-      "booking_start_date": "2026-07-19 17:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-26",
-      "start_time": "17:00",
-      "available_spot_count": 2,
-      "capacity": 11
     },
     {
       "studio": "Lagree X",
@@ -634,6 +634,16 @@
       "capacity": 38
     },
     {
+      "studio": "ZenDen",
+      "name": "Red Light Reiki +  Sound for Sleep",
+      "booking_start_date": "2026-08-26 20:20",
+      "location": "Vancouver",
+      "start_date": "2026-09-09",
+      "start_time": "20:20",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
       "studio": "All Method Studio",
       "name": "ALL Access: Run x Recover",
       "booking_start_date": "2026-07-14 18:30",
@@ -704,16 +714,6 @@
       "capacity": 50
     },
     {
-      "studio": "Ritual",
-      "name": "Microdose Mini Retreat | Lymphatic Yin + Sound",
-      "booking_start_date": "2026-04-27 14:00",
-      "location": "West End",
-      "start_date": "2026-07-26",
-      "start_time": "14:00",
-      "available_spot_count": 0,
-      "capacity": 25
-    },
-    {
       "studio": "Turf",
       "name": "meta + Mat Werk 45 *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-07-27 08:15",
@@ -780,7 +780,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-27",
       "start_time": "16:20",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 48
     },
     {
@@ -810,7 +810,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-28",
       "start_time": "17:30",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 49
     },
     {
@@ -840,7 +840,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-29",
       "start_time": "18:40",
-      "available_spot_count": 25,
+      "available_spot_count": 26,
       "capacity": 37
     },
     {
@@ -850,7 +850,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "07:15",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 48
     },
     {
@@ -910,7 +910,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "18:40",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 48
     },
     {
@@ -960,7 +960,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-31",
       "start_time": "15:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 48
     },
     {
@@ -1010,7 +1010,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-03",
       "start_time": "11:50",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 49
     },
     {
