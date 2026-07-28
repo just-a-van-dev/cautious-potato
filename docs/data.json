@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T16:41:41.957614-07:00",
+  "last_updated": "2026-07-27T18:02:12.132131-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -18,7 +18,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-02",
       "start_time": "14:00",
-      "available_spot_count": 28,
+      "available_spot_count": 25,
       "capacity": 40
     }
   ],
@@ -30,7 +30,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-28",
       "start_time": "09:15",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 20
     },
     {
@@ -50,7 +50,7 @@
       "location": "Yaletown",
       "start_date": "2026-07-28",
       "start_time": "11:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 20
     },
     {
@@ -185,6 +185,16 @@
     },
     {
       "studio": "Jaybird",
+      "name": "The Burn + ALO",
+      "booking_start_date": "2026-08-31 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-09-07",
+      "start_time": "07:15",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
       "name": "Sweat for a Cause | The Being",
       "booking_start_date": "2026-09-01 00:00",
       "location": "Kingsway",
@@ -195,6 +205,46 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Headsets",
+      "booking_start_date": "2026-07-21 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-28",
+      "start_time": "09:00",
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Workout With Headsets",
+      "booking_start_date": "2026-07-21 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-28",
+      "start_time": "10:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Headssets",
+      "booking_start_date": "2026-07-22 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-29",
+      "start_time": "09:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Ass and Abs With Headsets",
+      "booking_start_date": "2026-07-22 11:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-29",
+      "start_time": "11:00",
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Full Body x Wize",
       "booking_start_date": "2026-07-24 18:30",
       "location": "Vancouver",
@@ -202,66 +252,6 @@
       "start_time": "18:30",
       "available_spot_count": 8,
       "capacity": 12
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-07-20 16:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-27",
-      "start_time": "16:30",
-      "available_spot_count": 8,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVO X BODY ENERGY CLUB(Define X-Full Body)",
-      "booking_start_date": "2026-07-13 17:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-27",
-      "start_time": "17:00",
-      "available_spot_count": 8,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-07-20 17:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-27",
-      "start_time": "17:30",
-      "available_spot_count": 0,
-      "capacity": 8
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVO X BODY ENERGY CLUB(Define X-Full Body)",
-      "booking_start_date": "2026-07-13 18:00",
-      "location": "Vancouver",
-      "start_date": "2026-07-27",
-      "start_time": "18:00",
-      "available_spot_count": 5,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-07-20 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-27",
-      "start_time": "18:30",
-      "available_spot_count": 5,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "EVO X BODY ENERGY CLUB(Infrared Lagree-Full Body)",
-      "booking_start_date": "2026-07-20 19:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-27",
-      "start_time": "19:30",
-      "available_spot_count": 9,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
@@ -320,7 +310,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-07",
       "start_time": "18:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 11
     },
     {
@@ -410,7 +400,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-02",
       "start_time": "14:00",
-      "available_spot_count": 28,
+      "available_spot_count": 25,
       "capacity": 40
     },
     {
@@ -564,6 +554,16 @@
       "capacity": 26
     },
     {
+      "studio": "ZenDen",
+      "name": "Power Yoga + Sound Bath",
+      "booking_start_date": "2026-08-27 09:30",
+      "location": "Vancouver",
+      "start_date": "2026-09-10",
+      "start_time": "09:30",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
       "studio": "All Method Studio",
       "name": "ALL Access: Run x Recover",
       "booking_start_date": "2026-07-14 18:30",
@@ -660,7 +660,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-08-06",
       "start_time": "17:45",
-      "available_spot_count": 36,
+      "available_spot_count": 34,
       "capacity": 40
     },
     {
@@ -692,26 +692,6 @@
       "start_time": "16:00",
       "available_spot_count": 32,
       "capacity": 32
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: GLORILLA x MEGAN THE STALLION",
-      "booking_start_date": "2026-07-19 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-07-27",
-      "start_time": "16:20",
-      "available_spot_count": 16,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: ILLENIUM X GRYFFIN X DABIN",
-      "booking_start_date": "2026-07-19 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-07-27",
-      "start_time": "18:40",
-      "available_spot_count": 0,
-      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -780,7 +760,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-30",
       "start_time": "09:45",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 37
     },
     {
@@ -790,7 +770,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-30",
       "start_time": "12:30",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 37
     },
     {
@@ -810,7 +790,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "17:30",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 48
     },
     {
@@ -820,7 +800,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-30",
       "start_time": "17:30",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 49
     },
     {
@@ -830,7 +810,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "18:40",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 48
     },
     {
@@ -920,7 +900,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-03",
       "start_time": "09:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
@@ -950,7 +930,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-04",
       "start_time": "12:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 37
     },
     {
@@ -960,7 +940,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-04",
       "start_time": "12:30",
-      "available_spot_count": 46,
+      "available_spot_count": 47,
       "capacity": 49
     },
     {
