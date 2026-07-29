@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T05:32:25.335756-07:00",
+  "last_updated": "2026-07-29T07:56:32.924562-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -23,16 +23,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2026-06-29 06:00",
-      "location": "Gastown",
-      "start_date": "2026-07-29",
-      "start_time": "06:00",
-      "available_spot_count": 8,
-      "capacity": 15
-    },
     {
       "studio": "Lagree West",
       "name": "Trainer Development",
@@ -250,7 +240,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-15",
       "start_time": "10:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 11
     },
     {
@@ -570,7 +560,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-08-03",
       "start_time": "08:15",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 32
     },
     {
@@ -640,7 +630,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-29",
       "start_time": "18:40",
-      "available_spot_count": 21,
+      "available_spot_count": 19,
       "capacity": 37
     },
     {
@@ -650,7 +640,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "07:15",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 48
     },
     {
@@ -700,7 +690,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-30",
       "start_time": "17:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 49
     },
     {
@@ -710,7 +700,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "18:40",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 48
     },
     {
@@ -780,7 +770,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-01",
       "start_time": "10:40",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -860,7 +850,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-05",
       "start_time": "06:00",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 49
     },
     {
@@ -870,7 +860,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-05",
       "start_time": "12:30",
-      "available_spot_count": 48,
+      "available_spot_count": 46,
       "capacity": 49
     },
     {
