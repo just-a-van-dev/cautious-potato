@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T16:36:39.550925-07:00",
+  "last_updated": "2026-07-28T18:05:07.456518-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -18,31 +18,11 @@
       "location": "Vancouver",
       "start_date": "2026-08-02",
       "start_time": "14:00",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 40
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer Ass + Abs x Amy's Last Booty Burn",
-      "booking_start_date": "2026-07-21 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-07-28",
-      "start_time": "18:15",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Amy's Grand Finale Hip Hop",
-      "booking_start_date": "2026-07-21 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-07-28",
-      "start_time": "19:15",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
@@ -50,7 +30,7 @@
       "location": "Gastown",
       "start_date": "2026-07-29",
       "start_time": "06:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 15
     },
     {
@@ -185,12 +165,22 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Headsets",
+      "booking_start_date": "2026-07-23 08:00",
+      "location": "Vancouver",
+      "start_date": "2026-07-30",
+      "start_time": "08:00",
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Full Body x Wize",
       "booking_start_date": "2026-07-24 18:30",
       "location": "Vancouver",
       "start_date": "2026-07-31",
       "start_time": "18:30",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -274,26 +264,6 @@
       "capacity": 11
     },
     {
-      "studio": "The Third",
-      "name": "lagree full body x pride anthems",
-      "booking_start_date": "2026-07-14 17:30",
-      "location": "4th Ave",
-      "start_date": "2026-07-28",
-      "start_time": "17:30",
-      "available_spot_count": 0,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
-      "name": "lagree full body x pride anthems",
-      "booking_start_date": "2026-07-14 18:30",
-      "location": "4th Ave",
-      "start_date": "2026-07-28",
-      "start_time": "18:30",
-      "available_spot_count": 1,
-      "capacity": 15
-    },
-    {
       "studio": "Lagree X",
       "name": "\ud83d\udc51 Madonna x J.Lo \ud83d\udd25",
       "booking_start_date": "2026-07-24 08:30",
@@ -360,7 +330,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-02",
       "start_time": "14:00",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 40
     },
     {
@@ -524,14 +494,14 @@
       "capacity": 38
     },
     {
-      "studio": "All Method Studio",
-      "name": "ALL Access: Run x Recover",
-      "booking_start_date": "2026-07-14 18:30",
-      "location": "Railway",
-      "start_date": "2026-07-28",
-      "start_time": "18:30",
-      "available_spot_count": 23,
-      "capacity": 50
+      "studio": "ZenDen",
+      "name": "Power Yoga + Sound Bath",
+      "booking_start_date": "2026-08-28 12:15",
+      "location": "Vancouver",
+      "start_date": "2026-09-11",
+      "start_time": "12:15",
+      "available_spot_count": 38,
+      "capacity": 38
     },
     {
       "studio": "All Method Studio",
@@ -620,7 +590,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-08-06",
       "start_time": "17:45",
-      "available_spot_count": 28,
+      "available_spot_count": 23,
       "capacity": 40
     },
     {
@@ -655,32 +625,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: BORN THIS WAY | GAGA PRIDE X BLUME",
-      "booking_start_date": "2026-07-20 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-07-28",
-      "start_time": "17:30",
-      "available_spot_count": 12,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: DOJA CAT X SZA X THE WEEKND",
-      "booking_start_date": "2026-07-20 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-07-28",
-      "start_time": "18:40",
-      "available_spot_count": 2,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: ARIANA GRANDE x SAM SMITH",
       "booking_start_date": "2026-07-21 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-07-29",
       "start_time": "12:30",
-      "available_spot_count": 28,
+      "available_spot_count": 30,
       "capacity": 49
     },
     {
@@ -690,7 +640,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-29",
       "start_time": "18:40",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 37
     },
     {
@@ -740,7 +690,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-30",
       "start_time": "17:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 48
     },
     {
@@ -800,7 +750,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-07-31",
       "start_time": "12:30",
-      "available_spot_count": 22,
+      "available_spot_count": 18,
       "capacity": 49
     },
     {
@@ -850,7 +800,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-03",
       "start_time": "09:30",
-      "available_spot_count": 31,
+      "available_spot_count": 29,
       "capacity": 49
     },
     {
@@ -860,7 +810,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-03",
       "start_time": "11:50",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 49
     },
     {
