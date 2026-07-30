@@ -1,6 +1,6 @@
 FILTER_OUT = {
     "all method studio": [
-        "all access: run x run",
+        "all access: run x recover",
         "all lift at the set - private booking",
         "all reformer - begin",
         "all reformer - begin happy hour 55 mins",
@@ -77,6 +77,7 @@ FILTER_OUT = {
     ],
     "lagree x":[
         "megapro full body",
+        "strength & recovery 🧘🏽‍♀️",
     ],
     "spin society": [
       "theme: rise + rave"
@@ -88,6 +89,7 @@ FILTER_OUT = {
         "meta x mn",
         "meta + weights",
         "meta + weights 45",
+        "meta + mat werk 45 *happy hour 🐜*",
         "on the mat with nat *happy hour \ud83d\udc1c*",
         "on the mat with nat *happy hour 🐜*",
         "mrc x turf free run club (no sign up needed)",
@@ -128,7 +130,9 @@ FILTER_OUT = {
         "pilates sweat | hot",
         "pilates sculpt | warm - arms + abs",
         "power yoga + sound bath | hot",
+        "power yoga + sound bath",
         "red light reiki + sound for sleep",
+        "red light reiki +  sound for sleep",
         "red light yin + sound bath",
         "reiki infused sound bath | red light - 40 min",
         "reiki infused sound bath w/ scent - 40 min",
