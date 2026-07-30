@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T12:47:08.518761-07:00",
+  "last_updated": "2026-07-30T14:20:23.680119-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -280,7 +280,7 @@
       "location": "4th Ave",
       "start_date": "2026-08-06",
       "start_time": "12:00",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 15
     },
     {
@@ -560,7 +560,7 @@
       "location": "Railway",
       "start_date": "2026-08-04",
       "start_time": "16:15",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 18
     },
     {
@@ -624,6 +624,16 @@
       "capacity": 50
     },
     {
+      "studio": "Ritual",
+      "name": "Microdose Mini Retreat | Breathwork + Sound",
+      "booking_start_date": "2026-05-24 18:00",
+      "location": "West End",
+      "start_date": "2026-08-22",
+      "start_time": "18:00",
+      "available_spot_count": 25,
+      "capacity": 25
+    },
+    {
       "studio": "Turf",
       "name": "meta + Mat Werk 45 *Happy Hour \ud83d\udc1c*",
       "booking_start_date": "2026-07-27 08:15",
@@ -685,26 +695,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: ARIANA: REMIXES - VOL 1",
-      "booking_start_date": "2026-07-22 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-07-30",
-      "start_time": "12:30",
-      "available_spot_count": 22,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: T-PAIN x 50 CENT x TIMBALAND",
-      "booking_start_date": "2026-07-22 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-07-30",
-      "start_time": "12:30",
-      "available_spot_count": 38,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "K-POP PRIDE",
       "booking_start_date": "2026-07-22 12:00",
       "location": "MOUNT PLEASANT",
@@ -760,7 +750,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-07-31",
       "start_time": "09:45",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 48
     },
     {
@@ -790,7 +780,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-07-31",
       "start_time": "17:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 37
     },
     {
@@ -800,7 +790,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-01",
       "start_time": "10:40",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 49
     },
     {
@@ -920,7 +910,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-06",
       "start_time": "12:30",
-      "available_spot_count": 46,
+      "available_spot_count": 47,
       "capacity": 49
     },
     {
@@ -950,7 +940,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-06",
       "start_time": "18:40",
-      "available_spot_count": 19,
+      "available_spot_count": 17,
       "capacity": 49
     },
     {
@@ -970,7 +960,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-07",
       "start_time": "12:30",
-      "available_spot_count": 49,
+      "available_spot_count": 47,
       "capacity": 49
     },
     {
@@ -1015,6 +1005,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: EDM WAKE-UP",
+      "booking_start_date": "2026-08-01 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-08-09",
+      "start_time": "09:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME:POWERPUFF GIRLS: CHARLI X SABRINA X CHAPPELL",
       "booking_start_date": "2026-08-01 12:00",
       "location": "DOWNTOWN VANCOUVER",
@@ -1030,6 +1030,16 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-09",
       "start_time": "10:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: RIHANNA x EDM",
+      "booking_start_date": "2026-08-02 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-08-10",
+      "start_time": "12:30",
       "available_spot_count": 50,
       "capacity": 50
     },
@@ -1075,6 +1085,36 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: ILLENIUM x SEVEN LIONS x MARTIN GARRIX",
+      "booking_start_date": "2026-08-03 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-08-11",
+      "start_time": "17:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ROSALIA X BAD BUNNY",
+      "booking_start_date": "2026-08-03 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-08-11",
+      "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: WAKE UP WITH R\u00dcF\u00dcS DU SOL",
+      "booking_start_date": "2026-08-04 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-08-12",
+      "start_time": "06:00",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: GAGA x MADONNA",
       "booking_start_date": "2026-08-04 12:00",
       "location": "MOUNT PLEASANT",
@@ -1102,6 +1142,16 @@
       "start_time": "12:30",
       "available_spot_count": 37,
       "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ALESSO x MARTIN GARRIX",
+      "booking_start_date": "2026-08-05 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-08-13",
+      "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
