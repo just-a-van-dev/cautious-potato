@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T04:04:32.842688-07:00",
+  "last_updated": "2026-08-01T05:09:48.835605-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -40,7 +40,7 @@
       "location": "Gastown",
       "start_date": "2026-08-08",
       "start_time": "12:00",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 15
     },
     {
