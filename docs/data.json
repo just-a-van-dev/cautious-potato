@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T16:39:20.317387-07:00",
+  "last_updated": "2026-07-31T18:11:48.427547-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -192,16 +192,6 @@
       "start_time": "17:30",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Full Body x Wize",
-      "booking_start_date": "2026-07-24 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-07-31",
-      "start_time": "18:30",
-      "available_spot_count": 3,
-      "capacity": 12
     },
     {
       "studio": "Evolution",
@@ -455,22 +445,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: OFF CAMPUS x HEATED RIVALRY",
-      "booking_start_date": "2026-07-23 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-07-31",
-      "start_time": "17:30",
-      "available_spot_count": 6,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: RUFUS DU SOL x ODESZA x TINLICKER",
       "booking_start_date": "2026-07-24 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-01",
       "start_time": "10:40",
-      "available_spot_count": 2,
+      "available_spot_count": 4,
       "capacity": 49
     },
     {
@@ -640,7 +620,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-07",
       "start_time": "12:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 49
     },
     {
