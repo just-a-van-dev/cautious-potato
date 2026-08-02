@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T12:48:50.605401-07:00",
+  "last_updated": "2026-08-02T14:07:46.790058-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -18,7 +18,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-02",
       "start_time": "14:00",
-      "available_spot_count": 15,
+      "available_spot_count": 17,
       "capacity": 40
     }
   ],
@@ -340,7 +340,7 @@
       "location": "4th Ave",
       "start_date": "2026-08-06",
       "start_time": "12:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 15
     },
     {
@@ -360,7 +360,7 @@
       "location": "4th Ave",
       "start_date": "2026-08-06",
       "start_time": "19:30",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 15
     },
     {
@@ -380,7 +380,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-02",
       "start_time": "14:00",
-      "available_spot_count": 15,
+      "available_spot_count": 17,
       "capacity": 40
     },
     {
@@ -460,7 +460,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-08-06",
       "start_time": "17:45",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 40
     },
     {
@@ -530,7 +530,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-04",
       "start_time": "12:30",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
@@ -610,7 +610,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-06",
       "start_time": "17:30",
-      "available_spot_count": 38,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
@@ -640,7 +640,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-07",
       "start_time": "12:30",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 49
     },
     {
@@ -730,7 +730,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-10",
       "start_time": "17:30",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 49
     },
     {
@@ -872,6 +872,26 @@
       "start_time": "12:30",
       "available_spot_count": 49,
       "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: SWEDISH HOUSE MAFIA X JUSTIN BIEBER",
+      "booking_start_date": "2026-08-07 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-08-15",
+      "start_time": "08:20",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: KYGO x JOHN SUMMIT",
+      "booking_start_date": "2026-08-11 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-08-19",
+      "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
     }
   ]
 }
