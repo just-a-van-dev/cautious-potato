@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T15:06:29.297667-07:00",
+  "last_updated": "2026-08-02T16:07:13.845550-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -10,16 +10,6 @@
       "start_time": "15:00",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "ZenDen",
-      "name": "The Living Temple for Women - Video Consent Req",
-      "booking_start_date": "2026-06-21 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-08-02",
-      "start_time": "14:00",
-      "available_spot_count": 16,
-      "capacity": 40
     }
   ],
   "sponsored": [
@@ -234,6 +224,26 @@
       "capacity": 36
     },
     {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Headsets",
+      "booking_start_date": "2026-07-27 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-08-03",
+      "start_time": "13:00",
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Workout With Headsets",
+      "booking_start_date": "2026-07-28 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-08-04",
+      "start_time": "10:00",
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
       "studio": "Evolution",
       "name": "Infrared Lagree - Full Body - Sabrina & Tate McRae",
       "booking_start_date": "2026-07-31 12:45",
@@ -375,16 +385,6 @@
     },
     {
       "studio": "ZenDen",
-      "name": "The Living Temple for Women - Video Consent Req",
-      "booking_start_date": "2026-06-21 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-08-02",
-      "start_time": "14:00",
-      "available_spot_count": 16,
-      "capacity": 40
-    },
-    {
-      "studio": "ZenDen",
       "name": "Lion's Gate Portal Sound Bath + Integration",
       "booking_start_date": "2026-07-25 19:30",
       "location": "Vancouver",
@@ -510,7 +510,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-04",
       "start_time": "12:30",
-      "available_spot_count": 40,
+      "available_spot_count": 41,
       "capacity": 48
     },
     {
@@ -630,7 +630,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-07",
       "start_time": "09:45",
-      "available_spot_count": 23,
+      "available_spot_count": 21,
       "capacity": 48
     },
     {
@@ -680,7 +680,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-08",
       "start_time": "09:30",
-      "available_spot_count": 26,
+      "available_spot_count": 24,
       "capacity": 37
     },
     {
