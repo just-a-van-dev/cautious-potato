@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T16:16:02.170757-07:00",
+  "last_updated": "2026-08-04T18:00:53.576342-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -320,7 +320,7 @@
       "location": "4th Ave",
       "start_date": "2026-08-06",
       "start_time": "07:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 15
     },
     {
@@ -390,7 +390,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-08",
       "start_time": "19:30",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 26
     },
     {
@@ -434,16 +434,6 @@
       "capacity": 40
     },
     {
-      "studio": "All Method Studio",
-      "name": "ALL Mat - Happy Hour: PUPPIES x PILATES",
-      "booking_start_date": "2026-07-21 16:15",
-      "location": "Railway",
-      "start_date": "2026-08-04",
-      "start_time": "16:15",
-      "available_spot_count": 0,
-      "capacity": 18
-    },
-    {
       "studio": "Ritual",
       "name": "Microdose Mini Retreat | Breathwork + Sound",
       "booking_start_date": "2026-05-24 18:00",
@@ -460,7 +450,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-08-06",
       "start_time": "17:45",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 40
     },
     {
@@ -485,16 +475,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: CALVIN HARRIS X ELLIE GOULDING",
-      "booking_start_date": "2026-07-27 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-08-04",
-      "start_time": "18:40",
-      "available_spot_count": 13,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: WAKE UP WITH EMMIT FENN",
       "booking_start_date": "2026-07-28 12:00",
       "location": "BRENTWOOD",
@@ -510,7 +490,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-05",
       "start_time": "12:30",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 49
     },
     {
@@ -540,7 +520,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-06",
       "start_time": "12:30",
-      "available_spot_count": 40,
+      "available_spot_count": 38,
       "capacity": 48
     },
     {
@@ -560,7 +540,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-06",
       "start_time": "17:30",
-      "available_spot_count": 27,
+      "available_spot_count": 24,
       "capacity": 49
     },
     {
@@ -580,7 +560,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-07",
       "start_time": "09:45",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 48
     },
     {
@@ -590,7 +570,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-07",
       "start_time": "12:30",
-      "available_spot_count": 19,
+      "available_spot_count": 16,
       "capacity": 49
     },
     {
@@ -600,7 +580,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-07",
       "start_time": "16:20",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 37
     },
     {
@@ -610,7 +590,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-07",
       "start_time": "17:30",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 37
     },
     {
@@ -620,7 +600,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-08",
       "start_time": "08:20",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -670,7 +650,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-10",
       "start_time": "12:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
@@ -680,7 +660,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-10",
       "start_time": "17:30",
-      "available_spot_count": 20,
+      "available_spot_count": 18,
       "capacity": 49
     },
     {
@@ -700,7 +680,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-11",
       "start_time": "12:30",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 37
     },
     {
@@ -720,7 +700,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-11",
       "start_time": "17:30",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 50
     },
     {
@@ -750,7 +730,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-12",
       "start_time": "18:40",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 37
     },
     {
@@ -772,6 +752,16 @@
       "start_time": "06:00",
       "available_spot_count": 37,
       "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BACKSTREET BOYS x NSYNC",
+      "booking_start_date": "2026-08-05 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-08-13",
+      "start_time": "12:30",
+      "available_spot_count": 48,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -872,6 +862,16 @@
       "start_time": "18:40",
       "available_spot_count": 50,
       "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: THROWBACKS X EDM",
+      "booking_start_date": "2026-08-12 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-08-20",
+      "start_time": "07:15",
+      "available_spot_count": 49,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
