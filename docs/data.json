@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T13:37:38.158118-07:00",
+  "last_updated": "2026-08-05T14:51:58.929744-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -40,7 +40,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-19",
       "start_time": "11:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -112,16 +112,6 @@
       "start_time": "12:15",
       "available_spot_count": 26,
       "capacity": 26
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Burn - Reformer | Teacher Development ($25)",
-      "booking_start_date": "2026-07-29 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-08-05",
-      "start_time": "13:30",
-      "available_spot_count": 20,
-      "capacity": 20
     },
     {
       "studio": "Jaybird",
@@ -210,7 +200,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-22",
       "start_time": "11:30",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 40
     },
     {
@@ -380,7 +370,7 @@
       "location": "4th Ave",
       "start_date": "2026-08-06",
       "start_time": "07:00",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 15
     },
     {
@@ -390,7 +380,7 @@
       "location": "4th Ave",
       "start_date": "2026-08-06",
       "start_time": "12:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -530,7 +520,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-08-12",
       "start_time": "09:30",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 30
     },
     {
@@ -550,7 +540,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-06",
       "start_time": "06:00",
-      "available_spot_count": 27,
+      "available_spot_count": 29,
       "capacity": 48
     },
     {
@@ -610,7 +600,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-07",
       "start_time": "09:45",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 48
     },
     {
@@ -650,7 +640,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-08",
       "start_time": "08:20",
-      "available_spot_count": 40,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
@@ -670,7 +660,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-09",
       "start_time": "09:30",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -680,7 +670,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-09",
       "start_time": "10:40",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 37
     },
     {
@@ -700,7 +690,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-10",
       "start_time": "12:30",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
@@ -780,7 +770,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-12",
       "start_time": "18:40",
-      "available_spot_count": 22,
+      "available_spot_count": 19,
       "capacity": 37
     },
     {
@@ -790,7 +780,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-12",
       "start_time": "19:50",
-      "available_spot_count": 43,
+      "available_spot_count": 39,
       "capacity": 49
     },
     {
@@ -830,7 +820,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-13",
       "start_time": "18:40",
-      "available_spot_count": 35,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
