@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T22:07:31.094369-07:00",
+  "last_updated": "2026-08-07T22:52:58.357303-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -325,12 +325,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "John Summit x Blume x Daytime Perk",
+      "name": "John Summit x Blume",
       "booking_start_date": "2026-08-01 13:00",
       "location": "Vancouver",
       "start_date": "2026-08-08",
       "start_time": "13:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -450,7 +450,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-08",
       "start_time": "19:30",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 26
     },
     {
@@ -580,7 +580,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-09",
       "start_time": "10:40",
-      "available_spot_count": 14,
+      "available_spot_count": 15,
       "capacity": 48
     },
     {
