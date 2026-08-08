@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T13:45:10.989419-07:00",
+  "last_updated": "2026-08-08T14:42:11.806242-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -110,7 +110,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-22",
       "start_time": "09:00",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 40
     },
     {
@@ -316,21 +316,11 @@
     {
       "studio": "Lagree Studio",
       "name": "John Summit x Blume x Daytime Perk",
-      "booking_start_date": "2026-08-01 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-08-08",
-      "start_time": "14:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "John Summit x Blume x Daytime Perk",
       "booking_start_date": "2026-08-01 15:00",
       "location": "Vancouver",
       "start_date": "2026-08-08",
       "start_time": "15:00",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -340,7 +330,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-08",
       "start_time": "16:00",
-      "available_spot_count": 6,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -440,7 +430,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-08",
       "start_time": "19:30",
-      "available_spot_count": 7,
+      "available_spot_count": 1,
       "capacity": 26
     },
     {
@@ -480,7 +470,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-13",
       "start_time": "14:00",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 40
     },
     {
