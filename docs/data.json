@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T12:45:08.029835-07:00",
+  "last_updated": "2026-08-09T13:48:40.431603-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -490,7 +490,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-08-12",
       "start_time": "10:45",
-      "available_spot_count": 23,
+      "available_spot_count": 24,
       "capacity": 30
     },
     {
@@ -510,7 +510,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-10",
       "start_time": "17:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 48
     },
     {
@@ -520,7 +520,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-11",
       "start_time": "07:15",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 48
     },
     {
@@ -630,7 +630,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-13",
       "start_time": "18:40",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 49
     },
     {
@@ -660,7 +660,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-14",
       "start_time": "09:45",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 48
     },
     {
@@ -690,7 +690,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-15",
       "start_time": "09:30",
-      "available_spot_count": 30,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
@@ -700,7 +700,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-16",
       "start_time": "10:40",
-      "available_spot_count": 44,
+      "available_spot_count": 45,
       "capacity": 49
     },
     {
@@ -720,7 +720,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-17",
       "start_time": "17:30",
-      "available_spot_count": 48,
+      "available_spot_count": 46,
       "capacity": 49
     },
     {
