@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T01:20:11.594828-07:00",
+  "last_updated": "2026-08-09T02:21:16.295809-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -410,7 +410,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-13",
       "start_time": "20:00",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 26
     },
     {
@@ -461,6 +461,16 @@
       "start_date": "2026-09-13",
       "start_time": "13:30",
       "available_spot_count": 5,
+      "capacity": 18
+    },
+    {
+      "studio": "Hustle",
+      "name": "MOBILITY + YOGA",
+      "booking_start_date": "2026-08-12 20:00",
+      "location": "Mount Pleasant",
+      "start_date": "2026-08-20",
+      "start_time": "20:00",
+      "available_spot_count": 18,
       "capacity": 18
     },
     {
@@ -650,7 +660,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-13",
       "start_time": "18:40",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 49
     },
     {
