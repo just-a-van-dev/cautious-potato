@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T16:21:50.759873-07:00",
+  "last_updated": "2026-08-11T17:39:52.876836-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -160,7 +160,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-12",
       "start_time": "20:00",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 45
     },
     {
@@ -375,16 +375,6 @@
     },
     {
       "studio": "Lagree X",
-      "name": "Ariana Grande\ud83c\udf80",
-      "booking_start_date": "2026-08-04 17:30",
-      "location": "Vancouver",
-      "start_date": "2026-08-11",
-      "start_time": "17:30",
-      "available_spot_count": 3,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
       "name": "Private Event",
       "booking_start_date": "2026-08-08 18:30",
       "location": "Vancouver",
@@ -434,6 +424,16 @@
       "capacity": 40
     },
     {
+      "studio": "ZenDen",
+      "name": "Full Moon Self Inquiry Sound Bath + Integration",
+      "booking_start_date": "2026-07-27 18:40",
+      "location": "Vancouver",
+      "start_date": "2026-09-25",
+      "start_time": "18:40",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
       "studio": "Ritual",
       "name": "Microdose Mini Retreat | Breathwork + Sound",
       "booking_start_date": "2026-05-24 18:00",
@@ -470,7 +470,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-08-12",
       "start_time": "09:30",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 30
     },
     {
@@ -480,38 +480,8 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-08-12",
       "start_time": "10:45",
-      "available_spot_count": 19,
+      "available_spot_count": 16,
       "capacity": 30
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: ONE REPUBLIC x IMAGINE DRAGONS",
-      "booking_start_date": "2026-08-03 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-08-11",
-      "start_time": "16:20",
-      "available_spot_count": 26,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: ILLENIUM x SEVEN LIONS x MARTIN GARRIX",
-      "booking_start_date": "2026-08-03 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-08-11",
-      "start_time": "17:30",
-      "available_spot_count": 0,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: ROSALIA X BAD BUNNY",
-      "booking_start_date": "2026-08-03 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-08-11",
-      "start_time": "18:40",
-      "available_spot_count": 17,
-      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -550,7 +520,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-13",
       "start_time": "06:00",
-      "available_spot_count": 26,
+      "available_spot_count": 24,
       "capacity": 37
     },
     {
@@ -560,7 +530,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-13",
       "start_time": "12:30",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 48
     },
     {
@@ -610,7 +580,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-14",
       "start_time": "09:45",
-      "available_spot_count": 19,
+      "available_spot_count": 20,
       "capacity": 48
     },
     {
@@ -640,7 +610,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-15",
       "start_time": "09:30",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 49
     },
     {
