@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T15:22:40.688770-07:00",
+  "last_updated": "2026-08-12T16:20:36.505496-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -100,7 +100,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-22",
       "start_time": "09:00",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 40
     },
     {
@@ -120,7 +120,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-23",
       "start_time": "11:30",
-      "available_spot_count": 19,
+      "available_spot_count": 16,
       "capacity": 40
     },
     {
@@ -130,7 +130,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-23",
       "start_time": "13:15",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 40
     },
     {
@@ -142,16 +142,6 @@
       "start_time": "12:15",
       "available_spot_count": 26,
       "capacity": 26
-    },
-    {
-      "studio": "Jaybird",
-      "name": "Teacher Development | The Build ($18)",
-      "booking_start_date": "2026-08-05 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-08-12",
-      "start_time": "14:30",
-      "available_spot_count": 33,
-      "capacity": 36
     },
     {
       "studio": "Jaybird",
@@ -460,7 +450,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-12",
       "start_time": "18:40",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 37
     },
     {
@@ -490,7 +480,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-13",
       "start_time": "12:30",
-      "available_spot_count": 31,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -510,7 +500,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-13",
       "start_time": "18:40",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 49
     },
     {
@@ -540,7 +530,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-14",
       "start_time": "09:45",
-      "available_spot_count": 18,
+      "available_spot_count": 16,
       "capacity": 50
     },
     {
@@ -550,7 +540,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-14",
       "start_time": "12:30",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
@@ -560,7 +550,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-15",
       "start_time": "08:20",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
@@ -630,7 +620,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-18",
       "start_time": "18:40",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 37
     },
     {
@@ -660,7 +650,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-19",
       "start_time": "12:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
@@ -710,7 +700,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-20",
       "start_time": "18:40",
-      "available_spot_count": 34,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
@@ -740,8 +730,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "17:30",
-      "available_spot_count": 47,
-      "capacity": 48
+      "available_spot_count": 49,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -750,8 +740,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "18:40",
-      "available_spot_count": 49,
-      "capacity": 49
+      "available_spot_count": 50,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -770,8 +760,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-23",
       "start_time": "10:40",
-      "available_spot_count": 38,
-      "capacity": 48
+      "available_spot_count": 40,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
