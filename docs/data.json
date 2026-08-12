@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T05:29:17.624751-07:00",
+  "last_updated": "2026-08-12T07:03:49.825108-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -360,7 +360,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-15",
       "start_time": "09:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 11
     },
     {
@@ -482,16 +482,6 @@
       "start_time": "10:45",
       "available_spot_count": 15,
       "capacity": 30
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: WAKE UP WITH R\u00dcF\u00dcS DU SOL",
-      "booking_start_date": "2026-08-04 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-08-12",
-      "start_time": "06:00",
-      "available_spot_count": 41,
-      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -710,7 +700,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-19",
       "start_time": "18:40",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 49
     },
     {
@@ -720,7 +710,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-20",
       "start_time": "07:15",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 48
     },
     {
