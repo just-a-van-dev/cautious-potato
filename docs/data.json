@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T01:02:23.240867-07:00",
+  "last_updated": "2026-08-12T02:21:19.226072-07:00",
   "special": [
     {
       "studio": "Jaybird",
@@ -640,7 +640,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-17",
       "start_time": "17:30",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 49
     },
     {
@@ -700,7 +700,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-19",
       "start_time": "12:30",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 49
     },
     {
@@ -710,7 +710,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-19",
       "start_time": "18:40",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 49
     },
     {
