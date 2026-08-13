@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T15:58:00.947527-07:00",
+  "last_updated": "2026-08-13T16:54:19.608128-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -72,7 +72,7 @@
       "location": "Gastown",
       "start_date": "2026-08-15",
       "start_time": "10:00",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 15
     },
     {
@@ -182,7 +182,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-14",
       "start_time": "18:40",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 45
     },
     {
@@ -237,12 +237,22 @@
     },
     {
       "studio": "Jaybird",
+      "name": "Teacher Development | The Burn $18",
+      "booking_start_date": "2026-08-13 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-08-20",
+      "start_time": "14:00",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
       "name": "Summer Wellness Weekend \u2014 The Burn",
       "booking_start_date": "2026-07-23 11:30",
       "location": "Yaletown",
       "start_date": "2026-08-22",
       "start_time": "11:30",
-      "available_spot_count": 16,
+      "available_spot_count": 14,
       "capacity": 40
     },
     {
@@ -304,16 +314,6 @@
       "start_time": "15:00",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Headsets",
-      "booking_start_date": "2026-08-06 15:30",
-      "location": "Vancouver",
-      "start_date": "2026-08-13",
-      "start_time": "15:30",
-      "available_spot_count": 8,
-      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -482,7 +482,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-14",
       "start_time": "06:00",
-      "available_spot_count": 37,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
@@ -502,7 +502,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-14",
       "start_time": "09:45",
-      "available_spot_count": 15,
+      "available_spot_count": 16,
       "capacity": 49
     },
     {
@@ -512,7 +512,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-14",
       "start_time": "12:30",
-      "available_spot_count": 33,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
@@ -522,7 +522,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-15",
       "start_time": "08:20",
-      "available_spot_count": 33,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
@@ -552,7 +552,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-17",
       "start_time": "06:00",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
@@ -562,7 +562,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-17",
       "start_time": "17:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 49
     },
     {
@@ -712,7 +712,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "18:40",
-      "available_spot_count": 39,
+      "available_spot_count": 34,
       "capacity": 49
     },
     {
