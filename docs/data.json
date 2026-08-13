@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T13:08:34.605875-07:00",
+  "last_updated": "2026-08-13T13:58:55.003756-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-08-15",
       "start_time": "06:30",
       "available_spot_count": 0,
-      "capacity": 300
+      "capacity": 438
     },
     {
       "studio": "Alo",
@@ -18,8 +18,8 @@
       "location": "Vancouver",
       "start_date": "2026-08-15",
       "start_time": "10:30",
-      "available_spot_count": 79,
-      "capacity": 221
+      "available_spot_count": 78,
+      "capacity": 222
     },
     {
       "studio": "Alo",
@@ -92,7 +92,7 @@
       "location": "Gastown",
       "start_date": "2026-08-15",
       "start_time": "12:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -142,7 +142,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-22",
       "start_time": "13:15",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 40
     },
     {
@@ -232,7 +232,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "12:15",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 20
     },
     {
@@ -242,7 +242,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-22",
       "start_time": "11:30",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 40
     },
     {
@@ -467,26 +467,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: BACKSTREET BOYS x NSYNC",
-      "booking_start_date": "2026-08-05 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-08-13",
-      "start_time": "12:30",
-      "available_spot_count": 31,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: REMIXES: 2000-2020",
-      "booking_start_date": "2026-08-05 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-08-13",
-      "start_time": "12:30",
-      "available_spot_count": 22,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: ALESSO x MARTIN GARRIX",
       "booking_start_date": "2026-08-05 12:00",
       "location": "BRENTWOOD",
@@ -522,7 +502,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-14",
       "start_time": "09:45",
-      "available_spot_count": 16,
+      "available_spot_count": 17,
       "capacity": 49
     },
     {
@@ -532,7 +512,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-14",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 33,
       "capacity": 49
     },
     {
@@ -622,7 +602,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-19",
       "start_time": "07:15",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
@@ -642,7 +622,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-19",
       "start_time": "12:30",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 49
     },
     {
@@ -652,7 +632,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-19",
       "start_time": "18:40",
-      "available_spot_count": 26,
+      "available_spot_count": 22,
       "capacity": 49
     },
     {
@@ -662,7 +642,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-20",
       "start_time": "07:15",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
@@ -732,7 +712,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "18:40",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 49
     },
     {
