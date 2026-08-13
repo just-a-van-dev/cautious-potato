@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T09:08:02.921419-07:00",
+  "last_updated": "2026-08-13T10:08:56.767663-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -18,8 +18,8 @@
       "location": "Vancouver",
       "start_date": "2026-08-15",
       "start_time": "10:30",
-      "available_spot_count": 81,
-      "capacity": 219
+      "available_spot_count": 80,
+      "capacity": 220
     },
     {
       "studio": "Alo",
@@ -62,7 +62,7 @@
       "location": "Gastown",
       "start_date": "2026-08-15",
       "start_time": "09:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -82,7 +82,7 @@
       "location": "Gastown",
       "start_date": "2026-08-15",
       "start_time": "11:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -202,7 +202,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "10:00",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 45
     },
     {
@@ -212,7 +212,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "10:20",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 20
     },
     {
@@ -222,7 +222,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "12:00",
-      "available_spot_count": 41,
+      "available_spot_count": 38,
       "capacity": 45
     },
     {
@@ -502,7 +502,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-14",
       "start_time": "06:00",
-      "available_spot_count": 36,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
@@ -512,7 +512,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-14",
       "start_time": "07:15",
-      "available_spot_count": 17,
+      "available_spot_count": 18,
       "capacity": 37
     },
     {
@@ -552,7 +552,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-15",
       "start_time": "09:30",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -582,7 +582,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-17",
       "start_time": "17:30",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -642,7 +642,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-19",
       "start_time": "12:30",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 49
     },
     {
@@ -692,7 +692,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-20",
       "start_time": "18:40",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 49
     },
     {
@@ -757,6 +757,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: BRITNEY SPEARS x TATE MCRAE",
+      "booking_start_date": "2026-08-15 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-08-23",
+      "start_time": "11:50",
+      "available_spot_count": 49,
+      "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: BRITNEY SPEARS x FREDAGAIN..",
       "booking_start_date": "2026-08-16 12:00",
       "location": "BRENTWOOD",
@@ -781,6 +791,26 @@
       "booking_start_date": "2026-08-16 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
+      "start_time": "18:40",
+      "available_spot_count": 49,
+      "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BRITNEY SPEARS x TATE MCRAE",
+      "booking_start_date": "2026-08-17 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-08-25",
+      "start_time": "17:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: RIHANNA X THE WEEKND",
+      "booking_start_date": "2026-08-17 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-08-25",
       "start_time": "18:40",
       "available_spot_count": 49,
       "capacity": 49
