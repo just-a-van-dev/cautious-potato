@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T14:58:06.151712-07:00",
+  "last_updated": "2026-08-13T15:58:00.947527-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-08-15",
       "start_time": "06:30",
       "available_spot_count": 0,
-      "capacity": 437
+      "capacity": 436
     },
     {
       "studio": "Alo",
@@ -18,8 +18,8 @@
       "location": "Vancouver",
       "start_date": "2026-08-15",
       "start_time": "10:30",
-      "available_spot_count": 77,
-      "capacity": 223
+      "available_spot_count": 78,
+      "capacity": 222
     },
     {
       "studio": "Alo",
@@ -72,7 +72,7 @@
       "location": "Gastown",
       "start_date": "2026-08-15",
       "start_time": "10:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -182,7 +182,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-14",
       "start_time": "18:40",
-      "available_spot_count": 11,
+      "available_spot_count": 8,
       "capacity": 45
     },
     {
@@ -312,7 +312,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-13",
       "start_time": "15:30",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -472,7 +472,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-13",
       "start_time": "18:40",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 49
     },
     {
@@ -502,7 +502,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-14",
       "start_time": "09:45",
-      "available_spot_count": 14,
+      "available_spot_count": 15,
       "capacity": 49
     },
     {
@@ -522,7 +522,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-15",
       "start_time": "08:20",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 49
     },
     {
@@ -532,7 +532,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-15",
       "start_time": "09:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 49
     },
     {
@@ -642,7 +642,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-20",
       "start_time": "07:15",
-      "available_spot_count": 43,
+      "available_spot_count": 41,
       "capacity": 49
     },
     {
@@ -712,7 +712,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "18:40",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 49
     },
     {
