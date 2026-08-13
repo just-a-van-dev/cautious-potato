@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T05:30:08.121102-07:00",
+  "last_updated": "2026-08-13T07:05:02.707145-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -222,7 +222,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "12:00",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 45
     },
     {
@@ -232,7 +232,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "12:15",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 20
     },
     {
@@ -467,22 +467,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: BUNT x ODESZA",
-      "booking_start_date": "2026-08-05 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-08-13",
-      "start_time": "06:00",
-      "available_spot_count": 23,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: BACKSTREET BOYS x NSYNC",
       "booking_start_date": "2026-08-05 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-13",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 33,
       "capacity": 49
     },
     {
@@ -522,7 +512,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-14",
       "start_time": "07:15",
-      "available_spot_count": 18,
+      "available_spot_count": 16,
       "capacity": 37
     },
     {
@@ -532,7 +522,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-14",
       "start_time": "09:45",
-      "available_spot_count": 15,
+      "available_spot_count": 16,
       "capacity": 49
     },
     {
@@ -632,7 +622,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-19",
       "start_time": "07:15",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 49
     },
     {
@@ -762,7 +752,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-23",
       "start_time": "10:40",
-      "available_spot_count": 38,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
