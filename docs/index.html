@@ -15,12 +15,16 @@
   </div>
 
   <div class="flex gap-3 mb-8">
+
     <button id="freeTab" class="px-5 py-2 rounded-full bg-black text-white font-medium">
       Free
     </button>
     <button id="sponsoredTab" class="px-5 py-2 rounded-full bg-white border text-gray-700 font-medium">
       Sponsored / Special
     </button>
+      <button id="aloTab" class="px-5 py-2 rounded-full bg-white border text-gray-700 font-medium">
+      Alo
+      </button>
   </div>
 
   <div id="content"></div>
@@ -47,7 +51,7 @@ function markNewClasses(data) {
 
   const now = Date.now();
 
-  ["special", "sponsored"].forEach(category => {
+  ["special", "sponsored", "alo"].forEach(category => {
     (data[category] || []).forEach(cls => {
       const key = classKey(cls);
 
@@ -93,6 +97,7 @@ async function loadData() {
         currentTab = "sponsored"
         sponsoredTab.className = "px-5 py-2 rounded-full bg-black text-white font-medium";
         freeTab.className = "px-5 py-2 rounded-full bg-white border text-gray-700 font-medium";
+        aloTab.className = "px-5 py-2 rounded-full bg-white border text-gray-700 font-medium";
     }
     render();
   } catch (err) {
@@ -247,12 +252,23 @@ document.getElementById("freeTab").onclick = () => {
   currentTab = "special";
   freeTab.className = "px-5 py-2 rounded-full bg-black text-white font-medium";
   sponsoredTab.className = "px-5 py-2 rounded-full bg-white border text-gray-700 font-medium";
+  aloTab.className = "px-5 py-2 rounded-full bg-white border text-gray-700 font-medium";
   render();
 };
 
 document.getElementById("sponsoredTab").onclick = () => {
   currentTab = "sponsored";
   sponsoredTab.className = "px-5 py-2 rounded-full bg-black text-white font-medium";
+  freeTab.className = "px-5 py-2 rounded-full bg-white border text-gray-700 font-medium";
+  aloTab.className = "px-5 py-2 rounded-full bg-white border text-gray-700 font-medium";
+  render();
+};
+
+
+document.getElementById("aloTab").onclick = () => {
+  currentTab = "alo";
+  aloTab.className = "px-5 py-2 rounded-full bg-black text-white font-medium";
+    sponsoredTab.className = "px-5 py-2 rounded-full bg-white border text-gray-700 font-medium";
   freeTab.className = "px-5 py-2 rounded-full bg-white border text-gray-700 font-medium";
   render();
 };

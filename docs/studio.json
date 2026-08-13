@@ -68,5 +68,10 @@
     "studio": "Hustle",
     "favicon": "https://hustleup.ca/wp-content/uploads/2018/11/Hustle-H-Icon-K-1.png",
     "url": "https://hustleup.ca/"
+  },
+  "Alo": {
+    "studio": "Alo",
+    "favicon": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/event-covers/9j/4af79087-b176-469b-b1d0-39237e542f51.jpg",
+    "url": "https://example.com"
   }
 }

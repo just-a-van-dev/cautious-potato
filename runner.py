@@ -2,6 +2,8 @@ import json
 import asyncio
 from datetime import datetime
 from zoneinfo import ZoneInfo
+
+from alo_runner import get_alo_events
 from main import fetch_studio_data
 
 studio_base_urls = {
@@ -22,9 +24,11 @@ studio_base_urls = {
 }
 
 result = asyncio.run(fetch_studio_data(studio_base_urls, days=45))
+alo_result = get_alo_events()
 pacific = ZoneInfo("America/Vancouver")
 json_data = {
     "last_updated": datetime.now(pacific).isoformat(),
+    "alo": alo_result,
     "special": result[0],
     "sponsored": result[1]
 }

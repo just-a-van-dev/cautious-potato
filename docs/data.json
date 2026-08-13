@@ -1,5 +1,37 @@
 {
-  "last_updated": "2026-08-12T22:03:17.196171-07:00",
+  "last_updated": "2026-08-12T22:56:15.110702-07:00",
+  "alo": [
+    {
+      "studio": "Alo",
+      "name": "ALO BLOOR STREET: ALO RUNNERS CLUB",
+      "booking_start_date": "Open to book",
+      "location": "Toronto",
+      "start_date": "2026-08-15",
+      "start_time": "06:30",
+      "available_spot_count": 0,
+      "capacity": 300
+    },
+    {
+      "studio": "Alo",
+      "name": "ALO TRAIL RUN: STANLEY PARK",
+      "booking_start_date": "Open to book",
+      "location": "Vancouver",
+      "start_date": "2026-08-15",
+      "start_time": "10:30",
+      "available_spot_count": 82,
+      "capacity": 218
+    },
+    {
+      "studio": "Alo",
+      "name": "ALO + PAKT: K-Method",
+      "booking_start_date": "Open to book",
+      "location": "Toronto",
+      "start_date": "2026-08-16",
+      "start_time": "06:00",
+      "available_spot_count": 0,
+      "capacity": 27
+    }
+  ],
   "special": [
     {
       "studio": "Jaybird",
@@ -40,7 +72,7 @@
       "location": "Gastown",
       "start_date": "2026-08-15",
       "start_time": "10:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -280,7 +312,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-13",
       "start_time": "15:30",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -440,7 +472,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-13",
       "start_time": "06:00",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 37
     },
     {
@@ -450,7 +482,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-13",
       "start_time": "12:30",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 49
     },
     {
@@ -460,7 +492,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-13",
       "start_time": "12:30",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 37
     },
     {
@@ -520,7 +552,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-15",
       "start_time": "08:20",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 49
     },
     {
@@ -560,7 +592,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-17",
       "start_time": "17:30",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 49
     },
     {
@@ -610,7 +642,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-19",
       "start_time": "12:30",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 49
     },
     {
@@ -620,7 +652,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-19",
       "start_time": "12:30",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 49
     },
     {
