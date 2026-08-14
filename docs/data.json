@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T12:53:23.903096-07:00",
+  "last_updated": "2026-08-14T13:41:25.998200-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -18,8 +18,8 @@
       "location": "Vancouver",
       "start_date": "2026-08-15",
       "start_time": "10:30",
-      "available_spot_count": 77,
-      "capacity": 223
+      "available_spot_count": 75,
+      "capacity": 225
     },
     {
       "studio": "Alo",
@@ -212,7 +212,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-14",
       "start_time": "18:40",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 45
     },
     {
@@ -357,16 +357,6 @@
     },
     {
       "studio": "Evolution",
-      "name": "Infrared Lagree - Full Body - Rihanna & Beyonc\u00e9",
-      "booking_start_date": "2026-08-07 12:45",
-      "location": "Vancouver",
-      "start_date": "2026-08-14",
-      "start_time": "12:45",
-      "available_spot_count": 6,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
       "name": "Infrared Lagree - Full Body - Kesha",
       "booking_start_date": "2026-08-14 12:45",
       "location": "Vancouver",
@@ -392,7 +382,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-15",
       "start_time": "09:00",
-      "available_spot_count": 3,
+      "available_spot_count": 5,
       "capacity": 11
     },
     {
@@ -497,16 +487,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: BUNT x ODESZA",
-      "booking_start_date": "2026-08-06 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-08-14",
-      "start_time": "12:30",
-      "available_spot_count": 29,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: SWEDISH HOUSE MAFIA X JUSTIN BIEBER",
       "booking_start_date": "2026-08-07 12:00",
       "location": "BRENTWOOD",
@@ -522,7 +502,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-15",
       "start_time": "09:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 49
     },
     {
@@ -542,7 +522,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-17",
       "start_time": "06:00",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 49
     },
     {
@@ -592,7 +572,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-19",
       "start_time": "07:15",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 49
     },
     {
@@ -632,7 +612,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-20",
       "start_time": "07:15",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 49
     },
     {
@@ -672,7 +652,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "09:45",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 49
     },
     {
@@ -702,7 +682,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "18:40",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 49
     },
     {
@@ -712,7 +692,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-22",
       "start_time": "09:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
