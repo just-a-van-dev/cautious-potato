@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T05:26:48.693459-07:00",
+  "last_updated": "2026-08-14T07:00:06.672067-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-08-15",
       "start_time": "06:30",
       "available_spot_count": 0,
-      "capacity": 434
+      "capacity": 431
     },
     {
       "studio": "Alo",
@@ -92,7 +92,7 @@
       "location": "Gastown",
       "start_date": "2026-08-15",
       "start_time": "12:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 15
     },
     {
@@ -507,22 +507,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: COUNTRY REMIXES",
-      "booking_start_date": "2026-08-06 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-08-14",
-      "start_time": "06:00",
-      "available_spot_count": 36,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: TATE MCRAE x JUSTIN BIEBER",
       "booking_start_date": "2026-08-06 12:00",
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-14",
       "start_time": "07:15",
-      "available_spot_count": 17,
+      "available_spot_count": 18,
       "capacity": 37
     },
     {
@@ -542,7 +532,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-14",
       "start_time": "12:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
@@ -592,7 +582,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-17",
       "start_time": "17:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 49
     },
     {
