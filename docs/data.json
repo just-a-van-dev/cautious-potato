@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T16:54:19.608128-07:00",
+  "last_updated": "2026-08-13T19:40:32.241664-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -18,8 +18,8 @@
       "location": "Vancouver",
       "start_date": "2026-08-15",
       "start_time": "10:30",
-      "available_spot_count": 78,
-      "capacity": 222
+      "available_spot_count": 77,
+      "capacity": 223
     },
     {
       "studio": "Alo",
@@ -62,7 +62,7 @@
       "location": "Gastown",
       "start_date": "2026-08-15",
       "start_time": "09:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 15
     },
     {
@@ -72,7 +72,7 @@
       "location": "Gastown",
       "start_date": "2026-08-15",
       "start_time": "10:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -82,7 +82,7 @@
       "location": "Gastown",
       "start_date": "2026-08-15",
       "start_time": "11:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -142,7 +142,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-22",
       "start_time": "13:15",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 40
     },
     {
@@ -182,7 +182,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-14",
       "start_time": "18:40",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 45
     },
     {
@@ -212,7 +212,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "10:20",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 20
     },
     {
@@ -272,7 +272,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-23",
       "start_time": "09:00",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 40
     },
     {
@@ -372,7 +372,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-15",
       "start_time": "10:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 11
     },
     {
@@ -384,16 +384,6 @@
       "start_time": "18:30",
       "available_spot_count": 0,
       "capacity": 12
-    },
-    {
-      "studio": "ZenDen",
-      "name": "New Moon Red Light Reiki + Sound for Sleep",
-      "booking_start_date": "2026-06-14 20:00",
-      "location": "Vancouver",
-      "start_date": "2026-08-13",
-      "start_time": "20:00",
-      "available_spot_count": 16,
-      "capacity": 26
     },
     {
       "studio": "ZenDen",
@@ -436,6 +426,16 @@
       "capacity": 26
     },
     {
+      "studio": "ZenDen",
+      "name": "The Living Temple - for Women",
+      "booking_start_date": "2026-08-16 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-09-27",
+      "start_time": "14:00",
+      "available_spot_count": 40,
+      "capacity": 40
+    },
+    {
       "studio": "Ritual",
       "name": "Microdose Mini Retreat | Breathwork + Sound",
       "booking_start_date": "2026-05-24 18:00",
@@ -467,22 +467,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: ALESSO x MARTIN GARRIX",
-      "booking_start_date": "2026-08-05 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-08-13",
-      "start_time": "18:40",
-      "available_spot_count": 2,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: COUNTRY REMIXES",
       "booking_start_date": "2026-08-06 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-08-14",
       "start_time": "06:00",
-      "available_spot_count": 35,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
@@ -492,7 +482,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-14",
       "start_time": "07:15",
-      "available_spot_count": 18,
+      "available_spot_count": 19,
       "capacity": 37
     },
     {
@@ -502,7 +492,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-14",
       "start_time": "09:45",
-      "available_spot_count": 16,
+      "available_spot_count": 14,
       "capacity": 49
     },
     {
@@ -512,7 +502,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-14",
       "start_time": "12:30",
-      "available_spot_count": 35,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
@@ -552,7 +542,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-17",
       "start_time": "06:00",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
@@ -562,7 +552,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-17",
       "start_time": "17:30",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 49
     },
     {
@@ -652,7 +642,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-20",
       "start_time": "12:30",
-      "available_spot_count": 45,
+      "available_spot_count": 41,
       "capacity": 49
     },
     {
@@ -662,7 +652,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-20",
       "start_time": "16:20",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 37
     },
     {
@@ -672,7 +662,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-20",
       "start_time": "18:40",
-      "available_spot_count": 14,
+      "available_spot_count": 10,
       "capacity": 49
     },
     {
@@ -712,7 +702,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "18:40",
-      "available_spot_count": 34,
+      "available_spot_count": 32,
       "capacity": 49
     },
     {
