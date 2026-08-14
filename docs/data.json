@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T21:26:56.815193-07:00",
+  "last_updated": "2026-08-13T22:27:15.433031-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-08-15",
       "start_time": "06:30",
       "available_spot_count": 0,
-      "capacity": 435
+      "capacity": 434
     },
     {
       "studio": "Alo",
@@ -97,6 +97,16 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Trainer Development",
+      "booking_start_date": "2026-08-11 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-08-18",
+      "start_time": "14:15",
+      "available_spot_count": 20,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
       "booking_start_date": "2026-07-20 11:15",
       "location": "Yaletown",
@@ -167,6 +177,16 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
+      "booking_start_date": "2026-08-06 15:00",
+      "location": "Main St",
+      "start_date": "2026-09-05",
+      "start_time": "15:00",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
       "name": "Mid-Day Mega Cardio- Ass/Abs+Tread (55 Min)",
       "booking_start_date": "2026-08-31 00:00",
       "location": "Kitsilano",
@@ -174,6 +194,16 @@
       "start_time": "12:15",
       "available_spot_count": 26,
       "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
+      "booking_start_date": "2026-08-15 15:30",
+      "location": "Kitsilano",
+      "start_date": "2026-09-14",
+      "start_time": "15:30",
+      "available_spot_count": 16,
+      "capacity": 16
     },
     {
       "studio": "Jaybird",
@@ -314,6 +344,16 @@
       "start_time": "15:00",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Workout With Headsets",
+      "booking_start_date": "2026-08-07 11:00",
+      "location": "Vancouver",
+      "start_date": "2026-08-14",
+      "start_time": "11:00",
+      "available_spot_count": 7,
+      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -462,7 +502,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-08-20",
       "start_time": "20:00",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 18
     },
     {
@@ -492,7 +532,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-14",
       "start_time": "09:45",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 49
     },
     {
@@ -522,7 +562,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-15",
       "start_time": "09:30",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 49
     },
     {
@@ -572,7 +612,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-18",
       "start_time": "12:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
@@ -672,7 +712,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "09:45",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 49
     },
     {
@@ -692,7 +732,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "17:30",
-      "available_spot_count": 45,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
@@ -702,7 +742,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "18:40",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 49
     },
     {
@@ -722,7 +762,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-23",
       "start_time": "10:40",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
