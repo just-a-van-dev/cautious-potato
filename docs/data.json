@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T14:55:29.048025-07:00",
+  "last_updated": "2026-08-14T15:36:21.923315-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -18,8 +18,8 @@
       "location": "Vancouver",
       "start_date": "2026-08-15",
       "start_time": "10:30",
-      "available_spot_count": 75,
-      "capacity": 225
+      "available_spot_count": 74,
+      "capacity": 226
     },
     {
       "studio": "Alo",
@@ -62,7 +62,7 @@
       "location": "Gastown",
       "start_date": "2026-08-15",
       "start_time": "09:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -142,7 +142,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-22",
       "start_time": "09:00",
-      "available_spot_count": 17,
+      "available_spot_count": 15,
       "capacity": 40
     },
     {
@@ -242,7 +242,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "10:20",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 20
     },
     {
@@ -492,7 +492,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-15",
       "start_time": "08:20",
-      "available_spot_count": 30,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
@@ -502,7 +502,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-15",
       "start_time": "09:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 49
     },
     {
@@ -652,7 +652,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "09:45",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 49
     },
     {
@@ -672,7 +672,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "17:30",
-      "available_spot_count": 30,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
