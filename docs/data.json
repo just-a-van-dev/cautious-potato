@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T13:55:03.789742-07:00",
+  "last_updated": "2026-08-15T14:32:13.707634-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -192,7 +192,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "12:15",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 20
     },
     {
@@ -452,7 +452,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-16",
       "start_time": "10:40",
-      "available_spot_count": 35,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
@@ -642,7 +642,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-23",
       "start_time": "10:40",
-      "available_spot_count": 3,
+      "available_spot_count": 0,
       "capacity": 49
     },
     {
