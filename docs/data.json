@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T10:32:33.923891-07:00",
+  "last_updated": "2026-08-15T10:53:49.225255-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -45,16 +45,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer Classic x Suna",
-      "booking_start_date": "2026-08-08 00:00",
-      "location": "Gastown",
-      "start_date": "2026-08-15",
-      "start_time": "10:00",
-      "available_spot_count": 3,
-      "capacity": 15
-    },
     {
       "studio": "Lagree West",
       "name": "Megaformer x Suna",
@@ -342,7 +332,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-21",
       "start_time": "12:45",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -354,16 +344,6 @@
       "start_time": "12:45",
       "available_spot_count": 10,
       "capacity": 10
-    },
-    {
-      "studio": "Tunnel",
-      "name": "Heated Mat Mt. Joy & Friends",
-      "booking_start_date": "2026-08-08 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-08-15",
-      "start_time": "10:00",
-      "available_spot_count": 7,
-      "capacity": 11
     },
     {
       "studio": "Lagree X",
