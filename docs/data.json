@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T18:46:18.815862-07:00",
+  "last_updated": "2026-08-14T20:01:11.097660-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-08-15",
       "start_time": "06:30",
       "available_spot_count": 0,
-      "capacity": 440
+      "capacity": 438
     },
     {
       "studio": "Alo",
@@ -18,8 +18,8 @@
       "location": "Vancouver",
       "start_date": "2026-08-15",
       "start_time": "10:30",
-      "available_spot_count": 75,
-      "capacity": 225
+      "available_spot_count": 76,
+      "capacity": 224
     },
     {
       "studio": "Alo",
@@ -62,7 +62,7 @@
       "location": "Gastown",
       "start_date": "2026-08-15",
       "start_time": "09:00",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -162,7 +162,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-23",
       "start_time": "11:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 40
     },
     {
@@ -232,7 +232,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "10:20",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 20
     },
     {
@@ -382,7 +382,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-15",
       "start_time": "09:00",
-      "available_spot_count": 5,
+      "available_spot_count": 7,
       "capacity": 11
     },
     {
@@ -632,7 +632,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-20",
       "start_time": "16:20",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 37
     },
     {
@@ -692,7 +692,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-22",
       "start_time": "09:30",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 49
     },
     {
