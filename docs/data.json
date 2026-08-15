@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T08:31:50.574309-07:00",
+  "last_updated": "2026-08-15T08:53:16.459614-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -8,8 +8,8 @@
       "location": "Vancouver",
       "start_date": "2026-08-15",
       "start_time": "10:30",
-      "available_spot_count": 70,
-      "capacity": 230
+      "available_spot_count": 69,
+      "capacity": 231
     },
     {
       "studio": "Alo",
@@ -62,7 +62,7 @@
       "location": "Gastown",
       "start_date": "2026-08-15",
       "start_time": "10:00",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -393,6 +393,46 @@
       "start_date": "2026-08-15",
       "start_time": "18:30",
       "available_spot_count": 0,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "MegaPro Full Body-X Hour",
+      "booking_start_date": "2026-08-29 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-09-05",
+      "start_time": "13:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "MegaPro Full Body-X Hour",
+      "booking_start_date": "2026-08-29 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-09-05",
+      "start_time": "14:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "MegaPro Full Body-X Hour",
+      "booking_start_date": "2026-09-12 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-09-19",
+      "start_time": "13:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "MegaPro Full Body-X Hour",
+      "booking_start_date": "2026-09-12 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-09-19",
+      "start_time": "14:00",
+      "available_spot_count": 12,
       "capacity": 12
     },
     {
