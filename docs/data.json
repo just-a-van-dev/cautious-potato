@@ -1,16 +1,6 @@
 {
-  "last_updated": "2026-08-15T09:56:13.543371-07:00",
+  "last_updated": "2026-08-15T10:32:33.923891-07:00",
   "alo": [
-    {
-      "studio": "Alo",
-      "name": "ALO TRAIL RUN: STANLEY PARK",
-      "booking_start_date": "Open to book",
-      "location": "Vancouver",
-      "start_date": "2026-08-15",
-      "start_time": "10:30",
-      "available_spot_count": 69,
-      "capacity": 231
-    },
     {
       "studio": "Alo",
       "name": "ALO + PAKT: K-Method",
@@ -507,16 +497,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: FRED AGAIN... X JOHN SUMMIT X DRAKE",
-      "booking_start_date": "2026-08-07 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-08-15",
-      "start_time": "09:30",
-      "available_spot_count": 3,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: HARRY STYLES X JOHN SUMMIT",
       "booking_start_date": "2026-08-08 12:00",
       "location": "BRENTWOOD",
@@ -542,7 +522,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-17",
       "start_time": "17:30",
-      "available_spot_count": 0,
+      "available_spot_count": 2,
       "capacity": 49
     },
     {
@@ -652,7 +632,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-20",
       "start_time": "18:40",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 49
     },
     {
