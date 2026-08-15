@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T10:53:49.225255-07:00",
+  "last_updated": "2026-08-15T11:44:24.843455-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -45,16 +45,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Suna",
-      "booking_start_date": "2026-08-08 00:00",
-      "location": "Gastown",
-      "start_date": "2026-08-15",
-      "start_time": "11:00",
-      "available_spot_count": 5,
-      "capacity": 15
-    },
     {
       "studio": "Lagree West",
       "name": "Megaformer x Suna",
@@ -452,7 +442,7 @@
       "location": "West End",
       "start_date": "2026-08-22",
       "start_time": "18:00",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 25
     },
     {
@@ -542,7 +532,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-19",
       "start_time": "07:15",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 49
     },
     {
@@ -582,7 +572,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-20",
       "start_time": "07:15",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
@@ -622,7 +612,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "09:45",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 49
     },
     {
