@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T16:56:55.918079-07:00",
+  "last_updated": "2026-08-14T18:46:18.815862-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -18,8 +18,8 @@
       "location": "Vancouver",
       "start_date": "2026-08-15",
       "start_time": "10:30",
-      "available_spot_count": 74,
-      "capacity": 226
+      "available_spot_count": 75,
+      "capacity": 225
     },
     {
       "studio": "Alo",
@@ -62,7 +62,7 @@
       "location": "Gastown",
       "start_date": "2026-08-15",
       "start_time": "09:00",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 15
     },
     {
@@ -122,7 +122,7 @@
       "location": "Gastown",
       "start_date": "2026-08-20",
       "start_time": "07:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 15
     },
     {
@@ -207,16 +207,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Balance + Sound Bath (Unheated)",
-      "booking_start_date": "2026-08-07 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-08-14",
-      "start_time": "18:40",
-      "available_spot_count": 1,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
       "name": "Sweat for a cause | The Bowls",
       "booking_start_date": "2026-08-12 00:00",
       "location": "Yaletown",
@@ -252,7 +242,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "12:00",
-      "available_spot_count": 37,
+      "available_spot_count": 34,
       "capacity": 45
     },
     {
@@ -344,6 +334,16 @@
       "start_time": "15:00",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Headsets",
+      "booking_start_date": "2026-08-10 13:00",
+      "location": "Vancouver",
+      "start_date": "2026-08-17",
+      "start_time": "13:00",
+      "available_spot_count": 9,
+      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -492,7 +492,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-15",
       "start_time": "08:20",
-      "available_spot_count": 31,
+      "available_spot_count": 28,
       "capacity": 49
     },
     {
@@ -502,7 +502,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-15",
       "start_time": "09:30",
-      "available_spot_count": 4,
+      "available_spot_count": 6,
       "capacity": 49
     },
     {
@@ -542,7 +542,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-18",
       "start_time": "07:15",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 37
     },
     {
@@ -562,7 +562,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-18",
       "start_time": "18:40",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 37
     },
     {
@@ -612,7 +612,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-20",
       "start_time": "07:15",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
@@ -652,7 +652,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "09:45",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
@@ -682,7 +682,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "18:40",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 49
     },
     {
@@ -692,7 +692,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-22",
       "start_time": "09:30",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 49
     },
     {
