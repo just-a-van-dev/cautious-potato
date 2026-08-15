@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T20:50:25.005342-07:00",
+  "last_updated": "2026-08-14T21:43:08.932613-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -92,7 +92,7 @@
       "location": "Gastown",
       "start_date": "2026-08-15",
       "start_time": "12:00",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -222,7 +222,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "10:00",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 45
     },
     {
@@ -492,7 +492,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-15",
       "start_time": "08:20",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 49
     },
     {
@@ -502,7 +502,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-15",
       "start_time": "09:30",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 49
     },
     {
@@ -682,7 +682,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "18:40",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 49
     },
     {
