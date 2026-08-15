@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T06:56:32.892099-07:00",
+  "last_updated": "2026-08-15T07:35:13.050325-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -8,8 +8,8 @@
       "location": "Vancouver",
       "start_date": "2026-08-15",
       "start_time": "10:30",
-      "available_spot_count": 69,
-      "capacity": 231
+      "available_spot_count": 70,
+      "capacity": 230
     },
     {
       "studio": "Alo",
@@ -52,7 +52,7 @@
       "location": "Gastown",
       "start_date": "2026-08-15",
       "start_time": "09:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 15
     },
     {
@@ -212,7 +212,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "10:00",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 45
     },
     {
@@ -572,7 +572,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-19",
       "start_time": "12:30",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 49
     },
     {
