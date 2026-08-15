@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T09:36:49.313537-07:00",
+  "last_updated": "2026-08-15T09:56:13.543371-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -42,19 +42,19 @@
       "start_time": "15:00",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Lagree Pulse",
+      "name": "Megaformer Fullbody",
+      "booking_start_date": "2026-08-08 12:00",
+      "location": "Vancouver Downtown",
+      "start_date": "2026-08-15",
+      "start_time": "12:00",
+      "available_spot_count": 0,
+      "capacity": 10
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Suna",
-      "booking_start_date": "2026-08-08 00:00",
-      "location": "Gastown",
-      "start_date": "2026-08-15",
-      "start_time": "09:00",
-      "available_spot_count": 4,
-      "capacity": 15
-    },
     {
       "studio": "Lagree West",
       "name": "Megaformer Classic x Suna",
@@ -364,16 +364,6 @@
       "start_time": "12:45",
       "available_spot_count": 10,
       "capacity": 10
-    },
-    {
-      "studio": "Tunnel",
-      "name": "Heated Mat Mt. Joy & Friends",
-      "booking_start_date": "2026-08-08 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-08-15",
-      "start_time": "09:00",
-      "available_spot_count": 7,
-      "capacity": 11
     },
     {
       "studio": "Tunnel",
@@ -712,7 +702,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-22",
       "start_time": "09:30",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
