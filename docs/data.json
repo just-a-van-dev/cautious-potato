@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T15:33:50.968194-07:00",
+  "last_updated": "2026-08-15T15:54:59.629297-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -20,7 +20,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-22",
       "start_time": "15:00",
-      "available_spot_count": 17,
+      "available_spot_count": 11,
       "capacity": 36
     },
     {
@@ -222,7 +222,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-22",
       "start_time": "15:00",
-      "available_spot_count": 17,
+      "available_spot_count": 11,
       "capacity": 36
     },
     {
@@ -512,7 +512,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-19",
       "start_time": "07:15",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 49
     },
     {
@@ -592,7 +592,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "09:45",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 49
     },
     {
