@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T14:53:32.874735-07:00",
+  "last_updated": "2026-08-15T15:33:50.968194-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -20,7 +20,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-22",
       "start_time": "15:00",
-      "available_spot_count": 36,
+      "available_spot_count": 17,
       "capacity": 36
     },
     {
@@ -222,7 +222,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-22",
       "start_time": "15:00",
-      "available_spot_count": 36,
+      "available_spot_count": 17,
       "capacity": 36
     },
     {
@@ -452,7 +452,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-16",
       "start_time": "10:40",
-      "available_spot_count": 36,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
