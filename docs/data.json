@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T13:54:40.191525-07:00",
+  "last_updated": "2026-08-16T14:31:39.300427-07:00",
   "alo": [],
   "special": [
     {
@@ -181,7 +181,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "12:15",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 20
     },
     {
@@ -611,7 +611,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-19",
       "start_time": "07:15",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 49
     },
     {
@@ -711,7 +711,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "17:30",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 49
     },
     {
@@ -731,7 +731,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-22",
       "start_time": "09:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
