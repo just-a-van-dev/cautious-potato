@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T04:53:32.533033-07:00",
+  "last_updated": "2026-08-16T05:57:32.686598-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -8,8 +8,8 @@
       "location": "Toronto",
       "start_date": "2026-08-16",
       "start_time": "06:00",
-      "available_spot_count": 0,
-      "capacity": 27
+      "available_spot_count": 1,
+      "capacity": 26
     }
   ],
   "special": [
