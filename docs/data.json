@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T16:53:07.109258-07:00",
+  "last_updated": "2026-08-15T18:54:51.223733-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -8,8 +8,8 @@
       "location": "Toronto",
       "start_date": "2026-08-16",
       "start_time": "06:00",
-      "available_spot_count": 0,
-      "capacity": 27
+      "available_spot_count": 1,
+      "capacity": 26
     }
   ],
   "special": [
@@ -20,7 +20,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-22",
       "start_time": "15:00",
-      "available_spot_count": 5,
+      "available_spot_count": 0,
       "capacity": 36
     },
     {
@@ -62,7 +62,7 @@
       "location": "Gastown",
       "start_date": "2026-08-20",
       "start_time": "07:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 15
     },
     {
@@ -222,7 +222,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-22",
       "start_time": "15:00",
-      "available_spot_count": 5,
+      "available_spot_count": 0,
       "capacity": 36
     },
     {
@@ -314,16 +314,6 @@
       "start_time": "12:45",
       "available_spot_count": 10,
       "capacity": 10
-    },
-    {
-      "studio": "Lagree X",
-      "name": "Private Event",
-      "booking_start_date": "2026-08-08 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-08-15",
-      "start_time": "18:30",
-      "available_spot_count": 0,
-      "capacity": 12
     },
     {
       "studio": "Lagree X",
@@ -452,7 +442,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-16",
       "start_time": "10:40",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
@@ -572,7 +562,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-20",
       "start_time": "16:20",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 37
     },
     {
@@ -632,7 +622,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-22",
       "start_time": "09:30",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 49
     },
     {
