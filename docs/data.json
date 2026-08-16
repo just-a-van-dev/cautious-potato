@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T12:51:01.408496-07:00",
+  "last_updated": "2026-08-16T13:34:11.128585-07:00",
   "alo": [],
   "special": [
     {
@@ -771,7 +771,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
       "start_time": "17:30",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 49
     },
     {
@@ -781,7 +781,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
       "start_time": "18:40",
-      "available_spot_count": 44,
+      "available_spot_count": 41,
       "capacity": 49
     },
     {
