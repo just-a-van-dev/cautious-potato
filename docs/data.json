@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T11:43:38.435309-07:00",
+  "last_updated": "2026-08-16T12:29:43.855019-07:00",
   "alo": [],
   "special": [
     {
@@ -91,7 +91,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-23",
       "start_time": "11:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 40
     },
     {
@@ -751,7 +751,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-23",
       "start_time": "11:50",
-      "available_spot_count": 45,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
@@ -771,7 +771,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
       "start_time": "17:30",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 49
     },
     {
@@ -781,7 +781,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
       "start_time": "18:40",
-      "available_spot_count": 49,
+      "available_spot_count": 47,
       "capacity": 49
     },
     {
