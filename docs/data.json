@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T10:31:05.845785-07:00",
+  "last_updated": "2026-08-16T10:52:32.498335-07:00",
   "alo": [],
   "special": [
     {
@@ -347,10 +347,40 @@
     {
       "studio": "Lagree X",
       "name": "MegaPro Full Body-X Hour",
+      "booking_start_date": "2026-09-03 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-09-10",
+      "start_time": "18:30",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "MegaPro Full Body-X Hour",
+      "booking_start_date": "2026-09-03 19:30",
+      "location": "Vancouver",
+      "start_date": "2026-09-10",
+      "start_time": "19:30",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "MegaPro Full Body-X Hour",
       "booking_start_date": "2026-09-04 17:30",
       "location": "Vancouver",
       "start_date": "2026-09-11",
       "start_time": "17:30",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "MegaPro Full Body-X Hour",
+      "booking_start_date": "2026-09-07 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-09-14",
+      "start_time": "18:30",
       "available_spot_count": 12,
       "capacity": 12
     },
@@ -561,7 +591,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-18",
       "start_time": "18:40",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 37
     },
     {
@@ -691,7 +721,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-22",
       "start_time": "09:30",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 49
     },
     {
