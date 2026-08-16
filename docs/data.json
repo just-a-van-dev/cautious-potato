@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T16:31:04.609909-07:00",
+  "last_updated": "2026-08-16T16:52:38.748328-07:00",
   "alo": [],
   "special": [
     {
@@ -281,6 +281,16 @@
       "location": "Vancouver",
       "start_date": "2026-08-23",
       "start_time": "16:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Private Event",
+      "booking_start_date": "2026-08-20 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-08-27",
+      "start_time": "18:30",
       "available_spot_count": 12,
       "capacity": 12
     },
@@ -621,7 +631,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-19",
       "start_time": "12:30",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
@@ -731,7 +741,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-22",
       "start_time": "09:30",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 49
     },
     {
@@ -751,7 +761,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-23",
       "start_time": "11:50",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 49
     },
     {
@@ -771,7 +781,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
       "start_time": "17:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
@@ -781,7 +791,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
       "start_time": "18:40",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
