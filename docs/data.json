@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T07:58:03.625601-07:00",
+  "last_updated": "2026-08-17T08:35:38.521360-07:00",
   "alo": [],
   "special": [
     {
@@ -291,7 +291,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-18",
       "start_time": "15:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -841,7 +841,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-20",
       "start_time": "07:15",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 49
     },
     {
@@ -1001,7 +1001,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-26",
       "start_time": "18:40",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 37
     },
     {
