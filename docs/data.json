@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T16:33:35.429488-07:00",
+  "last_updated": "2026-08-17T16:54:48.187525-07:00",
   "alo": [],
   "special": [
     {
@@ -241,7 +241,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-23",
       "start_time": "09:00",
-      "available_spot_count": 21,
+      "available_spot_count": 19,
       "capacity": 40
     },
     {
@@ -881,7 +881,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-17",
       "start_time": "17:30",
-      "available_spot_count": 0,
+      "available_spot_count": 2,
       "capacity": 49
     },
     {
@@ -901,7 +901,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-18",
       "start_time": "12:30",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 49
     },
     {
