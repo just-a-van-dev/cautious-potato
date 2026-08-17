@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T12:55:44.671318-07:00",
+  "last_updated": "2026-08-17T13:38:46.835449-07:00",
   "alo": [],
   "special": [
     {
@@ -31,7 +31,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-18",
       "start_time": "14:15",
-      "available_spot_count": 19,
+      "available_spot_count": 17,
       "capacity": 20
     },
     {
@@ -851,7 +851,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-17",
       "start_time": "17:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 49
     },
     {
@@ -861,7 +861,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-18",
       "start_time": "07:15",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 37
     },
     {
@@ -921,7 +921,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-19",
       "start_time": "18:40",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -1011,7 +1011,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-22",
       "start_time": "09:30",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 49
     },
     {
@@ -1041,7 +1041,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
       "start_time": "12:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
