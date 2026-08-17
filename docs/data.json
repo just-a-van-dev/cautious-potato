@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T10:38:45.488014-07:00",
+  "last_updated": "2026-08-17T10:59:59.072106-07:00",
   "alo": [],
   "special": [
     {
@@ -861,7 +861,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-18",
       "start_time": "12:30",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 49
     },
     {
@@ -921,7 +921,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-20",
       "start_time": "07:15",
-      "available_spot_count": 29,
+      "available_spot_count": 30,
       "capacity": 49
     },
     {
@@ -991,7 +991,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "18:40",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 49
     },
     {
