@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T08:43:04.129651-07:00",
+  "last_updated": "2026-08-18T09:02:34.678364-07:00",
   "alo": [],
   "special": [
     {
@@ -201,7 +201,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "12:00",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 45
     },
     {
@@ -901,7 +901,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-18",
       "start_time": "18:40",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 37
     },
     {
@@ -991,7 +991,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "09:45",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 49
     },
     {
@@ -1071,7 +1071,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
       "start_time": "17:30",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 49
     },
     {
