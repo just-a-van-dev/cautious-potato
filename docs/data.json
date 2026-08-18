@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T06:04:23.491702-07:00",
+  "last_updated": "2026-08-18T06:53:37.191647-07:00",
   "alo": [],
   "special": [
     {
@@ -111,7 +111,7 @@
       "location": "Kitsilano",
       "start_date": "2026-08-26",
       "start_time": "07:15",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 26
     },
     {
@@ -891,7 +891,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-18",
       "start_time": "07:15",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 37
     },
     {
@@ -1091,7 +1091,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
       "start_time": "18:40",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 49
     },
     {
