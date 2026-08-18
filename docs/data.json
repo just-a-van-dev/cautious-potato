@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T06:53:37.191647-07:00",
+  "last_updated": "2026-08-18T07:48:02.583175-07:00",
   "alo": [],
   "special": [
     {
@@ -51,7 +51,7 @@
       "location": "Gastown",
       "start_date": "2026-08-20",
       "start_time": "07:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -111,7 +111,7 @@
       "location": "Kitsilano",
       "start_date": "2026-08-26",
       "start_time": "07:15",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 26
     },
     {
@@ -261,7 +261,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-23",
       "start_time": "09:00",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 40
     },
     {
@@ -371,7 +371,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-21",
       "start_time": "12:45",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -1061,7 +1061,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-23",
       "start_time": "11:50",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 49
     },
     {
@@ -1101,7 +1101,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-25",
       "start_time": "17:30",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
