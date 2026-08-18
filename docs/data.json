@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T20:54:06.499878-07:00",
+  "last_updated": "2026-08-17T21:47:59.624463-07:00",
   "alo": [],
   "special": [
     {
@@ -101,8 +101,18 @@
       "location": "Yaletown",
       "start_date": "2026-08-23",
       "start_time": "13:15",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 40
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mega Cardio Xpress- Ass/Abs+Tread (45 min) - LIVE",
+      "booking_start_date": "2026-08-19 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-08-26",
+      "start_time": "07:15",
+      "available_spot_count": 26,
+      "capacity": 26
     },
     {
       "studio": "Lagree West",
@@ -161,7 +171,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-19",
       "start_time": "20:00",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 36
     },
     {
@@ -211,7 +221,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "14:00",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 45
     },
     {
@@ -321,7 +331,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-19",
       "start_time": "10:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -891,7 +901,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-18",
       "start_time": "12:30",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 49
     },
     {
@@ -961,7 +971,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-20",
       "start_time": "12:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
@@ -981,7 +991,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-20",
       "start_time": "18:40",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 49
     },
     {
@@ -1081,7 +1091,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
       "start_time": "18:40",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 49
     },
     {
