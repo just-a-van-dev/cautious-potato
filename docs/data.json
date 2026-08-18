@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T14:35:08.339505-07:00",
+  "last_updated": "2026-08-18T14:54:32.229318-07:00",
   "alo": [],
   "special": [
     {
@@ -851,7 +851,7 @@
       "location": "West End",
       "start_date": "2026-08-22",
       "start_time": "18:00",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 25
     },
     {
@@ -921,7 +921,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-19",
       "start_time": "18:40",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 49
     },
     {
