@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T14:54:32.229318-07:00",
+  "last_updated": "2026-08-18T15:37:17.037527-07:00",
   "alo": [],
   "special": [
     {
@@ -26,22 +26,12 @@
   "sponsored": [
     {
       "studio": "Lagree West",
-      "name": "Trainer Development",
-      "booking_start_date": "2026-08-11 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-08-18",
-      "start_time": "14:15",
-      "available_spot_count": 10,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
       "booking_start_date": "2026-07-20 11:15",
       "location": "Yaletown",
       "start_date": "2026-08-19",
       "start_time": "11:15",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 20
     },
     {
@@ -71,7 +61,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-22",
       "start_time": "09:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 40
     },
     {
@@ -111,7 +101,7 @@
       "location": "Kitsilano",
       "start_date": "2026-08-26",
       "start_time": "07:15",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 26
     },
     {
@@ -181,7 +171,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "10:00",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 45
     },
     {
@@ -201,7 +191,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "12:00",
-      "available_spot_count": 30,
+      "available_spot_count": 27,
       "capacity": 45
     },
     {
@@ -221,7 +211,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "14:00",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 45
     },
     {
@@ -971,7 +961,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "09:45",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 49
     },
     {
@@ -991,7 +981,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "17:30",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 49
     },
     {
@@ -1071,8 +1061,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-25",
       "start_time": "17:30",
-      "available_spot_count": 30,
-      "capacity": 50
+      "available_spot_count": 28,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1131,8 +1121,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-28",
       "start_time": "18:40",
-      "available_spot_count": 48,
-      "capacity": 50
+      "available_spot_count": 47,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
