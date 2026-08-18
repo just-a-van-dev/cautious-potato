@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T15:56:32.195544-07:00",
+  "last_updated": "2026-08-18T16:33:06.662800-07:00",
   "alo": [],
   "special": [
     {
@@ -101,7 +101,7 @@
       "location": "Kitsilano",
       "start_date": "2026-08-26",
       "start_time": "07:15",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 26
     },
     {
@@ -297,21 +297,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body Headsets",
-      "booking_start_date": "2026-08-11 15:30",
-      "location": "Vancouver",
-      "start_date": "2026-08-18",
-      "start_time": "15:30",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Headsets",
       "booking_start_date": "2026-08-12 09:00",
       "location": "Vancouver",
       "start_date": "2026-08-19",
       "start_time": "09:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -322,6 +312,26 @@
       "start_date": "2026-08-19",
       "start_time": "10:00",
       "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Headsets",
+      "booking_start_date": "2026-08-13 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-08-20",
+      "start_time": "09:00",
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Headsets",
+      "booking_start_date": "2026-08-13 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-08-20",
+      "start_time": "10:00",
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -341,6 +351,26 @@
       "location": "Vancouver",
       "start_date": "2026-08-27",
       "start_time": "18:30",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "New Instructor Class",
+      "booking_start_date": "2026-08-23 11:00",
+      "location": "Vancouver",
+      "start_date": "2026-08-30",
+      "start_time": "11:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "New Instructor Class",
+      "booking_start_date": "2026-08-23 12:00",
+      "location": "Vancouver",
+      "start_date": "2026-08-30",
+      "start_time": "12:00",
       "available_spot_count": 12,
       "capacity": 12
     },
@@ -841,7 +871,7 @@
       "location": "West End",
       "start_date": "2026-08-22",
       "start_time": "18:00",
-      "available_spot_count": 19,
+      "available_spot_count": 17,
       "capacity": 25
     },
     {
@@ -871,7 +901,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-18",
       "start_time": "18:40",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 37
     },
     {
@@ -891,7 +921,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-19",
       "start_time": "12:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 49
     },
     {
@@ -941,7 +971,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-20",
       "start_time": "16:20",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 37
     },
     {
@@ -961,7 +991,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "09:45",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 49
     },
     {
@@ -1081,7 +1111,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-26",
       "start_time": "18:40",
-      "available_spot_count": 31,
+      "available_spot_count": 29,
       "capacity": 37
     },
     {
