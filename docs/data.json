@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T06:54:01.591436-07:00",
+  "last_updated": "2026-08-19T07:48:49.615136-07:00",
   "alo": [],
   "special": [
     {
@@ -101,8 +101,38 @@
       "location": "Kitsilano",
       "start_date": "2026-08-26",
       "start_time": "07:15",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Vandelux",
+      "booking_start_date": "2026-08-27 00:00",
+      "location": "Main St",
+      "start_date": "2026-09-03",
+      "start_time": "15:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Vandelux",
+      "booking_start_date": "2026-08-27 00:00",
+      "location": "Main St",
+      "start_date": "2026-09-03",
+      "start_time": "16:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Vandelux",
+      "booking_start_date": "2026-08-27 00:00",
+      "location": "Main St",
+      "start_date": "2026-09-03",
+      "start_time": "17:15",
+      "available_spot_count": 14,
+      "capacity": 14
     },
     {
       "studio": "Lagree West",
@@ -311,7 +341,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-19",
       "start_time": "09:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -321,7 +351,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-19",
       "start_time": "10:00",
-      "available_spot_count": 5,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -331,7 +361,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-19",
       "start_time": "12:00",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -941,7 +971,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-19",
       "start_time": "18:40",
-      "available_spot_count": 19,
+      "available_spot_count": 20,
       "capacity": 49
     },
     {
