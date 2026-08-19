@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T11:50:35.995263-07:00",
+  "last_updated": "2026-08-19T12:35:03.920342-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -38,21 +38,11 @@
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2026-07-20 11:15",
-      "location": "Yaletown",
-      "start_date": "2026-08-19",
-      "start_time": "11:15",
-      "available_spot_count": 2,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Sweat for a Cause/By Donation",
       "booking_start_date": "2026-07-21 07:00",
       "location": "Gastown",
       "start_date": "2026-08-20",
       "start_time": "07:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -942,7 +932,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-19",
       "start_time": "12:30",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 49
     },
     {
@@ -952,7 +942,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-19",
       "start_time": "18:40",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 49
     },
     {
@@ -992,7 +982,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-20",
       "start_time": "18:40",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 49
     },
     {
@@ -1022,7 +1012,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "17:30",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 50
     },
     {
@@ -1142,7 +1132,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-27",
       "start_time": "12:30",
-      "available_spot_count": 37,
+      "available_spot_count": 35,
       "capacity": 37
     },
     {
@@ -1152,7 +1142,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-27",
       "start_time": "18:40",
-      "available_spot_count": 49,
+      "available_spot_count": 47,
       "capacity": 49
     },
     {
