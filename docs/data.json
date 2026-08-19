@@ -1,6 +1,17 @@
 {
-  "last_updated": "2026-08-19T09:43:32.501166-07:00",
-  "alo": [],
+  "last_updated": "2026-08-19T10:36:56.574621-07:00",
+  "alo": [
+    {
+      "studio": "Alo",
+      "name": "ALO + LSD\u00b0R: Re\u00b0former Pilates",
+      "booking_start_date": "Open to book",
+      "location": "Toronto",
+      "start_date": "2026-08-28",
+      "start_time": "10:15",
+      "available_spot_count": 15,
+      "capacity": 0
+    }
+  ],
   "special": [
     {
       "studio": "Jaybird",
@@ -61,7 +72,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-22",
       "start_time": "09:00",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 40
     },
     {
@@ -281,7 +292,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-23",
       "start_time": "09:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 40
     },
     {
@@ -901,7 +912,7 @@
       "location": "West End",
       "start_date": "2026-08-22",
       "start_time": "18:00",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 25
     },
     {
@@ -971,7 +982,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-20",
       "start_time": "12:30",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
@@ -981,7 +992,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-20",
       "start_time": "16:20",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 37
     },
     {
@@ -1001,7 +1012,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "09:45",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -1041,7 +1052,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-22",
       "start_time": "09:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 49
     },
     {
@@ -1061,7 +1072,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-23",
       "start_time": "11:50",
-      "available_spot_count": 29,
+      "available_spot_count": 30,
       "capacity": 37
     },
     {
@@ -1111,7 +1122,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-25",
       "start_time": "17:30",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 50
     },
     {
@@ -1131,7 +1142,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-26",
       "start_time": "18:40",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 37
     },
     {
