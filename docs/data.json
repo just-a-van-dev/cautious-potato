@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T16:33:27.421172-07:00",
+  "last_updated": "2026-08-19T16:54:51.749729-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -42,7 +42,7 @@
       "location": "Gastown",
       "start_date": "2026-08-20",
       "start_time": "07:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 15
     },
     {
@@ -92,7 +92,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-23",
       "start_time": "13:15",
-      "available_spot_count": 18,
+      "available_spot_count": 16,
       "capacity": 40
     },
     {
@@ -932,7 +932,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-19",
       "start_time": "18:40",
-      "available_spot_count": 20,
+      "available_spot_count": 21,
       "capacity": 49
     },
     {
@@ -1042,7 +1042,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-23",
       "start_time": "11:50",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 37
     },
     {
