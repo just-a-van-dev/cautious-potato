@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T20:07:46.782607-07:00",
+  "last_updated": "2026-08-18T20:55:06.433787-07:00",
   "alo": [],
   "special": [
     {
@@ -31,7 +31,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-19",
       "start_time": "11:15",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 20
     },
     {
@@ -171,7 +171,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "10:00",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 45
     },
     {
@@ -191,7 +191,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "12:00",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 45
     },
     {
@@ -326,7 +326,7 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Headsets",
+      "name": "Daytime Perk Full Body Headsets x Scentuals",
       "booking_start_date": "2026-08-13 09:00",
       "location": "Vancouver",
       "start_date": "2026-08-20",
@@ -336,7 +336,7 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Headsets",
+      "name": "Daytime Perk Full Body Headsets x Scentuals",
       "booking_start_date": "2026-08-13 10:00",
       "location": "Vancouver",
       "start_date": "2026-08-20",
@@ -871,7 +871,7 @@
       "location": "West End",
       "start_date": "2026-08-22",
       "start_time": "18:00",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 25
     },
     {
@@ -901,7 +901,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-19",
       "start_time": "07:15",
-      "available_spot_count": 24,
+      "available_spot_count": 27,
       "capacity": 50
     },
     {
@@ -911,7 +911,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-19",
       "start_time": "12:30",
-      "available_spot_count": 36,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -921,7 +921,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-19",
       "start_time": "12:30",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 49
     },
     {
@@ -931,7 +931,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-19",
       "start_time": "18:40",
-      "available_spot_count": 16,
+      "available_spot_count": 17,
       "capacity": 49
     },
     {
@@ -971,7 +971,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-20",
       "start_time": "18:40",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 49
     },
     {
@@ -1011,7 +1011,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "18:40",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -1021,7 +1021,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-22",
       "start_time": "09:30",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 49
     },
     {
@@ -1036,12 +1036,22 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: BRITNEY SPEARS X TATE MCRAE",
+      "booking_start_date": "2026-08-15 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-08-23",
+      "start_time": "11:50",
+      "available_spot_count": 32,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: BRITNEY SPEARS x TATE MCRAE",
       "booking_start_date": "2026-08-15 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-08-23",
       "start_time": "11:50",
-      "available_spot_count": 29,
+      "available_spot_count": 27,
       "capacity": 49
     },
     {
@@ -1081,7 +1091,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-25",
       "start_time": "17:30",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 50
     },
     {
@@ -1101,7 +1111,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-26",
       "start_time": "18:40",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 37
     },
     {
