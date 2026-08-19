@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T14:36:04.547902-07:00",
+  "last_updated": "2026-08-19T14:56:55.744902-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -202,7 +202,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "10:00",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 45
     },
     {
@@ -212,7 +212,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "10:20",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -252,7 +252,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-21",
       "start_time": "13:30",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 45
     },
     {
@@ -342,7 +342,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-20",
       "start_time": "09:00",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 12
     },
     {
@@ -372,7 +372,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-21",
       "start_time": "11:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -413,6 +413,16 @@
       "start_date": "2026-08-21",
       "start_time": "12:45",
       "available_spot_count": 6,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
+      "name": "Infrared Lagree - One Direction x Little Mix",
+      "booking_start_date": "2026-08-14 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-08-21",
+      "start_time": "18:30",
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
@@ -902,7 +912,7 @@
       "location": "West End",
       "start_date": "2026-08-22",
       "start_time": "18:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 25
     },
     {
@@ -1092,7 +1102,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-25",
       "start_time": "17:30",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 50
     },
     {
@@ -1164,6 +1174,36 @@
       "start_time": "08:20",
       "available_spot_count": 49,
       "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BOY BANDS + POP STARS",
+      "booking_start_date": "2026-08-23 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-08-31",
+      "start_time": "17:30",
+      "available_spot_count": 49,
+      "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: EMINEM x LIL NAS X",
+      "booking_start_date": "2026-08-24 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-09-01",
+      "start_time": "12:30",
+      "available_spot_count": 37,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: HIP HOP: DOECHII x LATTO x GLORILLA",
+      "booking_start_date": "2026-08-26 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-09-03",
+      "start_time": "12:30",
+      "available_spot_count": 37,
+      "capacity": 37
     }
   ]
 }
