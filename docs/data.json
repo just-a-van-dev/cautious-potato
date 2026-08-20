@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T20:07:07.995975-07:00",
+  "last_updated": "2026-08-19T20:55:07.191926-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -192,7 +192,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "10:00",
-      "available_spot_count": 20,
+      "available_spot_count": 21,
       "capacity": 45
     },
     {
@@ -202,7 +202,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "10:20",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -222,7 +222,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "12:15",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 20
     },
     {
@@ -282,7 +282,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-25",
       "start_time": "13:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 36
     },
     {
@@ -362,7 +362,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-21",
       "start_time": "15:30",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -402,7 +402,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-21",
       "start_time": "18:30",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -562,7 +562,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-20",
       "start_time": "18:40",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 49
     },
     {
@@ -592,7 +592,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "17:30",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 50
     },
     {
@@ -602,7 +602,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "18:40",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -632,7 +632,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-23",
       "start_time": "11:50",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 36
     },
     {
@@ -712,7 +712,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-27",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 36
     },
     {
