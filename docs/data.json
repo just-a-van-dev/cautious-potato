@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T13:00:36.026752-07:00",
+  "last_updated": "2026-08-20T13:41:47.507727-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -42,7 +42,7 @@
       "location": "Kitsilano",
       "start_date": "2026-08-20",
       "start_time": "14:15",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 16
     },
     {
@@ -62,7 +62,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-22",
       "start_time": "13:15",
-      "available_spot_count": 11,
+      "available_spot_count": 9,
       "capacity": 40
     },
     {
@@ -182,7 +182,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-20",
       "start_time": "14:00",
-      "available_spot_count": 40,
+      "available_spot_count": 38,
       "capacity": 45
     },
     {
@@ -288,16 +288,6 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body",
-      "booking_start_date": "2026-08-13 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-08-20",
-      "start_time": "13:00",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body",
       "booking_start_date": "2026-08-13 15:30",
       "location": "Vancouver",
       "start_date": "2026-08-20",
@@ -313,16 +303,6 @@
       "start_date": "2026-08-21",
       "start_time": "09:00",
       "available_spot_count": 10,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body",
-      "booking_start_date": "2026-08-14 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-08-21",
-      "start_time": "10:00",
-      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -517,16 +497,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: AQUA x ACE OF BASE",
-      "booking_start_date": "2026-08-12 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-08-20",
-      "start_time": "12:30",
-      "available_spot_count": 33,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: CHARLI XCX X SABRINA X CHAPPELL",
       "booking_start_date": "2026-08-12 12:00",
       "location": "DOWNTOWN VANCOUVER",
@@ -542,7 +512,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-20",
       "start_time": "18:40",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 49
     },
     {
@@ -552,7 +522,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "09:45",
-      "available_spot_count": 26,
+      "available_spot_count": 23,
       "capacity": 50
     },
     {
@@ -562,7 +532,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-21",
       "start_time": "12:30",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 49
     },
     {
@@ -592,7 +562,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-22",
       "start_time": "09:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 49
     },
     {
@@ -722,7 +692,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-28",
       "start_time": "18:40",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
