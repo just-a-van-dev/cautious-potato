@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T10:41:23.229984-07:00",
+  "last_updated": "2026-08-20T11:01:00.083407-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -177,16 +177,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn x Celsius",
-      "booking_start_date": "2026-08-13 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-08-20",
-      "start_time": "10:00",
-      "available_spot_count": 22,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Burn - Reformer x Celsius",
       "booking_start_date": "2026-08-13 00:00",
       "location": "Kingsway",
@@ -232,7 +222,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-21",
       "start_time": "13:30",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 45
     },
     {
@@ -512,7 +502,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-20",
       "start_time": "16:20",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 36
     },
     {
@@ -612,7 +602,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
       "start_time": "12:30",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 49
     },
     {
