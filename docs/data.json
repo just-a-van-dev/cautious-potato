@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T14:38:33.657203-07:00",
+  "last_updated": "2026-08-20T14:58:29.517307-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -35,16 +35,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2026-07-21 14:15",
-      "location": "Kitsilano",
-      "start_date": "2026-08-20",
-      "start_time": "14:15",
-      "available_spot_count": 2,
-      "capacity": 16
-    },
     {
       "studio": "Lagree West",
       "name": "Summer Wellness Weekend \u2014 Mega Mat",
@@ -177,16 +167,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "Teacher Development | The Burn $18",
-      "booking_start_date": "2026-08-13 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-08-20",
-      "start_time": "14:00",
-      "available_spot_count": 38,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
       "name": "Teacher Development | The Build $18",
       "booking_start_date": "2026-08-14 00:00",
       "location": "Kingsway",
@@ -312,7 +292,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-21",
       "start_time": "13:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -532,7 +512,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-21",
       "start_time": "12:30",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 49
     },
     {
@@ -682,7 +662,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-28",
       "start_time": "12:30",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 49
     },
     {
