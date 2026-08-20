@@ -78,6 +78,7 @@ FILTER_OUT = {
     "lagree x":[
         "megapro full body",
         "strength & recovery 🧘🏽‍♀️",
+        "megapro full body-x hour",
     ],
     "spin society": [
       "theme: rise + rave"
