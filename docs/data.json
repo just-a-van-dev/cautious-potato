@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T13:41:47.507727-07:00",
+  "last_updated": "2026-08-20T14:02:51.154236-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -42,7 +42,7 @@
       "location": "Kitsilano",
       "start_date": "2026-08-20",
       "start_time": "14:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 16
     },
     {
@@ -292,7 +292,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-20",
       "start_time": "15:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -412,7 +412,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-27",
       "start_time": "11:45",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 38
     },
     {
@@ -562,7 +562,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-22",
       "start_time": "09:30",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 49
     },
     {
