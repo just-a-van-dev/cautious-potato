@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T14:56:34.285584-07:00",
+  "last_updated": "2026-08-21T15:37:06.582578-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -82,7 +82,7 @@
       "location": "Kitsilano",
       "start_date": "2026-08-26",
       "start_time": "07:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 26
     },
     {
@@ -422,7 +422,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "18:40",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -462,7 +462,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-23",
       "start_time": "11:50",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 49
     },
     {
@@ -482,7 +482,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
       "start_time": "17:30",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 49
     },
     {
