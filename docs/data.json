@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T12:53:04.056219-07:00",
+  "last_updated": "2026-08-21T13:36:33.329942-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -122,7 +122,7 @@
       "location": "Main St",
       "start_date": "2026-09-05",
       "start_time": "15:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 14
     },
     {
@@ -172,7 +172,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-21",
       "start_time": "13:30",
-      "available_spot_count": 40,
+      "available_spot_count": 38,
       "capacity": 45
     },
     {
@@ -284,16 +284,6 @@
       "start_time": "18:30",
       "available_spot_count": 12,
       "capacity": 12
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - Full Body - Kesha",
-      "booking_start_date": "2026-08-14 12:45",
-      "location": "Vancouver",
-      "start_date": "2026-08-21",
-      "start_time": "12:45",
-      "available_spot_count": 5,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
@@ -427,22 +417,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: GAGA x MADONNA",
-      "booking_start_date": "2026-08-13 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-08-21",
-      "start_time": "12:30",
-      "available_spot_count": 24,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: F1 x K-POP",
       "booking_start_date": "2026-08-13 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-21",
       "start_time": "17:30",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 49
     },
     {
@@ -462,7 +442,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-22",
       "start_time": "09:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 49
     },
     {
@@ -502,7 +482,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
       "start_time": "12:30",
-      "available_spot_count": 40,
+      "available_spot_count": 38,
       "capacity": 49
     },
     {
@@ -552,7 +532,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-26",
       "start_time": "18:40",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 36
     },
     {
@@ -582,7 +562,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-28",
       "start_time": "12:30",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
@@ -602,7 +582,27 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-29",
       "start_time": "08:20",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
+      "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: GIRL GROUPS X SOLO CAREERS",
+      "booking_start_date": "2026-08-21 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-08-29",
+      "start_time": "10:40",
+      "available_spot_count": 33,
+      "capacity": 36
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: GIRL GROUPS X SOLO CAREERS",
+      "booking_start_date": "2026-08-22 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-08-30",
+      "start_time": "09:30",
+      "available_spot_count": 49,
       "capacity": 49
     },
     {
@@ -627,6 +627,26 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: NICKI MINAJ x ARIANA GRANDE x CARDI B",
+      "booking_start_date": "2026-08-25 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-09-02",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: 90s + 2000s POP THROWBACKS",
+      "booking_start_date": "2026-08-25 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-09-02",
+      "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: HIP HOP: DOECHII x LATTO x GLORILLA",
       "booking_start_date": "2026-08-26 12:00",
       "location": "DOWNTOWN VANCOUVER",
@@ -634,6 +654,16 @@
       "start_time": "12:30",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: KARAOKE SING-ALONG SONGS - VOL 2",
+      "booking_start_date": "2026-08-27 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-09-04",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
