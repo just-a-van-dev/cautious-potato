@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T10:40:04.631267-07:00",
+  "last_updated": "2026-08-21T11:00:59.913860-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -292,7 +292,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-21",
       "start_time": "12:45",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -532,7 +532,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-25",
       "start_time": "17:30",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 49
     },
     {
@@ -542,7 +542,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-25",
       "start_time": "18:40",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
@@ -634,6 +634,26 @@
       "start_time": "12:30",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: THROWBACKS! 2010-2015 - VOL 1",
+      "booking_start_date": "2026-08-27 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-09-04",
+      "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: THROWBACKS! 2010-2015 - VOL 2",
+      "booking_start_date": "2026-08-30 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-09-07",
+      "start_time": "10:40",
+      "available_spot_count": 50,
+      "capacity": 50
     }
   ]
 }
