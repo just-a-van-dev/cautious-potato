@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T09:56:15.051228-07:00",
+  "last_updated": "2026-08-22T10:32:40.917374-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -292,7 +292,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-24",
       "start_time": "11:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -444,16 +444,6 @@
       "start_time": "12:30",
       "available_spot_count": 32,
       "capacity": 32
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: 90'S X 2000'S",
-      "booking_start_date": "2026-08-14 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-08-22",
-      "start_time": "09:30",
-      "available_spot_count": 1,
-      "capacity": 49
     },
     {
       "studio": "Spin Society",
