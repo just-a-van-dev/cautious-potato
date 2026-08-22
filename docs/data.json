@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T15:34:51.517624-07:00",
+  "last_updated": "2026-08-22T15:54:50.927777-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -192,7 +192,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-26",
       "start_time": "13:30",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 45
     },
     {
