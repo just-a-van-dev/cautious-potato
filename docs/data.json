@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T09:36:45.181374-07:00",
+  "last_updated": "2026-08-22T09:56:15.051228-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -35,16 +35,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Summer Wellness Weekend \u2014 Mega Mat",
-      "booking_start_date": "2026-07-23 09:00",
-      "location": "Yaletown",
-      "start_date": "2026-08-22",
-      "start_time": "09:00",
-      "available_spot_count": 0,
-      "capacity": 40
-    },
     {
       "studio": "Lagree West",
       "name": "Summer Wellness Weekend \u2014 Mega Mat",
@@ -317,7 +307,7 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Club Lagree ANYMA x WIZE",
+      "name": "Club Lagree ANYMA x Herbaland",
       "booking_start_date": "2026-08-20 09:00",
       "location": "Vancouver",
       "start_date": "2026-08-27",
@@ -592,7 +582,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-28",
       "start_time": "18:40",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 49
     },
     {
