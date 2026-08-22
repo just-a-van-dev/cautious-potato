@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T16:55:55.980601-07:00",
+  "last_updated": "2026-08-21T18:47:14.876829-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -52,7 +52,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-22",
       "start_time": "13:15",
-      "available_spot_count": 6,
+      "available_spot_count": 3,
       "capacity": 40
     },
     {
@@ -166,6 +166,16 @@
       "capacity": 15
     },
     {
+      "studio": "Lagree West",
+      "name": "Mid-Day Mega Cardio Xpress- Ass/Abs+Tread (45)",
+      "booking_start_date": "2026-09-28 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-05",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
       "studio": "Jaybird",
       "name": "Summer Wellness Weekend \u2014 The Burn",
       "booking_start_date": "2026-07-23 11:30",
@@ -204,6 +214,16 @@
       "start_time": "13:30",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "Teacher Development | The Burn $18",
+      "booking_start_date": "2026-08-19 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-08-26",
+      "start_time": "13:30",
+      "available_spot_count": 45,
+      "capacity": 45
     },
     {
       "studio": "Jaybird",
@@ -256,6 +276,16 @@
       "capacity": 36
     },
     {
+      "studio": "Jaybird",
+      "name": "The Burn + ALO",
+      "booking_start_date": "2026-09-28 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-10-05",
+      "start_time": "07:15",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
       "studio": "Lagree Studio",
       "name": "Private Event",
       "booking_start_date": "2026-08-16 16:00",
@@ -267,6 +297,26 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Headsets",
+      "booking_start_date": "2026-08-17 11:00",
+      "location": "Vancouver",
+      "start_date": "2026-08-24",
+      "start_time": "11:00",
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Headsets",
+      "booking_start_date": "2026-08-17 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-08-24",
+      "start_time": "14:00",
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Private Event",
       "booking_start_date": "2026-08-20 18:30",
       "location": "Vancouver",
@@ -274,16 +324,6 @@
       "start_time": "18:30",
       "available_spot_count": 12,
       "capacity": 12
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - One Direction x Little Mix",
-      "booking_start_date": "2026-08-14 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-08-21",
-      "start_time": "18:30",
-      "available_spot_count": 7,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
@@ -407,26 +447,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: F1 x K-POP",
-      "booking_start_date": "2026-08-13 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-08-21",
-      "start_time": "17:30",
-      "available_spot_count": 13,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: KARAOKE SING-ALONGS (EVVIE\u2019S VERSION)",
-      "booking_start_date": "2026-08-13 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-08-21",
-      "start_time": "18:40",
-      "available_spot_count": 13,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: 90'S X 2000'S",
       "booking_start_date": "2026-08-14 12:00",
       "location": "BRENTWOOD",
@@ -452,7 +472,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-23",
       "start_time": "11:50",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 36
     },
     {
@@ -462,7 +482,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-23",
       "start_time": "11:50",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 49
     },
     {
@@ -512,7 +532,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-25",
       "start_time": "18:40",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 49
     },
     {
@@ -522,7 +542,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-26",
       "start_time": "18:40",
-      "available_spot_count": 18,
+      "available_spot_count": 16,
       "capacity": 36
     },
     {
@@ -542,7 +562,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-27",
       "start_time": "18:40",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 49
     },
     {
@@ -562,7 +582,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-28",
       "start_time": "18:40",
-      "available_spot_count": 12,
+      "available_spot_count": 7,
       "capacity": 49
     },
     {
