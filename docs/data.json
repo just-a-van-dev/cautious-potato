@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T08:53:48.566261-07:00",
+  "last_updated": "2026-08-22T09:36:45.181374-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -317,6 +317,16 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Club Lagree ANYMA x WIZE",
+      "booking_start_date": "2026-08-20 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-08-27",
+      "start_time": "09:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Private Event",
       "booking_start_date": "2026-08-20 18:30",
       "location": "Vancouver",
@@ -452,7 +462,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-22",
       "start_time": "09:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 49
     },
     {
@@ -542,7 +552,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-26",
       "start_time": "18:40",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 36
     },
     {
@@ -552,7 +562,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-27",
       "start_time": "12:30",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 36
     },
     {
@@ -562,7 +572,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-27",
       "start_time": "18:40",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 49
     },
     {
@@ -582,7 +592,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-28",
       "start_time": "18:40",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 49
     },
     {
