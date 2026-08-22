@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T15:54:50.927777-07:00",
+  "last_updated": "2026-08-22T16:31:58.681237-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -13,16 +13,6 @@
     }
   ],
   "special": [
-    {
-      "studio": "Jaybird",
-      "name": "The Balance + ALO Community Class",
-      "booking_start_date": "2026-08-15 15:00",
-      "location": "Yaletown",
-      "start_date": "2026-08-22",
-      "start_time": "15:00",
-      "available_spot_count": 2,
-      "capacity": 36
-    },
     {
       "studio": "Jaybird",
       "name": "The Balance + ALO Community Class",
@@ -154,16 +144,6 @@
       "start_time": "12:15",
       "available_spot_count": 26,
       "capacity": 26
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Balance + ALO Community Class",
-      "booking_start_date": "2026-08-15 15:00",
-      "location": "Yaletown",
-      "start_date": "2026-08-22",
-      "start_time": "15:00",
-      "available_spot_count": 2,
-      "capacity": 36
     },
     {
       "studio": "Jaybird",
@@ -342,7 +322,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-28",
       "start_time": "12:45",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -502,7 +482,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
       "start_time": "17:30",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 49
     },
     {
@@ -592,7 +572,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-29",
       "start_time": "08:20",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 49
     },
     {
