@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T11:45:10.465045-07:00",
+  "last_updated": "2026-08-23T12:31:03.365750-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -25,16 +25,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Summer Wellness Weekend \u2014 Mega Mat",
-      "booking_start_date": "2026-07-24 11:30",
-      "location": "Yaletown",
-      "start_date": "2026-08-23",
-      "start_time": "11:30",
-      "available_spot_count": 1,
-      "capacity": 40
-    },
     {
       "studio": "Lagree West",
       "name": "Summer Wellness Weekend \u2014 Mega Mat",
@@ -332,7 +322,7 @@
       "location": "4th Ave",
       "start_date": "2026-09-06",
       "start_time": "11:00",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
@@ -442,7 +432,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
       "start_time": "12:30",
-      "available_spot_count": 41,
+      "available_spot_count": 42,
       "capacity": 49
     },
     {
@@ -462,7 +452,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
       "start_time": "18:40",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 49
     },
     {
@@ -572,7 +562,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-31",
       "start_time": "17:30",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 49
     },
     {
