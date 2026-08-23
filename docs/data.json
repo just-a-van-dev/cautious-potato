@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T10:53:01.074432-07:00",
+  "last_updated": "2026-08-23T11:45:10.465045-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -132,7 +132,7 @@
       "location": "Gastown",
       "start_date": "2026-09-21",
       "start_time": "08:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
@@ -172,7 +172,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-30",
       "start_time": "16:00",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 45
     },
     {
@@ -417,22 +417,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: K-POP X SOLO BREAK HAUS",
-      "booking_start_date": "2026-08-15 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-08-23",
-      "start_time": "10:40",
-      "available_spot_count": 0,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: BRITNEY SPEARS X TATE MCRAE",
       "booking_start_date": "2026-08-15 12:00",
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-23",
       "start_time": "11:50",
-      "available_spot_count": 16,
+      "available_spot_count": 13,
       "capacity": 36
     },
     {
@@ -442,7 +432,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-23",
       "start_time": "11:50",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 49
     },
     {
@@ -462,7 +452,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
       "start_time": "17:30",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 49
     },
     {
@@ -472,7 +462,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
       "start_time": "18:40",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 49
     },
     {
@@ -562,7 +552,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-29",
       "start_time": "10:40",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 36
     },
     {
