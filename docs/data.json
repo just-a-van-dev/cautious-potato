@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T09:38:45.184650-07:00",
+  "last_updated": "2026-08-23T09:57:26.575301-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -144,16 +144,6 @@
       "start_time": "12:15",
       "available_spot_count": 26,
       "capacity": 26
-    },
-    {
-      "studio": "Jaybird",
-      "name": "Summer Wellness Weekend \u2014 The Bird",
-      "booking_start_date": "2026-07-24 09:00",
-      "location": "Yaletown",
-      "start_date": "2026-08-23",
-      "start_time": "09:00",
-      "available_spot_count": 0,
-      "capacity": 40
     },
     {
       "studio": "Jaybird",
@@ -452,7 +442,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-23",
       "start_time": "11:50",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -462,7 +452,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
       "start_time": "12:30",
-      "available_spot_count": 40,
+      "available_spot_count": 41,
       "capacity": 49
     },
     {
