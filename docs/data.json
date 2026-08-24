@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T12:59:52.172469-07:00",
+  "last_updated": "2026-08-24T13:44:48.948857-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -10,6 +10,16 @@
       "start_time": "10:15",
       "available_spot_count": 0,
       "capacity": 15
+    },
+    {
+      "studio": "Alo",
+      "name": "ALO BLOOR STREET: ALO RUNNERS CLUB",
+      "booking_start_date": "Open to book",
+      "location": "Toronto",
+      "start_date": "2026-09-19",
+      "start_time": "06:30",
+      "available_spot_count": 300,
+      "capacity": 0
     }
   ],
   "special": [
@@ -132,7 +142,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-25",
       "start_time": "13:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 36
     },
     {
@@ -243,6 +253,16 @@
       "start_date": "2026-08-25",
       "start_time": "15:30",
       "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Headsets",
+      "booking_start_date": "2026-08-19 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-08-26",
+      "start_time": "09:00",
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -377,16 +397,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: BRITNEY SPEARS x FREDAGAIN..",
-      "booking_start_date": "2026-08-16 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-08-24",
-      "start_time": "12:30",
-      "available_spot_count": 34,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: HANNAH MONTANA X MILEY CYRUS",
       "booking_start_date": "2026-08-16 12:00",
       "location": "BRENTWOOD",
@@ -492,7 +502,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-29",
       "start_time": "10:40",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 36
     },
     {
@@ -572,6 +582,16 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-04",
       "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: HILARY DUFF + DISNEY CHANNEL FRIENDS",
+      "booking_start_date": "2026-08-28 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-09-05",
+      "start_time": "08:20",
       "available_spot_count": 50,
       "capacity": 50
     },
