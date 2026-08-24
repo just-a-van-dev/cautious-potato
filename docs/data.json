@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T04:04:56.433229-07:00",
+  "last_updated": "2026-08-24T04:39:27.514314-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -522,7 +522,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-29",
       "start_time": "10:40",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 36
     },
     {
