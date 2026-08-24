@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T21:26:02.155132-07:00",
+  "last_updated": "2026-08-23T22:23:07.869565-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -217,17 +217,37 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Headsets",
-      "booking_start_date": "2026-08-17 11:00",
+      "name": "Daytime Perk Full Body",
+      "booking_start_date": "2026-08-17 09:00",
       "location": "Vancouver",
       "start_date": "2026-08-24",
-      "start_time": "11:00",
+      "start_time": "09:00",
       "available_spot_count": 9,
       "capacity": 12
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Headsets",
+      "name": "Daytime Perk Full Body",
+      "booking_start_date": "2026-08-17 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-08-24",
+      "start_time": "10:00",
+      "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body",
+      "booking_start_date": "2026-08-17 11:00",
+      "location": "Vancouver",
+      "start_date": "2026-08-24",
+      "start_time": "11:00",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body",
       "booking_start_date": "2026-08-17 14:00",
       "location": "Vancouver",
       "start_date": "2026-08-24",
@@ -392,7 +412,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-24",
       "start_time": "12:30",
-      "available_spot_count": 41,
+      "available_spot_count": 42,
       "capacity": 49
     },
     {
@@ -422,7 +442,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-25",
       "start_time": "17:30",
-      "available_spot_count": 6,
+      "available_spot_count": 2,
       "capacity": 49
     },
     {
@@ -522,7 +542,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-31",
       "start_time": "17:30",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 49
     },
     {
