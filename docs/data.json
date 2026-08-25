@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T14:01:29.281810-07:00",
+  "last_updated": "2026-08-25T14:38:57.392908-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -144,16 +144,6 @@
       "start_time": "12:15",
       "available_spot_count": 26,
       "capacity": 26
-    },
-    {
-      "studio": "Jaybird",
-      "name": "Teacher Development | The Burn ($18)",
-      "booking_start_date": "2026-08-18 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-08-25",
-      "start_time": "13:30",
-      "available_spot_count": 24,
-      "capacity": 36
     },
     {
       "studio": "Jaybird",
@@ -422,7 +412,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-25",
       "start_time": "18:40",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 49
     },
     {
@@ -492,7 +482,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-29",
       "start_time": "10:40",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 36
     },
     {
@@ -552,7 +542,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-02",
       "start_time": "18:40",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
