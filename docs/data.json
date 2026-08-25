@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T20:09:11.290628-07:00",
+  "last_updated": "2026-08-24T20:56:08.259583-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -267,6 +267,16 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Headsets",
+      "booking_start_date": "2026-08-19 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-08-26",
+      "start_time": "10:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Club Lagree ANYMA x Herbaland",
       "booking_start_date": "2026-08-20 09:00",
       "location": "Vancouver",
@@ -412,7 +422,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-25",
       "start_time": "17:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 49
     },
     {
@@ -462,7 +472,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-28",
       "start_time": "12:30",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 49
     },
     {
@@ -502,7 +512,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-30",
       "start_time": "09:30",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 49
     },
     {
