@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T00:54:33.512950-07:00",
+  "last_updated": "2026-08-25T01:55:40.525388-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -18,8 +18,8 @@
       "location": "Toronto",
       "start_date": "2026-09-19",
       "start_time": "06:30",
-      "available_spot_count": 298,
-      "capacity": 2
+      "available_spot_count": 297,
+      "capacity": 3
     },
     {
       "studio": "Alo",
@@ -52,7 +52,7 @@
       "location": "Kitsilano",
       "start_date": "2026-08-26",
       "start_time": "07:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 26
     },
     {
@@ -262,7 +262,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-26",
       "start_time": "09:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
