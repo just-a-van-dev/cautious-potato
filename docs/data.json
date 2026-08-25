@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T03:46:00.774876-07:00",
+  "last_updated": "2026-08-25T04:38:14.330876-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -18,8 +18,8 @@
       "location": "Toronto",
       "start_date": "2026-09-19",
       "start_time": "06:30",
-      "available_spot_count": 296,
-      "capacity": 4
+      "available_spot_count": 293,
+      "capacity": 7
     },
     {
       "studio": "Alo",
@@ -422,7 +422,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-25",
       "start_time": "17:30",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 49
     },
     {
