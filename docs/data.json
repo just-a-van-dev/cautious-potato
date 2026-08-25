@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T00:05:01.109232-07:00",
+  "last_updated": "2026-08-25T00:54:33.512950-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -242,7 +242,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-25",
       "start_time": "10:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -422,7 +422,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-25",
       "start_time": "17:30",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 49
     },
     {
@@ -522,7 +522,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-31",
       "start_time": "17:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
