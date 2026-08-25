@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T22:43:20.159310-07:00",
+  "last_updated": "2026-08-25T00:05:01.109232-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -422,7 +422,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-25",
       "start_time": "17:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 49
     },
     {
@@ -472,7 +472,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-28",
       "start_time": "12:30",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -522,7 +522,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-31",
       "start_time": "17:30",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
@@ -592,7 +592,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-04",
       "start_time": "18:40",
-      "available_spot_count": 50,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
