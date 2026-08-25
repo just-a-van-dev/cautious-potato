@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T12:41:55.011947-07:00",
+  "last_updated": "2026-08-25T13:00:20.171868-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -152,7 +152,7 @@
       "location": "Yaletown",
       "start_date": "2026-08-25",
       "start_time": "13:30",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 36
     },
     {
@@ -422,7 +422,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-25",
       "start_time": "18:40",
-      "available_spot_count": 27,
+      "available_spot_count": 28,
       "capacity": 49
     },
     {
@@ -432,7 +432,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-26",
       "start_time": "18:40",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 36
     },
     {
