@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T20:15:28.305238-07:00",
+  "last_updated": "2026-08-25T21:21:17.520193-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -18,8 +18,8 @@
       "location": "Toronto",
       "start_date": "2026-09-19",
       "start_time": "06:30",
-      "available_spot_count": 282,
-      "capacity": 18
+      "available_spot_count": 280,
+      "capacity": 20
     },
     {
       "studio": "Alo",
@@ -52,7 +52,7 @@
       "location": "Kitsilano",
       "start_date": "2026-08-26",
       "start_time": "07:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 26
     },
     {
@@ -92,7 +92,7 @@
       "location": "Main St",
       "start_date": "2026-09-05",
       "start_time": "15:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 14
     },
     {
@@ -232,7 +232,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-26",
       "start_time": "10:00",
-      "available_spot_count": 7,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -256,23 +256,13 @@
       "capacity": 12
     },
     {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Workout With Headsets",
-      "booking_start_date": "2026-08-21 11:00",
-      "location": "Vancouver",
-      "start_date": "2026-08-28",
-      "start_time": "11:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
       "studio": "Evolution",
       "name": "Infrared Lagree - Britney Spears & Pussycat Dolls",
       "booking_start_date": "2026-08-21 12:45",
       "location": "Vancouver",
       "start_date": "2026-08-28",
       "start_time": "12:45",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -392,7 +382,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-26",
       "start_time": "18:40",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 36
     },
     {
@@ -402,7 +392,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-27",
       "start_time": "12:30",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 36
     },
     {
@@ -412,7 +402,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-27",
       "start_time": "18:40",
-      "available_spot_count": 22,
+      "available_spot_count": 23,
       "capacity": 49
     },
     {
@@ -422,7 +412,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-28",
       "start_time": "12:30",
-      "available_spot_count": 14,
+      "available_spot_count": 9,
       "capacity": 49
     },
     {
@@ -502,7 +492,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-02",
       "start_time": "18:40",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 36
     },
     {
@@ -512,7 +502,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-02",
       "start_time": "18:40",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
