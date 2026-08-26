@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T07:58:01.635615-07:00",
+  "last_updated": "2026-08-26T09:32:49.986859-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -47,22 +47,12 @@
   "sponsored": [
     {
       "studio": "Lagree West",
-      "name": "Mega Cardio Xpress- Ass/Abs+Tread (45 min) - LIVE",
-      "booking_start_date": "2026-08-19 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-08-26",
-      "start_time": "07:15",
-      "available_spot_count": 8,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
       "name": "Happy Hour Megaformer x Vandelux",
       "booking_start_date": "2026-08-27 00:00",
       "location": "Main St",
       "start_date": "2026-09-03",
       "start_time": "15:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 14
     },
     {
@@ -242,7 +232,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-27",
       "start_time": "09:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -262,7 +252,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-28",
       "start_time": "12:45",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 10
     },
     {
@@ -312,7 +302,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-27",
       "start_time": "11:45",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 38
     },
     {
@@ -392,7 +382,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-27",
       "start_time": "12:30",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 36
     },
     {
@@ -432,7 +422,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-29",
       "start_time": "08:20",
-      "available_spot_count": 34,
+      "available_spot_count": 32,
       "capacity": 49
     },
     {
