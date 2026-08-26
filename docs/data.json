@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T16:56:09.610022-07:00",
+  "last_updated": "2026-08-25T18:54:58.018398-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -18,8 +18,8 @@
       "location": "Toronto",
       "start_date": "2026-09-19",
       "start_time": "06:30",
-      "available_spot_count": 286,
-      "capacity": 14
+      "available_spot_count": 285,
+      "capacity": 15
     },
     {
       "studio": "Alo",
@@ -52,7 +52,7 @@
       "location": "Kitsilano",
       "start_date": "2026-08-26",
       "start_time": "07:15",
-      "available_spot_count": 6,
+      "available_spot_count": 8,
       "capacity": 26
     },
     {
@@ -232,12 +232,12 @@
       "location": "Vancouver",
       "start_date": "2026-08-26",
       "start_time": "10:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
       "studio": "Lagree Studio",
-      "name": "Club Lagree ANYMA x Herbaland",
+      "name": "Daytime Perk Club Lagree ANYMA x Herbaland",
       "booking_start_date": "2026-08-20 09:00",
       "location": "Vancouver",
       "start_date": "2026-08-27",
@@ -253,6 +253,16 @@
       "start_date": "2026-08-27",
       "start_time": "18:30",
       "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Workout With Headsets",
+      "booking_start_date": "2026-08-21 11:00",
+      "location": "Vancouver",
+      "start_date": "2026-08-28",
+      "start_time": "11:00",
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -377,32 +387,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: BRITNEY SPEARS x TATE MCRAE",
-      "booking_start_date": "2026-08-17 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-08-25",
-      "start_time": "17:30",
-      "available_spot_count": 4,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: RIHANNA X THE WEEKND",
-      "booking_start_date": "2026-08-17 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-08-25",
-      "start_time": "18:40",
-      "available_spot_count": 27,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: Justin Bieber x T Swift x Sabrina Carpenter",
       "booking_start_date": "2026-08-18 12:00",
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-26",
       "start_time": "18:40",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 36
     },
     {
@@ -422,7 +412,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-27",
       "start_time": "18:40",
-      "available_spot_count": 21,
+      "available_spot_count": 22,
       "capacity": 49
     },
     {
@@ -472,7 +462,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-30",
       "start_time": "09:30",
-      "available_spot_count": 39,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
@@ -522,7 +512,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-02",
       "start_time": "18:40",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
