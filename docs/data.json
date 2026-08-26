@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T05:00:59.969829-07:00",
+  "last_updated": "2026-08-26T06:12:17.601618-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -262,7 +262,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-28",
       "start_time": "12:45",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 10
     },
     {
