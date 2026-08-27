@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T14:11:19.478346-07:00",
+  "last_updated": "2026-08-26T17:46:31.977614-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -72,7 +72,7 @@
       "location": "Main St",
       "start_date": "2026-09-03",
       "start_time": "17:15",
-      "available_spot_count": 11,
+      "available_spot_count": 9,
       "capacity": 14
     },
     {
@@ -134,16 +134,6 @@
       "start_time": "12:15",
       "available_spot_count": 26,
       "capacity": 26
-    },
-    {
-      "studio": "Jaybird",
-      "name": "Teacher Development | The Burn $18",
-      "booking_start_date": "2026-08-19 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-08-26",
-      "start_time": "13:30",
-      "available_spot_count": 39,
-      "capacity": 45
     },
     {
       "studio": "Jaybird",
@@ -233,6 +223,16 @@
       "start_date": "2026-08-27",
       "start_time": "09:00",
       "available_spot_count": 8,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Headsets",
+      "booking_start_date": "2026-08-20 15:30",
+      "location": "Vancouver",
+      "start_date": "2026-08-27",
+      "start_time": "15:30",
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -417,22 +417,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: Justin Bieber x T Swift x Sabrina Carpenter",
-      "booking_start_date": "2026-08-18 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-08-26",
-      "start_time": "18:40",
-      "available_spot_count": 0,
-      "capacity": 36
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: THROWBACKS: 2015-2020 - VOL 2",
       "booking_start_date": "2026-08-19 12:00",
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-27",
       "start_time": "12:30",
-      "available_spot_count": 14,
+      "available_spot_count": 16,
       "capacity": 36
     },
     {
@@ -452,7 +442,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-28",
       "start_time": "12:30",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 49
     },
     {
@@ -472,7 +462,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-29",
       "start_time": "08:20",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 49
     },
     {
@@ -482,7 +472,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-29",
       "start_time": "10:40",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 36
     },
     {
@@ -492,7 +482,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-30",
       "start_time": "09:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
@@ -512,7 +502,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-01",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 36
     },
     {
@@ -522,7 +512,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-02",
       "start_time": "12:30",
-      "available_spot_count": 44,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -532,7 +522,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-02",
       "start_time": "18:40",
-      "available_spot_count": 30,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -552,7 +542,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-03",
       "start_time": "12:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 36
     },
     {
