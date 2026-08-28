@@ -1,16 +1,6 @@
 {
-  "last_updated": "2026-08-27T22:20:35.981893-07:00",
+  "last_updated": "2026-08-28T10:34:17.938237-07:00",
   "alo": [
-    {
-      "studio": "Alo",
-      "name": "ALO + LSD\u00b0R: Re\u00b0former Pilates",
-      "booking_start_date": "Open to book",
-      "location": "Toronto",
-      "start_date": "2026-08-28",
-      "start_time": "10:15",
-      "available_spot_count": 0,
-      "capacity": 15
-    },
     {
       "studio": "Alo",
       "name": "ALO BLOOR STREET: ALO RUNNERS CLUB",
@@ -19,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 29
+      "capacity": 33
     },
     {
       "studio": "Alo",
@@ -72,7 +62,7 @@
       "location": "Main St",
       "start_date": "2026-09-03",
       "start_time": "17:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 14
     },
     {
@@ -82,7 +72,7 @@
       "location": "Main St",
       "start_date": "2026-09-05",
       "start_time": "15:00",
-      "available_spot_count": 3,
+      "available_spot_count": 0,
       "capacity": 14
     },
     {
@@ -112,7 +102,7 @@
       "location": "Yaletown",
       "start_date": "2026-09-15",
       "start_time": "13:15",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 20
     },
     {
@@ -142,7 +132,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-30",
       "start_time": "16:00",
-      "available_spot_count": 41,
+      "available_spot_count": 39,
       "capacity": 45
     },
     {
@@ -212,7 +202,7 @@
       "location": "Vancouver",
       "start_date": "2026-08-28",
       "start_time": "12:45",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 10
     },
     {
@@ -452,7 +442,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-28",
       "start_time": "12:30",
-      "available_spot_count": 3,
+      "available_spot_count": 6,
       "capacity": 49
     },
     {
@@ -462,7 +452,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-08-28",
       "start_time": "18:40",
-      "available_spot_count": 0,
+      "available_spot_count": 9,
       "capacity": 49
     },
     {
@@ -472,7 +462,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-29",
       "start_time": "08:20",
-      "available_spot_count": 28,
+      "available_spot_count": 29,
       "capacity": 49
     },
     {
@@ -482,7 +472,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-29",
       "start_time": "10:40",
-      "available_spot_count": 4,
+      "available_spot_count": 0,
       "capacity": 36
     },
     {
@@ -502,7 +492,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-31",
       "start_time": "17:30",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 49
     },
     {
@@ -522,7 +512,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-02",
       "start_time": "12:30",
-      "available_spot_count": 33,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -532,7 +522,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-02",
       "start_time": "18:40",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 36
     },
     {
@@ -542,7 +532,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-02",
       "start_time": "18:40",
-      "available_spot_count": 32,
+      "available_spot_count": 28,
       "capacity": 50
     },
     {
@@ -552,7 +542,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-03",
       "start_time": "12:30",
-      "available_spot_count": 33,
+      "available_spot_count": 31,
       "capacity": 36
     },
     {
@@ -562,7 +552,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-04",
       "start_time": "12:30",
-      "available_spot_count": 47,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
@@ -582,7 +572,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-04",
       "start_time": "18:40",
-      "available_spot_count": 32,
+      "available_spot_count": 21,
       "capacity": 50
     },
     {
