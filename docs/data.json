@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T10:41:29.021047-07:00",
+  "last_updated": "2026-08-28T18:09:14.735999-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 33
+      "capacity": 37
     },
     {
       "studio": "Alo",
@@ -52,7 +52,7 @@
       "location": "Main St",
       "start_date": "2026-09-03",
       "start_time": "16:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 14
     },
     {
@@ -62,7 +62,7 @@
       "location": "Main St",
       "start_date": "2026-09-03",
       "start_time": "17:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 14
     },
     {
@@ -92,7 +92,7 @@
       "location": "Kitsilano",
       "start_date": "2026-09-14",
       "start_time": "15:30",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 16
     },
     {
@@ -126,13 +126,23 @@
       "capacity": 26
     },
     {
+      "studio": "Lagree West",
+      "name": "Mid-Day Mega Cardio Xpress- Ass/Abs+Tread (45)",
+      "booking_start_date": "2026-10-05 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-12",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
       "studio": "Jaybird",
       "name": "Teacher Development | The Burn $18",
       "booking_start_date": "2026-08-23 00:00",
       "location": "Kingsway",
       "start_date": "2026-08-30",
       "start_time": "16:00",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 45
     },
     {
@@ -194,26 +204,6 @@
       "start_time": "07:15",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - Britney Spears & Pussycat Dolls",
-      "booking_start_date": "2026-08-21 12:45",
-      "location": "Vancouver",
-      "start_date": "2026-08-28",
-      "start_time": "12:45",
-      "available_spot_count": 5,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - Full Body - 2016 Throwbacks",
-      "booking_start_date": "2026-08-21 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-08-28",
-      "start_time": "18:30",
-      "available_spot_count": 6,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
@@ -317,6 +307,36 @@
     },
     {
       "studio": "Lagree X",
+      "name": "X Tone- Glutes & Guns \ud83c\udf51\ud83d\udcaa",
+      "booking_start_date": "2026-08-29 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-09-05",
+      "start_time": "14:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "X Tone - Core & Upper Body \ud83d\udcaa",
+      "booking_start_date": "2026-09-03 11:30",
+      "location": "Vancouver",
+      "start_date": "2026-09-10",
+      "start_time": "11:30",
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "X Tone- Glutes & Guns \ud83c\udf51\ud83d\udcaa",
+      "booking_start_date": "2026-09-12 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-09-19",
+      "start_time": "14:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
       "name": "Ass & Abs \ud83c\udf36\ufe0f",
       "booking_start_date": "2026-09-13 17:00",
       "location": "Vancouver",
@@ -332,6 +352,16 @@
       "location": "Vancouver",
       "start_date": "2026-09-20",
       "start_time": "18:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "X Tone - Core & Upper Body \ud83d\udcaa",
+      "booking_start_date": "2026-09-17 11:30",
+      "location": "Vancouver",
+      "start_date": "2026-09-24",
+      "start_time": "11:30",
       "available_spot_count": 12,
       "capacity": 12
     },
@@ -426,34 +456,34 @@
       "capacity": 23
     },
     {
+      "studio": "Ritual",
+      "name": "Microdose Mini Retreat | Lymphatic Yin + Sound",
+      "booking_start_date": "2026-07-06 14:00",
+      "location": "West End",
+      "start_date": "2026-10-04",
+      "start_time": "14:00",
+      "available_spot_count": 25,
+      "capacity": 25
+    },
+    {
       "studio": "Turf",
       "name": "\ud83c\udf1fSPOTLIGHT\ud83c\udf1f: Mat Werk + Weights w/ Trilby",
       "booking_start_date": "2026-08-29 12:30",
       "location": "Main Street",
       "start_date": "2026-09-05",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 32
     },
     {
-      "studio": "Spin Society",
-      "name": "THEME: THROWBACKS: 2010-2015 - VOL 2",
-      "booking_start_date": "2026-08-20 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-08-28",
+      "studio": "Turf",
+      "name": "\ud83c\udf1fSPOTLIGHT\ud83c\udf1f:  On the Mat with Nat",
+      "booking_start_date": "2026-10-03 12:30",
+      "location": "Main Street",
+      "start_date": "2026-10-10",
       "start_time": "12:30",
-      "available_spot_count": 4,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: THROWBACKS! 2005-2010",
-      "booking_start_date": "2026-08-20 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-08-28",
-      "start_time": "18:40",
-      "available_spot_count": 9,
-      "capacity": 49
+      "available_spot_count": 32,
+      "capacity": 32
     },
     {
       "studio": "Spin Society",
@@ -462,7 +492,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-29",
       "start_time": "08:20",
-      "available_spot_count": 29,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
@@ -472,7 +502,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-08-29",
       "start_time": "10:40",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 36
     },
     {
@@ -482,7 +512,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-30",
       "start_time": "09:30",
-      "available_spot_count": 38,
+      "available_spot_count": 39,
       "capacity": 49
     },
     {
@@ -492,7 +522,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-31",
       "start_time": "17:30",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 49
     },
     {
@@ -512,7 +542,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-02",
       "start_time": "12:30",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
@@ -532,7 +562,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-02",
       "start_time": "18:40",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 50
     },
     {
@@ -542,7 +572,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-03",
       "start_time": "12:30",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 36
     },
     {
@@ -552,7 +582,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-04",
       "start_time": "12:30",
-      "available_spot_count": 45,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
@@ -562,7 +592,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-04",
       "start_time": "16:20",
-      "available_spot_count": 48,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -572,7 +602,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-04",
       "start_time": "18:40",
-      "available_spot_count": 21,
+      "available_spot_count": 17,
       "capacity": 50
     },
     {
@@ -582,7 +612,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-05",
       "start_time": "08:20",
-      "available_spot_count": 50,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
