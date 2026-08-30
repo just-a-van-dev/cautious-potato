@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T12:25:23.274345-07:00",
+  "last_updated": "2026-08-30T15:02:40.292997-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 61
+      "capacity": 62
     },
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-09-19",
       "start_time": "10:30",
       "available_spot_count": null,
-      "capacity": 7
+      "capacity": 8
     }
   ],
   "special": [
@@ -52,7 +52,7 @@
       "location": "Main St",
       "start_date": "2026-09-03",
       "start_time": "16:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 14
     },
     {
@@ -92,7 +92,7 @@
       "location": "Kitsilano",
       "start_date": "2026-09-14",
       "start_time": "15:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 16
     },
     {
@@ -142,7 +142,7 @@
       "location": "Kingsway",
       "start_date": "2026-08-30",
       "start_time": "16:00",
-      "available_spot_count": 24,
+      "available_spot_count": 22,
       "capacity": 45
     },
     {
@@ -287,16 +287,6 @@
     },
     {
       "studio": "The Third",
-      "name": "hip hop x afrobeats \ud83c\udfb5",
-      "booking_start_date": "2026-08-16 13:00",
-      "location": "4th Ave",
-      "start_date": "2026-08-30",
-      "start_time": "13:00",
-      "available_spot_count": 13,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
       "name": "arms & ass: Slayyyter x Kesha \ud83c\udfb5",
       "booking_start_date": "2026-08-23 10:00",
       "location": "4th Ave",
@@ -338,9 +328,9 @@
     {
       "studio": "Lagree X",
       "name": "X Tone- Glutes & Guns \ud83c\udf51\ud83d\udcaa",
-      "booking_start_date": "2026-09-12 14:00",
+      "booking_start_date": "2026-09-05 14:00",
       "location": "Vancouver",
-      "start_date": "2026-09-19",
+      "start_date": "2026-09-12",
       "start_time": "14:00",
       "available_spot_count": 12,
       "capacity": 12
@@ -522,7 +512,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-02",
       "start_time": "12:30",
-      "available_spot_count": 30,
+      "available_spot_count": 28,
       "capacity": 50
     },
     {
@@ -532,7 +522,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-02",
       "start_time": "18:40",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 36
     },
     {
@@ -552,7 +542,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-03",
       "start_time": "12:30",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -562,7 +552,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-04",
       "start_time": "12:30",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 50
     },
     {
@@ -582,7 +572,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-04",
       "start_time": "18:40",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 50
     },
     {
@@ -612,7 +602,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-06",
       "start_time": "11:50",
-      "available_spot_count": 39,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -622,7 +612,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-07",
       "start_time": "10:40",
-      "available_spot_count": 44,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
