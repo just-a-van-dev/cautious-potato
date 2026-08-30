@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T15:37:45.952342-07:00",
+  "last_updated": "2026-08-29T17:39:42.858336-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 42
+      "capacity": 43
     },
     {
       "studio": "Alo",
@@ -42,7 +42,7 @@
       "location": "Main St",
       "start_date": "2026-09-03",
       "start_time": "15:15",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 14
     },
     {
@@ -62,7 +62,7 @@
       "location": "Main St",
       "start_date": "2026-09-03",
       "start_time": "17:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 14
     },
     {
@@ -502,7 +502,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-08-30",
       "start_time": "09:30",
-      "available_spot_count": 38,
+      "available_spot_count": 39,
       "capacity": 49
     },
     {
@@ -552,7 +552,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-02",
       "start_time": "18:40",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 50
     },
     {
