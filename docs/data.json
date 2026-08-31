@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T15:02:40.292997-07:00",
+  "last_updated": "2026-08-30T17:30:33.305099-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 62
+      "capacity": 68
     },
     {
       "studio": "Alo",
@@ -42,7 +42,7 @@
       "location": "Main St",
       "start_date": "2026-09-03",
       "start_time": "15:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 14
     },
     {
@@ -62,7 +62,7 @@
       "location": "Main St",
       "start_date": "2026-09-03",
       "start_time": "17:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 14
     },
     {
@@ -134,16 +134,6 @@
       "start_time": "12:15",
       "available_spot_count": 26,
       "capacity": 26
-    },
-    {
-      "studio": "Jaybird",
-      "name": "Teacher Development | The Burn $18",
-      "booking_start_date": "2026-08-23 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-08-30",
-      "start_time": "16:00",
-      "available_spot_count": 22,
-      "capacity": 45
     },
     {
       "studio": "Jaybird",
@@ -302,7 +292,7 @@
       "location": "4th Ave",
       "start_date": "2026-09-06",
       "start_time": "11:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 15
     },
     {
@@ -532,7 +522,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-02",
       "start_time": "18:40",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 50
     },
     {
@@ -552,7 +542,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-04",
       "start_time": "12:30",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 50
     },
     {
@@ -562,7 +552,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-04",
       "start_time": "16:20",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -572,7 +562,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-04",
       "start_time": "18:40",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 50
     },
     {
@@ -612,7 +602,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-07",
       "start_time": "10:40",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
