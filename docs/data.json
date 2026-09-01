@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T10:26:04.375455-07:00",
+  "last_updated": "2026-09-01T13:08:41.341955-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 96
+      "capacity": 97
     },
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-09-19",
       "start_time": "10:30",
       "available_spot_count": null,
-      "capacity": 9
+      "capacity": 13
     }
   ],
   "special": [
@@ -162,7 +162,7 @@
       "location": "Kingsway",
       "start_date": "2026-09-08",
       "start_time": "12:00",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 45
     },
     {
@@ -207,16 +207,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Workout With Headsets",
-      "booking_start_date": "2026-08-25 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-09-01",
-      "start_time": "10:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body Headsets",
       "booking_start_date": "2026-08-25 14:00",
       "location": "Vancouver",
@@ -232,7 +222,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-01",
       "start_time": "15:30",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -452,7 +442,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-13",
       "start_time": "14:00",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 40
     },
     {
@@ -472,7 +462,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-27",
       "start_time": "14:00",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 40
     },
     {
@@ -482,7 +472,7 @@
       "location": "West End",
       "start_date": "2026-09-13",
       "start_time": "13:30",
-      "available_spot_count": 5,
+      "available_spot_count": 0,
       "capacity": 18
     },
     {
@@ -512,7 +502,7 @@
       "location": "Main Street",
       "start_date": "2026-09-05",
       "start_time": "12:30",
-      "available_spot_count": 27,
+      "available_spot_count": 32,
       "capacity": 32
     },
     {
@@ -532,7 +522,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-01",
       "start_time": "12:30",
-      "available_spot_count": 26,
+      "available_spot_count": 23,
       "capacity": 36
     },
     {
@@ -542,7 +532,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-02",
       "start_time": "12:30",
-      "available_spot_count": 23,
+      "available_spot_count": 21,
       "capacity": 50
     },
     {
@@ -562,7 +552,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-02",
       "start_time": "18:40",
-      "available_spot_count": 11,
+      "available_spot_count": 14,
       "capacity": 50
     },
     {
@@ -572,7 +562,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-03",
       "start_time": "12:30",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 36
     },
     {
@@ -592,8 +582,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-04",
       "start_time": "16:20",
-      "available_spot_count": 21,
-      "capacity": 50
+      "available_spot_count": 19,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -632,8 +622,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-06",
       "start_time": "11:50",
-      "available_spot_count": 25,
-      "capacity": 50
+      "available_spot_count": 24,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -642,8 +632,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-07",
       "start_time": "10:40",
-      "available_spot_count": 5,
-      "capacity": 50
+      "available_spot_count": 4,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -682,8 +672,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-08",
       "start_time": "12:30",
-      "available_spot_count": 48,
-      "capacity": 50
+      "available_spot_count": 47,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -722,8 +712,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-09",
       "start_time": "06:00",
-      "available_spot_count": 50,
-      "capacity": 50
+      "available_spot_count": 46,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -732,7 +722,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-09",
       "start_time": "12:30",
-      "available_spot_count": 50,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
@@ -742,7 +732,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-09",
       "start_time": "18:40",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -782,8 +772,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-11",
       "start_time": "18:40",
-      "available_spot_count": 46,
-      "capacity": 50
+      "available_spot_count": 45,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -802,8 +792,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-13",
       "start_time": "10:40",
-      "available_spot_count": 50,
-      "capacity": 50
+      "available_spot_count": 49,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -812,8 +802,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-14",
       "start_time": "07:15",
-      "available_spot_count": 50,
-      "capacity": 50
+      "available_spot_count": 49,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
