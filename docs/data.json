@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T16:20:39.809932-07:00",
+  "last_updated": "2026-08-31T19:01:49.005654-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 84
+      "capacity": 88
     },
     {
       "studio": "Alo",
@@ -52,7 +52,7 @@
       "location": "Main St",
       "start_date": "2026-09-03",
       "start_time": "16:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 14
     },
     {
@@ -222,7 +222,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-01",
       "start_time": "14:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -312,7 +312,7 @@
       "location": "4th Ave",
       "start_date": "2026-09-06",
       "start_time": "10:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 15
     },
     {
@@ -332,7 +332,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-05",
       "start_time": "14:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -507,16 +507,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: BOY BANDS + POP STARS",
-      "booking_start_date": "2026-08-23 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-08-31",
-      "start_time": "17:30",
-      "available_spot_count": 30,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: EMINEM x LIL NAS X",
       "booking_start_date": "2026-08-24 12:00",
       "location": "DOWNTOWN VANCOUVER",
@@ -532,7 +522,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-02",
       "start_time": "12:30",
-      "available_spot_count": 23,
+      "available_spot_count": 24,
       "capacity": 50
     },
     {
@@ -552,7 +542,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-02",
       "start_time": "18:40",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 50
     },
     {
@@ -562,7 +552,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-03",
       "start_time": "12:30",
-      "available_spot_count": 23,
+      "available_spot_count": 24,
       "capacity": 36
     },
     {
@@ -572,7 +562,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-04",
       "start_time": "12:30",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 50
     },
     {
@@ -582,7 +572,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-04",
       "start_time": "16:20",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 50
     },
     {
@@ -622,7 +612,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-06",
       "start_time": "11:50",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -672,7 +662,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-08",
       "start_time": "12:30",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -702,7 +692,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-08",
       "start_time": "18:40",
-      "available_spot_count": 37,
+      "available_spot_count": 35,
       "capacity": 37
     },
     {
