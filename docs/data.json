@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T17:30:24.819434-07:00",
+  "last_updated": "2026-09-01T22:02:05.524306-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 98
+      "capacity": 110
     },
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-09-19",
       "start_time": "10:30",
       "available_spot_count": null,
-      "capacity": 15
+      "capacity": 18
     }
   ],
   "special": [
@@ -162,7 +162,7 @@
       "location": "Kingsway",
       "start_date": "2026-09-08",
       "start_time": "12:00",
-      "available_spot_count": 41,
+      "available_spot_count": 42,
       "capacity": 45
     },
     {
@@ -437,6 +437,16 @@
     },
     {
       "studio": "ZenDen",
+      "name": "LUNA - Full Moon Festival by Harem X ZENDEN",
+      "booking_start_date": "2026-07-28 18:00",
+      "location": "Vancouver",
+      "start_date": "2026-09-26",
+      "start_time": "18:00",
+      "available_spot_count": 200,
+      "capacity": 200
+    },
+    {
+      "studio": "ZenDen",
       "name": "The Living Temple - for Women",
       "booking_start_date": "2026-08-16 14:00",
       "location": "Vancouver",
@@ -492,7 +502,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-02",
       "start_time": "12:30",
-      "available_spot_count": 18,
+      "available_spot_count": 15,
       "capacity": 49
     },
     {
@@ -502,7 +512,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-02",
       "start_time": "18:40",
-      "available_spot_count": 5,
+      "available_spot_count": 7,
       "capacity": 36
     },
     {
@@ -512,7 +522,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-02",
       "start_time": "18:40",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 49
     },
     {
@@ -532,7 +542,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-04",
       "start_time": "12:30",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 49
     },
     {
@@ -542,7 +552,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-04",
       "start_time": "16:20",
-      "available_spot_count": 17,
+      "available_spot_count": 15,
       "capacity": 49
     },
     {
@@ -562,7 +572,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-05",
       "start_time": "08:20",
-      "available_spot_count": 33,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
@@ -572,7 +582,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-06",
       "start_time": "09:30",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 37
     },
     {
@@ -582,7 +592,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-06",
       "start_time": "11:50",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 49
     },
     {
@@ -602,7 +612,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-08",
       "start_time": "06:00",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 37
     },
     {
@@ -632,7 +642,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-08",
       "start_time": "12:30",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 49
     },
     {
@@ -652,7 +662,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-08",
       "start_time": "12:30",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 49
     },
     {
@@ -672,7 +682,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-09",
       "start_time": "06:00",
-      "available_spot_count": 46,
+      "available_spot_count": 44,
       "capacity": 49
     },
     {
@@ -692,7 +702,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-09",
       "start_time": "18:40",
-      "available_spot_count": 47,
+      "available_spot_count": 40,
       "capacity": 49
     },
     {
