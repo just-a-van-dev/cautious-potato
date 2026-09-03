@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T22:55:31.625628-07:00",
+  "last_updated": "2026-09-02T23:28:03.637691-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -542,7 +542,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-04",
       "start_time": "12:30",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 49
     },
     {
@@ -552,7 +552,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-04",
       "start_time": "16:20",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 49
     },
     {
