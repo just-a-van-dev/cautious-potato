@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T16:16:55.148097-07:00",
+  "last_updated": "2026-09-02T18:25:29.585666-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 181
+      "capacity": 190
     },
     {
       "studio": "Alo",
@@ -52,7 +52,7 @@
       "location": "Main St",
       "start_date": "2026-09-03",
       "start_time": "16:15",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 14
     },
     {
@@ -496,24 +496,14 @@
       "capacity": 32
     },
     {
-      "studio": "Spin Society",
-      "name": "THEME: RUFUS X FRED AGAIN",
-      "booking_start_date": "2026-08-25 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-09-02",
-      "start_time": "18:40",
-      "available_spot_count": 6,
-      "capacity": 36
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: 90s + 2000s POP THROWBACKS",
-      "booking_start_date": "2026-08-25 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-09-02",
-      "start_time": "18:40",
-      "available_spot_count": 15,
-      "capacity": 49
+      "studio": "Turf",
+      "name": "\ud83c\udf1fSPOTLIGHT\ud83c\udf1f: Meta w/ Founding Teacher Ange",
+      "booking_start_date": "2026-10-10 12:30",
+      "location": "Main Street",
+      "start_date": "2026-10-17",
+      "start_time": "12:30",
+      "available_spot_count": 32,
+      "capacity": 32
     },
     {
       "studio": "Spin Society",
@@ -542,7 +532,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-04",
       "start_time": "16:20",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 49
     },
     {
@@ -572,7 +562,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-06",
       "start_time": "09:30",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 37
     },
     {
@@ -582,7 +572,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-06",
       "start_time": "11:50",
-      "available_spot_count": 17,
+      "available_spot_count": 18,
       "capacity": 49
     },
     {
@@ -692,7 +682,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-09",
       "start_time": "18:40",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
