@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T08:10:12.433388-07:00",
+  "last_updated": "2026-09-03T11:35:32.102042-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 210
+      "capacity": 211
     },
     {
       "studio": "Alo",
@@ -42,7 +42,7 @@
       "location": "Main St",
       "start_date": "2026-09-03",
       "start_time": "15:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 14
     },
     {
@@ -52,7 +52,7 @@
       "location": "Main St",
       "start_date": "2026-09-03",
       "start_time": "16:15",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 14
     },
     {
@@ -82,7 +82,7 @@
       "location": "Kitsilano",
       "start_date": "2026-09-07",
       "start_time": "12:15",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 26
     },
     {
@@ -162,7 +162,7 @@
       "location": "Kingsway",
       "start_date": "2026-09-08",
       "start_time": "12:00",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 45
     },
     {
@@ -257,6 +257,16 @@
     },
     {
       "studio": "Evolution",
+      "name": "Infrared Lagree - Full Body x Ad\u00e9la",
+      "booking_start_date": "2026-08-28 17:30",
+      "location": "Vancouver",
+      "start_date": "2026-09-04",
+      "start_time": "17:30",
+      "available_spot_count": 7,
+      "capacity": 10
+    },
+    {
+      "studio": "Evolution",
       "name": "[Happy Hour] Lagree - Full Body",
       "booking_start_date": "2026-09-04 15:30",
       "location": "Vancouver",
@@ -322,7 +332,7 @@
       "location": "4th Ave",
       "start_date": "2026-09-06",
       "start_time": "10:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 15
     },
     {
@@ -363,6 +373,16 @@
       "start_date": "2026-09-12",
       "start_time": "14:00",
       "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "X Tone - Core & Upper Body \ud83d\udcaa",
+      "booking_start_date": "2026-09-10 11:30",
+      "location": "Vancouver",
+      "start_date": "2026-09-17",
+      "start_time": "11:30",
+      "available_spot_count": 12,
       "capacity": 12
     },
     {
@@ -502,8 +522,18 @@
       "location": "West End",
       "start_date": "2026-10-04",
       "start_time": "14:00",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 25
+    },
+    {
+      "studio": "Turf",
+      "name": "meta + Mat Werk 45 *Co-teach*",
+      "booking_start_date": "2026-09-04 10:45",
+      "location": "Main Street",
+      "start_date": "2026-09-11",
+      "start_time": "10:45",
+      "available_spot_count": 32,
+      "capacity": 32
     },
     {
       "studio": "Turf",
@@ -532,7 +562,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-03",
       "start_time": "12:30",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 36
     },
     {
@@ -552,7 +582,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-04",
       "start_time": "16:20",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 49
     },
     {
@@ -562,7 +592,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-04",
       "start_time": "18:40",
-      "available_spot_count": 0,
+      "available_spot_count": 3,
       "capacity": 50
     },
     {
@@ -572,7 +602,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-05",
       "start_time": "08:20",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 49
     },
     {
@@ -582,7 +612,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-06",
       "start_time": "09:30",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 37
     },
     {
@@ -592,7 +622,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-06",
       "start_time": "11:50",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -692,7 +722,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-09",
       "start_time": "12:30",
-      "available_spot_count": 43,
+      "available_spot_count": 44,
       "capacity": 49
     },
     {
@@ -702,7 +732,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-09",
       "start_time": "18:40",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 49
     },
     {
@@ -722,7 +752,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-10",
       "start_time": "18:40",
-      "available_spot_count": 33,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
