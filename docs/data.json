@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T18:25:29.585666-07:00",
+  "last_updated": "2026-09-02T22:55:31.625628-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 190
+      "capacity": 200
     },
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-09-19",
       "start_time": "10:30",
       "available_spot_count": null,
-      "capacity": 21
+      "capacity": 22
     }
   ],
   "special": [
@@ -52,7 +52,7 @@
       "location": "Main St",
       "start_date": "2026-09-03",
       "start_time": "16:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 14
     },
     {
@@ -62,7 +62,7 @@
       "location": "Main St",
       "start_date": "2026-09-03",
       "start_time": "17:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 14
     },
     {
@@ -82,7 +82,7 @@
       "location": "Kitsilano",
       "start_date": "2026-09-07",
       "start_time": "12:15",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 26
     },
     {
@@ -212,7 +212,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-03",
       "start_time": "15:30",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -222,7 +222,27 @@
       "location": "Vancouver",
       "start_date": "2026-09-04",
       "start_time": "15:30",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Full Body x Country Playlist x Blume",
+      "booking_start_date": "2026-08-29 15:00",
+      "location": "Vancouver",
+      "start_date": "2026-09-05",
+      "start_time": "15:00",
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Full Body x Country Playlist x Blume",
+      "booking_start_date": "2026-08-30 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-09-06",
+      "start_time": "09:00",
+      "available_spot_count": 12,
       "capacity": 12
     },
     {
@@ -312,7 +332,7 @@
       "location": "4th Ave",
       "start_date": "2026-09-06",
       "start_time": "11:00",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 15
     },
     {
@@ -512,7 +532,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-03",
       "start_time": "12:30",
-      "available_spot_count": 22,
+      "available_spot_count": 23,
       "capacity": 36
     },
     {
@@ -522,7 +542,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-04",
       "start_time": "12:30",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 49
     },
     {
@@ -532,7 +552,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-04",
       "start_time": "16:20",
-      "available_spot_count": 11,
+      "available_spot_count": 8,
       "capacity": 49
     },
     {
@@ -552,7 +572,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-05",
       "start_time": "08:20",
-      "available_spot_count": 30,
+      "available_spot_count": 28,
       "capacity": 49
     },
     {
@@ -572,7 +592,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-06",
       "start_time": "11:50",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 49
     },
     {
@@ -602,7 +622,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-08",
       "start_time": "07:15",
-      "available_spot_count": 37,
+      "available_spot_count": 35,
       "capacity": 37
     },
     {
@@ -612,7 +632,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-08",
       "start_time": "09:45",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 49
     },
     {
@@ -642,7 +662,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-08",
       "start_time": "12:30",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
@@ -662,7 +682,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-09",
       "start_time": "06:00",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 49
     },
     {
@@ -672,7 +692,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-09",
       "start_time": "12:30",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 49
     },
     {
@@ -682,7 +702,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-09",
       "start_time": "18:40",
-      "available_spot_count": 31,
+      "available_spot_count": 26,
       "capacity": 49
     },
     {
@@ -702,7 +722,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-10",
       "start_time": "18:40",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 49
     },
     {
