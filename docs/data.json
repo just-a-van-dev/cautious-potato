@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T16:31:03.262112-07:00",
+  "last_updated": "2026-09-03T18:20:33.928071-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 217
+      "capacity": 219
     },
     {
       "studio": "Alo",
@@ -35,26 +35,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Vandelux",
-      "booking_start_date": "2026-08-27 00:00",
-      "location": "Main St",
-      "start_date": "2026-09-03",
-      "start_time": "16:15",
-      "available_spot_count": 2,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Vandelux",
-      "booking_start_date": "2026-08-27 00:00",
-      "location": "Main St",
-      "start_date": "2026-09-03",
-      "start_time": "17:15",
-      "available_spot_count": 0,
-      "capacity": 14
-    },
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
@@ -207,7 +187,7 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Full Body x Country Playlist x Blume",
+      "name": "CLUB LAGREE x Country Playlist x Blume",
       "booking_start_date": "2026-08-29 15:00",
       "location": "Vancouver",
       "start_date": "2026-09-05",
@@ -217,7 +197,7 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Full Body x Country Playlist x Blume",
+      "name": "CLUB LAGREE x Country Playlist x Blume",
       "booking_start_date": "2026-08-30 09:00",
       "location": "Vancouver",
       "start_date": "2026-09-06",
@@ -232,7 +212,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-04",
       "start_time": "15:30",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 10
     },
     {
@@ -562,8 +542,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-04",
       "start_time": "16:20",
-      "available_spot_count": 3,
-      "capacity": 49
+      "available_spot_count": 4,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -572,8 +552,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-04",
       "start_time": "18:40",
-      "available_spot_count": 6,
-      "capacity": 50
+      "available_spot_count": 5,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -592,7 +572,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-06",
       "start_time": "09:30",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 37
     },
     {
@@ -602,8 +582,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-06",
       "start_time": "11:50",
-      "available_spot_count": 11,
-      "capacity": 49
+      "available_spot_count": 10,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -622,8 +602,8 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-08",
       "start_time": "06:00",
-      "available_spot_count": 34,
-      "capacity": 37
+      "available_spot_count": 33,
+      "capacity": 36
     },
     {
       "studio": "Spin Society",
@@ -632,8 +612,8 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-08",
       "start_time": "07:15",
-      "available_spot_count": 35,
-      "capacity": 37
+      "available_spot_count": 34,
+      "capacity": 36
     },
     {
       "studio": "Spin Society",
@@ -652,8 +632,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-08",
       "start_time": "12:30",
-      "available_spot_count": 46,
-      "capacity": 49
+      "available_spot_count": 45,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -662,8 +642,8 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-08",
       "start_time": "12:30",
-      "available_spot_count": 25,
-      "capacity": 37
+      "available_spot_count": 24,
+      "capacity": 36
     },
     {
       "studio": "Spin Society",
@@ -682,8 +662,8 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-08",
       "start_time": "18:40",
-      "available_spot_count": 31,
-      "capacity": 37
+      "available_spot_count": 30,
+      "capacity": 36
     },
     {
       "studio": "Spin Society",
@@ -692,8 +672,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-09",
       "start_time": "06:00",
-      "available_spot_count": 39,
-      "capacity": 49
+      "available_spot_count": 37,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -722,8 +702,8 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-10",
       "start_time": "12:30",
-      "available_spot_count": 34,
-      "capacity": 37
+      "available_spot_count": 33,
+      "capacity": 36
     },
     {
       "studio": "Spin Society",
@@ -742,8 +722,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-11",
       "start_time": "09:45",
-      "available_spot_count": 45,
-      "capacity": 49
+      "available_spot_count": 43,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -762,8 +742,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-11",
       "start_time": "18:40",
-      "available_spot_count": 33,
-      "capacity": 49
+      "available_spot_count": 30,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -782,8 +762,8 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-12",
       "start_time": "10:40",
-      "available_spot_count": 36,
-      "capacity": 37
+      "available_spot_count": 35,
+      "capacity": 36
     },
     {
       "studio": "Spin Society",
@@ -802,8 +782,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-13",
       "start_time": "10:40",
-      "available_spot_count": 46,
-      "capacity": 49
+      "available_spot_count": 45,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
@@ -812,8 +792,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-14",
       "start_time": "07:15",
-      "available_spot_count": 49,
-      "capacity": 49
+      "available_spot_count": 48,
+      "capacity": 48
     },
     {
       "studio": "Spin Society",
