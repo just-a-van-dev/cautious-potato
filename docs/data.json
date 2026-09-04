@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T23:31:04.485248-07:00",
+  "last_updated": "2026-09-04T04:42:47.713082-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -182,7 +182,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-04",
       "start_time": "15:30",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -222,7 +222,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-04",
       "start_time": "17:30",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -312,7 +312,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-05",
       "start_time": "14:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -532,7 +532,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-04",
       "start_time": "12:30",
-      "available_spot_count": 11,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -542,7 +542,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-04",
       "start_time": "16:20",
-      "available_spot_count": 8,
+      "available_spot_count": 12,
       "capacity": 48
     },
     {
@@ -552,7 +552,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-04",
       "start_time": "18:40",
-      "available_spot_count": 6,
+      "available_spot_count": 8,
       "capacity": 48
     },
     {
@@ -642,7 +642,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-08",
       "start_time": "12:30",
-      "available_spot_count": 23,
+      "available_spot_count": 24,
       "capacity": 36
     },
     {
@@ -652,7 +652,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-08",
       "start_time": "12:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
@@ -702,7 +702,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-10",
       "start_time": "12:30",
-      "available_spot_count": 33,
+      "available_spot_count": 34,
       "capacity": 36
     },
     {
@@ -712,7 +712,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-10",
       "start_time": "18:40",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 49
     },
     {
@@ -722,7 +722,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-11",
       "start_time": "09:45",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 48
     },
     {
@@ -742,7 +742,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-11",
       "start_time": "18:40",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 48
     },
     {
