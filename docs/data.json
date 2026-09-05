@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T16:00:59.139473-07:00",
+  "last_updated": "2026-09-04T17:53:31.212656-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 240
+      "capacity": 251
     },
     {
       "studio": "Alo",
@@ -106,6 +106,16 @@
       "capacity": 26
     },
     {
+      "studio": "Lagree West",
+      "name": "Mid-Day Mega Cardio Xpress- Ass/Abs+Tread (45)",
+      "booking_start_date": "2026-10-12 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-19",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
       "studio": "Jaybird",
       "name": "The Burn + ALO",
       "booking_start_date": "2026-08-31 00:00",
@@ -177,16 +187,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Headsets",
-      "booking_start_date": "2026-08-28 15:30",
-      "location": "Vancouver",
-      "start_date": "2026-09-04",
-      "start_time": "15:30",
-      "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "CLUB LAGREE x Country Playlist x Blume",
       "booking_start_date": "2026-08-29 15:00",
       "location": "Vancouver",
@@ -204,26 +204,6 @@
       "start_time": "09:00",
       "available_spot_count": 11,
       "capacity": 12
-    },
-    {
-      "studio": "Evolution",
-      "name": "[Happy Hour] Lagree - Full Body",
-      "booking_start_date": "2026-08-28 15:30",
-      "location": "Vancouver",
-      "start_date": "2026-09-04",
-      "start_time": "15:30",
-      "available_spot_count": 8,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "Infrared Lagree - Full Body x Ad\u00e9la",
-      "booking_start_date": "2026-08-28 17:30",
-      "location": "Vancouver",
-      "start_date": "2026-09-04",
-      "start_time": "17:30",
-      "available_spot_count": 8,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
@@ -302,7 +282,7 @@
       "location": "4th Ave",
       "start_date": "2026-09-06",
       "start_time": "11:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -537,26 +517,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: OLIVIA RODRIGO x MILEY CYRUS",
-      "booking_start_date": "2026-08-27 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-09-04",
-      "start_time": "16:20",
-      "available_spot_count": 9,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: THROWBACKS! 2010-2015 - VOL 1",
-      "booking_start_date": "2026-08-27 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-09-04",
-      "start_time": "18:40",
-      "available_spot_count": 6,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: HILARY DUFF + DISNEY CHANNEL FRIENDS",
       "booking_start_date": "2026-08-28 12:00",
       "location": "BRENTWOOD",
@@ -572,7 +532,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-06",
       "start_time": "09:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 37
     },
     {
@@ -582,7 +542,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-06",
       "start_time": "11:50",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 50
     },
     {
@@ -612,7 +572,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-08",
       "start_time": "07:15",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 36
     },
     {
@@ -652,7 +612,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-08",
       "start_time": "12:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
@@ -672,7 +632,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-09",
       "start_time": "06:00",
-      "available_spot_count": 39,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
@@ -732,7 +692,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-11",
       "start_time": "12:30",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 49
     },
     {
@@ -742,7 +702,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-11",
       "start_time": "18:40",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 50
     },
     {
