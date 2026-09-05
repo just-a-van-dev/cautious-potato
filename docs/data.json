@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T13:19:00.424758-07:00",
+  "last_updated": "2026-09-05T15:15:16.400694-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 268
+      "capacity": 270
     },
     {
       "studio": "Alo",
@@ -192,7 +192,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-05",
       "start_time": "15:00",
-      "available_spot_count": 7,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -284,16 +284,6 @@
       "start_time": "11:00",
       "available_spot_count": 4,
       "capacity": 15
-    },
-    {
-      "studio": "Lagree X",
-      "name": "X Tone- Glutes & Guns \ud83c\udf51\ud83d\udcaa",
-      "booking_start_date": "2026-08-29 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-09-05",
-      "start_time": "14:00",
-      "available_spot_count": 7,
-      "capacity": 12
     },
     {
       "studio": "Lagree X",
@@ -392,7 +382,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-10",
       "start_time": "11:45",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 38
     },
     {
@@ -404,6 +394,16 @@
       "start_time": "14:00",
       "available_spot_count": 36,
       "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Form + Feeling - A Design Installation",
+      "booking_start_date": "2026-07-27 13:30",
+      "location": "Vancouver",
+      "start_date": "2026-09-25",
+      "start_time": "13:30",
+      "available_spot_count": 80,
+      "capacity": 80
     },
     {
       "studio": "ZenDen",
@@ -522,7 +522,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-06",
       "start_time": "11:50",
-      "available_spot_count": 1,
+      "available_spot_count": 3,
       "capacity": 50
     },
     {
@@ -602,7 +602,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-08",
       "start_time": "18:40",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 36
     },
     {
@@ -622,7 +622,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-09",
       "start_time": "12:30",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 49
     },
     {
@@ -722,7 +722,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-13",
       "start_time": "10:40",
-      "available_spot_count": 41,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
