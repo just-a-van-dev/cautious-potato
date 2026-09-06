@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T15:15:16.400694-07:00",
+  "last_updated": "2026-09-05T17:11:36.974380-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -35,16 +35,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2026-08-06 15:00",
-      "location": "Main St",
-      "start_date": "2026-09-05",
-      "start_time": "15:00",
-      "available_spot_count": 0,
-      "capacity": 14
-    },
     {
       "studio": "Lagree West",
       "name": "Mid-Day Mega Cardio- Ass/Abs+Tread (55 Min)",
@@ -188,21 +178,11 @@
     {
       "studio": "Lagree Studio",
       "name": "CLUB LAGREE x Country Playlist x Blume",
-      "booking_start_date": "2026-08-29 15:00",
-      "location": "Vancouver",
-      "start_date": "2026-09-05",
-      "start_time": "15:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "CLUB LAGREE x Country Playlist x Blume",
       "booking_start_date": "2026-08-30 09:00",
       "location": "Vancouver",
       "start_date": "2026-09-06",
       "start_time": "09:00",
-      "available_spot_count": 11,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -282,7 +262,7 @@
       "location": "4th Ave",
       "start_date": "2026-09-06",
       "start_time": "11:00",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -382,7 +362,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-10",
       "start_time": "11:45",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 38
     },
     {
@@ -512,7 +492,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-06",
       "start_time": "09:30",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 37
     },
     {
@@ -522,7 +502,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-06",
       "start_time": "11:50",
-      "available_spot_count": 3,
+      "available_spot_count": 5,
       "capacity": 50
     },
     {
@@ -582,7 +562,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-08",
       "start_time": "12:30",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 36
     },
     {
@@ -652,7 +632,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-10",
       "start_time": "18:40",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 49
     },
     {
@@ -722,7 +702,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-13",
       "start_time": "10:40",
-      "available_spot_count": 39,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
