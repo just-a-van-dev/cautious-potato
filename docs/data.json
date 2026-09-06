@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T09:11:55.513287-07:00",
+  "last_updated": "2026-09-06T11:16:01.670541-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 277
+      "capacity": 282
     },
     {
       "studio": "Alo",
@@ -122,7 +122,7 @@
       "location": "Yaletown",
       "start_date": "2026-09-07",
       "start_time": "13:35",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 36
     },
     {
@@ -177,22 +177,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "CLUB LAGREE x Country Playlist x Blume",
-      "booking_start_date": "2026-08-30 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-09-06",
-      "start_time": "09:00",
-      "available_spot_count": 10,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body Headsets",
       "booking_start_date": "2026-08-31 12:00",
       "location": "Vancouver",
       "start_date": "2026-09-07",
       "start_time": "12:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -287,16 +277,6 @@
     },
     {
       "studio": "The Third",
-      "name": "arms & ass: Slayyyter x Kesha \ud83c\udfb5",
-      "booking_start_date": "2026-08-23 10:00",
-      "location": "4th Ave",
-      "start_date": "2026-09-06",
-      "start_time": "10:00",
-      "available_spot_count": 3,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
       "name": "Slayyyter x Kesha \ud83c\udfb5",
       "booking_start_date": "2026-08-23 11:00",
       "location": "4th Ave",
@@ -322,7 +302,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-12",
       "start_time": "14:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -452,7 +432,7 @@
       "location": "West End",
       "start_date": "2026-09-27",
       "start_time": "14:00",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 23
     },
     {
@@ -517,22 +497,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: OLIVIA RODRIGO x MILEY CYRUS",
-      "booking_start_date": "2026-08-29 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-09-06",
-      "start_time": "09:30",
-      "available_spot_count": 12,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: CARSON\u2019S 2nd SPIN-IVERSARY",
       "booking_start_date": "2026-08-29 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-06",
       "start_time": "11:50",
-      "available_spot_count": 20,
+      "available_spot_count": 22,
       "capacity": 50
     },
     {
@@ -572,7 +542,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-08",
       "start_time": "09:45",
-      "available_spot_count": 42,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
@@ -612,7 +582,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-08",
       "start_time": "18:40",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -632,7 +602,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-09",
       "start_time": "12:30",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 49
     },
     {
@@ -682,7 +652,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-11",
       "start_time": "12:30",
-      "available_spot_count": 29,
+      "available_spot_count": 27,
       "capacity": 49
     },
     {
@@ -692,7 +662,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-11",
       "start_time": "18:40",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 50
     },
     {
@@ -702,7 +672,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-12",
       "start_time": "08:20",
-      "available_spot_count": 44,
+      "available_spot_count": 41,
       "capacity": 49
     },
     {
@@ -722,7 +692,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-13",
       "start_time": "09:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
@@ -782,7 +752,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-16",
       "start_time": "18:40",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 36
     },
     {
