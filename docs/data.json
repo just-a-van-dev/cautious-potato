@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T05:21:42.595496-07:00",
+  "last_updated": "2026-09-07T10:53:52.616964-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 299
+      "capacity": 304
     },
     {
       "studio": "Alo",
@@ -42,7 +42,7 @@
       "location": "Kitsilano",
       "start_date": "2026-09-07",
       "start_time": "12:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 26
     },
     {
@@ -107,22 +107,12 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn + ALO",
-      "booking_start_date": "2026-08-31 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-09-07",
-      "start_time": "08:15",
-      "available_spot_count": 0,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
       "name": "Teacher Development | The Burn $18",
       "booking_start_date": "2026-08-31 00:00",
       "location": "Yaletown",
       "start_date": "2026-09-07",
       "start_time": "13:35",
-      "available_spot_count": 24,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
@@ -472,7 +462,7 @@
       "location": "Main Street",
       "start_date": "2026-09-11",
       "start_time": "10:45",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 32
     },
     {
@@ -512,7 +502,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-07",
       "start_time": "10:40",
-      "available_spot_count": 10,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -522,7 +512,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-08",
       "start_time": "06:00",
-      "available_spot_count": 29,
+      "available_spot_count": 30,
       "capacity": 36
     },
     {
@@ -532,7 +522,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-08",
       "start_time": "07:15",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 36
     },
     {
@@ -562,7 +552,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-08",
       "start_time": "12:30",
-      "available_spot_count": 21,
+      "available_spot_count": 25,
       "capacity": 36
     },
     {
@@ -582,7 +572,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-08",
       "start_time": "18:40",
-      "available_spot_count": 26,
+      "available_spot_count": 24,
       "capacity": 36
     },
     {
@@ -622,7 +612,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-10",
       "start_time": "12:30",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 36
     },
     {
@@ -642,7 +632,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-11",
       "start_time": "09:45",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -652,7 +642,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-11",
       "start_time": "12:30",
-      "available_spot_count": 22,
+      "available_spot_count": 20,
       "capacity": 49
     },
     {
@@ -662,7 +652,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-11",
       "start_time": "18:40",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -672,7 +662,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-12",
       "start_time": "08:20",
-      "available_spot_count": 39,
+      "available_spot_count": 40,
       "capacity": 49
     },
     {
@@ -692,7 +682,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-13",
       "start_time": "09:30",
-      "available_spot_count": 41,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
@@ -702,7 +692,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-13",
       "start_time": "10:40",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 50
     },
     {
