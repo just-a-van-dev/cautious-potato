@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T17:56:59.545365-07:00",
+  "last_updated": "2026-09-06T23:01:32.609756-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 290
+      "capacity": 296
     },
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-09-19",
       "start_time": "10:30",
       "available_spot_count": null,
-      "capacity": 32
+      "capacity": 35
     }
   ],
   "special": [
@@ -42,7 +42,7 @@
       "location": "Kitsilano",
       "start_date": "2026-09-07",
       "start_time": "12:15",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 26
     },
     {
@@ -122,7 +122,7 @@
       "location": "Yaletown",
       "start_date": "2026-09-07",
       "start_time": "13:35",
-      "available_spot_count": 23,
+      "available_spot_count": 25,
       "capacity": 36
     },
     {
@@ -178,16 +178,6 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body Headsets",
-      "booking_start_date": "2026-08-31 12:00",
-      "location": "Vancouver",
-      "start_date": "2026-09-07",
-      "start_time": "12:00",
-      "available_spot_count": 7,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Headsets",
       "booking_start_date": "2026-09-01 14:00",
       "location": "Vancouver",
       "start_date": "2026-09-08",
@@ -202,6 +192,26 @@
       "location": "Vancouver",
       "start_date": "2026-09-08",
       "start_time": "15:30",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Headsets",
+      "booking_start_date": "2026-09-02 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-09-09",
+      "start_time": "09:00",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Ass and Abs With Headsets",
+      "booking_start_date": "2026-09-02 11:00",
+      "location": "Vancouver",
+      "start_date": "2026-09-09",
+      "start_time": "11:00",
       "available_spot_count": 10,
       "capacity": 12
     },
@@ -372,7 +382,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-10",
       "start_time": "11:45",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 38
     },
     {
@@ -502,7 +512,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-07",
       "start_time": "10:40",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -542,7 +552,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-08",
       "start_time": "12:30",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
@@ -582,7 +592,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-09",
       "start_time": "06:00",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
@@ -592,7 +602,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-09",
       "start_time": "12:30",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 49
     },
     {
@@ -602,7 +612,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-09",
       "start_time": "18:40",
-      "available_spot_count": 20,
+      "available_spot_count": 21,
       "capacity": 49
     },
     {
@@ -612,7 +622,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-10",
       "start_time": "12:30",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 36
     },
     {
@@ -632,7 +642,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-11",
       "start_time": "09:45",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -642,7 +652,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-11",
       "start_time": "12:30",
-      "available_spot_count": 25,
+      "available_spot_count": 22,
       "capacity": 49
     },
     {
@@ -652,7 +662,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-11",
       "start_time": "18:40",
-      "available_spot_count": 8,
+      "available_spot_count": 4,
       "capacity": 50
     },
     {
@@ -662,7 +672,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-12",
       "start_time": "08:20",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 49
     },
     {
@@ -692,7 +702,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-13",
       "start_time": "10:40",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 50
     },
     {
@@ -702,7 +712,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-14",
       "start_time": "07:15",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
@@ -712,7 +722,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-14",
       "start_time": "17:30",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 49
     },
     {
