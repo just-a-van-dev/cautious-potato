@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T13:14:08.079559-07:00",
+  "last_updated": "2026-09-08T15:57:20.262279-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 330
+      "capacity": 331
     },
     {
       "studio": "Alo",
@@ -138,21 +138,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body Headsets",
-      "booking_start_date": "2026-09-01 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-09-08",
-      "start_time": "14:00",
-      "available_spot_count": 6,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body Headsets",
       "booking_start_date": "2026-09-01 15:30",
       "location": "Vancouver",
       "start_date": "2026-09-08",
       "start_time": "15:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -162,7 +152,17 @@
       "location": "Vancouver",
       "start_date": "2026-09-09",
       "start_time": "09:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Full Body Headsets",
+      "booking_start_date": "2026-09-02 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-09-09",
+      "start_time": "10:00",
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -172,7 +172,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-09",
       "start_time": "11:00",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -362,7 +362,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-25",
       "start_time": "13:30",
-      "available_spot_count": 80,
+      "available_spot_count": 79,
       "capacity": 80
     },
     {
@@ -432,7 +432,7 @@
       "location": "Main Street",
       "start_date": "2026-09-11",
       "start_time": "10:45",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 32
     },
     {
@@ -467,42 +467,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: THE WKND X ODESZA",
-      "booking_start_date": "2026-08-31 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-09-08",
-      "start_time": "12:30",
-      "available_spot_count": 37,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: MILEY CYRUS x JUSTIN BIEBER",
-      "booking_start_date": "2026-08-31 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-09-08",
-      "start_time": "12:30",
-      "available_spot_count": 21,
-      "capacity": 36
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: RIHANNA X BEYONC\u00c9",
-      "booking_start_date": "2026-08-31 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-09-08",
-      "start_time": "12:30",
-      "available_spot_count": 26,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: BEN\u2019S SPIN-IVERSARY",
       "booking_start_date": "2026-08-31 12:00",
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-08",
       "start_time": "18:40",
-      "available_spot_count": 21,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
@@ -512,7 +482,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-09",
       "start_time": "06:00",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -522,7 +492,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-09",
       "start_time": "12:30",
-      "available_spot_count": 36,
+      "available_spot_count": 38,
       "capacity": 49
     },
     {
@@ -532,7 +502,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-09",
       "start_time": "18:40",
-      "available_spot_count": 21,
+      "available_spot_count": 19,
       "capacity": 49
     },
     {
@@ -542,7 +512,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-10",
       "start_time": "12:30",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 36
     },
     {
@@ -562,7 +532,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-11",
       "start_time": "09:45",
-      "available_spot_count": 30,
+      "available_spot_count": 28,
       "capacity": 50
     },
     {
@@ -572,7 +542,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-11",
       "start_time": "12:30",
-      "available_spot_count": 11,
+      "available_spot_count": 9,
       "capacity": 49
     },
     {
@@ -602,7 +572,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-12",
       "start_time": "10:40",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 36
     },
     {
@@ -622,7 +592,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-13",
       "start_time": "10:40",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 50
     },
     {
@@ -632,7 +602,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-14",
       "start_time": "07:15",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
@@ -642,7 +612,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-14",
       "start_time": "17:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
@@ -672,7 +642,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-16",
       "start_time": "18:40",
-      "available_spot_count": 34,
+      "available_spot_count": 31,
       "capacity": 36
     },
     {
@@ -702,7 +672,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-17",
       "start_time": "17:30",
-      "available_spot_count": 49,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
