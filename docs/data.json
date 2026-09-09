@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T11:50:03.014349-07:00",
+  "last_updated": "2026-09-09T14:39:42.989366-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 343
+      "capacity": 347
     },
     {
       "studio": "Alo",
@@ -26,10 +26,10 @@
     {
       "studio": "Jaybird",
       "name": "The Balance + ALO Community Class",
-      "booking_start_date": "2026-09-12 15:00",
+      "booking_start_date": "2026-09-12 17:45",
       "location": "Yaletown",
       "start_date": "2026-09-19",
-      "start_time": "15:00",
+      "start_time": "17:45",
       "available_spot_count": 36,
       "capacity": 36
     }
@@ -108,10 +108,10 @@
     {
       "studio": "Jaybird",
       "name": "The Balance + ALO Community Class",
-      "booking_start_date": "2026-09-12 15:00",
+      "booking_start_date": "2026-09-12 17:45",
       "location": "Yaletown",
       "start_date": "2026-09-19",
-      "start_time": "15:00",
+      "start_time": "17:45",
       "available_spot_count": 36,
       "capacity": 36
     },
@@ -312,7 +312,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-13",
       "start_time": "14:00",
-      "available_spot_count": 33,
+      "available_spot_count": 36,
       "capacity": 40
     },
     {
@@ -344,6 +344,46 @@
       "start_time": "14:00",
       "available_spot_count": 37,
       "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Crystal Sound Bath | Warm",
+      "booking_start_date": "2026-08-01 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-09-30",
+      "start_time": "20:00",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Crystal Sound Bath | Warm",
+      "booking_start_date": "2026-08-08 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-10-07",
+      "start_time": "20:00",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Crystal Sound Bath | Warm",
+      "booking_start_date": "2026-08-15 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-10-14",
+      "start_time": "20:00",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Crystal Sound Bath | Warm",
+      "booking_start_date": "2026-08-22 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-10-21",
+      "start_time": "20:00",
+      "available_spot_count": 38,
+      "capacity": 38
     },
     {
       "studio": "Ritual",
@@ -397,6 +437,16 @@
     },
     {
       "studio": "Turf",
+      "name": "\ud83c\udf1fSPOTLIGHT\ud83c\udf1f: Meta w/ Founding Teacher Ange",
+      "booking_start_date": "2026-09-19 12:30",
+      "location": "Main Street",
+      "start_date": "2026-09-26",
+      "start_time": "12:30",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
       "name": "\ud83c\udf1fSPOTLIGHT\ud83c\udf1f: LIFT with Taren",
       "booking_start_date": "2026-09-26 12:30",
       "location": "Main Street",
@@ -414,26 +464,6 @@
       "start_time": "12:30",
       "available_spot_count": 32,
       "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "\ud83c\udf1fSPOTLIGHT\ud83c\udf1f: Meta w/ Founding Teacher Ange",
-      "booking_start_date": "2026-10-10 12:30",
-      "location": "Main Street",
-      "start_date": "2026-10-17",
-      "start_time": "12:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: R&B | CLASSICS x REMIXES",
-      "booking_start_date": "2026-09-01 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-09-09",
-      "start_time": "12:30",
-      "available_spot_count": 38,
-      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -482,7 +512,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-11",
       "start_time": "12:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 49
     },
     {
@@ -532,7 +562,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-13",
       "start_time": "10:40",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 50
     },
     {
@@ -582,7 +612,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-16",
       "start_time": "18:40",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 36
     },
     {
@@ -592,7 +622,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-17",
       "start_time": "07:15",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -602,7 +632,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-17",
       "start_time": "09:45",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 36
     },
     {
@@ -612,7 +642,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-17",
       "start_time": "17:30",
-      "available_spot_count": 46,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -652,7 +682,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-18",
       "start_time": "18:40",
-      "available_spot_count": 48,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
