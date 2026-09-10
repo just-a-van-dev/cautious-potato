@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T16:29:36.463682-07:00",
+  "last_updated": "2026-09-09T18:25:22.174431-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 352
+      "capacity": 359
     },
     {
       "studio": "Alo",
@@ -30,6 +30,16 @@
       "location": "Yaletown",
       "start_date": "2026-09-19",
       "start_time": "17:55",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Balance + ALO Community Class",
+      "booking_start_date": "2026-10-17 15:00",
+      "location": "Yaletown",
+      "start_date": "2026-10-24",
+      "start_time": "15:00",
       "available_spot_count": 36,
       "capacity": 36
     }
@@ -102,7 +112,7 @@
       "location": "Yaletown",
       "start_date": "2026-09-13",
       "start_time": "17:30",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 36
     },
     {
@@ -132,6 +142,16 @@
       "location": "Yaletown",
       "start_date": "2026-10-05",
       "start_time": "07:15",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Balance + ALO Community Class",
+      "booking_start_date": "2026-10-17 15:00",
+      "location": "Yaletown",
+      "start_date": "2026-10-24",
+      "start_time": "15:00",
       "available_spot_count": 36,
       "capacity": 36
     },
@@ -467,16 +487,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: THE WEEKND X USHER X AKON",
-      "booking_start_date": "2026-09-01 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-09-09",
-      "start_time": "18:40",
-      "available_spot_count": 18,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: REMIXED: DRAKE X CARDI B",
       "booking_start_date": "2026-09-02 12:00",
       "location": "DOWNTOWN VANCOUVER",
@@ -492,7 +502,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-10",
       "start_time": "18:40",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 49
     },
     {
@@ -503,7 +513,7 @@
       "start_date": "2026-09-11",
       "start_time": "09:45",
       "available_spot_count": 16,
-      "capacity": 50
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -532,7 +542,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-12",
       "start_time": "08:20",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 49
     },
     {
@@ -562,8 +572,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-13",
       "start_time": "10:40",
-      "available_spot_count": 8,
-      "capacity": 50
+      "available_spot_count": 7,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -572,8 +582,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-14",
       "start_time": "07:15",
-      "available_spot_count": 39,
-      "capacity": 50
+      "available_spot_count": 37,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -592,7 +602,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-15",
       "start_time": "09:45",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
@@ -622,8 +632,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-17",
       "start_time": "07:15",
-      "available_spot_count": 47,
-      "capacity": 50
+      "available_spot_count": 46,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -642,8 +652,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-17",
       "start_time": "17:30",
-      "available_spot_count": 38,
-      "capacity": 50
+      "available_spot_count": 35,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -662,8 +672,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-18",
       "start_time": "12:30",
-      "available_spot_count": 50,
-      "capacity": 50
+      "available_spot_count": 49,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -682,8 +692,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-18",
       "start_time": "18:40",
-      "available_spot_count": 46,
-      "capacity": 50
+      "available_spot_count": 45,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -692,8 +702,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-21",
       "start_time": "17:30",
-      "available_spot_count": 50,
-      "capacity": 50
+      "available_spot_count": 49,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
