@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T23:37:18.196205-07:00",
+  "last_updated": "2026-09-10T04:47:01.345185-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 361
+      "capacity": 362
     },
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-09-19",
       "start_time": "10:30",
       "available_spot_count": null,
-      "capacity": 49
+      "capacity": 50
     }
   ],
   "special": [
@@ -162,7 +162,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-11",
       "start_time": "09:00",
-      "available_spot_count": 11,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -522,7 +522,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-11",
       "start_time": "09:45",
-      "available_spot_count": 16,
+      "available_spot_count": 17,
       "capacity": 49
     },
     {
@@ -582,7 +582,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-13",
       "start_time": "10:40",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 49
     },
     {
@@ -662,7 +662,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-17",
       "start_time": "17:30",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 49
     },
     {
