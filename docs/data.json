@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T10:10:54.986697-07:00",
+  "last_updated": "2026-09-11T12:40:10.477406-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 383
+      "capacity": 384
     },
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-09-19",
       "start_time": "10:30",
       "available_spot_count": null,
-      "capacity": 63
+      "capacity": 65
     }
   ],
   "special": [
@@ -112,7 +112,7 @@
       "location": "Yaletown",
       "start_date": "2026-09-13",
       "start_time": "17:30",
-      "available_spot_count": 24,
+      "available_spot_count": 25,
       "capacity": 36
     },
     {
@@ -172,7 +172,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-11",
       "start_time": "15:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 10
     },
     {
@@ -282,7 +282,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-20",
       "start_time": "17:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -447,16 +447,6 @@
     },
     {
       "studio": "Turf",
-      "name": "meta + Mat Werk 45 *Co-teach*",
-      "booking_start_date": "2026-09-04 10:45",
-      "location": "Main Street",
-      "start_date": "2026-09-11",
-      "start_time": "10:45",
-      "available_spot_count": 26,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "\ud83c\udf1fSPOTLIGHT\ud83c\udf1f: Meta w/ Founding Teacher Ange",
       "booking_start_date": "2026-09-19 12:30",
       "location": "Main Street",
@@ -487,16 +477,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: JUSTIN BIEBER X RL GRIME",
-      "booking_start_date": "2026-09-03 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-09-11",
-      "start_time": "09:45",
-      "available_spot_count": 12,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: THROWBACKS! 2015-2020 - VOL 1",
       "booking_start_date": "2026-09-03 12:00",
       "location": "BRENTWOOD",
@@ -512,7 +492,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-11",
       "start_time": "18:40",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -522,7 +502,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-12",
       "start_time": "08:20",
-      "available_spot_count": 28,
+      "available_spot_count": 24,
       "capacity": 49
     },
     {
@@ -532,7 +512,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-12",
       "start_time": "10:40",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 36
     },
     {
@@ -572,7 +552,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-14",
       "start_time": "17:30",
-      "available_spot_count": 30,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
@@ -607,12 +587,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: MILEY CYRUS x CALVIN HARRIS",
+      "name": "THEME: R\u00dcF\u00dcS DU SOL \u2014 ORIGINALS x REMIXES",
       "booking_start_date": "2026-09-09 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-17",
       "start_time": "07:15",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -622,8 +602,28 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-17",
       "start_time": "09:45",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 36
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: LUDACRIS x EMINEM",
+      "booking_start_date": "2026-09-09 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-09-17",
+      "start_time": "11:00",
+      "available_spot_count": 44,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: LANE 8 x ELDERBROOK x ODESZA",
+      "booking_start_date": "2026-09-09 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-09-17",
+      "start_time": "12:30",
+      "available_spot_count": 47,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -632,7 +632,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-17",
       "start_time": "17:30",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 50
     },
     {
@@ -747,6 +747,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: RIHANNA X REZZ",
+      "booking_start_date": "2026-09-16 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-09-24",
+      "start_time": "07:15",
+      "available_spot_count": 49,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: LANE 8 x ODESZA x ILLENIUM",
       "booking_start_date": "2026-09-16 12:00",
       "location": "MOUNT PLEASANT",
@@ -764,6 +774,26 @@
       "start_time": "12:30",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: REMIXES: DRAKE x CARDI B",
+      "booking_start_date": "2026-09-17 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-09-25",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: REMIXES: DRAKE x CARDI B",
+      "booking_start_date": "2026-09-17 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-09-25",
+      "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
     }
   ]
 }
