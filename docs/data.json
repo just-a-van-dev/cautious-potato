@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T02:06:39.656218-07:00",
+  "last_updated": "2026-09-11T06:31:38.465096-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -492,7 +492,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-11",
       "start_time": "09:45",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 50
     },
     {
@@ -562,7 +562,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-14",
       "start_time": "07:15",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
