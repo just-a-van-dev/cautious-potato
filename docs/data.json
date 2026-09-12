@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T01:48:34.541708-07:00",
+  "last_updated": "2026-09-12T05:49:57.612328-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 386
+      "capacity": 387
     },
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-09-19",
       "start_time": "10:30",
       "available_spot_count": null,
-      "capacity": 69
+      "capacity": 70
     }
   ],
   "special": [
