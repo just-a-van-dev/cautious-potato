@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T14:54:13.659734-07:00",
+  "last_updated": "2026-09-11T17:13:16.274532-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -106,6 +106,16 @@
       "capacity": 26
     },
     {
+      "studio": "Lagree West",
+      "name": "Mid-Day Mega Cardio Xpress- Ass/Abs+Tread (45)",
+      "booking_start_date": "2026-10-19 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-26",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
       "studio": "Jaybird",
       "name": "Sweat For A Cause | The Build",
       "booking_start_date": "2026-09-06 00:00",
@@ -164,16 +174,6 @@
       "start_time": "18:00",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "Evolution",
-      "name": "[Happy Hour] Lagree - Full Body",
-      "booking_start_date": "2026-09-04 15:30",
-      "location": "Vancouver",
-      "start_date": "2026-09-11",
-      "start_time": "15:30",
-      "available_spot_count": 9,
-      "capacity": 10
     },
     {
       "studio": "Evolution",
@@ -252,7 +252,7 @@
       "location": "4th Ave",
       "start_date": "2026-09-18",
       "start_time": "16:30",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
@@ -368,40 +368,40 @@
     {
       "studio": "ZenDen",
       "name": "Yin + Crystal Sound Bath | Warm",
-      "booking_start_date": "2026-08-01 20:00",
+      "booking_start_date": "2026-08-01 20:15",
       "location": "Vancouver",
       "start_date": "2026-09-30",
-      "start_time": "20:00",
+      "start_time": "20:15",
       "available_spot_count": 38,
       "capacity": 38
     },
     {
       "studio": "ZenDen",
       "name": "Yin + Crystal Sound Bath | Warm",
-      "booking_start_date": "2026-08-08 20:00",
+      "booking_start_date": "2026-08-08 20:15",
       "location": "Vancouver",
       "start_date": "2026-10-07",
-      "start_time": "20:00",
+      "start_time": "20:15",
       "available_spot_count": 38,
       "capacity": 38
     },
     {
       "studio": "ZenDen",
       "name": "Yin + Crystal Sound Bath | Warm",
-      "booking_start_date": "2026-08-15 20:00",
+      "booking_start_date": "2026-08-15 20:15",
       "location": "Vancouver",
       "start_date": "2026-10-14",
-      "start_time": "20:00",
+      "start_time": "20:15",
       "available_spot_count": 38,
       "capacity": 38
     },
     {
       "studio": "ZenDen",
       "name": "Yin + Crystal Sound Bath | Warm",
-      "booking_start_date": "2026-08-22 20:00",
+      "booking_start_date": "2026-08-22 20:15",
       "location": "Vancouver",
       "start_date": "2026-10-21",
-      "start_time": "20:00",
+      "start_time": "20:15",
       "available_spot_count": 38,
       "capacity": 38
     },
@@ -477,16 +477,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: THROWBACKS! 2015-2020 - VOL 1",
-      "booking_start_date": "2026-09-03 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-09-11",
-      "start_time": "18:40",
-      "available_spot_count": 1,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: BEYONC\u00c9 X DESTINY'S CHILD",
       "booking_start_date": "2026-09-04 12:00",
       "location": "BRENTWOOD",
@@ -502,7 +492,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-12",
       "start_time": "10:40",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 36
     },
     {
@@ -532,7 +522,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-14",
       "start_time": "07:15",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -542,7 +532,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-14",
       "start_time": "17:30",
-      "available_spot_count": 31,
+      "available_spot_count": 32,
       "capacity": 49
     },
     {
@@ -612,7 +602,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-17",
       "start_time": "12:30",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
@@ -622,7 +612,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-17",
       "start_time": "17:30",
-      "available_spot_count": 18,
+      "available_spot_count": 16,
       "capacity": 50
     },
     {
@@ -642,7 +632,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-18",
       "start_time": "12:30",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
