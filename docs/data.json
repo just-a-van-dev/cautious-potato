@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T14:24:22.967719-07:00",
+  "last_updated": "2026-09-13T16:28:22.397153-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 407
+      "capacity": 410
     },
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-09-19",
       "start_time": "10:30",
       "available_spot_count": null,
-      "capacity": 83
+      "capacity": 84
     }
   ],
   "special": [
@@ -52,7 +52,7 @@
       "location": "Kitsilano",
       "start_date": "2026-09-14",
       "start_time": "15:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 16
     },
     {
@@ -122,7 +122,7 @@
       "location": "Yaletown",
       "start_date": "2026-09-13",
       "start_time": "17:30",
-      "available_spot_count": 22,
+      "available_spot_count": 20,
       "capacity": 36
     },
     {
@@ -327,16 +327,6 @@
     },
     {
       "studio": "ZenDen",
-      "name": "The Living Temple - for Women",
-      "booking_start_date": "2026-08-02 14:00",
-      "location": "Vancouver",
-      "start_date": "2026-09-13",
-      "start_time": "14:00",
-      "available_spot_count": 35,
-      "capacity": 40
-    },
-    {
-      "studio": "ZenDen",
       "name": "Form + Feeling - A Design Installation",
       "booking_start_date": "2026-07-27 13:30",
       "location": "Vancouver",
@@ -407,16 +397,6 @@
     },
     {
       "studio": "Ritual",
-      "name": "Private Event (Water Room; Yin + Sound)",
-      "booking_start_date": "2026-06-15 13:30",
-      "location": "West End",
-      "start_date": "2026-09-13",
-      "start_time": "13:30",
-      "available_spot_count": 0,
-      "capacity": 18
-    },
-    {
-      "studio": "Ritual",
       "name": "Mini Retreat | Foundation + Deep Stretch + Rest",
       "booking_start_date": "2026-08-28 14:00",
       "location": "West End",
@@ -482,7 +462,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-14",
       "start_time": "07:15",
-      "available_spot_count": 32,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
@@ -492,7 +472,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-14",
       "start_time": "17:30",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 49
     },
     {
@@ -522,7 +502,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-16",
       "start_time": "18:40",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 36
     },
     {
@@ -572,7 +552,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-17",
       "start_time": "17:30",
-      "available_spot_count": 11,
+      "available_spot_count": 9,
       "capacity": 50
     },
     {
@@ -582,7 +562,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-17",
       "start_time": "18:40",
-      "available_spot_count": 12,
+      "available_spot_count": 7,
       "capacity": 49
     },
     {
@@ -632,7 +612,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-21",
       "start_time": "16:20",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
