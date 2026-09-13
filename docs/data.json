@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T09:37:22.240250-07:00",
+  "last_updated": "2026-09-13T11:56:02.820575-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 403
+      "capacity": 404
     },
     {
       "studio": "Alo",
@@ -122,7 +122,7 @@
       "location": "Yaletown",
       "start_date": "2026-09-13",
       "start_time": "17:30",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
@@ -332,7 +332,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-13",
       "start_time": "14:00",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 40
     },
     {
@@ -477,32 +477,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: POP DIVAS X EDM BEATS",
-      "booking_start_date": "2026-09-05 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-09-13",
-      "start_time": "09:30",
-      "available_spot_count": 25,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: K-POP OF 2011",
-      "booking_start_date": "2026-09-05 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-09-13",
-      "start_time": "10:40",
-      "available_spot_count": 10,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: AKON x T-PAIN",
       "booking_start_date": "2026-09-06 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-14",
       "start_time": "07:15",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -532,7 +512,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-15",
       "start_time": "12:30",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 36
     },
     {
@@ -562,7 +542,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-17",
       "start_time": "09:45",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 36
     },
     {
@@ -572,7 +552,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-17",
       "start_time": "11:00",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -592,7 +572,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-17",
       "start_time": "17:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 50
     },
     {
@@ -602,7 +582,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-17",
       "start_time": "18:40",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 49
     },
     {
