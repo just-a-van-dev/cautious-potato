@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T23:44:53.146165-07:00",
+  "last_updated": "2026-09-13T05:41:51.932897-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 401
+      "capacity": 402
     },
     {
       "studio": "Alo",
@@ -502,7 +502,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-14",
       "start_time": "17:30",
-      "available_spot_count": 30,
+      "available_spot_count": 28,
       "capacity": 49
     },
     {
