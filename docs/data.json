@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T11:56:02.820575-07:00",
+  "last_updated": "2026-09-13T14:24:22.967719-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 404
+      "capacity": 407
     },
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-09-19",
       "start_time": "10:30",
       "available_spot_count": null,
-      "capacity": 82
+      "capacity": 83
     }
   ],
   "special": [
@@ -482,7 +482,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-14",
       "start_time": "07:15",
-      "available_spot_count": 34,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -492,7 +492,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-14",
       "start_time": "17:30",
-      "available_spot_count": 28,
+      "available_spot_count": 25,
       "capacity": 49
     },
     {
@@ -631,8 +631,8 @@
       "booking_start_date": "2026-09-13 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-21",
-      "start_time": "17:30",
-      "available_spot_count": 49,
+      "start_time": "16:20",
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
@@ -642,7 +642,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-21",
       "start_time": "17:30",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
