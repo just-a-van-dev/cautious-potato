@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T05:41:51.932897-07:00",
+  "last_updated": "2026-09-13T09:37:22.240250-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 402
+      "capacity": 403
     },
     {
       "studio": "Alo",
@@ -182,7 +182,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-14",
       "start_time": "15:30",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 10
     },
     {
@@ -262,6 +262,16 @@
       "location": "Vancouver",
       "start_date": "2026-09-17",
       "start_time": "11:30",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "\ud83c\udfa4 Eminem \ud83d\udd25",
+      "booking_start_date": "2026-09-11 10:30",
+      "location": "Vancouver",
+      "start_date": "2026-09-18",
+      "start_time": "10:30",
       "available_spot_count": 10,
       "capacity": 12
     },
@@ -472,7 +482,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-13",
       "start_time": "09:30",
-      "available_spot_count": 29,
+      "available_spot_count": 25,
       "capacity": 49
     },
     {
@@ -482,7 +492,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-13",
       "start_time": "10:40",
-      "available_spot_count": 8,
+      "available_spot_count": 10,
       "capacity": 49
     },
     {
@@ -512,7 +522,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-15",
       "start_time": "09:45",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 49
     },
     {
@@ -522,7 +532,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-15",
       "start_time": "12:30",
-      "available_spot_count": 27,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -572,7 +582,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-17",
       "start_time": "12:30",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
@@ -592,7 +602,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-17",
       "start_time": "18:40",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -632,7 +642,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-18",
       "start_time": "18:40",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 50
     },
     {
