@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T09:47:43.063069-07:00",
+  "last_updated": "2026-09-16T13:04:28.411671-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 487
+      "capacity": 488
     },
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-09-19",
       "start_time": "10:30",
       "available_spot_count": null,
-      "capacity": 124
+      "capacity": 128
     }
   ],
   "special": [
@@ -122,7 +122,7 @@
       "location": "4th Ave",
       "start_date": "2026-09-17",
       "start_time": "12:00",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -342,7 +342,7 @@
       "location": "Main Street",
       "start_date": "2026-09-19",
       "start_time": "12:30",
-      "available_spot_count": 15,
+      "available_spot_count": 12,
       "capacity": 32
     },
     {
@@ -382,7 +382,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-16",
       "start_time": "18:40",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 36
     },
     {
@@ -402,7 +402,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-17",
       "start_time": "09:45",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
@@ -412,7 +412,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-17",
       "start_time": "11:00",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 49
     },
     {
@@ -432,7 +432,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-17",
       "start_time": "17:30",
-      "available_spot_count": 5,
+      "available_spot_count": 8,
       "capacity": 49
     },
     {
@@ -462,7 +462,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-18",
       "start_time": "12:30",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 49
     },
     {
@@ -472,7 +472,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-18",
       "start_time": "12:30",
-      "available_spot_count": 24,
+      "available_spot_count": 21,
       "capacity": 49
     },
     {
@@ -492,7 +492,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-21",
       "start_time": "16:20",
-      "available_spot_count": 42,
+      "available_spot_count": 39,
       "capacity": 49
     },
     {
@@ -542,7 +542,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-22",
       "start_time": "17:30",
-      "available_spot_count": 34,
+      "available_spot_count": 30,
       "capacity": 50
     },
     {
@@ -552,8 +552,18 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-23",
       "start_time": "17:30",
-      "available_spot_count": 36,
+      "available_spot_count": 32,
       "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: FRED AGAIN\u2026 x ODESZA",
+      "booking_start_date": "2026-09-15 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-09-23",
+      "start_time": "18:40",
+      "available_spot_count": 28,
+      "capacity": 36
     },
     {
       "studio": "Spin Society",
@@ -562,7 +572,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-24",
       "start_time": "07:15",
-      "available_spot_count": 47,
+      "available_spot_count": 45,
       "capacity": 49
     },
     {
@@ -607,6 +617,46 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: JOHN SUMMIT x RUFUS DU SOL X ODESZA",
+      "booking_start_date": "2026-09-18 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-09-26",
+      "start_time": "08:20",
+      "available_spot_count": 49,
+      "capacity": 49
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: THE WEEKND X SWEDISH HOUSE MAFIA",
+      "booking_start_date": "2026-09-18 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-09-26",
+      "start_time": "10:40",
+      "available_spot_count": 35,
+      "capacity": 36
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: THE WEEKND X SWEDISH HOUSE MAFIA",
+      "booking_start_date": "2026-09-19 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-09-27",
+      "start_time": "09:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: TAYLOR SWIFT: REPUTATION X 1989",
+      "booking_start_date": "2026-09-19 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-09-27",
+      "start_time": "10:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: RISE WITH RIHANNA",
       "booking_start_date": "2026-09-20 12:00",
       "location": "MOUNT PLEASANT",
@@ -614,6 +664,76 @@
       "start_time": "06:00",
       "available_spot_count": 50,
       "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: JUSTIN BIEBER X KEHLANI X SZA",
+      "booking_start_date": "2026-09-20 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-09-28",
+      "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: RISE WITH RIHANNA",
+      "booking_start_date": "2026-09-21 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-09-29",
+      "start_time": "07:15",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BRUNO MARS x DUA LIPA",
+      "booking_start_date": "2026-09-21 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-09-29",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: RIHANNA x BEYONC\u00c9 - VOL 2",
+      "booking_start_date": "2026-09-21 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-09-29",
+      "start_time": "12:30",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BRUNO MARS x DUA LIPA",
+      "booking_start_date": "2026-09-22 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-09-30",
+      "start_time": "08:20",
+      "available_spot_count": 37,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: THE WEEKND x DON TOLIVER x DRAKE",
+      "booking_start_date": "2026-09-22 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-09-30",
+      "start_time": "11:50",
+      "available_spot_count": 37,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: DISNEY STARS! DEMI x HILARY x JONAS BROS",
+      "booking_start_date": "2026-09-23 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-10-01",
+      "start_time": "12:30",
+      "available_spot_count": 37,
+      "capacity": 37
     }
   ]
 }
