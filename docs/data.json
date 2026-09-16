@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T18:22:27.922590-07:00",
+  "last_updated": "2026-09-15T23:42:11.294129-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 468
+      "capacity": 480
     },
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-09-19",
       "start_time": "10:30",
       "available_spot_count": null,
-      "capacity": 118
+      "capacity": 122
     }
   ],
   "special": [
@@ -54,46 +54,6 @@
       "start_time": "08:00",
       "available_spot_count": 12,
       "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Ass/Abs+Tread (45)",
-      "booking_start_date": "2026-09-28 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-10-05",
-      "start_time": "12:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Ass/Abs+Tread (45)",
-      "booking_start_date": "2026-10-05 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-10-12",
-      "start_time": "12:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Ass/Abs+Tread (45)",
-      "booking_start_date": "2026-10-12 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-10-19",
-      "start_time": "12:15",
-      "available_spot_count": 26,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress- Ass/Abs+Tread (45)",
-      "booking_start_date": "2026-10-19 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-10-26",
-      "start_time": "12:15",
-      "available_spot_count": 26,
-      "capacity": 26
     },
     {
       "studio": "Jaybird",
@@ -147,42 +107,12 @@
     },
     {
       "studio": "Evolution",
-      "name": "[Happy Hour] Lagree - Full Body",
-      "booking_start_date": "2026-09-11 15:30",
+      "name": "Personal Training",
+      "booking_start_date": "2026-09-10 20:00",
       "location": "Vancouver",
-      "start_date": "2026-09-18",
-      "start_time": "15:30",
+      "start_date": "2026-09-17",
+      "start_time": "20:00",
       "available_spot_count": 9,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "[Happy Hour] Lagree - Full Body",
-      "booking_start_date": "2026-09-14 15:30",
-      "location": "Vancouver",
-      "start_date": "2026-09-21",
-      "start_time": "15:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "[Happy Hour] Lagree - Full Body",
-      "booking_start_date": "2026-09-18 15:30",
-      "location": "Vancouver",
-      "start_date": "2026-09-25",
-      "start_time": "15:30",
-      "available_spot_count": 10,
-      "capacity": 10
-    },
-    {
-      "studio": "Evolution",
-      "name": "[Happy Hour] Lagree - Full Body",
-      "booking_start_date": "2026-09-21 15:30",
-      "location": "Vancouver",
-      "start_date": "2026-09-28",
-      "start_time": "15:30",
-      "available_spot_count": 10,
       "capacity": 10
     },
     {
@@ -232,7 +162,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-18",
       "start_time": "10:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -337,16 +267,6 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Yin + Crystal Sound Bath | Warm",
-      "booking_start_date": "2026-08-01 20:15",
-      "location": "Vancouver",
-      "start_date": "2026-09-30",
-      "start_time": "20:15",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
       "name": "The Living Temple - for Women",
       "booking_start_date": "2026-08-05 14:00",
       "location": "Vancouver",
@@ -357,26 +277,6 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Yin + Crystal Sound Bath | Warm",
-      "booking_start_date": "2026-08-08 20:15",
-      "location": "Vancouver",
-      "start_date": "2026-10-07",
-      "start_time": "20:15",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Yin + Crystal Sound Bath | Warm",
-      "booking_start_date": "2026-08-15 20:15",
-      "location": "Vancouver",
-      "start_date": "2026-10-14",
-      "start_time": "20:15",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
       "name": "The Living Temple - for Women",
       "booking_start_date": "2026-08-19 14:00",
       "location": "Vancouver",
@@ -384,26 +284,6 @@
       "start_time": "14:00",
       "available_spot_count": 24,
       "capacity": 24
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Yin + Crystal Sound Bath | Warm",
-      "booking_start_date": "2026-08-22 20:15",
-      "location": "Vancouver",
-      "start_date": "2026-10-21",
-      "start_time": "20:15",
-      "available_spot_count": 38,
-      "capacity": 38
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Yin + Crystal Sound Bath | Warm",
-      "booking_start_date": "2026-08-29 20:15",
-      "location": "Vancouver",
-      "start_date": "2026-10-28",
-      "start_time": "20:15",
-      "available_spot_count": 38,
-      "capacity": 38
     },
     {
       "studio": "Ritual",
@@ -442,7 +322,7 @@
       "location": "Main Street",
       "start_date": "2026-09-19",
       "start_time": "12:30",
-      "available_spot_count": 19,
+      "available_spot_count": 17,
       "capacity": 32
     },
     {
@@ -492,7 +372,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-17",
       "start_time": "07:15",
-      "available_spot_count": 33,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
@@ -512,7 +392,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-17",
       "start_time": "11:00",
-      "available_spot_count": 37,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
@@ -542,7 +422,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-17",
       "start_time": "18:40",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 49
     },
     {
@@ -562,7 +442,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-18",
       "start_time": "12:30",
-      "available_spot_count": 33,
+      "available_spot_count": 30,
       "capacity": 49
     },
     {
@@ -572,7 +452,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-18",
       "start_time": "12:30",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 49
     },
     {
@@ -602,7 +482,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-21",
       "start_time": "17:30",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -642,7 +522,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-22",
       "start_time": "17:30",
-      "available_spot_count": 37,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -652,7 +532,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-23",
       "start_time": "17:30",
-      "available_spot_count": 45,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
