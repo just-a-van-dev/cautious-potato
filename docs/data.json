@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T13:04:28.411671-07:00",
+  "last_updated": "2026-09-16T15:53:36.305180-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 488
+      "capacity": 494
     },
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-09-19",
       "start_time": "10:30",
       "available_spot_count": null,
-      "capacity": 128
+      "capacity": 135
     }
   ],
   "special": [
@@ -342,7 +342,7 @@
       "location": "Main Street",
       "start_date": "2026-09-19",
       "start_time": "12:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 32
     },
     {
@@ -350,6 +350,16 @@
       "name": "\ud83c\udf1fSPOTLIGHT\ud83c\udf1f: Meta + Mat Werk w/ Karley",
       "booking_start_date": "2026-09-19 12:30",
       "location": "Main Street",
+      "start_date": "2026-09-26",
+      "start_time": "12:30",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "TAYLOR SWIFT X JB - Meta + Mat Werk 60 mins",
+      "booking_start_date": "2026-09-19 12:30",
+      "location": "KITS - Vancouver",
       "start_date": "2026-09-26",
       "start_time": "12:30",
       "available_spot_count": 32,
@@ -412,7 +422,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-17",
       "start_time": "11:00",
-      "available_spot_count": 34,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
@@ -422,7 +432,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-17",
       "start_time": "12:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
@@ -462,7 +472,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-18",
       "start_time": "12:30",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 49
     },
     {
@@ -472,7 +482,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-18",
       "start_time": "12:30",
-      "available_spot_count": 21,
+      "available_spot_count": 23,
       "capacity": 49
     },
     {
@@ -492,7 +502,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-21",
       "start_time": "16:20",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 49
     },
     {
@@ -562,7 +572,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-23",
       "start_time": "18:40",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 36
     },
     {
@@ -572,7 +582,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-24",
       "start_time": "07:15",
-      "available_spot_count": 45,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
@@ -582,7 +592,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-24",
       "start_time": "09:45",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 49
     },
     {
