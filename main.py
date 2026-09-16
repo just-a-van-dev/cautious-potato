@@ -51,6 +51,8 @@ def is_sponsored_class(class_data, studio_name) -> bool:
     if name.startswith("happy hour") or name.endswith("happy hour"):
         name = name.replace("happy hour", "").strip()
         name = name.strip("-").strip().strip("\u2014").strip()
+    if name.startswith("[happy hour]"):
+        name = name.replace("[happy hour]", "").strip()
 
     if "mid-day" in name:
         name = name.replace("mid-day", "").strip()
