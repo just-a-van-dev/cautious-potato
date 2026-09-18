@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T16:04:13.814144-07:00",
+  "last_updated": "2026-09-17T18:15:04.072393-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-09-19",
       "start_time": "10:30",
       "available_spot_count": null,
-      "capacity": 152
+      "capacity": 153
     }
   ],
   "special": [
@@ -54,6 +54,36 @@
       "start_time": "08:00",
       "available_spot_count": 12,
       "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
+      "booking_start_date": "2026-09-09 19:15",
+      "location": "Main St",
+      "start_date": "2026-10-09",
+      "start_time": "19:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
+      "booking_start_date": "2026-09-22 17:15",
+      "location": "Gastown",
+      "start_date": "2026-10-22",
+      "start_time": "17:15",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
+      "booking_start_date": "2026-09-29 14:15",
+      "location": "Kitsilano",
+      "start_date": "2026-10-29",
+      "start_time": "14:15",
+      "available_spot_count": 16,
+      "capacity": 16
     },
     {
       "studio": "Jaybird",
@@ -106,23 +136,13 @@
       "capacity": 36
     },
     {
-      "studio": "Evolution",
-      "name": "Personal Training",
-      "booking_start_date": "2026-09-10 20:00",
-      "location": "Vancouver",
-      "start_date": "2026-09-17",
-      "start_time": "20:00",
-      "available_spot_count": 9,
-      "capacity": 10
-    },
-    {
       "studio": "The Third",
       "name": "The Third x PeelTea",
       "booking_start_date": "2026-09-04 15:30",
       "location": "4th Ave",
       "start_date": "2026-09-18",
       "start_time": "15:30",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 15
     },
     {
@@ -452,7 +472,7 @@
       "location": "Railway",
       "start_date": "2026-09-18",
       "start_time": "16:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 9
     },
     {
@@ -462,7 +482,7 @@
       "location": "Railway",
       "start_date": "2026-09-19",
       "start_time": "12:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 9
     },
     {
@@ -557,26 +577,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: K-POP SUNSET GLOW",
-      "booking_start_date": "2026-09-09 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-09-17",
-      "start_time": "17:30",
-      "available_spot_count": 11,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: Y2K CLUB NIGHT X BLUME",
-      "booking_start_date": "2026-09-09 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-09-17",
-      "start_time": "18:40",
-      "available_spot_count": 4,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: MILEY CYRUS x CALVIN HARRIS",
       "booking_start_date": "2026-09-10 12:00",
       "location": "DOWNTOWN VANCOUVER",
@@ -592,7 +592,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-18",
       "start_time": "12:30",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 50
     },
     {
@@ -612,7 +612,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-18",
       "start_time": "18:40",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -622,7 +622,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-21",
       "start_time": "16:20",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
@@ -732,7 +732,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-25",
       "start_time": "12:30",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
@@ -742,7 +742,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-25",
       "start_time": "18:40",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
