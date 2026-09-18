@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T09:20:27.960942-07:00",
+  "last_updated": "2026-09-18T12:10:21.850485-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 520
+      "capacity": 524
     },
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-09-19",
       "start_time": "10:30",
       "available_spot_count": null,
-      "capacity": 155
+      "capacity": 156
     }
   ],
   "special": [
@@ -92,7 +92,7 @@
       "location": "Yaletown",
       "start_date": "2026-09-18",
       "start_time": "12:05",
-      "available_spot_count": 19,
+      "available_spot_count": 12,
       "capacity": 36
     },
     {
@@ -152,18 +152,8 @@
       "location": "4th Ave",
       "start_date": "2026-09-18",
       "start_time": "16:30",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 15
-    },
-    {
-      "studio": "Lagree X",
-      "name": "\ud83c\udfa4 Eminem \ud83d\udd25",
-      "booking_start_date": "2026-09-11 10:30",
-      "location": "Vancouver",
-      "start_date": "2026-09-18",
-      "start_time": "10:30",
-      "available_spot_count": 5,
-      "capacity": 12
     },
     {
       "studio": "Lagree X",
@@ -242,7 +232,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-02",
       "start_time": "08:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -262,6 +252,16 @@
       "location": "Vancouver",
       "start_date": "2026-10-07",
       "start_time": "08:30",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "Taylor \ud83e\udea9 x Selena \ud83c\udfa4",
+      "booking_start_date": "2026-10-02 06:30",
+      "location": "Vancouver",
+      "start_date": "2026-10-09",
+      "start_time": "06:30",
       "available_spot_count": 12,
       "capacity": 12
     },
@@ -542,7 +542,17 @@
       "location": "Main Street",
       "start_date": "2026-09-19",
       "start_time": "12:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "meta + Mat Werk: Until We Werk Again",
+      "booking_start_date": "2026-09-18 09:30",
+      "location": "Main Street",
+      "start_date": "2026-09-25",
+      "start_time": "09:30",
+      "available_spot_count": 26,
       "capacity": 32
     },
     {
@@ -592,7 +602,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-18",
       "start_time": "12:30",
-      "available_spot_count": 22,
+      "available_spot_count": 18,
       "capacity": 50
     },
     {
@@ -602,7 +612,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-18",
       "start_time": "12:30",
-      "available_spot_count": 19,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -612,7 +622,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-18",
       "start_time": "18:40",
-      "available_spot_count": 7,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -622,7 +632,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-21",
       "start_time": "16:20",
-      "available_spot_count": 33,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -632,7 +642,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-21",
       "start_time": "17:30",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 50
     },
     {
@@ -652,7 +662,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-22",
       "start_time": "12:30",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -662,7 +672,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-22",
       "start_time": "16:20",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 36
     },
     {
@@ -672,7 +682,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-22",
       "start_time": "17:30",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 50
     },
     {
@@ -682,7 +692,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-23",
       "start_time": "17:30",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 50
     },
     {
@@ -692,7 +702,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-23",
       "start_time": "18:40",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
@@ -702,7 +712,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-24",
       "start_time": "07:15",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -732,7 +742,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-25",
       "start_time": "12:30",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -752,7 +762,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-26",
       "start_time": "08:20",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -762,7 +772,17 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-26",
       "start_time": "10:40",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
+      "capacity": 36
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: TAYLOR SWIFT - FALL VIBES",
+      "booking_start_date": "2026-09-19 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-09-27",
+      "start_time": "09:30",
+      "available_spot_count": 35,
       "capacity": 36
     },
     {
@@ -787,11 +807,31 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: ADELA x KATSEYE x TATE MCRAE",
+      "booking_start_date": "2026-09-19 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-09-27",
+      "start_time": "10:40",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: RISE WITH RIHANNA",
       "booking_start_date": "2026-09-20 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-28",
       "start_time": "06:00",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: EDM RIDE: THIRD PARTY + ILLENIUM + ODESZA",
+      "booking_start_date": "2026-09-20 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-09-28",
+      "start_time": "09:45",
       "available_spot_count": 50,
       "capacity": 50
     },
@@ -867,6 +907,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: SNOOP DOGG x JOHN SUMMITT",
+      "booking_start_date": "2026-09-23 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-10-01",
+      "start_time": "06:00",
+      "available_spot_count": 37,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: DISNEY STARS! DEMI x HILARY x JONAS BROS",
       "booking_start_date": "2026-09-23 12:00",
       "location": "DOWNTOWN VANCOUVER",
@@ -874,6 +924,16 @@
       "start_time": "12:30",
       "available_spot_count": 37,
       "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: SKRILLEX x K-POP",
+      "booking_start_date": "2026-09-23 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-10-01",
+      "start_time": "17:30",
+      "available_spot_count": 50,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
