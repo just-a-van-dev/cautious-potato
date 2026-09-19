@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T10:58:19.643240-07:00",
+  "last_updated": "2026-09-19T13:34:15.339978-07:00",
   "alo": [],
   "special": [
     {
@@ -161,7 +161,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-20",
       "start_time": "18:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -181,7 +181,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-23",
       "start_time": "18:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -646,16 +646,6 @@
     },
     {
       "studio": "All Method Studio",
-      "name": "ALL Reformer - Guest Guide: Sabyne",
-      "booking_start_date": "2026-09-12 12:30",
-      "location": "Railway",
-      "start_date": "2026-09-19",
-      "start_time": "12:30",
-      "available_spot_count": 3,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
       "name": "ALL x BNFTs & Be Chiro Team Sweat",
       "booking_start_date": "2026-09-15 10:00",
       "location": "Railway",
@@ -736,16 +726,6 @@
     },
     {
       "studio": "Turf",
-      "name": "\ud83c\udf1fSPOTLIGHT\ud83c\udf1f: Meta w/ Founding Teacher Ange",
-      "booking_start_date": "2026-09-12 12:30",
-      "location": "Main Street",
-      "start_date": "2026-09-19",
-      "start_time": "12:30",
-      "available_spot_count": 4,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "meta + Mat Werk 45: Until We Werk Again",
       "booking_start_date": "2026-09-18 09:30",
       "location": "Main Street",
@@ -771,7 +751,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-09-26",
       "start_time": "12:30",
-      "available_spot_count": 22,
+      "available_spot_count": 20,
       "capacity": 32
     },
     {
@@ -801,7 +781,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-21",
       "start_time": "16:20",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 50
     },
     {
@@ -851,7 +831,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-22",
       "start_time": "17:30",
-      "available_spot_count": 21,
+      "available_spot_count": 19,
       "capacity": 50
     },
     {
@@ -871,7 +851,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-23",
       "start_time": "18:40",
-      "available_spot_count": 21,
+      "available_spot_count": 19,
       "capacity": 36
     },
     {
@@ -881,7 +861,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-24",
       "start_time": "07:15",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -891,7 +871,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-24",
       "start_time": "09:45",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
@@ -911,7 +891,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-25",
       "start_time": "12:30",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 50
     },
     {
@@ -921,7 +901,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-25",
       "start_time": "18:40",
-      "available_spot_count": 9,
+      "available_spot_count": 4,
       "capacity": 50
     },
     {
@@ -971,7 +951,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-27",
       "start_time": "10:40",
-      "available_spot_count": 50,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
