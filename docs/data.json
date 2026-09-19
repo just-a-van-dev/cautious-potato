@@ -1,16 +1,6 @@
 {
-  "last_updated": "2026-09-19T04:30:00.867577-07:00",
+  "last_updated": "2026-09-19T07:45:31.346675-07:00",
   "alo": [
-    {
-      "studio": "Alo",
-      "name": "ALO BLOOR STREET: ALO RUNNERS CLUB",
-      "booking_start_date": "Open to book",
-      "location": "Toronto",
-      "start_date": "2026-09-19",
-      "start_time": "06:30",
-      "available_spot_count": null,
-      "capacity": 534
-    },
     {
       "studio": "Alo",
       "name": "ALO CF PACIFIC CENTRE: ALO RUNNERS CLUB",
@@ -782,7 +772,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-26",
       "start_time": "08:20",
-      "available_spot_count": 40,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
