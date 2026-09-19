@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T16:33:36.747970-07:00",
+  "last_updated": "2026-09-18T18:33:10.106211-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-09-19",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 530
+      "capacity": 533
     },
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-09-19",
       "start_time": "10:30",
       "available_spot_count": null,
-      "capacity": 157
+      "capacity": 158
     }
   ],
   "special": [
@@ -164,16 +164,6 @@
       "start_time": "18:00",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "The Third",
-      "name": "The Third x PeelTea",
-      "booking_start_date": "2026-09-04 16:30",
-      "location": "4th Ave",
-      "start_date": "2026-09-18",
-      "start_time": "16:30",
-      "available_spot_count": 1,
-      "capacity": 15
     },
     {
       "studio": "Lagree X",
@@ -508,16 +498,6 @@
     {
       "studio": "All Method Studio",
       "name": "ALL Reformer - Guest Guide: Sabyne",
-      "booking_start_date": "2026-09-11 16:30",
-      "location": "Railway",
-      "start_date": "2026-09-18",
-      "start_time": "16:30",
-      "available_spot_count": 3,
-      "capacity": 9
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Reformer - Guest Guide: Sabyne",
       "booking_start_date": "2026-09-12 12:30",
       "location": "Railway",
       "start_date": "2026-09-19",
@@ -637,16 +617,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: THROWBACKS! 2015-2020 - VOL 2",
-      "booking_start_date": "2026-09-10 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-09-18",
-      "start_time": "18:40",
-      "available_spot_count": 0,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: BEN B\u00d6HMER x R\u00dcF\u00dcS DU SOL x DISCLOSURE",
       "booking_start_date": "2026-09-13 12:00",
       "location": "MOUNT PLEASANT",
@@ -672,7 +642,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-22",
       "start_time": "09:45",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 36
     },
     {
@@ -702,7 +672,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-22",
       "start_time": "17:30",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 50
     },
     {
@@ -762,7 +732,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-25",
       "start_time": "12:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -772,7 +742,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-25",
       "start_time": "18:40",
-      "available_spot_count": 20,
+      "available_spot_count": 16,
       "capacity": 50
     },
     {
