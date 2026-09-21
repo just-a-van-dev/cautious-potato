@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T03:38:22.100356-07:00",
+  "last_updated": "2026-09-21T09:34:45.694137-07:00",
   "alo": [],
   "special": [
     {
@@ -57,16 +57,6 @@
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2026-08-22 08:00",
-      "location": "Gastown",
-      "start_date": "2026-09-21",
-      "start_time": "08:00",
-      "available_spot_count": 5,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Sweat for a Cause/By Donation",
       "booking_start_date": "2026-09-09 19:15",
       "location": "Main St",
       "start_date": "2026-10-09",
@@ -101,7 +91,7 @@
       "location": "Kingsway",
       "start_date": "2026-09-25",
       "start_time": "18:40",
-      "available_spot_count": 37,
+      "available_spot_count": 35,
       "capacity": 45
     },
     {
@@ -841,7 +831,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-21",
       "start_time": "16:20",
-      "available_spot_count": 29,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -851,7 +841,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-21",
       "start_time": "17:30",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 50
     },
     {
@@ -861,7 +851,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-22",
       "start_time": "09:45",
-      "available_spot_count": 30,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -871,7 +861,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-22",
       "start_time": "12:30",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 36
     },
     {
@@ -891,7 +881,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-22",
       "start_time": "17:30",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 50
     },
     {
@@ -901,7 +891,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-23",
       "start_time": "17:30",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 50
     },
     {
@@ -911,7 +901,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-23",
       "start_time": "18:40",
-      "available_spot_count": 12,
+      "available_spot_count": 9,
       "capacity": 36
     },
     {
@@ -951,7 +941,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-25",
       "start_time": "12:30",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 50
     },
     {
@@ -961,7 +951,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-25",
       "start_time": "18:40",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -981,7 +971,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-26",
       "start_time": "10:40",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 36
     },
     {
@@ -991,7 +981,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-27",
       "start_time": "09:30",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 36
     },
     {
@@ -1001,7 +991,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-27",
       "start_time": "09:30",
-      "available_spot_count": 43,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -1011,7 +1001,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-27",
       "start_time": "10:40",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 50
     },
     {
@@ -1021,7 +1011,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-27",
       "start_time": "10:40",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 36
     },
     {
@@ -1041,7 +1031,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-28",
       "start_time": "09:45",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -1061,7 +1051,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-28",
       "start_time": "18:40",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -1111,7 +1101,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-30",
       "start_time": "08:20",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 37
     },
     {
@@ -1131,7 +1121,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-01",
       "start_time": "06:00",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 37
     },
     {
@@ -1176,11 +1166,51 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: CHRISTINA AGUILERA X BRITNEY X RIHANNA",
+      "booking_start_date": "2026-09-25 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-10-03",
+      "start_time": "09:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: FRED AGAIN x BUNT",
+      "booking_start_date": "2026-09-25 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-10-03",
+      "start_time": "10:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: JUSTIN BEIBER X ONE DIRECTION",
       "booking_start_date": "2026-09-29 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-10-07",
       "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: FRED AGAIN.. X HIP HOP",
+      "booking_start_date": "2026-09-30 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-10-08",
+      "start_time": "06:00",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: CHRISTINA AGUILERA X BRITNEY X RIHANNA",
+      "booking_start_date": "2026-10-01 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-10-09",
+      "start_time": "09:45",
       "available_spot_count": 50,
       "capacity": 50
     }
