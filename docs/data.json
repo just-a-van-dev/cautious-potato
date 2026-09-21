@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T14:50:14.448456-07:00",
+  "last_updated": "2026-09-20T17:12:41.737425-07:00",
   "alo": [],
   "special": [
     {
@@ -126,26 +126,6 @@
     },
     {
       "studio": "Lagree X",
-      "name": "X Tone- Ass & Abs \ud83c\udf36\ufe0f",
-      "booking_start_date": "2026-09-13 17:00",
-      "location": "Vancouver",
-      "start_date": "2026-09-20",
-      "start_time": "17:00",
-      "available_spot_count": 9,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "Core + Restore \ud83e\uddd8\ud83c\udffd\u200d\u2640\ufe0f",
-      "booking_start_date": "2026-09-13 18:00",
-      "location": "Vancouver",
-      "start_date": "2026-09-20",
-      "start_time": "18:00",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
       "name": "X in the 2000s \ud83d\udcbf\ud83d\udc8e",
       "booking_start_date": "2026-09-15 10:30",
       "location": "Vancouver",
@@ -161,7 +141,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-23",
       "start_time": "18:30",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -171,7 +151,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-24",
       "start_time": "10:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -581,7 +561,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-25",
       "start_time": "13:30",
-      "available_spot_count": 75,
+      "available_spot_count": 76,
       "capacity": 80
     },
     {
@@ -725,6 +705,16 @@
       "capacity": 18
     },
     {
+      "studio": "All Method Studio",
+      "name": "ALL Mat - Lit by BOCCI",
+      "booking_start_date": "2026-10-21 18:30",
+      "location": "Railway",
+      "start_date": "2026-11-04",
+      "start_time": "18:30",
+      "available_spot_count": 18,
+      "capacity": 18
+    },
+    {
       "studio": "Ritual",
       "name": "Mini Retreat | Foundation + Deep Stretch + Rest",
       "booking_start_date": "2026-08-28 14:00",
@@ -811,7 +801,7 @@
       "location": "Main Street",
       "start_date": "2026-09-26",
       "start_time": "12:30",
-      "available_spot_count": 25,
+      "available_spot_count": 26,
       "capacity": 32
     },
     {
@@ -901,7 +891,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-22",
       "start_time": "17:30",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 50
     },
     {
@@ -911,7 +901,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-23",
       "start_time": "17:30",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 50
     },
     {
@@ -921,7 +911,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-23",
       "start_time": "18:40",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 36
     },
     {
@@ -931,7 +921,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-24",
       "start_time": "07:15",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -991,7 +981,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-26",
       "start_time": "10:40",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 36
     },
     {
@@ -1001,7 +991,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-27",
       "start_time": "09:30",
-      "available_spot_count": 23,
+      "available_spot_count": 20,
       "capacity": 36
     },
     {
@@ -1021,7 +1011,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-27",
       "start_time": "10:40",
-      "available_spot_count": 31,
+      "available_spot_count": 28,
       "capacity": 50
     },
     {
@@ -1031,7 +1021,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-27",
       "start_time": "10:40",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 36
     },
     {
