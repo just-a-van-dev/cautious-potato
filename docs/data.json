@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T18:49:38.693998-07:00",
+  "last_updated": "2026-09-21T22:01:26.540823-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -10,6 +10,16 @@
       "start_time": "06:30",
       "available_spot_count": null,
       "capacity": 2
+    },
+    {
+      "studio": "Alo",
+      "name": "ALO BLOOR STREET: ALO RUNNERS CLUB",
+      "booking_start_date": "Open to book",
+      "location": "Toronto",
+      "start_date": "2026-10-17",
+      "start_time": "06:30",
+      "available_spot_count": 300,
+      "capacity": 0
     }
   ],
   "special": [
@@ -72,7 +82,7 @@
       "location": "Main St",
       "start_date": "2026-10-09",
       "start_time": "19:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 14
     },
     {
@@ -102,7 +112,7 @@
       "location": "Kingsway",
       "start_date": "2026-09-25",
       "start_time": "18:40",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 45
     },
     {
@@ -132,7 +142,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-09",
       "start_time": "09:00",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 11
     },
     {
@@ -152,27 +162,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-22",
       "start_time": "10:30",
-      "available_spot_count": 10,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "X Tone- Glutes & Guns \ud83c\udf51\ud83d\udcaa",
-      "booking_start_date": "2026-09-16 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-09-23",
-      "start_time": "18:30",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "X Tone - Core & Upper Body \ud83d\udcaa",
-      "booking_start_date": "2026-09-17 10:30",
-      "location": "Vancouver",
-      "start_date": "2026-09-24",
-      "start_time": "10:30",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -183,26 +173,6 @@
       "start_date": "2026-09-25",
       "start_time": "10:30",
       "available_spot_count": 10,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "X Tone- Ass & Abs \ud83c\udf36\ufe0f",
-      "booking_start_date": "2026-09-20 17:00",
-      "location": "Vancouver",
-      "start_date": "2026-09-27",
-      "start_time": "17:00",
-      "available_spot_count": 10,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "Core + Restore \ud83e\uddd8\ud83c\udffd\u200d\u2640\ufe0f",
-      "booking_start_date": "2026-09-20 18:00",
-      "location": "Vancouver",
-      "start_date": "2026-09-27",
-      "start_time": "18:00",
-      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -227,51 +197,11 @@
     },
     {
       "studio": "Lagree X",
-      "name": "X Tone- Ass & Abs \ud83c\udf36\ufe0f",
-      "booking_start_date": "2026-09-27 17:00",
-      "location": "Vancouver",
-      "start_date": "2026-10-04",
-      "start_time": "17:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "Core + Restore \ud83e\uddd8\ud83c\udffd\u200d\u2640\ufe0f",
-      "booking_start_date": "2026-09-27 18:00",
-      "location": "Vancouver",
-      "start_date": "2026-10-04",
-      "start_time": "18:00",
-      "available_spot_count": 11,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
       "name": "Calvin Harris \ud83e\udea9\ud83d\udd25",
       "booking_start_date": "2026-09-30 08:30",
       "location": "Vancouver",
       "start_date": "2026-10-07",
       "start_time": "08:30",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "X Tone- Glutes & Guns \ud83c\udf51\ud83d\udcaa",
-      "booking_start_date": "2026-09-30 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-10-07",
-      "start_time": "18:30",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "X Tone - Core & Upper Body \ud83d\udcaa",
-      "booking_start_date": "2026-10-01 10:30",
-      "location": "Vancouver",
-      "start_date": "2026-10-08",
-      "start_time": "10:30",
       "available_spot_count": 12,
       "capacity": 12
     },
@@ -297,81 +227,11 @@
     },
     {
       "studio": "Lagree X",
-      "name": "Thanksgiving Burn \ud83e\udde1\ud83c\udf41",
-      "booking_start_date": "2026-10-05 08:00",
-      "location": "Vancouver",
-      "start_date": "2026-10-12",
-      "start_time": "08:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "Thanksgiving Burn \ud83e\udde1\ud83c\udf41",
-      "booking_start_date": "2026-10-05 09:00",
-      "location": "Vancouver",
-      "start_date": "2026-10-12",
-      "start_time": "09:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "Thanksgiving Burn \ud83e\udde1\ud83c\udf41",
-      "booking_start_date": "2026-10-05 10:00",
-      "location": "Vancouver",
-      "start_date": "2026-10-12",
-      "start_time": "10:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "Thanksgiving Burn \ud83e\udde1\ud83c\udf41",
-      "booking_start_date": "2026-10-05 16:30",
-      "location": "Vancouver",
-      "start_date": "2026-10-12",
-      "start_time": "16:30",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "Thanksgiving Burn \ud83e\udde1\ud83c\udf41",
-      "booking_start_date": "2026-10-05 17:30",
-      "location": "Vancouver",
-      "start_date": "2026-10-12",
-      "start_time": "17:30",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
       "name": "Calvin Harris \ud83e\udea9\ud83d\udd25",
       "booking_start_date": "2026-10-07 08:30",
       "location": "Vancouver",
       "start_date": "2026-10-14",
       "start_time": "08:30",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "X Tone- Glutes & Guns \ud83c\udf51\ud83d\udcaa",
-      "booking_start_date": "2026-10-07 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-10-14",
-      "start_time": "18:30",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "X Tone - Core & Upper Body \ud83d\udcaa",
-      "booking_start_date": "2026-10-08 10:30",
-      "location": "Vancouver",
-      "start_date": "2026-10-15",
-      "start_time": "10:30",
       "available_spot_count": 12,
       "capacity": 12
     },
@@ -387,151 +247,11 @@
     },
     {
       "studio": "Lagree X",
-      "name": "X Tone- Glutes & Guns \ud83c\udf51\ud83d\udcaa",
-      "booking_start_date": "2026-10-10 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-10-17",
-      "start_time": "13:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "X Tone- Ass & Abs \ud83c\udf36\ufe0f",
-      "booking_start_date": "2026-10-11 17:00",
-      "location": "Vancouver",
-      "start_date": "2026-10-18",
-      "start_time": "17:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "Core + Restore \ud83e\uddd8\ud83c\udffd\u200d\u2640\ufe0f",
-      "booking_start_date": "2026-10-11 18:00",
-      "location": "Vancouver",
-      "start_date": "2026-10-18",
-      "start_time": "18:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "X Tone- Glutes & Guns \ud83c\udf51\ud83d\udcaa",
-      "booking_start_date": "2026-10-14 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-10-21",
-      "start_time": "18:30",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "X Tone - Core & Upper Body \ud83d\udcaa",
-      "booking_start_date": "2026-10-15 10:30",
-      "location": "Vancouver",
-      "start_date": "2026-10-22",
-      "start_time": "10:30",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
       "name": "Backstreet Boys \u2764\ufe0f\u200d\ud83d\udd25\ud83d\udd7a",
       "booking_start_date": "2026-10-16 08:30",
       "location": "Vancouver",
       "start_date": "2026-10-23",
       "start_time": "08:30",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "X Tone- Glutes & Guns \ud83c\udf51\ud83d\udcaa",
-      "booking_start_date": "2026-10-17 13:00",
-      "location": "Vancouver",
-      "start_date": "2026-10-24",
-      "start_time": "13:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "X Tone- Ass & Abs \ud83c\udf36\ufe0f",
-      "booking_start_date": "2026-10-18 17:00",
-      "location": "Vancouver",
-      "start_date": "2026-10-25",
-      "start_time": "17:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "Core + Restore \ud83e\uddd8\ud83c\udffd\u200d\u2640\ufe0f",
-      "booking_start_date": "2026-10-18 18:00",
-      "location": "Vancouver",
-      "start_date": "2026-10-25",
-      "start_time": "18:00",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "Boo & Burn\ud83d\udda4\ud83d\udc7b",
-      "booking_start_date": "2026-10-21 06:30",
-      "location": "Vancouver",
-      "start_date": "2026-10-28",
-      "start_time": "06:30",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "Boo & Burn\ud83d\udda4\ud83d\udc7b",
-      "booking_start_date": "2026-10-21 07:30",
-      "location": "Vancouver",
-      "start_date": "2026-10-28",
-      "start_time": "07:30",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "Boo & Burn\ud83d\udda4\ud83d\udc7b",
-      "booking_start_date": "2026-10-21 09:30",
-      "location": "Vancouver",
-      "start_date": "2026-10-28",
-      "start_time": "09:30",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "Boo & Burn\ud83d\udda4\ud83d\udc7b",
-      "booking_start_date": "2026-10-21 10:30",
-      "location": "Vancouver",
-      "start_date": "2026-10-28",
-      "start_time": "10:30",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "X Tone- Glutes & Guns \ud83c\udf51\ud83d\udcaa",
-      "booking_start_date": "2026-10-21 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-10-28",
-      "start_time": "18:30",
-      "available_spot_count": 12,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "X Tone - Core & Upper Body \ud83d\udcaa",
-      "booking_start_date": "2026-10-22 10:30",
-      "location": "Vancouver",
-      "start_date": "2026-10-29",
-      "start_time": "10:30",
       "available_spot_count": 12,
       "capacity": 12
     },
@@ -636,106 +356,6 @@
       "capacity": 20
     },
     {
-      "studio": "All Method Studio",
-      "name": "ALL Mat - Lit by BOCCI",
-      "booking_start_date": "2026-09-21 18:30",
-      "location": "Railway",
-      "start_date": "2026-10-05",
-      "start_time": "18:30",
-      "available_spot_count": 18,
-      "capacity": 18
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Mat - Lit by BOCCI",
-      "booking_start_date": "2026-09-23 18:30",
-      "location": "Railway",
-      "start_date": "2026-10-07",
-      "start_time": "18:30",
-      "available_spot_count": 18,
-      "capacity": 18
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Mat - Lit by BOCCI",
-      "booking_start_date": "2026-09-28 18:30",
-      "location": "Railway",
-      "start_date": "2026-10-12",
-      "start_time": "18:30",
-      "available_spot_count": 18,
-      "capacity": 18
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Mat - Lit by BOCCI",
-      "booking_start_date": "2026-09-30 18:30",
-      "location": "Railway",
-      "start_date": "2026-10-14",
-      "start_time": "18:30",
-      "available_spot_count": 18,
-      "capacity": 18
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Mat - Lit by BOCCI",
-      "booking_start_date": "2026-10-05 18:30",
-      "location": "Railway",
-      "start_date": "2026-10-19",
-      "start_time": "18:30",
-      "available_spot_count": 18,
-      "capacity": 18
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Mat - Lit by BOCCI",
-      "booking_start_date": "2026-10-07 18:30",
-      "location": "Railway",
-      "start_date": "2026-10-21",
-      "start_time": "18:30",
-      "available_spot_count": 18,
-      "capacity": 18
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Mat - Lit by BOCCI",
-      "booking_start_date": "2026-10-12 18:30",
-      "location": "Railway",
-      "start_date": "2026-10-26",
-      "start_time": "18:30",
-      "available_spot_count": 18,
-      "capacity": 18
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Mat - Lit by BOCCI",
-      "booking_start_date": "2026-10-14 18:30",
-      "location": "Railway",
-      "start_date": "2026-10-28",
-      "start_time": "18:30",
-      "available_spot_count": 18,
-      "capacity": 18
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Mat - Lit by BOCCI",
-      "booking_start_date": "2026-10-19 18:30",
-      "location": "Railway",
-      "start_date": "2026-11-02",
-      "start_time": "18:30",
-      "available_spot_count": 18,
-      "capacity": 18
-    },
-    {
-      "studio": "All Method Studio",
-      "name": "ALL Mat - Lit by BOCCI",
-      "booking_start_date": "2026-10-21 18:30",
-      "location": "Railway",
-      "start_date": "2026-11-04",
-      "start_time": "18:30",
-      "available_spot_count": 18,
-      "capacity": 18
-    },
-    {
       "studio": "Ritual",
       "name": "Mini Retreat | Foundation + Deep Stretch + Rest",
       "booking_start_date": "2026-08-28 14:00",
@@ -822,7 +442,7 @@
       "location": "Main Street",
       "start_date": "2026-09-26",
       "start_time": "12:30",
-      "available_spot_count": 25,
+      "available_spot_count": 26,
       "capacity": 32
     },
     {
@@ -862,7 +482,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-22",
       "start_time": "09:45",
-      "available_spot_count": 29,
+      "available_spot_count": 30,
       "capacity": 36
     },
     {
@@ -882,7 +502,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-22",
       "start_time": "16:20",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 36
     },
     {
@@ -892,7 +512,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-22",
       "start_time": "17:30",
-      "available_spot_count": 12,
+      "available_spot_count": 15,
       "capacity": 50
     },
     {
@@ -922,7 +542,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-23",
       "start_time": "18:40",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 36
     },
     {
@@ -962,7 +582,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-25",
       "start_time": "12:30",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 50
     },
     {
@@ -972,7 +592,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-25",
       "start_time": "18:40",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -992,7 +612,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-26",
       "start_time": "10:40",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
@@ -1002,7 +622,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-27",
       "start_time": "09:30",
-      "available_spot_count": 16,
+      "available_spot_count": 14,
       "capacity": 36
     },
     {
@@ -1012,7 +632,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-27",
       "start_time": "09:30",
-      "available_spot_count": 41,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
@@ -1032,7 +652,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-27",
       "start_time": "10:40",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -1042,7 +662,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-28",
       "start_time": "06:00",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
@@ -1072,7 +692,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-28",
       "start_time": "18:40",
-      "available_spot_count": 35,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -1082,7 +702,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-29",
       "start_time": "07:15",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 36
     },
     {
@@ -1092,7 +712,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-29",
       "start_time": "12:30",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
@@ -1112,7 +732,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-29",
       "start_time": "16:20",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 36
     },
     {
