@@ -9,7 +9,7 @@ from main import fetch_studio_data
 studio_base_urls = {
     "Lagree West": "https://lagreewest.marianatek.com/api/customer/v1/classes?format=json&location=48717,48721,48719,48720&region=48541&page_size=500",
     "Jaybird": "https://jaybird.marianatek.com/api/customer/v1/classes?page_size=500&location=48717,48784&region=48541&page_size=500",
-    "Lagree Studio": "https://lagreestudio.marianatek.com/api/customer/v1/classes?page_size=500&location=48717&region=48541",
+    "Lagree Studio": "https://lagreestudio.marianatek.com/api/customer/v1/classes?page_size=500&location=48717&region=48574",
     "Lagree Pulse": "https://lagreepulse.marianatek.com/api/customer/v1/classes?page_size=500&location=48717&region=48541",
     "Evolution": "https://evolutionfitness.marianatek.com/api/customer/v1/classes?page_size=500&location=48717&region=48541",
     "Tunnel": "https://tunnelpilates.marianatek.com/api/customer/v1/classes?page_size=500&location=48718&region=48541",
