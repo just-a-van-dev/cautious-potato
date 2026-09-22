@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T05:49:20.064651-07:00",
+  "last_updated": "2026-09-22T10:37:12.521540-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-10-10",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 2
+      "capacity": 22
     },
     {
       "studio": "Alo",
@@ -18,8 +18,8 @@
       "location": "Toronto",
       "start_date": "2026-10-17",
       "start_time": "06:30",
-      "available_spot_count": 300,
-      "capacity": 0
+      "available_spot_count": 299,
+      "capacity": 1
     }
   ],
   "special": [
@@ -112,7 +112,7 @@
       "location": "Kingsway",
       "start_date": "2026-09-25",
       "start_time": "18:40",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 45
     },
     {
@@ -136,13 +136,23 @@
       "capacity": 36
     },
     {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Ass And Abs",
+      "booking_start_date": "2026-09-17 14:00",
+      "location": "West Broadway",
+      "start_date": "2026-09-24",
+      "start_time": "14:00",
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
       "studio": "Tunnel",
       "name": "Reformer X  LEFT ON FRIDAY",
       "booking_start_date": "2026-10-02 09:00",
       "location": "Vancouver",
       "start_date": "2026-10-09",
       "start_time": "09:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 11
     },
     {
@@ -162,7 +172,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-22",
       "start_time": "10:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -432,7 +442,7 @@
       "location": "Main Street",
       "start_date": "2026-09-25",
       "start_time": "09:30",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 32
     },
     {
@@ -452,7 +462,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-09-26",
       "start_time": "12:30",
-      "available_spot_count": 11,
+      "available_spot_count": 9,
       "capacity": 32
     },
     {
@@ -474,16 +484,6 @@
       "start_time": "12:30",
       "available_spot_count": 32,
       "capacity": 32
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: LANE 8 x ODESZA x ILLENIUM",
-      "booking_start_date": "2026-09-14 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-09-22",
-      "start_time": "09:45",
-      "available_spot_count": 30,
-      "capacity": 36
     },
     {
       "studio": "Spin Society",
@@ -522,7 +522,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-23",
       "start_time": "12:30",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -542,7 +542,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-23",
       "start_time": "18:40",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 36
     },
     {
@@ -562,7 +562,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-24",
       "start_time": "09:45",
-      "available_spot_count": 42,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -572,7 +572,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-24",
       "start_time": "12:30",
-      "available_spot_count": 29,
+      "available_spot_count": 27,
       "capacity": 36
     },
     {
@@ -582,7 +582,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-25",
       "start_time": "12:30",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 50
     },
     {
@@ -592,7 +592,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-25",
       "start_time": "18:40",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 50
     },
     {
@@ -602,7 +602,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-26",
       "start_time": "08:20",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 50
     },
     {
@@ -612,7 +612,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-26",
       "start_time": "10:40",
-      "available_spot_count": 22,
+      "available_spot_count": 23,
       "capacity": 36
     },
     {
@@ -622,7 +622,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-27",
       "start_time": "09:30",
-      "available_spot_count": 13,
+      "available_spot_count": 7,
       "capacity": 36
     },
     {
@@ -632,7 +632,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-27",
       "start_time": "09:30",
-      "available_spot_count": 38,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -642,7 +642,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-27",
       "start_time": "10:40",
-      "available_spot_count": 21,
+      "available_spot_count": 19,
       "capacity": 50
     },
     {
@@ -672,7 +672,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-28",
       "start_time": "09:45",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -692,7 +692,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-28",
       "start_time": "18:40",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 50
     },
     {
@@ -702,7 +702,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-29",
       "start_time": "07:15",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 36
     },
     {
@@ -712,7 +712,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-29",
       "start_time": "12:30",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
