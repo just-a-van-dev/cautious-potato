@@ -2,6 +2,7 @@ FILTER_OUT = {
     "all method studio": [
         "all access: run x recover",
         "all lift at the set - private booking",
+        "all mat - lit by bocci",
         "all reformer - begin",
         "all reformer - begin happy hour 55 mins",
         "all reformer - bridge",
@@ -48,6 +49,8 @@ FILTER_OUT = {
     ],
     "lagree studio": [
         "advanced (min 30 classes) with headsets",
+        "advanced (min 30 classes)",
+        "ass and abs",
         "ass & abs with headsets",
         "ass and abs with headsets",
         "daytime perk ass & abs with headsets",
@@ -80,6 +83,12 @@ FILTER_OUT = {
         "megapro full body",
         "strength & recovery 🧘🏽‍♀️",
         "megapro full body-x hour",
+        "x tone- glutes & guns 🍑💪",
+        "x tone - core & upper body 💪",
+        "x tone- ass & abs 🌶️",
+        "core + restore 🧘🏽‍♀️",
+        "thanksgiving burn 🧡🍁",
+        "boo & burn🖤👻",
     ],
     "spin society": [
       "theme: rise + rave"
