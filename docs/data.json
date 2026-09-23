@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T10:49:59.281470-07:00",
+  "last_updated": "2026-09-23T14:27:23.001211-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-10-10",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 47
+      "capacity": 48
     },
     {
       "studio": "Alo",
@@ -28,8 +28,8 @@
       "location": "Toronto",
       "start_date": "2026-10-17",
       "start_time": "06:30",
-      "available_spot_count": 282,
-      "capacity": 18
+      "available_spot_count": 278,
+      "capacity": 22
     },
     {
       "studio": "Alo",
@@ -162,7 +162,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-06",
       "start_time": "15:15",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 20
     },
     {
@@ -194,6 +194,26 @@
       "start_time": "18:15",
       "available_spot_count": 15,
       "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mega Cardio Xpress- Arms/Abs+Tread x Oktoberwest",
+      "booking_start_date": "2026-09-30 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-07",
+      "start_time": "07:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mega Cardio Xpress- Arms/Abs+Tread x Oktoberwest",
+      "booking_start_date": "2026-09-30 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-07",
+      "start_time": "17:30",
+      "available_spot_count": 26,
+      "capacity": 26
     },
     {
       "studio": "Lagree West",
@@ -232,7 +252,7 @@
       "location": "Gastown",
       "start_date": "2026-10-22",
       "start_time": "17:15",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 15
     },
     {
@@ -277,12 +297,42 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk Ass And Abs",
+      "name": "Full Body Daytime Perk x Blume",
+      "booking_start_date": "2026-09-17 09:00",
+      "location": "West Broadway",
+      "start_date": "2026-09-24",
+      "start_time": "09:00",
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Full Body Daytime Perk x Blume",
+      "booking_start_date": "2026-09-17 10:00",
+      "location": "West Broadway",
+      "start_date": "2026-09-24",
+      "start_time": "10:00",
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Full Body Daytime Perk x Blume",
+      "booking_start_date": "2026-09-17 13:00",
+      "location": "West Broadway",
+      "start_date": "2026-09-24",
+      "start_time": "13:00",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Ass And Abs Daytime Perk x Blume",
       "booking_start_date": "2026-09-17 14:00",
       "location": "West Broadway",
       "start_date": "2026-09-24",
       "start_time": "14:00",
-      "available_spot_count": 11,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -502,7 +552,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-25",
       "start_time": "13:30",
-      "available_spot_count": 75,
+      "available_spot_count": 76,
       "capacity": 80
     },
     {
@@ -612,7 +662,7 @@
       "location": "West End",
       "start_date": "2026-10-18",
       "start_time": "14:00",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 25
     },
     {
@@ -632,7 +682,7 @@
       "location": "Main Street",
       "start_date": "2026-09-26",
       "start_time": "12:30",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 32
     },
     {
@@ -657,23 +707,13 @@
     },
     {
       "studio": "Turf",
-      "name": "\ud83c\udf1fSPOTLIGHT\ud83c\udf1f:  On the Mat with Nat",
+      "name": "\ud83c\udf1f FORMULA FIG \ud83c\udf1f x On the Mat with Nat",
       "booking_start_date": "2026-10-03 12:30",
       "location": "Main Street",
       "start_date": "2026-10-10",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 16,
       "capacity": 32
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: LANE 8 x ELDERBROOK",
-      "booking_start_date": "2026-09-15 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-09-23",
-      "start_time": "12:30",
-      "available_spot_count": 43,
-      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -682,7 +722,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-23",
       "start_time": "17:30",
-      "available_spot_count": 14,
+      "available_spot_count": 8,
       "capacity": 49
     },
     {
@@ -692,7 +732,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-23",
       "start_time": "18:40",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 36
     },
     {
@@ -712,7 +752,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-24",
       "start_time": "09:45",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
@@ -722,7 +762,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-24",
       "start_time": "12:30",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
@@ -732,7 +772,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-25",
       "start_time": "12:30",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 49
     },
     {
@@ -752,7 +792,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-26",
       "start_time": "08:20",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 50
     },
     {
@@ -762,7 +802,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-26",
       "start_time": "10:40",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 36
     },
     {
@@ -782,7 +822,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-27",
       "start_time": "09:30",
-      "available_spot_count": 33,
+      "available_spot_count": 31,
       "capacity": 49
     },
     {
@@ -792,7 +832,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-27",
       "start_time": "10:40",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 49
     },
     {
@@ -822,7 +862,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-28",
       "start_time": "09:45",
-      "available_spot_count": 44,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -842,7 +882,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-28",
       "start_time": "18:40",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 49
     },
     {
@@ -872,7 +912,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-29",
       "start_time": "12:30",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 36
     },
     {
@@ -932,7 +972,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-01",
       "start_time": "17:30",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
