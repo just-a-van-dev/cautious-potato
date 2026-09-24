@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T16:56:02.819824-07:00",
+  "last_updated": "2026-09-23T21:39:48.526549-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-10-10",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 50
+      "capacity": 51
     },
     {
       "studio": "Alo",
@@ -28,8 +28,8 @@
       "location": "Toronto",
       "start_date": "2026-10-17",
       "start_time": "06:30",
-      "available_spot_count": 276,
-      "capacity": 24
+      "available_spot_count": 274,
+      "capacity": 26
     },
     {
       "studio": "Alo",
@@ -98,62 +98,22 @@
     {
       "studio": "Lagree West",
       "name": "Happy Hour Megaformer x Oktoberwest",
-      "booking_start_date": "2026-09-29 00:00",
-      "location": "Gastown",
-      "start_date": "2026-10-06",
-      "start_time": "06:00",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Oktoberwest",
-      "booking_start_date": "2026-09-29 00:00",
-      "location": "Gastown",
-      "start_date": "2026-10-06",
-      "start_time": "07:00",
-      "available_spot_count": 15,
-      "capacity": 15
+      "booking_start_date": "2026-09-28 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-05",
+      "start_time": "14:30",
+      "available_spot_count": 16,
+      "capacity": 16
     },
     {
       "studio": "Lagree West",
       "name": "Happy Hour Megaformer x Oktoberwest",
-      "booking_start_date": "2026-09-29 00:00",
-      "location": "Gastown",
-      "start_date": "2026-10-06",
-      "start_time": "08:00",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Oktoberwest",
-      "booking_start_date": "2026-09-29 00:00",
-      "location": "Gastown",
-      "start_date": "2026-10-06",
-      "start_time": "09:00",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Oktoberwest",
-      "booking_start_date": "2026-09-29 00:00",
-      "location": "Gastown",
-      "start_date": "2026-10-06",
-      "start_time": "10:30",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Oktoberwest",
-      "booking_start_date": "2026-09-29 00:00",
-      "location": "Gastown",
-      "start_date": "2026-10-06",
-      "start_time": "12:00",
-      "available_spot_count": 15,
-      "capacity": 15
+      "booking_start_date": "2026-09-28 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-05",
+      "start_time": "20:15",
+      "available_spot_count": 14,
+      "capacity": 14
     },
     {
       "studio": "Lagree West",
@@ -168,32 +128,22 @@
     {
       "studio": "Lagree West",
       "name": "Happy Hour Megaformer x Oktoberwest",
-      "booking_start_date": "2026-09-29 00:00",
-      "location": "Gastown",
-      "start_date": "2026-10-06",
-      "start_time": "16:15",
-      "available_spot_count": 15,
-      "capacity": 15
+      "booking_start_date": "2026-09-30 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-10-07",
+      "start_time": "05:15",
+      "available_spot_count": 20,
+      "capacity": 20
     },
     {
       "studio": "Lagree West",
       "name": "Megaformer x Oktoberwest",
-      "booking_start_date": "2026-09-29 00:00",
-      "location": "Gastown",
-      "start_date": "2026-10-06",
-      "start_time": "17:15",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Oktoberwest",
-      "booking_start_date": "2026-09-29 00:00",
-      "location": "Gastown",
-      "start_date": "2026-10-06",
-      "start_time": "18:15",
-      "available_spot_count": 15,
-      "capacity": 15
+      "booking_start_date": "2026-09-30 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-10-07",
+      "start_time": "06:15",
+      "available_spot_count": 20,
+      "capacity": 20
     },
     {
       "studio": "Lagree West",
@@ -217,12 +167,422 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-08",
+      "start_time": "05:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-08",
+      "start_time": "05:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Gastown",
+      "start_date": "2026-10-08",
+      "start_time": "06:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-08",
+      "start_time": "06:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-08",
+      "start_time": "06:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Gastown",
+      "start_date": "2026-10-08",
+      "start_time": "07:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-08",
+      "start_time": "07:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-08",
+      "start_time": "07:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Gastown",
+      "start_date": "2026-10-08",
+      "start_time": "08:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer Ass + Abs x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-08",
+      "start_time": "08:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer Arms + Abs x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-08",
+      "start_time": "08:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Gastown",
+      "start_date": "2026-10-08",
+      "start_time": "09:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-08",
+      "start_time": "09:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mega Cardio Xpress- Ass/Abs + Tread x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-08",
+      "start_time": "09:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-08",
+      "start_time": "10:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer Arms + Abs x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-08",
+      "start_time": "10:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Gastown",
+      "start_date": "2026-10-08",
+      "start_time": "10:30",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-08",
+      "start_time": "11:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mega Mama (45 Min) x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-08",
+      "start_time": "11:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Gastown",
+      "start_date": "2026-10-08",
+      "start_time": "12:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-08",
+      "start_time": "12:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-08",
+      "start_time": "12:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-08",
+      "start_time": "13:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-08",
+      "start_time": "13:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-08",
+      "start_time": "14:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer Classic x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-08",
+      "start_time": "14:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-08",
+      "start_time": "15:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-08",
+      "start_time": "15:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-08",
+      "start_time": "16:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Gastown",
+      "start_date": "2026-10-08",
+      "start_time": "16:15",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-08",
+      "start_time": "16:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Gastown",
+      "start_date": "2026-10-08",
+      "start_time": "17:15",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-08",
+      "start_time": "17:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-08",
+      "start_time": "17:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer Strength + Stretch x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Gastown",
+      "start_date": "2026-10-08",
+      "start_time": "18:15",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer Ass + Abs x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-08",
+      "start_time": "18:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer Classic x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-08",
+      "start_time": "18:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer Strength + Stretch x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-08",
+      "start_time": "19:15",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-08",
+      "start_time": "19:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-01 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-08",
+      "start_time": "20:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs x Oktoberwest",
+      "booking_start_date": "2026-10-02 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-09",
+      "start_time": "16:30",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
       "booking_start_date": "2026-09-09 19:15",
       "location": "Main St",
       "start_date": "2026-10-09",
       "start_time": "19:15",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 14
     },
     {
@@ -234,6 +594,26 @@
       "start_time": "08:00",
       "available_spot_count": 15,
       "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mid-Day Mega Cardio Xpress- Arms/Abs x Oktoberwest",
+      "booking_start_date": "2026-10-05 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-12",
+      "start_time": "08:15",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Mid-Day Mega Cardio Xpress- Ass/Abs x Oktoberwest",
+      "booking_start_date": "2026-10-05 00:00",
+      "location": "Kitsilano",
+      "start_date": "2026-10-12",
+      "start_time": "12:15",
+      "available_spot_count": 26,
+      "capacity": 26
     },
     {
       "studio": "Lagree West",
@@ -272,7 +652,7 @@
       "location": "Kingsway",
       "start_date": "2026-09-25",
       "start_time": "18:40",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 45
     },
     {
@@ -302,7 +682,7 @@
       "location": "West Broadway",
       "start_date": "2026-09-24",
       "start_time": "09:00",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -342,7 +722,7 @@
       "location": "West Broadway",
       "start_date": "2026-09-24",
       "start_time": "14:00",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -572,7 +952,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-25",
       "start_time": "09:30",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 26
     },
     {
@@ -622,7 +1002,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-30",
       "start_time": "12:15",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 26
     },
     {
@@ -942,7 +1322,7 @@
       "location": "Main Street",
       "start_date": "2026-09-25",
       "start_time": "09:30",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 32
     },
     {
@@ -962,7 +1342,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-09-26",
       "start_time": "12:30",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 32
     },
     {
@@ -987,32 +1367,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: ILLENIUM X JOHN SUMMIT X REZZ",
-      "booking_start_date": "2026-09-15 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-09-23",
-      "start_time": "17:30",
-      "available_spot_count": 7,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: FRED AGAIN\u2026 x ODESZA",
-      "booking_start_date": "2026-09-15 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-09-23",
-      "start_time": "18:40",
-      "available_spot_count": 3,
-      "capacity": 36
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: RIHANNA X REZZ",
       "booking_start_date": "2026-09-16 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-24",
       "start_time": "07:15",
-      "available_spot_count": 28,
+      "available_spot_count": 30,
       "capacity": 50
     },
     {
@@ -1042,7 +1402,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-25",
       "start_time": "12:30",
-      "available_spot_count": 14,
+      "available_spot_count": 10,
       "capacity": 49
     },
     {
@@ -1092,7 +1452,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-27",
       "start_time": "09:30",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 49
     },
     {
@@ -1102,7 +1462,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-27",
       "start_time": "10:40",
-      "available_spot_count": 16,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -1122,7 +1482,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-28",
       "start_time": "06:00",
-      "available_spot_count": 36,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
@@ -1132,7 +1492,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-28",
       "start_time": "09:45",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -1152,7 +1512,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-28",
       "start_time": "18:40",
-      "available_spot_count": 22,
+      "available_spot_count": 20,
       "capacity": 49
     },
     {
@@ -1182,7 +1542,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-29",
       "start_time": "12:30",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -1192,7 +1552,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-29",
       "start_time": "16:20",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 36
     },
     {
@@ -1202,7 +1562,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-30",
       "start_time": "08:20",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 37
     },
     {
@@ -1222,7 +1582,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-01",
       "start_time": "06:00",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 37
     },
     {
@@ -1242,7 +1602,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-01",
       "start_time": "17:30",
-      "available_spot_count": 49,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
@@ -1392,7 +1752,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-07",
       "start_time": "18:40",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 49
     },
     {
