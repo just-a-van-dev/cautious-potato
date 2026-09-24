@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T07:24:03.740095-07:00",
+  "last_updated": "2026-09-24T11:38:44.501282-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -9,7 +9,7 @@
       "start_date": "2026-10-04",
       "start_time": "08:00",
       "available_spot_count": null,
-      "capacity": 33
+      "capacity": 34
     },
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-10-10",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 53
+      "capacity": 55
     },
     {
       "studio": "Alo",
@@ -28,8 +28,8 @@
       "location": "Toronto",
       "start_date": "2026-10-17",
       "start_time": "06:30",
-      "available_spot_count": 273,
-      "capacity": 27
+      "available_spot_count": 271,
+      "capacity": 29
     },
     {
       "studio": "Alo",
@@ -60,7 +60,7 @@
       "location": "West End",
       "start_date": "2026-10-02",
       "start_time": "16:00",
-      "available_spot_count": 23,
+      "available_spot_count": 20,
       "capacity": 23
     },
     {
@@ -652,7 +652,7 @@
       "location": "Kingsway",
       "start_date": "2026-09-25",
       "start_time": "18:40",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 45
     },
     {
@@ -677,32 +677,12 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Full Body Daytime Perk x Blume",
-      "booking_start_date": "2026-09-17 09:00",
-      "location": "West Broadway",
-      "start_date": "2026-09-24",
-      "start_time": "09:00",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Full Body Daytime Perk x Blume",
-      "booking_start_date": "2026-09-17 10:00",
-      "location": "West Broadway",
-      "start_date": "2026-09-24",
-      "start_time": "10:00",
-      "available_spot_count": 8,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Full Body Daytime Perk",
       "booking_start_date": "2026-09-17 12:00",
       "location": "West Broadway",
       "start_date": "2026-09-24",
       "start_time": "12:00",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -722,7 +702,7 @@
       "location": "West Broadway",
       "start_date": "2026-09-24",
       "start_time": "14:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -942,7 +922,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-24",
       "start_time": "17:15",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 26
     },
     {
@@ -952,7 +932,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-25",
       "start_time": "09:30",
-      "available_spot_count": 21,
+      "available_spot_count": 19,
       "capacity": 26
     },
     {
@@ -1002,7 +982,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-30",
       "start_time": "12:15",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 26
     },
     {
@@ -1262,7 +1242,7 @@
       "location": "West End",
       "start_date": "2026-10-02",
       "start_time": "16:00",
-      "available_spot_count": 23,
+      "available_spot_count": 20,
       "capacity": 23
     },
     {
@@ -1342,7 +1322,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-09-26",
       "start_time": "12:30",
-      "available_spot_count": 4,
+      "available_spot_count": 1,
       "capacity": 32
     },
     {
@@ -1367,32 +1347,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: RIHANNA X REZZ",
-      "booking_start_date": "2026-09-16 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-09-24",
-      "start_time": "07:15",
-      "available_spot_count": 31,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: LANE 8 x ODESZA x ILLENIUM",
-      "booking_start_date": "2026-09-16 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-09-24",
-      "start_time": "09:45",
-      "available_spot_count": 44,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: RIHANNA x BEYONC\u00c9 - VOL 1",
       "booking_start_date": "2026-09-16 12:00",
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-24",
       "start_time": "12:30",
-      "available_spot_count": 27,
+      "available_spot_count": 24,
       "capacity": 36
     },
     {
@@ -1422,8 +1382,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-26",
       "start_time": "08:20",
-      "available_spot_count": 19,
-      "capacity": 50
+      "available_spot_count": 18,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1432,7 +1392,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-26",
       "start_time": "10:40",
-      "available_spot_count": 21,
+      "available_spot_count": 19,
       "capacity": 36
     },
     {
@@ -1442,7 +1402,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-27",
       "start_time": "09:30",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 36
     },
     {
@@ -1452,7 +1412,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-27",
       "start_time": "09:30",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 49
     },
     {
@@ -1482,8 +1442,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-28",
       "start_time": "06:00",
-      "available_spot_count": 33,
-      "capacity": 50
+      "available_spot_count": 32,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1492,8 +1452,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-28",
       "start_time": "09:45",
-      "available_spot_count": 41,
-      "capacity": 50
+      "available_spot_count": 40,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1502,7 +1462,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-28",
       "start_time": "12:30",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 49
     },
     {
@@ -1512,7 +1472,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-28",
       "start_time": "18:40",
-      "available_spot_count": 17,
+      "available_spot_count": 19,
       "capacity": 49
     },
     {
@@ -1522,7 +1482,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-29",
       "start_time": "07:15",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 36
     },
     {
@@ -1532,8 +1492,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-29",
       "start_time": "12:30",
-      "available_spot_count": 44,
-      "capacity": 50
+      "available_spot_count": 43,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1552,7 +1512,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-29",
       "start_time": "16:20",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 36
     },
     {
@@ -1562,7 +1522,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-30",
       "start_time": "08:20",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 37
     },
     {
@@ -1592,8 +1552,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-01",
       "start_time": "06:00",
-      "available_spot_count": 46,
-      "capacity": 50
+      "available_spot_count": 45,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1612,8 +1572,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-01",
       "start_time": "17:30",
-      "available_spot_count": 46,
-      "capacity": 50
+      "available_spot_count": 44,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1632,8 +1592,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-03",
       "start_time": "09:30",
-      "available_spot_count": 48,
-      "capacity": 50
+      "available_spot_count": 47,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1662,8 +1622,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-03",
       "start_time": "10:40",
-      "available_spot_count": 49,
-      "capacity": 50
+      "available_spot_count": 48,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1742,8 +1702,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-06",
       "start_time": "19:50",
-      "available_spot_count": 49,
-      "capacity": 50
+      "available_spot_count": 48,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1752,8 +1712,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-07",
       "start_time": "07:15",
-      "available_spot_count": 50,
-      "capacity": 50
+      "available_spot_count": 49,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1772,8 +1732,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-08",
       "start_time": "06:00",
-      "available_spot_count": 50,
-      "capacity": 50
+      "available_spot_count": 49,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1782,8 +1742,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-08",
       "start_time": "07:15",
-      "available_spot_count": 50,
-      "capacity": 50
+      "available_spot_count": 49,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1802,8 +1762,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-09",
       "start_time": "09:45",
-      "available_spot_count": 50,
-      "capacity": 50
+      "available_spot_count": 49,
+      "capacity": 49
     }
   ]
 }
