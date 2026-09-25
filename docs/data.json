@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T14:46:09.039642-07:00",
+  "last_updated": "2026-09-24T17:31:26.521172-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -28,8 +28,8 @@
       "location": "Toronto",
       "start_date": "2026-10-17",
       "start_time": "06:30",
-      "available_spot_count": 271,
-      "capacity": 29
+      "available_spot_count": 268,
+      "capacity": 32
     },
     {
       "studio": "Alo",
@@ -60,7 +60,7 @@
       "location": "West End",
       "start_date": "2026-10-02",
       "start_time": "16:00",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 23
     },
     {
@@ -948,6 +948,26 @@
     {
       "studio": "Lagree West",
       "name": "Happy Hour Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-23 00:00",
+      "location": "Gastown",
+      "start_date": "2026-10-30",
+      "start_time": "15:15",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-23 00:00",
+      "location": "Gastown",
+      "start_date": "2026-10-30",
+      "start_time": "16:15",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Oktoberwest",
       "booking_start_date": "2026-10-24 00:00",
       "location": "Main St",
       "start_date": "2026-10-31",
@@ -1208,32 +1228,12 @@
     {
       "studio": "ZenDen",
       "name": "Pilates Sculpt | Red Light - Lower Body Burn",
-      "booking_start_date": "2026-09-10 17:15",
-      "location": "Vancouver",
-      "start_date": "2026-09-24",
-      "start_time": "17:15",
-      "available_spot_count": 16,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Pilates Sculpt | Red Light - Lower Body Burn",
       "booking_start_date": "2026-09-11 09:30",
       "location": "Vancouver",
       "start_date": "2026-09-25",
       "start_time": "09:30",
-      "available_spot_count": 19,
+      "available_spot_count": 21,
       "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Form + Feeling - A Design Installation",
-      "booking_start_date": "2026-07-27 13:30",
-      "location": "Vancouver",
-      "start_date": "2026-09-25",
-      "start_time": "13:30",
-      "available_spot_count": 76,
-      "capacity": 80
     },
     {
       "studio": "ZenDen",
@@ -1282,7 +1282,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-01",
       "start_time": "18:45",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 26
     },
     {
@@ -1542,7 +1542,7 @@
       "location": "West End",
       "start_date": "2026-10-02",
       "start_time": "16:00",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 23
     },
     {
@@ -1652,7 +1652,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-25",
       "start_time": "12:30",
-      "available_spot_count": 9,
+      "available_spot_count": 11,
       "capacity": 49
     },
     {
@@ -1662,7 +1662,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-25",
       "start_time": "18:40",
-      "available_spot_count": 1,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -1672,7 +1672,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-26",
       "start_time": "08:20",
-      "available_spot_count": 18,
+      "available_spot_count": 19,
       "capacity": 49
     },
     {
@@ -1712,7 +1712,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-27",
       "start_time": "10:40",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 49
     },
     {
@@ -1762,7 +1762,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-28",
       "start_time": "18:40",
-      "available_spot_count": 19,
+      "available_spot_count": 17,
       "capacity": 49
     },
     {
@@ -1772,7 +1772,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-29",
       "start_time": "07:15",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -1782,7 +1782,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-29",
       "start_time": "12:30",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 49
     },
     {
@@ -1862,7 +1862,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-01",
       "start_time": "17:30",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 49
     },
     {
