@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T09:18:23.564745-07:00",
+  "last_updated": "2026-09-26T12:21:28.356297-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -28,8 +28,8 @@
       "location": "Toronto",
       "start_date": "2026-10-17",
       "start_time": "06:30",
-      "available_spot_count": 254,
-      "capacity": 46
+      "available_spot_count": 252,
+      "capacity": 48
     },
     {
       "studio": "Alo",
@@ -38,8 +38,8 @@
       "location": "Vancouver",
       "start_date": "2026-10-17",
       "start_time": "10:30",
-      "available_spot_count": 299,
-      "capacity": 1
+      "available_spot_count": 298,
+      "capacity": 2
     }
   ],
   "special": [
@@ -80,7 +80,7 @@
       "location": "West End",
       "start_date": "2026-10-05",
       "start_time": "07:45",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 23
     },
     {
@@ -1046,6 +1046,16 @@
       "capacity": 36
     },
     {
+      "studio": "Lagree Studio",
+      "name": "Private Event",
+      "booking_start_date": "2026-09-20 16:00",
+      "location": "West Broadway",
+      "start_date": "2026-09-27",
+      "start_time": "16:00",
+      "available_spot_count": 0,
+      "capacity": 12
+    },
+    {
       "studio": "Tunnel",
       "name": "Reformer X  LEFT ON FRIDAY",
       "booking_start_date": "2026-10-02 09:00",
@@ -1192,7 +1202,7 @@
       "location": "Vancouver",
       "start_date": "2026-09-27",
       "start_time": "09:25",
-      "available_spot_count": 31,
+      "available_spot_count": 32,
       "capacity": 38
     },
     {
@@ -1662,7 +1672,7 @@
       "location": "West End",
       "start_date": "2026-10-05",
       "start_time": "07:45",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 23
     },
     {
@@ -1687,16 +1697,6 @@
     },
     {
       "studio": "Hustle",
-      "name": "HIIT + HEAVY CIRCUIT",
-      "booking_start_date": "2026-09-18 10:30",
-      "location": "Mount Pleasant",
-      "start_date": "2026-09-26",
-      "start_time": "10:30",
-      "available_spot_count": 5,
-      "capacity": 16
-    },
-    {
-      "studio": "Hustle",
       "name": "BOOTY + HIIT",
       "booking_start_date": "2026-09-19 10:30",
       "location": "Mount Pleasant",
@@ -1712,7 +1712,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-09-27",
       "start_time": "13:00",
-      "available_spot_count": 4,
+      "available_spot_count": 1,
       "capacity": 18
     },
     {
@@ -1732,7 +1732,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-09-28",
       "start_time": "15:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 18
     },
     {
@@ -1762,7 +1762,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-09-29",
       "start_time": "16:30",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 18
     },
     {
@@ -1822,7 +1822,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-10-03",
       "start_time": "08:00",
-      "available_spot_count": 15,
+      "available_spot_count": 12,
       "capacity": 18
     },
     {
@@ -1832,7 +1832,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-10-03",
       "start_time": "10:30",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 16
     },
     {
@@ -2682,7 +2682,7 @@
       "location": "Main Street",
       "start_date": "2026-09-26",
       "start_time": "12:30",
-      "available_spot_count": 22,
+      "available_spot_count": 13,
       "capacity": 32
     },
     {
@@ -2692,7 +2692,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-09-26",
       "start_time": "12:30",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 32
     },
     {
@@ -2712,18 +2712,8 @@
       "location": "Main Street",
       "start_date": "2026-10-10",
       "start_time": "12:30",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 32
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: THE WEEKND X SWEDISH HOUSE MAFIA",
-      "booking_start_date": "2026-09-18 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-09-26",
-      "start_time": "10:40",
-      "available_spot_count": 8,
-      "capacity": 36
     },
     {
       "studio": "Spin Society",
@@ -2732,7 +2722,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-27",
       "start_time": "09:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 36
     },
     {
@@ -2742,7 +2732,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-27",
       "start_time": "09:30",
-      "available_spot_count": 24,
+      "available_spot_count": 22,
       "capacity": 49
     },
     {
@@ -2762,7 +2752,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-27",
       "start_time": "10:40",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 36
     },
     {
@@ -2782,7 +2772,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-09-28",
       "start_time": "09:45",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 48
     },
     {
@@ -2802,7 +2792,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-28",
       "start_time": "18:40",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 49
     },
     {
@@ -2832,7 +2822,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-29",
       "start_time": "12:30",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
@@ -2842,7 +2832,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-29",
       "start_time": "16:20",
-      "available_spot_count": 32,
+      "available_spot_count": 33,
       "capacity": 36
     },
     {
@@ -2862,7 +2852,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-30",
       "start_time": "11:50",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 37
     },
     {
@@ -2892,7 +2882,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-01",
       "start_time": "12:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 37
     },
     {
@@ -2902,7 +2892,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-01",
       "start_time": "17:30",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 48
     },
     {
@@ -2932,7 +2922,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-03",
       "start_time": "09:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 48
     },
     {
@@ -2962,7 +2952,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-03",
       "start_time": "10:40",
-      "available_spot_count": 29,
+      "available_spot_count": 25,
       "capacity": 48
     },
     {
@@ -2992,7 +2982,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-04",
       "start_time": "09:30",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 49
     },
     {
@@ -3002,7 +2992,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-04",
       "start_time": "10:40",
-      "available_spot_count": 49,
+      "available_spot_count": 47,
       "capacity": 49
     },
     {
