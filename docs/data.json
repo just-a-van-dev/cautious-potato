@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T23:35:13.700149-07:00",
+  "last_updated": "2026-09-26T04:44:27.678191-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -28,8 +28,8 @@
       "location": "Toronto",
       "start_date": "2026-10-17",
       "start_time": "06:30",
-      "available_spot_count": 258,
-      "capacity": 42
+      "available_spot_count": 257,
+      "capacity": 43
     },
     {
       "studio": "Alo",
@@ -38,8 +38,8 @@
       "location": "Vancouver",
       "start_date": "2026-10-17",
       "start_time": "10:30",
-      "available_spot_count": 300,
-      "capacity": 0
+      "available_spot_count": 299,
+      "capacity": 1
     }
   ],
   "special": [
@@ -1702,7 +1702,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-09-26",
       "start_time": "10:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 16
     },
     {
@@ -1862,7 +1862,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-10-04",
       "start_time": "13:00",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 18
     },
     {
@@ -2692,7 +2692,7 @@
       "location": "Main Street",
       "start_date": "2026-09-26",
       "start_time": "12:30",
-      "available_spot_count": 24,
+      "available_spot_count": 22,
       "capacity": 32
     },
     {
@@ -2702,7 +2702,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-09-26",
       "start_time": "12:30",
-      "available_spot_count": 1,
+      "available_spot_count": 3,
       "capacity": 32
     },
     {
@@ -2712,7 +2712,7 @@
       "location": "Main Street",
       "start_date": "2026-10-03",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 32
     },
     {
@@ -2742,7 +2742,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-26",
       "start_time": "10:40",
-      "available_spot_count": 8,
+      "available_spot_count": 10,
       "capacity": 36
     },
     {
@@ -2752,7 +2752,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-27",
       "start_time": "09:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 36
     },
     {
@@ -2772,7 +2772,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-27",
       "start_time": "10:40",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 49
     },
     {
@@ -2822,7 +2822,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-09-28",
       "start_time": "18:40",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 49
     },
     {
@@ -2852,7 +2852,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-09-29",
       "start_time": "12:30",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 36
     },
     {
@@ -2922,7 +2922,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-01",
       "start_time": "17:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 48
     },
     {
@@ -2942,7 +2942,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-02",
       "start_time": "12:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
@@ -2952,7 +2952,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-03",
       "start_time": "09:30",
-      "available_spot_count": 34,
+      "available_spot_count": 32,
       "capacity": 48
     },
     {
@@ -2962,7 +2962,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-03",
       "start_time": "09:30",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 49
     },
     {
@@ -2982,7 +2982,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-03",
       "start_time": "10:40",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 48
     },
     {
