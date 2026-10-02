@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T01:26:48.616104-07:00",
+  "last_updated": "2026-10-02T07:57:34.894638-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-10-10",
       "start_time": "06:30",
       "available_spot_count": null,
-      "capacity": 110
+      "capacity": 113
     },
     {
       "studio": "Alo",
@@ -112,7 +112,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-05",
       "start_time": "14:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -212,7 +212,7 @@
       "location": "Main St",
       "start_date": "2026-10-08",
       "start_time": "05:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 14
     },
     {
@@ -282,7 +282,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-08",
       "start_time": "07:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 20
     },
     {
@@ -302,7 +302,7 @@
       "location": "Gastown",
       "start_date": "2026-10-08",
       "start_time": "08:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 15
     },
     {
@@ -312,7 +312,7 @@
       "location": "Main St",
       "start_date": "2026-10-08",
       "start_time": "08:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 14
     },
     {
@@ -342,7 +342,7 @@
       "location": "Gastown",
       "start_date": "2026-10-08",
       "start_time": "09:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 15
     },
     {
@@ -362,7 +362,7 @@
       "location": "Main St",
       "start_date": "2026-10-08",
       "start_time": "09:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 14
     },
     {
@@ -372,7 +372,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-08",
       "start_time": "09:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 26
     },
     {
@@ -422,7 +422,7 @@
       "location": "Main St",
       "start_date": "2026-10-08",
       "start_time": "11:15",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 14
     },
     {
@@ -662,7 +662,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-08",
       "start_time": "18:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -722,7 +722,7 @@
       "location": "Main St",
       "start_date": "2026-10-08",
       "start_time": "19:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 14
     },
     {
@@ -1352,7 +1352,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-02",
       "start_time": "08:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 12
     },
     {
@@ -1392,7 +1392,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-09",
       "start_time": "06:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -1562,7 +1562,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-06",
       "start_time": "18:45",
-      "available_spot_count": 19,
+      "available_spot_count": 20,
       "capacity": 26
     },
     {
@@ -2122,7 +2122,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-10-03",
       "start_time": "08:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 18
     },
     {
@@ -2152,7 +2152,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-10-04",
       "start_time": "13:00",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 18
     },
     {
@@ -2242,7 +2242,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-10-07",
       "start_time": "11:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 18
     },
     {
@@ -2302,7 +2302,7 @@
       "location": "Mount Pleasant",
       "start_date": "2026-10-10",
       "start_time": "10:30",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 16
     },
     {
@@ -2322,6 +2322,16 @@
       "location": "Mount Pleasant",
       "start_date": "2026-10-11",
       "start_time": "13:00",
+      "available_spot_count": 18,
+      "capacity": 18
+    },
+    {
+      "studio": "Hustle",
+      "name": "ARMS + ABS",
+      "booking_start_date": "2026-10-04 11:40",
+      "location": "Mount Pleasant",
+      "start_date": "2026-10-12",
+      "start_time": "11:40",
       "available_spot_count": 18,
       "capacity": 18
     },
@@ -3197,22 +3207,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: SUNRISE & SWIFT: MIDNIGHTS X SPEAK NOW",
-      "booking_start_date": "2026-09-24 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-10-02",
-      "start_time": "06:00",
-      "available_spot_count": 43,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: THROWBACKS! 2015-2020 - VOL 2",
       "booking_start_date": "2026-09-24 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-10-02",
       "start_time": "12:30",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 49
     },
     {
@@ -3222,8 +3222,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-03",
       "start_time": "09:30",
-      "available_spot_count": 5,
-      "capacity": 48
+      "available_spot_count": 4,
+      "capacity": 47
     },
     {
       "studio": "Spin Society",
@@ -3232,7 +3232,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-03",
       "start_time": "09:30",
-      "available_spot_count": 10,
+      "available_spot_count": 12,
       "capacity": 49
     },
     {
@@ -3362,7 +3362,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-06",
       "start_time": "19:50",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 48
     },
     {
@@ -3392,7 +3392,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-08",
       "start_time": "06:00",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 48
     },
     {
@@ -3402,7 +3402,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-08",
       "start_time": "07:15",
-      "available_spot_count": 43,
+      "available_spot_count": 41,
       "capacity": 48
     },
     {
@@ -3432,7 +3432,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-08",
       "start_time": "18:40",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
