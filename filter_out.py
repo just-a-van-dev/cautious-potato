@@ -43,10 +43,14 @@ FILTER_OUT = {
         "the balance x all is well",
         "the booty — reformer",
         "the burn — reformer",
+        "the burn — reformer (50 min)",
         "the burn — reformer (heated)",
+        "the burn — reformer (heated) (50 min)",
+        "the burn — reformer — happy hour (50 min)",
         "the burn | arms + abs",
         "the burn | arms + abs — reformer (heated) — hh",
         "the burn | arms + abs — reformer",
+        "the burn | arms+abs—reformer—happy hour (50 min)",
     ],
     "lagree pulse": [
         "booty + abs",
@@ -131,6 +135,7 @@ FILTER_OUT = {
         "yoga | yin + aromatherapy (warm)",
         "yoga | yin + breath (warm)",
         "yoga | yin + live sound journey",
+        "guided breath + cold plunge",
 
     ],
     "zenden": [
