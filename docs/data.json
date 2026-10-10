@@ -1,16 +1,6 @@
 {
-  "last_updated": "2026-10-10T01:57:06.448629-07:00",
+  "last_updated": "2026-10-10T08:18:27.311744-07:00",
   "alo": [
-    {
-      "studio": "Alo",
-      "name": "ALO BLOOR STREET: WELLNESS WALK",
-      "booking_start_date": "Open to book",
-      "location": "Toronto",
-      "start_date": "2026-10-10",
-      "start_time": "06:30",
-      "available_spot_count": null,
-      "capacity": 239
-    },
     {
       "studio": "Alo",
       "name": "ALO BLOOR STREET: ALO RUNNERS CLUB",
@@ -18,8 +8,8 @@
       "location": "Toronto",
       "start_date": "2026-10-17",
       "start_time": "06:30",
-      "available_spot_count": 117,
-      "capacity": 183
+      "available_spot_count": 114,
+      "capacity": 186
     },
     {
       "studio": "Alo",
@@ -262,7 +252,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-16",
       "start_time": "16:30",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 16
     },
     {
@@ -272,7 +262,7 @@
       "location": "Gastown",
       "start_date": "2026-10-17",
       "start_time": "10:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -1072,7 +1062,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-10",
       "start_time": "08:20",
-      "available_spot_count": 36,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -1272,7 +1262,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-16",
       "start_time": "12:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -1282,7 +1272,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-16",
       "start_time": "18:40",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -1292,7 +1282,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-17",
       "start_time": "09:30",
-      "available_spot_count": 44,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
