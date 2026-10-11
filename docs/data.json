@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T08:36:12.085923-07:00",
+  "last_updated": "2026-10-11T12:41:57.910906-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -8,8 +8,8 @@
       "location": "Toronto",
       "start_date": "2026-10-17",
       "start_time": "06:30",
-      "available_spot_count": 110,
-      "capacity": 190
+      "available_spot_count": 109,
+      "capacity": 191
     },
     {
       "studio": "Alo",
@@ -18,8 +18,8 @@
       "location": "Vancouver",
       "start_date": "2026-10-17",
       "start_time": "10:30",
-      "available_spot_count": 200,
-      "capacity": 100
+      "available_spot_count": 194,
+      "capacity": 106
     }
   ],
   "special": [
@@ -62,7 +62,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-12",
       "start_time": "08:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 26
     },
     {
@@ -72,7 +72,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-12",
       "start_time": "12:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 26
     },
     {
@@ -92,7 +92,7 @@
       "location": "Main St",
       "start_date": "2026-10-13",
       "start_time": "15:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 14
     },
     {
@@ -102,7 +102,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-13",
       "start_time": "17:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 26
     },
     {
@@ -182,7 +182,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-15",
       "start_time": "11:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 16
     },
     {
@@ -232,7 +232,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-16",
       "start_time": "12:15",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 26
     },
     {
@@ -272,7 +272,7 @@
       "location": "Gastown",
       "start_date": "2026-10-17",
       "start_time": "11:00",
-      "available_spot_count": 11,
+      "available_spot_count": 8,
       "capacity": 15
     },
     {
@@ -282,7 +282,7 @@
       "location": "Gastown",
       "start_date": "2026-10-17",
       "start_time": "12:00",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 15
     },
     {
@@ -712,7 +712,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-12",
       "start_time": "09:00",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -952,7 +952,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-12",
       "start_time": "07:30",
-      "available_spot_count": 18,
+      "available_spot_count": 20,
       "capacity": 26
     },
     {
@@ -982,7 +982,7 @@
       "location": "West End",
       "start_date": "2026-10-18",
       "start_time": "14:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 25
     },
     {
@@ -994,16 +994,6 @@
       "start_time": "14:00",
       "available_spot_count": 14,
       "capacity": 25
-    },
-    {
-      "studio": "Turf",
-      "name": "Meta + Mat Werk 60 min *Co-teach*",
-      "booking_start_date": "2026-10-04 11:00",
-      "location": "Main Street",
-      "start_date": "2026-10-11",
-      "start_time": "11:00",
-      "available_spot_count": 7,
-      "capacity": 32
     },
     {
       "studio": "Turf",
@@ -1032,7 +1022,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-16",
       "start_time": "17:15",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 22
     },
     {
@@ -1064,56 +1054,6 @@
       "start_time": "12:30",
       "available_spot_count": 32,
       "capacity": 32
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: JUSTIN BIEBER X JONAS BROTHERS",
-      "booking_start_date": "2026-10-03 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-10-11",
-      "start_time": "08:20",
-      "available_spot_count": 33,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: DISNEY STARS! SELENA GOMEZ x MILEY CYRUS",
-      "booking_start_date": "2026-10-03 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-10-11",
-      "start_time": "08:20",
-      "available_spot_count": 12,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: GRITTY EDM x BIG OBNOXIOUS BEATS",
-      "booking_start_date": "2026-10-03 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-10-11",
-      "start_time": "09:30",
-      "available_spot_count": 13,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: R\u00dcF\u00dcS DU SOL X KASKADE",
-      "booking_start_date": "2026-10-03 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-10-11",
-      "start_time": "09:30",
-      "available_spot_count": 28,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: ODESZA X REZZ",
-      "booking_start_date": "2026-10-03 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-10-11",
-      "start_time": "10:40",
-      "available_spot_count": 39,
-      "capacity": 50
     },
     {
       "studio": "Spin Society",
@@ -1152,8 +1092,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-13",
       "start_time": "12:30",
-      "available_spot_count": 39,
-      "capacity": 50
+      "available_spot_count": 38,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1212,8 +1152,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-15",
       "start_time": "17:30",
-      "available_spot_count": 31,
-      "capacity": 50
+      "available_spot_count": 29,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1242,8 +1182,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-16",
       "start_time": "12:30",
-      "available_spot_count": 47,
-      "capacity": 50
+      "available_spot_count": 46,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1262,8 +1202,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-16",
       "start_time": "18:40",
-      "available_spot_count": 23,
-      "capacity": 50
+      "available_spot_count": 22,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1292,8 +1232,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-19",
       "start_time": "06:00",
-      "available_spot_count": 50,
-      "capacity": 50
+      "available_spot_count": 47,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1302,8 +1242,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-19",
       "start_time": "17:30",
-      "available_spot_count": 49,
-      "capacity": 50
+      "available_spot_count": 46,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1372,8 +1312,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-23",
       "start_time": "18:40",
-      "available_spot_count": 50,
-      "capacity": 50
+      "available_spot_count": 49,
+      "capacity": 49
     }
   ]
 }
