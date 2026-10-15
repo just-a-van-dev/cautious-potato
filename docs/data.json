@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T04:20:15.980618-07:00",
+  "last_updated": "2026-10-15T08:42:58.153314-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -8,8 +8,8 @@
       "location": "Toronto",
       "start_date": "2026-10-17",
       "start_time": "06:30",
-      "available_spot_count": 37,
-      "capacity": 263
+      "available_spot_count": 35,
+      "capacity": 265
     },
     {
       "studio": "Alo",
@@ -18,8 +18,8 @@
       "location": "Vancouver",
       "start_date": "2026-10-17",
       "start_time": "10:30",
-      "available_spot_count": 164,
-      "capacity": 136
+      "available_spot_count": 165,
+      "capacity": 135
     }
   ],
   "special": [
@@ -102,7 +102,7 @@
       "location": "Gastown",
       "start_date": "2026-10-15",
       "start_time": "16:15",
-      "available_spot_count": 8,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -122,7 +122,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-16",
       "start_time": "07:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 26
     },
     {
@@ -162,7 +162,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-16",
       "start_time": "16:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 16
     },
     {
@@ -257,6 +257,46 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x The Romantic Tour",
+      "booking_start_date": "2026-10-14 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-21",
+      "start_time": "15:15",
+      "available_spot_count": 11,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x The Romantic Tour",
+      "booking_start_date": "2026-10-14 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-21",
+      "start_time": "16:15",
+      "available_spot_count": 11,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer Ass + Abs x The Romantic Tour",
+      "booking_start_date": "2026-10-14 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-21",
+      "start_time": "17:15",
+      "available_spot_count": 1,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x The Romantic Tour",
+      "booking_start_date": "2026-10-14 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-21",
+      "start_time": "18:15",
+      "available_spot_count": 1,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
       "name": "Happy Hour Megaformer x Oktoberwest",
       "booking_start_date": "2026-10-14 00:00",
       "location": "Yaletown",
@@ -282,7 +322,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-22",
       "start_time": "15:15",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 20
     },
     {
@@ -332,7 +372,7 @@
       "location": "Main St",
       "start_date": "2026-10-23",
       "start_time": "14:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 14
     },
     {
@@ -342,7 +382,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-23",
       "start_time": "16:30",
-      "available_spot_count": 26,
+      "available_spot_count": 24,
       "capacity": 26
     },
     {
@@ -507,6 +547,16 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Megaformer x Trick and Treat",
+      "booking_start_date": "2026-10-24 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-31",
+      "start_time": "07:00",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
       "name": "Megaformer x Halloween Costume Party",
       "booking_start_date": "2026-10-24 00:00",
       "location": "Kitsilano",
@@ -517,6 +567,16 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Megaformer x Trick and Treat",
+      "booking_start_date": "2026-10-24 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-31",
+      "start_time": "08:00",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
       "name": "Megaformer x Halloween Costume Party",
       "booking_start_date": "2026-10-24 00:00",
       "location": "Kitsilano",
@@ -524,6 +584,16 @@
       "start_time": "08:00",
       "available_spot_count": 16,
       "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Trick and Treat",
+      "booking_start_date": "2026-10-24 00:00",
+      "location": "Main St",
+      "start_date": "2026-10-31",
+      "start_time": "09:00",
+      "available_spot_count": 14,
+      "capacity": 14
     },
     {
       "studio": "Lagree West",
@@ -662,7 +732,7 @@
       "location": "4th Ave",
       "start_date": "2026-10-18",
       "start_time": "10:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -862,6 +932,26 @@
       "location": "Vancouver",
       "start_date": "2026-10-29",
       "start_time": "17:30",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "Thriller After Dark \ud83e\udddf\u200d\u2642\ufe0f \ud83d\udc7b",
+      "booking_start_date": "2026-10-22 18:30",
+      "location": "Vancouver",
+      "start_date": "2026-10-29",
+      "start_time": "18:30",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "Thriller After Dark \ud83e\udddf\u200d\u2642\ufe0f \ud83d\udc7b",
+      "booking_start_date": "2026-10-22 19:30",
+      "location": "Vancouver",
+      "start_date": "2026-10-29",
+      "start_time": "19:30",
       "available_spot_count": 12,
       "capacity": 12
     },
@@ -1102,7 +1192,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-20",
       "start_time": "12:00",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 22
     },
     {
@@ -1197,22 +1287,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: FRED AGAIN x KENDRICK LAMAR",
-      "booking_start_date": "2026-10-07 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-10-15",
-      "start_time": "06:00",
-      "available_spot_count": 27,
-      "capacity": 36
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: ILLENIUM x SEVEN LIONS x MARTIN GARRIX",
       "booking_start_date": "2026-10-07 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-10-15",
       "start_time": "09:45",
-      "available_spot_count": 35,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -1232,7 +1312,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-15",
       "start_time": "17:30",
-      "available_spot_count": 9,
+      "available_spot_count": 12,
       "capacity": 49
     },
     {
@@ -1252,7 +1332,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-16",
       "start_time": "07:15",
-      "available_spot_count": 24,
+      "available_spot_count": 25,
       "capacity": 36
     },
     {
@@ -1262,7 +1342,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-16",
       "start_time": "12:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 49
     },
     {
@@ -1282,7 +1362,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-16",
       "start_time": "18:40",
-      "available_spot_count": 0,
+      "available_spot_count": 2,
       "capacity": 49
     },
     {
