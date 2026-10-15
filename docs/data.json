@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T12:22:48.211780-07:00",
+  "last_updated": "2026-10-15T15:39:46.366747-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -18,8 +18,8 @@
       "location": "Vancouver",
       "start_date": "2026-10-17",
       "start_time": "10:30",
-      "available_spot_count": 163,
-      "capacity": 137
+      "available_spot_count": 158,
+      "capacity": 142
     }
   ],
   "special": [
@@ -51,6 +51,16 @@
       "start_date": "2026-10-19",
       "start_time": "19:15",
       "available_spot_count": 19,
+      "capacity": 22
+    },
+    {
+      "studio": "Ritual",
+      "name": "Mobility + Release (Community Class)",
+      "booking_start_date": "2026-10-08 19:45",
+      "location": "West End",
+      "start_date": "2026-10-22",
+      "start_time": "19:45",
+      "available_spot_count": 22,
       "capacity": 22
     },
     {
@@ -92,7 +102,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-15",
       "start_time": "16:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 26
     },
     {
@@ -102,7 +112,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-16",
       "start_time": "07:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 26
     },
     {
@@ -112,7 +122,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-16",
       "start_time": "11:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 20
     },
     {
@@ -122,7 +132,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-16",
       "start_time": "12:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 26
     },
     {
@@ -132,7 +142,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-16",
       "start_time": "13:15",
-      "available_spot_count": 13,
+      "available_spot_count": 9,
       "capacity": 20
     },
     {
@@ -142,7 +152,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-16",
       "start_time": "16:30",
-      "available_spot_count": 0,
+      "available_spot_count": 2,
       "capacity": 16
     },
     {
@@ -222,7 +232,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-20",
       "start_time": "17:15",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 26
     },
     {
@@ -252,7 +262,7 @@
       "location": "Main St",
       "start_date": "2026-10-21",
       "start_time": "16:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 14
     },
     {
@@ -282,7 +292,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-21",
       "start_time": "20:15",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -312,7 +322,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-22",
       "start_time": "16:15",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 20
     },
     {
@@ -352,7 +362,7 @@
       "location": "Main St",
       "start_date": "2026-10-23",
       "start_time": "14:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 14
     },
     {
@@ -682,7 +692,7 @@
       "location": "4th Ave",
       "start_date": "2026-10-16",
       "start_time": "17:30",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
@@ -702,7 +712,7 @@
       "location": "4th Ave",
       "start_date": "2026-10-18",
       "start_time": "09:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 15
     },
     {
@@ -712,7 +722,7 @@
       "location": "4th Ave",
       "start_date": "2026-10-18",
       "start_time": "10:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -1057,6 +1067,16 @@
     },
     {
       "studio": "Ritual",
+      "name": "Mobility + Release (Community Class)",
+      "booking_start_date": "2026-10-08 19:45",
+      "location": "West End",
+      "start_date": "2026-10-22",
+      "start_time": "19:45",
+      "available_spot_count": 22,
+      "capacity": 22
+    },
+    {
+      "studio": "Ritual",
       "name": "Yoga | Yin + Sound (warm)",
       "booking_start_date": "2026-07-28 19:15",
       "location": "West End",
@@ -1067,11 +1087,31 @@
     },
     {
       "studio": "Ritual",
+      "name": "Mobility + Release",
+      "booking_start_date": "2026-07-31 19:45",
+      "location": "West End",
+      "start_date": "2026-10-29",
+      "start_time": "19:45",
+      "available_spot_count": 22,
+      "capacity": 22
+    },
+    {
+      "studio": "Ritual",
       "name": "Yoga | Yin + Sound (warm)",
       "booking_start_date": "2026-08-04 19:15",
       "location": "West End",
       "start_date": "2026-11-02",
       "start_time": "19:15",
+      "available_spot_count": 22,
+      "capacity": 22
+    },
+    {
+      "studio": "Ritual",
+      "name": "Mobility + Release",
+      "booking_start_date": "2026-08-07 19:45",
+      "location": "West End",
+      "start_date": "2026-11-05",
+      "start_time": "19:45",
       "available_spot_count": 22,
       "capacity": 22
     },
@@ -1097,6 +1137,16 @@
     },
     {
       "studio": "Ritual",
+      "name": "Mobility + Release",
+      "booking_start_date": "2026-08-14 19:45",
+      "location": "West End",
+      "start_date": "2026-11-12",
+      "start_time": "19:45",
+      "available_spot_count": 22,
+      "capacity": 22
+    },
+    {
+      "studio": "Ritual",
       "name": "Yoga | Yin + Sound (warm)",
       "booking_start_date": "2026-08-18 19:15",
       "location": "West End",
@@ -1107,11 +1157,31 @@
     },
     {
       "studio": "Ritual",
+      "name": "Mobility + Release",
+      "booking_start_date": "2026-08-21 19:45",
+      "location": "West End",
+      "start_date": "2026-11-19",
+      "start_time": "19:45",
+      "available_spot_count": 22,
+      "capacity": 22
+    },
+    {
+      "studio": "Ritual",
       "name": "Yoga | Yin + Sound (warm)",
       "booking_start_date": "2026-08-25 19:15",
       "location": "West End",
       "start_date": "2026-11-23",
       "start_time": "19:15",
+      "available_spot_count": 22,
+      "capacity": 22
+    },
+    {
+      "studio": "Ritual",
+      "name": "Mobility + Release",
+      "booking_start_date": "2026-08-28 19:45",
+      "location": "West End",
+      "start_date": "2026-11-26",
+      "start_time": "19:45",
       "available_spot_count": 22,
       "capacity": 22
     },
@@ -1182,7 +1252,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-22",
       "start_time": "08:15",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 32
     },
     {
@@ -1202,7 +1272,17 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-23",
       "start_time": "10:45",
-      "available_spot_count": 28,
+      "available_spot_count": 25,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "\ud83c\udf1fSPOTLIGHT\ud83c\udf1f: Mat Werk + Weights w/ Trilby",
+      "booking_start_date": "2026-10-17 12:30",
+      "location": "Main Street",
+      "start_date": "2026-10-24",
+      "start_time": "12:30",
+      "available_spot_count": 32,
       "capacity": 32
     },
     {
@@ -1267,22 +1347,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: DISNEY STARS! BRITNEY x CHRISTINA x JT",
-      "booking_start_date": "2026-10-07 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-10-15",
-      "start_time": "12:30",
-      "available_spot_count": 27,
-      "capacity": 36
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: ILLENIUM x SEVEN LIONS x MARTIN GARRIX",
       "booking_start_date": "2026-10-07 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-15",
       "start_time": "17:30",
-      "available_spot_count": 9,
+      "available_spot_count": 6,
       "capacity": 49
     },
     {
@@ -1292,7 +1362,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-16",
       "start_time": "06:00",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -1302,7 +1372,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-16",
       "start_time": "07:15",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 36
     },
     {
@@ -1322,7 +1392,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-16",
       "start_time": "12:30",
-      "available_spot_count": 13,
+      "available_spot_count": 15,
       "capacity": 50
     },
     {
@@ -1332,7 +1402,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-16",
       "start_time": "18:40",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 49
     },
     {
@@ -1342,7 +1412,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-17",
       "start_time": "09:30",
-      "available_spot_count": 16,
+      "available_spot_count": 14,
       "capacity": 50
     },
     {
@@ -1372,7 +1442,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-19",
       "start_time": "17:30",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 49
     },
     {
@@ -1382,7 +1452,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-20",
       "start_time": "12:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
@@ -1392,7 +1462,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-20",
       "start_time": "12:30",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 36
     },
     {
@@ -1452,7 +1522,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-23",
       "start_time": "09:45",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 36
     },
     {
@@ -1462,7 +1532,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-23",
       "start_time": "12:30",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -1472,7 +1542,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-23",
       "start_time": "18:40",
-      "available_spot_count": 45,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
@@ -1482,7 +1552,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-24",
       "start_time": "09:30",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
@@ -1572,7 +1642,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-28",
       "start_time": "09:45",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -1602,6 +1672,16 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-30",
       "start_time": "12:30",
+      "available_spot_count": 49,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: MID-WEEK MILLENNIAL  HITS",
+      "booking_start_date": "2026-10-27 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-11-04",
+      "start_time": "09:45",
       "available_spot_count": 50,
       "capacity": 50
     }
