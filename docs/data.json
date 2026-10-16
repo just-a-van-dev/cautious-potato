@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T11:59:54.124753-07:00",
+  "last_updated": "2026-10-16T15:02:27.770229-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -8,8 +8,8 @@
       "location": "Toronto",
       "start_date": "2026-10-17",
       "start_time": "06:30",
-      "available_spot_count": 17,
-      "capacity": 283
+      "available_spot_count": 11,
+      "capacity": 289
     },
     {
       "studio": "Alo",
@@ -18,8 +18,8 @@
       "location": "Vancouver",
       "start_date": "2026-10-17",
       "start_time": "10:30",
-      "available_spot_count": 156,
-      "capacity": 144
+      "available_spot_count": 157,
+      "capacity": 143
     }
   ],
   "special": [
@@ -70,7 +70,7 @@
       "location": "West End",
       "start_date": "2026-10-22",
       "start_time": "19:45",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 22
     },
     {
@@ -95,36 +95,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Mega Mama (45min) x Oktoberwest",
-      "booking_start_date": "2026-10-09 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-10-16",
-      "start_time": "11:15",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio-Arms/Abs x Oktoberwest",
-      "booking_start_date": "2026-10-09 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-10-16",
-      "start_time": "12:15",
-      "available_spot_count": 7,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Oktoberwest",
-      "booking_start_date": "2026-10-09 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-10-16",
-      "start_time": "13:15",
-      "available_spot_count": 3,
-      "capacity": 20
-    },
     {
       "studio": "Lagree West",
       "name": "Megaformer x Oktoberwest",
@@ -152,7 +122,7 @@
       "location": "Gastown",
       "start_date": "2026-10-17",
       "start_time": "11:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 15
     },
     {
@@ -164,6 +134,66 @@
       "start_time": "12:00",
       "available_spot_count": 5,
       "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-11 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-10-18",
+      "start_time": "09:00",
+      "available_spot_count": 0,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-11 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-10-18",
+      "start_time": "10:00",
+      "available_spot_count": 0,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-11 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-10-18",
+      "start_time": "11:00",
+      "available_spot_count": 0,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-11 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-10-18",
+      "start_time": "12:00",
+      "available_spot_count": 0,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-11 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-10-18",
+      "start_time": "13:00",
+      "available_spot_count": 0,
+      "capacity": 20
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Happy Hour Megaformer x Oktoberwest",
+      "booking_start_date": "2026-10-11 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-10-18",
+      "start_time": "14:30",
+      "available_spot_count": 6,
+      "capacity": 20
     },
     {
       "studio": "Lagree West",
@@ -192,7 +222,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-19",
       "start_time": "12:15",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 26
     },
     {
@@ -232,7 +262,7 @@
       "location": "Gastown",
       "start_date": "2026-10-20",
       "start_time": "07:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -292,7 +322,7 @@
       "location": "Main St",
       "start_date": "2026-10-21",
       "start_time": "18:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 14
     },
     {
@@ -342,7 +372,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-22",
       "start_time": "16:15",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 26
     },
     {
@@ -392,7 +422,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-24",
       "start_time": "15:00",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 20
     },
     {
@@ -752,7 +782,7 @@
       "location": "4th Ave",
       "start_date": "2026-10-18",
       "start_time": "10:00",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 15
     },
     {
@@ -882,7 +912,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-20",
       "start_time": "07:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -1052,7 +1082,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-31",
       "start_time": "20:30",
-      "available_spot_count": 159,
+      "available_spot_count": 158,
       "capacity": 200
     },
     {
@@ -1102,7 +1132,7 @@
       "location": "West End",
       "start_date": "2026-10-22",
       "start_time": "19:45",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 22
     },
     {
@@ -1222,7 +1252,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-16",
       "start_time": "17:15",
-      "available_spot_count": 7,
+      "available_spot_count": 3,
       "capacity": 22
     },
     {
@@ -1232,7 +1262,7 @@
       "location": "Main Street",
       "start_date": "2026-10-17",
       "start_time": "14:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 30
     },
     {
@@ -1242,7 +1272,7 @@
       "location": "Main Street",
       "start_date": "2026-10-18",
       "start_time": "09:30",
-      "available_spot_count": 17,
+      "available_spot_count": 18,
       "capacity": 32
     },
     {
@@ -1262,7 +1292,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-20",
       "start_time": "12:00",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 22
     },
     {
@@ -1292,7 +1322,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-23",
       "start_time": "10:45",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 32
     },
     {
@@ -1302,7 +1332,7 @@
       "location": "Main Street",
       "start_date": "2026-10-24",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 32
     },
     {
@@ -1367,32 +1397,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: ODESZA x DRAKE",
-      "booking_start_date": "2026-10-08 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-10-16",
-      "start_time": "12:30",
-      "available_spot_count": 29,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: GRITTY EDM x BIG OBNOXIOUS BEATS",
-      "booking_start_date": "2026-10-08 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-10-16",
-      "start_time": "12:30",
-      "available_spot_count": 21,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: GRITTY EDM x BIG OBNOXIOUS BEATS - VOL 3",
       "booking_start_date": "2026-10-08 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-16",
       "start_time": "18:40",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 49
     },
     {
@@ -1402,7 +1412,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-17",
       "start_time": "09:30",
-      "available_spot_count": 13,
+      "available_spot_count": 16,
       "capacity": 50
     },
     {
@@ -1442,7 +1452,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-20",
       "start_time": "12:30",
-      "available_spot_count": 41,
+      "available_spot_count": 42,
       "capacity": 49
     },
     {
@@ -1472,7 +1482,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-20",
       "start_time": "19:50",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -1522,7 +1532,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-23",
       "start_time": "12:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
@@ -1542,7 +1552,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-24",
       "start_time": "09:30",
-      "available_spot_count": 47,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
