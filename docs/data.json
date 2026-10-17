@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T02:16:22.559009-07:00",
+  "last_updated": "2026-10-17T06:09:57.137672-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -8,8 +8,8 @@
       "location": "Toronto",
       "start_date": "2026-10-17",
       "start_time": "06:30",
-      "available_spot_count": 2,
-      "capacity": 298
+      "available_spot_count": 4,
+      "capacity": 296
     },
     {
       "studio": "Alo",
@@ -1432,7 +1432,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-20",
       "start_time": "12:30",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -1492,7 +1492,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-23",
       "start_time": "09:45",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 36
     },
     {
