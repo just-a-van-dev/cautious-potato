@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T11:02:35.266446-07:00",
+  "last_updated": "2026-10-18T13:35:19.031821-07:00",
   "alo": [],
   "special": [
     {
@@ -80,26 +80,6 @@
       "booking_start_date": "2026-10-11 00:00",
       "location": "Yaletown",
       "start_date": "2026-10-18",
-      "start_time": "11:00",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Oktoberwest",
-      "booking_start_date": "2026-10-11 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-10-18",
-      "start_time": "12:00",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Oktoberwest",
-      "booking_start_date": "2026-10-11 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-10-18",
       "start_time": "13:00",
       "available_spot_count": 0,
       "capacity": 20
@@ -111,7 +91,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-18",
       "start_time": "14:30",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 20
     },
     {
@@ -211,7 +191,7 @@
       "location": "Main St",
       "start_date": "2026-10-21",
       "start_time": "15:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 14
     },
     {
@@ -271,7 +251,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-22",
       "start_time": "15:15",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 20
     },
     {
@@ -281,7 +261,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-22",
       "start_time": "16:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -291,7 +271,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-22",
       "start_time": "16:15",
-      "available_spot_count": 21,
+      "available_spot_count": 22,
       "capacity": 26
     },
     {
@@ -351,7 +331,7 @@
       "location": "Main St",
       "start_date": "2026-10-26",
       "start_time": "08:15",
-      "available_spot_count": 12,
+      "available_spot_count": 9,
       "capacity": 14
     },
     {
@@ -461,7 +441,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-29",
       "start_time": "14:15",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 16
     },
     {
@@ -625,6 +605,26 @@
       "capacity": 14
     },
     {
+      "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
+      "booking_start_date": "2026-10-16 15:30",
+      "location": "Kitsilano",
+      "start_date": "2026-11-15",
+      "start_time": "15:30",
+      "available_spot_count": 16,
+      "capacity": 16
+    },
+    {
+      "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
+      "booking_start_date": "2026-10-21 15:15",
+      "location": "Main St",
+      "start_date": "2026-11-20",
+      "start_time": "15:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
       "studio": "Jaybird",
       "name": "The Balance + ALO Community Class",
       "booking_start_date": "2026-10-17 18:00",
@@ -661,7 +661,7 @@
       "location": "4th Ave",
       "start_date": "2026-10-20",
       "start_time": "12:00",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 15
     },
     {
@@ -671,7 +671,7 @@
       "location": "4th Ave",
       "start_date": "2026-10-23",
       "start_time": "17:30",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 15
     },
     {
@@ -901,7 +901,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-31",
       "start_time": "09:30",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -953,6 +953,16 @@
       "start_time": "14:00",
       "available_spot_count": 21,
       "capacity": 24
+    },
+    {
+      "studio": "ZenDen",
+      "name": "The Living Temple For Women - The Workshop Series",
+      "booking_start_date": "2026-10-11 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-10-25",
+      "start_time": "14:00",
+      "available_spot_count": 26,
+      "capacity": 26
     },
     {
       "studio": "ZenDen",
@@ -1136,6 +1146,16 @@
     },
     {
       "studio": "Turf",
+      "name": "Mat Werk x Pilates Sock Company \ud83e\udde6",
+      "booking_start_date": "2026-10-13 08:15",
+      "location": "Main Street",
+      "start_date": "2026-10-20",
+      "start_time": "08:15",
+      "available_spot_count": 25,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
       "name": "Strengthen 45 *Happy Hour \ud83d\udc1c*Co-teach*",
       "booking_start_date": "2026-10-13 10:45",
       "location": "KITS - Vancouver",
@@ -1201,7 +1221,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-23",
       "start_time": "10:45",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 32
     },
     {
@@ -1211,7 +1231,17 @@
       "location": "Main Street",
       "start_date": "2026-10-24",
       "start_time": "12:30",
-      "available_spot_count": 22,
+      "available_spot_count": 20,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "Mat Werk x Pilates Sock Company \ud83e\udde6",
+      "booking_start_date": "2026-10-20 08:15",
+      "location": "Main Street",
+      "start_date": "2026-10-27",
+      "start_time": "08:15",
+      "available_spot_count": 32,
       "capacity": 32
     },
     {
@@ -1276,22 +1306,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: BEYONC\u00c9 X DESTINYS CHILD",
-      "booking_start_date": "2026-10-10 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-10-18",
-      "start_time": "10:40",
-      "available_spot_count": 30,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: JANET JACKSON x KAYTRANADA",
       "booking_start_date": "2026-10-11 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-19",
       "start_time": "06:00",
-      "available_spot_count": 37,
+      "available_spot_count": 33,
       "capacity": 49
     },
     {
@@ -1301,7 +1321,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-19",
       "start_time": "17:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 49
     },
     {
@@ -1351,7 +1371,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-21",
       "start_time": "09:45",
-      "available_spot_count": 47,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
@@ -1401,7 +1421,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-23",
       "start_time": "18:40",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 49
     },
     {
@@ -1411,7 +1431,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-24",
       "start_time": "09:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 50
     },
     {
@@ -1421,7 +1441,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-25",
       "start_time": "08:20",
-      "available_spot_count": 48,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
@@ -1431,7 +1451,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-25",
       "start_time": "09:30",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -1441,7 +1461,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-25",
       "start_time": "10:40",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
@@ -1471,7 +1491,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-26",
       "start_time": "19:50",
-      "available_spot_count": 49,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
