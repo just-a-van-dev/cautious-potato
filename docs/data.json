@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T13:35:19.031821-07:00",
+  "last_updated": "2026-10-18T15:34:47.632028-07:00",
   "alo": [],
   "special": [
     {
@@ -77,26 +77,6 @@
     {
       "studio": "Lagree West",
       "name": "Megaformer x Oktoberwest",
-      "booking_start_date": "2026-10-11 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-10-18",
-      "start_time": "13:00",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Oktoberwest",
-      "booking_start_date": "2026-10-11 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-10-18",
-      "start_time": "14:30",
-      "available_spot_count": 5,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Oktoberwest",
       "booking_start_date": "2026-10-12 00:00",
       "location": "Main St",
       "start_date": "2026-10-19",
@@ -151,7 +131,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-20",
       "start_time": "06:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 26
     },
     {
@@ -161,7 +141,7 @@
       "location": "Gastown",
       "start_date": "2026-10-20",
       "start_time": "07:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 15
     },
     {
@@ -181,7 +161,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-21",
       "start_time": "09:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 26
     },
     {
@@ -201,7 +181,7 @@
       "location": "Main St",
       "start_date": "2026-10-21",
       "start_time": "16:15",
-      "available_spot_count": 6,
+      "available_spot_count": 3,
       "capacity": 14
     },
     {
@@ -975,6 +955,36 @@
       "capacity": 200
     },
     {
+      "studio": "ZenDen",
+      "name": "The Living Temple - for Women",
+      "booking_start_date": "2026-09-09 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-11-08",
+      "start_time": "14:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "The Living Temple For Women - The Workshop Series",
+      "booking_start_date": "2026-09-16 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-11-15",
+      "start_time": "14:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "The Living Temple - for Women",
+      "booking_start_date": "2026-09-23 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-11-22",
+      "start_time": "14:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
       "studio": "All Method Studio",
       "name": "ALL Reformer - Private Class",
       "booking_start_date": "2026-10-10 11:45",
@@ -1001,7 +1011,7 @@
       "location": "West End",
       "start_date": "2026-10-18",
       "start_time": "14:00",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 25
     },
     {
@@ -1161,7 +1171,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-20",
       "start_time": "10:45",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 22
     },
     {
@@ -1171,7 +1181,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-20",
       "start_time": "12:00",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 22
     },
     {
@@ -1181,7 +1191,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-21",
       "start_time": "09:30",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 30
     },
     {
@@ -1191,7 +1201,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-21",
       "start_time": "10:45",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 30
     },
     {
@@ -1221,7 +1231,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-23",
       "start_time": "10:45",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 32
     },
     {
@@ -1351,7 +1361,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-20",
       "start_time": "17:30",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 50
     },
     {
@@ -1361,7 +1371,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-20",
       "start_time": "19:50",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -1471,7 +1481,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-26",
       "start_time": "17:30",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -1481,7 +1491,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-26",
       "start_time": "18:40",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -1491,7 +1501,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-26",
       "start_time": "19:50",
-      "available_spot_count": 43,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
