@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T04:27:42.974618-07:00",
+  "last_updated": "2026-10-20T08:49:04.968138-07:00",
   "alo": [],
   "special": [
     {
@@ -69,41 +69,11 @@
       "location": "Main Street",
       "start_date": "2026-10-25",
       "start_time": "09:00",
-      "available_spot_count": 64,
+      "available_spot_count": 60,
       "capacity": 65
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Oktoberwest",
-      "booking_start_date": "2026-10-13 00:00",
-      "location": "Gastown",
-      "start_date": "2026-10-20",
-      "start_time": "06:00",
-      "available_spot_count": 6,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mega Cardio Xpress- Ass/Abs x Oktoberwest",
-      "booking_start_date": "2026-10-13 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-10-20",
-      "start_time": "06:15",
-      "available_spot_count": 7,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Oktoberwest",
-      "booking_start_date": "2026-10-13 00:00",
-      "location": "Gastown",
-      "start_date": "2026-10-20",
-      "start_time": "07:00",
-      "available_spot_count": 3,
-      "capacity": 15
-    },
     {
       "studio": "Lagree West",
       "name": "Mega Cardio- Arms/Abs x Oktoberwest",
@@ -211,7 +181,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-22",
       "start_time": "16:15",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 26
     },
     {
@@ -231,7 +201,7 @@
       "location": "Gastown",
       "start_date": "2026-10-23",
       "start_time": "10:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 15
     },
     {
@@ -341,7 +311,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-27",
       "start_time": "17:15",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 26
     },
     {
@@ -351,7 +321,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-28",
       "start_time": "07:15",
-      "available_spot_count": 24,
+      "available_spot_count": 16,
       "capacity": 26
     },
     {
@@ -611,7 +581,7 @@
       "location": "4th Ave",
       "start_date": "2026-10-20",
       "start_time": "12:00",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 15
     },
     {
@@ -737,16 +707,6 @@
     {
       "studio": "Lagree X",
       "name": "R&B \ud83c\udfb6",
-      "booking_start_date": "2026-10-13 07:00",
-      "location": "Vancouver",
-      "start_date": "2026-10-20",
-      "start_time": "07:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "R&B \ud83c\udfb6",
       "booking_start_date": "2026-10-13 10:00",
       "location": "Vancouver",
       "start_date": "2026-10-20",
@@ -791,7 +751,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-27",
       "start_time": "10:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -861,7 +821,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-31",
       "start_time": "10:30",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -991,7 +951,7 @@
       "location": "West End",
       "start_date": "2026-10-29",
       "start_time": "19:45",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 22
     },
     {
@@ -1111,7 +1071,7 @@
       "location": "Main Street",
       "start_date": "2026-10-20",
       "start_time": "08:15",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 32
     },
     {
@@ -1121,7 +1081,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-20",
       "start_time": "10:45",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 22
     },
     {
@@ -1151,7 +1111,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-21",
       "start_time": "10:45",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 30
     },
     {
@@ -1201,7 +1161,7 @@
       "location": "Main Street",
       "start_date": "2026-10-27",
       "start_time": "08:15",
-      "available_spot_count": 31,
+      "available_spot_count": 29,
       "capacity": 32
     },
     {
@@ -1311,7 +1271,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-20",
       "start_time": "19:50",
-      "available_spot_count": 33,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -1321,7 +1281,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-21",
       "start_time": "09:45",
-      "available_spot_count": 46,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -1351,7 +1311,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-23",
       "start_time": "09:45",
-      "available_spot_count": 26,
+      "available_spot_count": 27,
       "capacity": 36
     },
     {
@@ -1431,7 +1391,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-26",
       "start_time": "18:40",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
