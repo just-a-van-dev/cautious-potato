@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T14:44:10.902123-07:00",
+  "last_updated": "2026-10-19T18:04:08.321485-07:00",
   "alo": [],
   "special": [
     {
@@ -34,22 +34,12 @@
     },
     {
       "studio": "Ritual",
-      "name": "Yoga | Yin + Sound (Community Class)",
-      "booking_start_date": "2026-10-05 19:15",
-      "location": "West End",
-      "start_date": "2026-10-19",
-      "start_time": "19:15",
-      "available_spot_count": 14,
-      "capacity": 22
-    },
-    {
-      "studio": "Ritual",
       "name": "Mobility + Release (Community Class)",
       "booking_start_date": "2026-10-08 19:45",
       "location": "West End",
       "start_date": "2026-10-22",
       "start_time": "19:45",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 22
     },
     {
@@ -59,7 +49,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-23",
       "start_time": "08:15",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 24
     },
     {
@@ -69,7 +59,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-23",
       "start_time": "16:00",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 24
     },
     {
@@ -84,16 +74,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Mega Cardio Xpress- Arms/Abs + Tread x Oktoberwest",
-      "booking_start_date": "2026-10-12 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-10-19",
-      "start_time": "18:30",
-      "available_spot_count": 13,
-      "capacity": 26
-    },
     {
       "studio": "Lagree West",
       "name": "Happy Hour Megaformer x Oktoberwest",
@@ -111,7 +91,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-20",
       "start_time": "06:15",
-      "available_spot_count": 4,
+      "available_spot_count": 8,
       "capacity": 26
     },
     {
@@ -121,7 +101,7 @@
       "location": "Gastown",
       "start_date": "2026-10-20",
       "start_time": "07:00",
-      "available_spot_count": 1,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -141,7 +121,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-21",
       "start_time": "09:15",
-      "available_spot_count": 4,
+      "available_spot_count": 6,
       "capacity": 26
     },
     {
@@ -201,7 +181,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-22",
       "start_time": "15:15",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 16
     },
     {
@@ -221,7 +201,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-22",
       "start_time": "16:15",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -231,7 +211,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-22",
       "start_time": "16:15",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 26
     },
     {
@@ -281,7 +261,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-24",
       "start_time": "15:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -301,7 +281,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-26",
       "start_time": "08:15",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 26
     },
     {
@@ -311,7 +291,7 @@
       "location": "Gastown",
       "start_date": "2026-10-26",
       "start_time": "09:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
@@ -341,7 +321,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-27",
       "start_time": "06:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 26
     },
     {
@@ -986,22 +966,12 @@
     },
     {
       "studio": "Ritual",
-      "name": "Yoga | Yin + Sound (Community Class)",
-      "booking_start_date": "2026-10-05 19:15",
-      "location": "West End",
-      "start_date": "2026-10-19",
-      "start_time": "19:15",
-      "available_spot_count": 14,
-      "capacity": 22
-    },
-    {
-      "studio": "Ritual",
       "name": "Mobility + Release (Community Class)",
       "booking_start_date": "2026-10-08 19:45",
       "location": "West End",
       "start_date": "2026-10-22",
       "start_time": "19:45",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 22
     },
     {
@@ -1011,7 +981,7 @@
       "location": "West End",
       "start_date": "2026-10-26",
       "start_time": "19:15",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 22
     },
     {
@@ -1125,13 +1095,23 @@
       "capacity": 22
     },
     {
+      "studio": "Ritual",
+      "name": "Mobility + Release",
+      "booking_start_date": "2026-09-04 19:45",
+      "location": "West End",
+      "start_date": "2026-12-03",
+      "start_time": "19:45",
+      "available_spot_count": 22,
+      "capacity": 22
+    },
+    {
       "studio": "Turf",
       "name": "Mat Werk x Pilates Sock Company \ud83e\udde6",
       "booking_start_date": "2026-10-13 08:15",
       "location": "Main Street",
       "start_date": "2026-10-20",
       "start_time": "08:15",
-      "available_spot_count": 20,
+      "available_spot_count": 18,
       "capacity": 32
     },
     {
@@ -1141,7 +1121,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-20",
       "start_time": "10:45",
-      "available_spot_count": 14,
+      "available_spot_count": 15,
       "capacity": 22
     },
     {
@@ -1151,7 +1131,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-20",
       "start_time": "12:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 22
     },
     {
@@ -1161,7 +1141,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-21",
       "start_time": "09:30",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 30
     },
     {
@@ -1171,7 +1151,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-21",
       "start_time": "10:45",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 30
     },
     {
@@ -1191,7 +1171,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-23",
       "start_time": "08:15",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 24
     },
     {
@@ -1296,16 +1276,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: EMMIT FENN x BEN B\u00d6HMER x ELDERBROOK",
-      "booking_start_date": "2026-10-11 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-10-19",
-      "start_time": "17:30",
-      "available_spot_count": 3,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: BILLIE EILISH X SOFI TUKKER",
       "booking_start_date": "2026-10-12 12:00",
       "location": "MOUNT PLEASANT",
@@ -1331,7 +1301,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-20",
       "start_time": "17:30",
-      "available_spot_count": 28,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -1391,7 +1361,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-23",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
@@ -1411,7 +1381,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-24",
       "start_time": "09:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 50
     },
     {
@@ -1431,7 +1401,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-25",
       "start_time": "09:30",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -1441,7 +1411,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-25",
       "start_time": "10:40",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -1461,7 +1431,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-26",
       "start_time": "18:40",
-      "available_spot_count": 46,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -1471,7 +1441,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-26",
       "start_time": "19:50",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 50
     },
     {
@@ -1481,7 +1451,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-27",
       "start_time": "17:30",
-      "available_spot_count": 42,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
@@ -1501,7 +1471,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-27",
       "start_time": "19:50",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
