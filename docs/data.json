@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T12:58:32.484359-07:00",
+  "last_updated": "2026-10-20T16:08:43.070668-07:00",
   "alo": [],
   "special": [
     {
@@ -39,7 +39,17 @@
       "location": "West End",
       "start_date": "2026-10-22",
       "start_time": "19:45",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
+      "capacity": 22
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yin + Sound (Community Class)",
+      "booking_start_date": "2026-10-18 17:30",
+      "location": "West End",
+      "start_date": "2026-11-01",
+      "start_time": "17:30",
+      "available_spot_count": 22,
       "capacity": 22
     },
     {
@@ -49,7 +59,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-23",
       "start_time": "08:15",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 24
     },
     {
@@ -69,7 +79,7 @@
       "location": "Main Street",
       "start_date": "2026-10-25",
       "start_time": "09:00",
-      "available_spot_count": 23,
+      "available_spot_count": 18,
       "capacity": 65
     }
   ],
@@ -81,7 +91,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-20",
       "start_time": "17:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 26
     },
     {
@@ -141,7 +151,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-21",
       "start_time": "20:15",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 20
     },
     {
@@ -151,7 +161,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-22",
       "start_time": "15:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 16
     },
     {
@@ -171,7 +181,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-22",
       "start_time": "16:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 20
     },
     {
@@ -181,7 +191,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-22",
       "start_time": "16:15",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 26
     },
     {
@@ -221,7 +231,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-23",
       "start_time": "16:30",
-      "available_spot_count": 21,
+      "available_spot_count": 19,
       "capacity": 26
     },
     {
@@ -251,7 +261,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-26",
       "start_time": "08:15",
-      "available_spot_count": 23,
+      "available_spot_count": 21,
       "capacity": 26
     },
     {
@@ -261,7 +271,7 @@
       "location": "Gastown",
       "start_date": "2026-10-26",
       "start_time": "09:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
@@ -311,7 +321,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-27",
       "start_time": "17:15",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 26
     },
     {
@@ -321,7 +331,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-28",
       "start_time": "07:15",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 26
     },
     {
@@ -351,7 +361,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-29",
       "start_time": "14:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 16
     },
     {
@@ -701,7 +711,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-23",
       "start_time": "08:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -731,7 +741,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-27",
       "start_time": "10:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -811,7 +821,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-01",
       "start_time": "09:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -851,7 +861,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-31",
       "start_time": "20:30",
-      "available_spot_count": 152,
+      "available_spot_count": 150,
       "capacity": 200
     },
     {
@@ -911,7 +921,7 @@
       "location": "West End",
       "start_date": "2026-10-22",
       "start_time": "19:45",
-      "available_spot_count": 8,
+      "available_spot_count": 6,
       "capacity": 22
     },
     {
@@ -932,6 +942,16 @@
       "start_date": "2026-10-29",
       "start_time": "19:45",
       "available_spot_count": 20,
+      "capacity": 22
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yin + Sound (Community Class)",
+      "booking_start_date": "2026-10-18 17:30",
+      "location": "West End",
+      "start_date": "2026-11-01",
+      "start_time": "17:30",
+      "available_spot_count": 22,
       "capacity": 22
     },
     {
@@ -966,6 +986,16 @@
     },
     {
       "studio": "Ritual",
+      "name": "Yoga | Yin + Sound",
+      "booking_start_date": "2026-08-10 17:30",
+      "location": "West End",
+      "start_date": "2026-11-08",
+      "start_time": "17:30",
+      "available_spot_count": 22,
+      "capacity": 22
+    },
+    {
+      "studio": "Ritual",
       "name": "Yoga | Yin + Sound (warm)",
       "booking_start_date": "2026-08-11 19:15",
       "location": "West End",
@@ -981,6 +1011,16 @@
       "location": "West End",
       "start_date": "2026-11-12",
       "start_time": "19:45",
+      "available_spot_count": 22,
+      "capacity": 22
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yoga | Yin + Sound",
+      "booking_start_date": "2026-08-17 17:30",
+      "location": "West End",
+      "start_date": "2026-11-15",
+      "start_time": "17:30",
       "available_spot_count": 22,
       "capacity": 22
     },
@@ -1006,6 +1046,16 @@
     },
     {
       "studio": "Ritual",
+      "name": "Yoga | Yin + Sound",
+      "booking_start_date": "2026-08-24 17:30",
+      "location": "West End",
+      "start_date": "2026-11-22",
+      "start_time": "17:30",
+      "available_spot_count": 22,
+      "capacity": 22
+    },
+    {
+      "studio": "Ritual",
       "name": "Yoga | Yin + Sound (warm)",
       "booking_start_date": "2026-08-25 19:15",
       "location": "West End",
@@ -1021,6 +1071,16 @@
       "location": "West End",
       "start_date": "2026-11-26",
       "start_time": "19:45",
+      "available_spot_count": 22,
+      "capacity": 22
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yoga | Yin + Sound",
+      "booking_start_date": "2026-08-31 17:30",
+      "location": "West End",
+      "start_date": "2026-11-29",
+      "start_time": "17:30",
       "available_spot_count": 22,
       "capacity": 22
     },
@@ -1061,7 +1121,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-21",
       "start_time": "10:45",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 30
     },
     {
@@ -1071,7 +1131,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-22",
       "start_time": "08:15",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 32
     },
     {
@@ -1081,7 +1141,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-23",
       "start_time": "08:15",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 24
     },
     {
@@ -1111,7 +1171,7 @@
       "location": "Main Street",
       "start_date": "2026-10-27",
       "start_time": "08:15",
-      "available_spot_count": 25,
+      "available_spot_count": 18,
       "capacity": 32
     },
     {
@@ -1196,26 +1256,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: BILLIE EILISH X SOFI TUKKER",
-      "booking_start_date": "2026-10-12 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-10-20",
-      "start_time": "12:30",
-      "available_spot_count": 41,
-      "capacity": 49
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: BILLIE EILISH x JUSTIN BIEBER",
-      "booking_start_date": "2026-10-12 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-10-20",
-      "start_time": "12:30",
-      "available_spot_count": 28,
-      "capacity": 36
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: EMMIT FENN x BEN B\u00d6HMER x ELDERBROOK",
       "booking_start_date": "2026-10-12 12:00",
       "location": "BRENTWOOD",
@@ -1231,7 +1271,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-20",
       "start_time": "19:50",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -1251,7 +1291,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-21",
       "start_time": "12:30",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -1261,7 +1301,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-22",
       "start_time": "12:30",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 36
     },
     {
@@ -1271,7 +1311,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-23",
       "start_time": "09:45",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 36
     },
     {
@@ -1281,7 +1321,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-23",
       "start_time": "12:30",
-      "available_spot_count": 28,
+      "available_spot_count": 25,
       "capacity": 50
     },
     {
@@ -1341,7 +1381,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-26",
       "start_time": "17:30",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
@@ -1371,7 +1411,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-27",
       "start_time": "17:30",
-      "available_spot_count": 33,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
