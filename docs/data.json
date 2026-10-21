@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T16:08:43.070668-07:00",
+  "last_updated": "2026-10-20T18:30:45.403766-07:00",
   "alo": [],
   "special": [
     {
@@ -39,7 +39,7 @@
       "location": "West End",
       "start_date": "2026-10-22",
       "start_time": "19:45",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 22
     },
     {
@@ -49,7 +49,7 @@
       "location": "West End",
       "start_date": "2026-11-01",
       "start_time": "17:30",
-      "available_spot_count": 22,
+      "available_spot_count": 15,
       "capacity": 22
     },
     {
@@ -59,7 +59,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-23",
       "start_time": "08:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 24
     },
     {
@@ -69,7 +69,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-23",
       "start_time": "16:00",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 24
     },
     {
@@ -79,21 +79,11 @@
       "location": "Main Street",
       "start_date": "2026-10-25",
       "start_time": "09:00",
-      "available_spot_count": 18,
+      "available_spot_count": 0,
       "capacity": 65
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Mega Cardio- Arms/Abs x Oktoberwest",
-      "booking_start_date": "2026-10-13 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-10-20",
-      "start_time": "17:15",
-      "available_spot_count": 11,
-      "capacity": 26
-    },
     {
       "studio": "Lagree West",
       "name": "Mid-Day Mega Cardio-Arms/Abs x Oktoberwest",
@@ -101,7 +91,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-21",
       "start_time": "09:15",
-      "available_spot_count": 5,
+      "available_spot_count": 7,
       "capacity": 26
     },
     {
@@ -161,7 +151,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-22",
       "start_time": "15:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 16
     },
     {
@@ -181,7 +171,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-22",
       "start_time": "16:15",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -211,7 +201,7 @@
       "location": "Gastown",
       "start_date": "2026-10-23",
       "start_time": "10:30",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -301,7 +291,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-27",
       "start_time": "06:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 26
     },
     {
@@ -316,12 +306,22 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Trainer Development",
+      "booking_start_date": "2026-10-20 00:00",
+      "location": "Gastown",
+      "start_date": "2026-10-27",
+      "start_time": "15:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
+      "studio": "Lagree West",
       "name": "Mega Cardio- Arms/Abs x Oktoberwest",
       "booking_start_date": "2026-10-20 00:00",
       "location": "Kitsilano",
       "start_date": "2026-10-27",
       "start_time": "17:15",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 26
     },
     {
@@ -331,7 +331,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-28",
       "start_time": "07:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 26
     },
     {
@@ -576,6 +576,16 @@
     },
     {
       "studio": "Lagree Studio",
+      "name": "Daytime Perk Ass And Abs",
+      "booking_start_date": "2026-10-15 14:00",
+      "location": "West Broadway",
+      "start_date": "2026-10-22",
+      "start_time": "14:00",
+      "available_spot_count": 7,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
       "name": "Private Event",
       "booking_start_date": "2026-10-17 17:00",
       "location": "West Broadway",
@@ -705,6 +715,16 @@
       "capacity": 15
     },
     {
+      "studio": "The Third",
+      "name": "instructor development - lagree full body",
+      "booking_start_date": "2026-11-20 17:30",
+      "location": "4th Ave",
+      "start_date": "2026-12-04",
+      "start_time": "17:30",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
       "studio": "Lagree X",
       "name": "Backstreet Boys \u2764\ufe0f\u200d\ud83d\udd25\ud83d\udd7a",
       "booking_start_date": "2026-10-16 08:30",
@@ -751,7 +771,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-29",
       "start_time": "17:30",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -786,6 +806,26 @@
     },
     {
       "studio": "Lagree X",
+      "name": "BOO-TY Burn \ud83d\udd25 \ud83c\udf51",
+      "booking_start_date": "2026-10-23 16:30",
+      "location": "Vancouver",
+      "start_date": "2026-10-30",
+      "start_time": "16:30",
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "BOO-TY Burn \ud83d\udd25 \ud83c\udf51",
+      "booking_start_date": "2026-10-23 17:30",
+      "location": "Vancouver",
+      "start_date": "2026-10-30",
+      "start_time": "17:30",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
       "name": "FRIGHT X NIGHT \ud83d\udda4\ud83d\udd77\ufe0f",
       "booking_start_date": "2026-10-24 08:30",
       "location": "Vancouver",
@@ -811,7 +851,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-31",
       "start_time": "10:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -831,7 +871,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-01",
       "start_time": "10:30",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -861,7 +901,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-31",
       "start_time": "20:30",
-      "available_spot_count": 150,
+      "available_spot_count": 149,
       "capacity": 200
     },
     {
@@ -921,7 +961,7 @@
       "location": "West End",
       "start_date": "2026-10-22",
       "start_time": "19:45",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 22
     },
     {
@@ -951,7 +991,7 @@
       "location": "West End",
       "start_date": "2026-11-01",
       "start_time": "17:30",
-      "available_spot_count": 22,
+      "available_spot_count": 15,
       "capacity": 22
     },
     {
@@ -1111,7 +1151,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-21",
       "start_time": "09:30",
-      "available_spot_count": 9,
+      "available_spot_count": 11,
       "capacity": 30
     },
     {
@@ -1121,7 +1161,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-21",
       "start_time": "10:45",
-      "available_spot_count": 12,
+      "available_spot_count": 9,
       "capacity": 30
     },
     {
@@ -1141,7 +1181,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-23",
       "start_time": "08:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 24
     },
     {
@@ -1171,7 +1211,7 @@
       "location": "Main Street",
       "start_date": "2026-10-27",
       "start_time": "08:15",
-      "available_spot_count": 18,
+      "available_spot_count": 16,
       "capacity": 32
     },
     {
@@ -1255,24 +1295,14 @@
       "capacity": 32
     },
     {
-      "studio": "Spin Society",
-      "name": "THEME: EMMIT FENN x BEN B\u00d6HMER x ELDERBROOK",
-      "booking_start_date": "2026-10-12 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-10-20",
-      "start_time": "17:30",
-      "available_spot_count": 30,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: THEME: 2010s HIP HOP + CLUB CLASSICS",
-      "booking_start_date": "2026-10-12 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-10-20",
-      "start_time": "19:50",
-      "available_spot_count": 29,
-      "capacity": 50
+      "studio": "Turf",
+      "name": "Mat Werk + Weights 45 min",
+      "booking_start_date": "2026-11-27 10:45",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-12-04",
+      "start_time": "10:45",
+      "available_spot_count": 32,
+      "capacity": 32
     },
     {
       "studio": "Spin Society",
@@ -1291,7 +1321,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-21",
       "start_time": "12:30",
-      "available_spot_count": 42,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
@@ -1461,7 +1491,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-28",
       "start_time": "12:30",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
