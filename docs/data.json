@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T23:32:08.098117-07:00",
+  "last_updated": "2026-10-21T05:20:17.402445-07:00",
   "alo": [],
   "special": [
     {
@@ -101,7 +101,7 @@
       "location": "Main St",
       "start_date": "2026-10-21",
       "start_time": "15:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 14
     },
     {
@@ -221,7 +221,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-23",
       "start_time": "16:30",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 26
     },
     {
@@ -331,7 +331,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-28",
       "start_time": "07:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 26
     },
     {
@@ -341,7 +341,7 @@
       "location": "Main St",
       "start_date": "2026-10-28",
       "start_time": "20:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 14
     },
     {
@@ -351,7 +351,7 @@
       "location": "Main St",
       "start_date": "2026-10-29",
       "start_time": "14:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 14
     },
     {
@@ -1161,7 +1161,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-21",
       "start_time": "10:45",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 30
     },
     {
@@ -1326,43 +1326,13 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: SPIDER-MAN x BLACK PANTHER x SHANG-CHI",
-      "booking_start_date": "2026-10-14 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-10-22",
-      "start_time": "12:30",
-      "available_spot_count": 29,
-      "capacity": 36
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: FRED AGAIN.. X JOHN SUMMIT",
-      "booking_start_date": "2026-10-15 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-10-23",
-      "start_time": "09:45",
-      "available_spot_count": 25,
-      "capacity": 36
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: RIHANNA x BEYONC\u00c9 - VOL 1",
       "booking_start_date": "2026-10-15 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-10-23",
       "start_time": "12:30",
-      "available_spot_count": 25,
+      "available_spot_count": 26,
       "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: RIHANNA x BEYONC\u00c9 - VOL 1",
-      "booking_start_date": "2026-10-15 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-10-23",
-      "start_time": "18:40",
-      "available_spot_count": 0,
-      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1401,7 +1371,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-25",
       "start_time": "10:40",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 50
     },
     {
@@ -1436,26 +1406,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: TAYLOR SWIFT: RED x MIDNIGHTS",
-      "booking_start_date": "2026-10-19 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-10-27",
-      "start_time": "17:30",
-      "available_spot_count": 25,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: SPOOKY KOOKY EXTRAVAGANZA",
-      "booking_start_date": "2026-10-19 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-10-27",
-      "start_time": "18:40",
-      "available_spot_count": 27,
-      "capacity": 36
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: BLINK 182 x PARAMORE x FALL OUT BOY",
       "booking_start_date": "2026-10-19 12:00",
       "location": "BRENTWOOD",
@@ -1471,17 +1421,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-28",
       "start_time": "09:45",
-      "available_spot_count": 48,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: REZZ X RUFUS DU SOL",
-      "booking_start_date": "2026-10-20 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-10-28",
-      "start_time": "09:45",
-      "available_spot_count": 49,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -1516,16 +1456,6 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: 2010s POP x HIP HOP",
-      "booking_start_date": "2026-10-22 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-10-30",
-      "start_time": "17:30",
-      "available_spot_count": 36,
-      "capacity": 36
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: JONAS BROTHERS + DISNEY FRIENDS",
       "booking_start_date": "2026-10-24 12:00",
       "location": "BRENTWOOD",
@@ -1543,26 +1473,6 @@
       "start_time": "17:30",
       "available_spot_count": 50,
       "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: MID-WEEK MILLENNIAL  HITS",
-      "booking_start_date": "2026-10-27 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-11-04",
-      "start_time": "09:45",
-      "available_spot_count": 50,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: FRED AGAIN.. x ODESZA",
-      "booking_start_date": "2026-10-28 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-11-05",
-      "start_time": "12:30",
-      "available_spot_count": 37,
-      "capacity": 37
     }
   ]
 }
