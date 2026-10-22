@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T02:36:26.295181-07:00",
+  "last_updated": "2026-10-22T07:38:15.744202-07:00",
   "alo": [],
   "special": [
     {
@@ -50,7 +50,7 @@
       "start_date": "2026-11-01",
       "start_time": "17:30",
       "available_spot_count": 0,
-      "capacity": 22
+      "capacity": 25
     },
     {
       "studio": "Turf",
@@ -101,7 +101,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-22",
       "start_time": "15:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 20
     },
     {
@@ -111,7 +111,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-22",
       "start_time": "16:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 20
     },
     {
@@ -121,7 +121,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-22",
       "start_time": "16:15",
-      "available_spot_count": 21,
+      "available_spot_count": 22,
       "capacity": 26
     },
     {
@@ -351,7 +351,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-30",
       "start_time": "16:15",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 20
     },
     {
@@ -381,7 +381,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-30",
       "start_time": "18:15",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 20
     },
     {
@@ -551,7 +551,7 @@
       "location": "West Broadway",
       "start_date": "2026-10-22",
       "start_time": "14:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -621,7 +621,7 @@
       "location": "4th Ave",
       "start_date": "2026-10-30",
       "start_time": "16:30",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 15
     },
     {
@@ -1022,7 +1022,7 @@
       "start_date": "2026-11-01",
       "start_time": "17:30",
       "available_spot_count": 0,
-      "capacity": 22
+      "capacity": 25
     },
     {
       "studio": "Ritual",
@@ -1351,7 +1351,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-26",
       "start_time": "19:50",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 50
     },
     {
