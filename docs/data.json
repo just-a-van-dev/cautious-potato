@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T11:46:23.025857-07:00",
+  "last_updated": "2026-10-22T15:16:00.410180-07:00",
   "alo": [],
   "special": [
     {
@@ -59,7 +59,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-23",
       "start_time": "08:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 24
     },
     {
@@ -79,7 +79,7 @@
       "location": "Main Street",
       "start_date": "2026-10-25",
       "start_time": "09:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 85
     }
   ],
@@ -91,7 +91,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-22",
       "start_time": "15:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 16
     },
     {
@@ -101,7 +101,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-22",
       "start_time": "15:15",
-      "available_spot_count": 6,
+      "available_spot_count": 0,
       "capacity": 20
     },
     {
@@ -111,7 +111,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-22",
       "start_time": "16:15",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 20
     },
     {
@@ -121,7 +121,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-22",
       "start_time": "16:15",
-      "available_spot_count": 21,
+      "available_spot_count": 18,
       "capacity": 26
     },
     {
@@ -141,7 +141,7 @@
       "location": "Gastown",
       "start_date": "2026-10-23",
       "start_time": "10:30",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -161,7 +161,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-23",
       "start_time": "16:30",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 26
     },
     {
@@ -201,7 +201,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-24",
       "start_time": "15:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 20
     },
     {
@@ -351,7 +351,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-30",
       "start_time": "16:15",
-      "available_spot_count": 19,
+      "available_spot_count": 17,
       "capacity": 20
     },
     {
@@ -371,7 +371,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-30",
       "start_time": "17:15",
-      "available_spot_count": 19,
+      "available_spot_count": 17,
       "capacity": 20
     },
     {
@@ -381,7 +381,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-30",
       "start_time": "18:15",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 20
     },
     {
@@ -546,16 +546,6 @@
     },
     {
       "studio": "Lagree Studio",
-      "name": "Daytime Perk Ass And Abs",
-      "booking_start_date": "2026-10-15 14:00",
-      "location": "West Broadway",
-      "start_date": "2026-10-22",
-      "start_time": "14:00",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
       "name": "Private Event",
       "booking_start_date": "2026-10-17 17:00",
       "location": "West Broadway",
@@ -571,7 +561,7 @@
       "location": "4th Ave",
       "start_date": "2026-10-23",
       "start_time": "17:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -751,7 +741,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-27",
       "start_time": "07:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -861,7 +851,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-31",
       "start_time": "10:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -893,16 +883,6 @@
       "start_time": "11:30",
       "available_spot_count": 10,
       "capacity": 12
-    },
-    {
-      "studio": "ZenDen",
-      "name": "Reiki Infused Sound Bath w/ Scent - 40 min | Warm",
-      "booking_start_date": "2026-10-08 11:45",
-      "location": "Vancouver",
-      "start_date": "2026-10-22",
-      "start_time": "11:45",
-      "available_spot_count": 28,
-      "capacity": 38
     },
     {
       "studio": "ZenDen",
@@ -1061,7 +1041,7 @@
       "location": "West End",
       "start_date": "2026-11-08",
       "start_time": "14:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 25
     },
     {
@@ -1151,7 +1131,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-23",
       "start_time": "08:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 24
     },
     {
@@ -1171,7 +1151,7 @@
       "location": "Main Street",
       "start_date": "2026-10-24",
       "start_time": "12:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 32
     },
     {
@@ -1191,7 +1171,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-30",
       "start_time": "10:45",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 32
     },
     {
@@ -1276,22 +1256,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: SPIDER-MAN x BLACK PANTHER x SHANG-CHI",
-      "booking_start_date": "2026-10-14 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-10-22",
-      "start_time": "12:30",
-      "available_spot_count": 26,
-      "capacity": 36
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: FRED AGAIN.. X JOHN SUMMIT",
       "booking_start_date": "2026-10-15 12:00",
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-23",
       "start_time": "09:45",
-      "available_spot_count": 25,
+      "available_spot_count": 26,
       "capacity": 36
     },
     {
@@ -1301,7 +1271,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-23",
       "start_time": "12:30",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 50
     },
     {
@@ -1351,7 +1321,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-25",
       "start_time": "10:40",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 50
     },
     {
@@ -1381,7 +1351,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-26",
       "start_time": "19:50",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 50
     },
     {
@@ -1401,7 +1371,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-27",
       "start_time": "18:40",
-      "available_spot_count": 26,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
@@ -1431,7 +1401,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-28",
       "start_time": "09:45",
-      "available_spot_count": 48,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
@@ -1461,7 +1431,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-30",
       "start_time": "12:30",
-      "available_spot_count": 48,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -1471,7 +1441,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-30",
       "start_time": "17:30",
-      "available_spot_count": 36,
+      "available_spot_count": 34,
       "capacity": 36
     },
     {
