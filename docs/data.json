@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T12:55:45.158481-07:00",
+  "last_updated": "2026-10-23T16:05:35.140711-07:00",
   "alo": [],
   "special": [
     {
@@ -49,7 +49,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-23",
       "start_time": "16:00",
-      "available_spot_count": 0,
+      "available_spot_count": 2,
       "capacity": 24
     },
     {
@@ -66,22 +66,12 @@
   "sponsored": [
     {
       "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Oktoberwest",
-      "booking_start_date": "2026-10-16 00:00",
-      "location": "Main St",
-      "start_date": "2026-10-23",
-      "start_time": "14:15",
-      "available_spot_count": 4,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
       "name": "Mid-Day Mega Cardio Xpress-Arms/Abs x Oktoberwest",
       "booking_start_date": "2026-10-16 00:00",
       "location": "Kitsilano",
       "start_date": "2026-10-23",
       "start_time": "16:30",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 26
     },
     {
@@ -111,7 +101,7 @@
       "location": "Gastown",
       "start_date": "2026-10-24",
       "start_time": "12:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 15
     },
     {
@@ -171,7 +161,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-26",
       "start_time": "18:30",
-      "available_spot_count": 19,
+      "available_spot_count": 17,
       "capacity": 26
     },
     {
@@ -191,7 +181,7 @@
       "location": "Main St",
       "start_date": "2026-10-27",
       "start_time": "14:15",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 14
     },
     {
@@ -221,7 +211,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-28",
       "start_time": "07:15",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 26
     },
     {
@@ -291,7 +281,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-30",
       "start_time": "17:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 20
     },
     {
@@ -301,7 +291,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-30",
       "start_time": "18:15",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -311,7 +301,7 @@
       "location": "Main St",
       "start_date": "2026-10-31",
       "start_time": "07:00",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 14
     },
     {
@@ -321,7 +311,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-31",
       "start_time": "07:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 16
     },
     {
@@ -331,7 +321,7 @@
       "location": "Main St",
       "start_date": "2026-10-31",
       "start_time": "08:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 14
     },
     {
@@ -351,7 +341,7 @@
       "location": "Main St",
       "start_date": "2026-10-31",
       "start_time": "09:00",
-      "available_spot_count": 3,
+      "available_spot_count": 0,
       "capacity": 14
     },
     {
@@ -361,7 +351,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-31",
       "start_time": "09:00",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 26
     },
     {
@@ -371,7 +361,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-31",
       "start_time": "10:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 16
     },
     {
@@ -391,7 +381,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-31",
       "start_time": "12:30",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 16
     },
     {
@@ -436,16 +426,6 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Balance | Teacher Development ($18)",
-      "booking_start_date": "2026-10-16 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-10-23",
-      "start_time": "14:30",
-      "available_spot_count": 42,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Balance + ALO Community Class",
       "booking_start_date": "2026-10-17 18:00",
       "location": "Yaletown",
@@ -470,6 +450,16 @@
       "booking_start_date": "2026-10-17 17:00",
       "location": "West Broadway",
       "start_date": "2026-10-24",
+      "start_time": "17:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Private Event",
+      "booking_start_date": "2026-10-25 17:00",
+      "location": "West Broadway",
+      "start_date": "2026-11-01",
       "start_time": "17:00",
       "available_spot_count": 12,
       "capacity": 12
@@ -911,7 +901,7 @@
       "location": "West End",
       "start_date": "2026-10-26",
       "start_time": "19:15",
-      "available_spot_count": 17,
+      "available_spot_count": 18,
       "capacity": 22
     },
     {
@@ -1051,7 +1041,7 @@
       "location": "Main Street",
       "start_date": "2026-10-24",
       "start_time": "12:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 32
     },
     {
@@ -1071,7 +1061,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-30",
       "start_time": "10:45",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 32
     },
     {
@@ -1103,6 +1093,16 @@
       "start_time": "11:00",
       "available_spot_count": 32,
       "capacity": 32
+    },
+    {
+      "studio": "Turf",
+      "name": "On The Mat with Nat",
+      "booking_start_date": "2026-11-05 08:15",
+      "location": "KITS - Vancouver",
+      "start_date": "2026-11-12",
+      "start_time": "08:15",
+      "available_spot_count": 34,
+      "capacity": 34
     },
     {
       "studio": "Turf",
@@ -1188,16 +1188,6 @@
       "studio": "Spin Society",
       "name": "THEME: RIHANNA x BEYONC\u00c9 - VOL 1",
       "booking_start_date": "2026-10-15 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-10-23",
-      "start_time": "12:30",
-      "available_spot_count": 23,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: RIHANNA x BEYONC\u00c9 - VOL 1",
-      "booking_start_date": "2026-10-15 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-23",
       "start_time": "18:40",
@@ -1231,7 +1221,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-25",
       "start_time": "09:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -1241,7 +1231,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-25",
       "start_time": "10:40",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 50
     },
     {
@@ -1251,7 +1241,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-26",
       "start_time": "17:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -1261,7 +1251,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-26",
       "start_time": "18:40",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 50
     },
     {
@@ -1351,7 +1341,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-30",
       "start_time": "12:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -1361,7 +1351,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-30",
       "start_time": "17:30",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 36
     },
     {
