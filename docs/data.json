@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T17:54:23.383300-07:00",
+  "last_updated": "2026-10-22T23:00:00.557365-07:00",
   "alo": [],
   "special": [
     {
@@ -59,7 +59,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-23",
       "start_time": "16:00",
-      "available_spot_count": 4,
+      "available_spot_count": 0,
       "capacity": 24
     },
     {
@@ -81,7 +81,7 @@
       "location": "Gastown",
       "start_date": "2026-10-23",
       "start_time": "10:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 15
     },
     {
@@ -91,7 +91,7 @@
       "location": "Main St",
       "start_date": "2026-10-23",
       "start_time": "14:15",
-      "available_spot_count": 1,
+      "available_spot_count": 3,
       "capacity": 14
     },
     {
@@ -201,7 +201,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-27",
       "start_time": "06:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 26
     },
     {
@@ -241,7 +241,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-28",
       "start_time": "07:15",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 26
     },
     {
@@ -261,7 +261,7 @@
       "location": "Main St",
       "start_date": "2026-10-29",
       "start_time": "14:15",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 14
     },
     {
@@ -321,7 +321,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-30",
       "start_time": "18:15",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 20
     },
     {
@@ -501,7 +501,7 @@
       "location": "4th Ave",
       "start_date": "2026-10-23",
       "start_time": "17:30",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 15
     },
     {
@@ -521,7 +521,7 @@
       "location": "4th Ave",
       "start_date": "2026-10-29",
       "start_time": "18:30",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 15
     },
     {
@@ -671,7 +671,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-23",
       "start_time": "08:30",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -831,7 +831,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-25",
       "start_time": "14:00",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 26
     },
     {
@@ -841,7 +841,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-31",
       "start_time": "20:30",
-      "available_spot_count": 145,
+      "available_spot_count": 143,
       "capacity": 200
     },
     {
@@ -941,7 +941,7 @@
       "location": "West End",
       "start_date": "2026-10-29",
       "start_time": "19:45",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 22
     },
     {
@@ -1081,7 +1081,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-23",
       "start_time": "10:45",
-      "available_spot_count": 0,
+      "available_spot_count": 3,
       "capacity": 32
     },
     {
@@ -1091,7 +1091,7 @@
       "location": "Main Street",
       "start_date": "2026-10-24",
       "start_time": "12:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 32
     },
     {
@@ -1111,7 +1111,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-30",
       "start_time": "10:45",
-      "available_spot_count": 29,
+      "available_spot_count": 26,
       "capacity": 32
     },
     {
@@ -1201,7 +1201,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-23",
       "start_time": "09:45",
-      "available_spot_count": 28,
+      "available_spot_count": 31,
       "capacity": 36
     },
     {
@@ -1211,7 +1211,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-23",
       "start_time": "12:30",
-      "available_spot_count": 25,
+      "available_spot_count": 28,
       "capacity": 50
     },
     {
@@ -1241,7 +1241,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-25",
       "start_time": "08:20",
-      "available_spot_count": 43,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -1251,7 +1251,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-25",
       "start_time": "09:30",
-      "available_spot_count": 36,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
@@ -1261,7 +1261,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-25",
       "start_time": "10:40",
-      "available_spot_count": 16,
+      "available_spot_count": 13,
       "capacity": 50
     },
     {
@@ -1271,7 +1271,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-26",
       "start_time": "17:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -1281,7 +1281,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-26",
       "start_time": "18:40",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 50
     },
     {
@@ -1301,7 +1301,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-27",
       "start_time": "17:30",
-      "available_spot_count": 11,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -1321,7 +1321,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-27",
       "start_time": "19:50",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -1331,7 +1331,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-28",
       "start_time": "09:45",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
@@ -1361,7 +1361,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-29",
       "start_time": "18:40",
-      "available_spot_count": 26,
+      "available_spot_count": 22,
       "capacity": 50
     },
     {
@@ -1371,7 +1371,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-30",
       "start_time": "12:30",
-      "available_spot_count": 43,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -1381,7 +1381,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-30",
       "start_time": "17:30",
-      "available_spot_count": 33,
+      "available_spot_count": 29,
       "capacity": 36
     },
     {
