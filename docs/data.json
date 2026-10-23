@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T15:16:00.410180-07:00",
+  "last_updated": "2026-10-22T17:54:23.383300-07:00",
   "alo": [],
   "special": [
     {
@@ -34,16 +34,6 @@
     },
     {
       "studio": "Ritual",
-      "name": "Mobility + Release (Community Class)",
-      "booking_start_date": "2026-10-08 19:45",
-      "location": "West End",
-      "start_date": "2026-10-22",
-      "start_time": "19:45",
-      "available_spot_count": 2,
-      "capacity": 22
-    },
-    {
-      "studio": "Ritual",
       "name": "Yin + Aromatherapy (Community Class)",
       "booking_start_date": "2026-10-18 17:30",
       "location": "West End",
@@ -59,7 +49,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-23",
       "start_time": "08:15",
-      "available_spot_count": 3,
+      "available_spot_count": 0,
       "capacity": 24
     },
     {
@@ -69,7 +59,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-23",
       "start_time": "16:00",
-      "available_spot_count": 10,
+      "available_spot_count": 4,
       "capacity": 24
     },
     {
@@ -86,62 +76,12 @@
   "sponsored": [
     {
       "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Oktoberwest",
-      "booking_start_date": "2026-10-15 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-10-22",
-      "start_time": "15:15",
-      "available_spot_count": 1,
-      "capacity": 16
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Oktoberwest",
-      "booking_start_date": "2026-10-15 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-10-22",
-      "start_time": "15:15",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Oktoberwest",
-      "booking_start_date": "2026-10-15 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-10-22",
-      "start_time": "16:15",
-      "available_spot_count": 0,
-      "capacity": 20
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Mid-Day Mega Cardio Xpress-Arms/Abs x Oktoberwest",
-      "booking_start_date": "2026-10-15 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-10-22",
-      "start_time": "16:15",
-      "available_spot_count": 18,
-      "capacity": 26
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Sweat for a Cause/By Donation",
-      "booking_start_date": "2026-09-22 17:15",
-      "location": "Gastown",
-      "start_date": "2026-10-22",
-      "start_time": "17:15",
-      "available_spot_count": 0,
-      "capacity": 15
-    },
-    {
-      "studio": "Lagree West",
       "name": "Megaformer Ass + Abs x Oktoberwest",
       "booking_start_date": "2026-10-16 00:00",
       "location": "Gastown",
       "start_date": "2026-10-23",
       "start_time": "10:30",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -151,7 +91,7 @@
       "location": "Main St",
       "start_date": "2026-10-23",
       "start_time": "14:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 14
     },
     {
@@ -241,7 +181,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-26",
       "start_time": "12:15",
-      "available_spot_count": 21,
+      "available_spot_count": 22,
       "capacity": 26
     },
     {
@@ -251,7 +191,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-26",
       "start_time": "18:30",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 26
     },
     {
@@ -261,7 +201,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-27",
       "start_time": "06:15",
-      "available_spot_count": 4,
+      "available_spot_count": 6,
       "capacity": 26
     },
     {
@@ -301,7 +241,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-28",
       "start_time": "07:15",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 26
     },
     {
@@ -351,7 +291,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-30",
       "start_time": "16:15",
-      "available_spot_count": 17,
+      "available_spot_count": 15,
       "capacity": 20
     },
     {
@@ -371,7 +311,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-30",
       "start_time": "17:15",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 20
     },
     {
@@ -381,7 +321,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-30",
       "start_time": "18:15",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 20
     },
     {
@@ -501,7 +441,7 @@
       "location": "Kitsilano",
       "start_date": "2026-11-15",
       "start_time": "15:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 16
     },
     {
@@ -511,7 +451,7 @@
       "location": "Main St",
       "start_date": "2026-11-20",
       "start_time": "15:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 14
     },
     {
@@ -955,6 +895,16 @@
       "capacity": 26
     },
     {
+      "studio": "ZenDen",
+      "name": "The Living Temple - for Women",
+      "booking_start_date": "2026-10-07 14:00",
+      "location": "Vancouver",
+      "start_date": "2026-12-06",
+      "start_time": "14:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
       "studio": "All Method Studio",
       "name": "ALL Reformer - Private Class",
       "booking_start_date": "2026-10-10 11:45",
@@ -976,16 +926,6 @@
     },
     {
       "studio": "Ritual",
-      "name": "Mobility + Release (Community Class)",
-      "booking_start_date": "2026-10-08 19:45",
-      "location": "West End",
-      "start_date": "2026-10-22",
-      "start_time": "19:45",
-      "available_spot_count": 2,
-      "capacity": 22
-    },
-    {
-      "studio": "Ritual",
       "name": "Yoga | Yin + Sound (warm)",
       "booking_start_date": "2026-07-28 19:15",
       "location": "West End",
@@ -1001,7 +941,7 @@
       "location": "West End",
       "start_date": "2026-10-29",
       "start_time": "19:45",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 22
     },
     {
@@ -1131,7 +1071,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-23",
       "start_time": "08:15",
-      "available_spot_count": 3,
+      "available_spot_count": 0,
       "capacity": 24
     },
     {
@@ -1161,7 +1101,7 @@
       "location": "Main Street",
       "start_date": "2026-10-27",
       "start_time": "08:15",
-      "available_spot_count": 7,
+      "available_spot_count": 4,
       "capacity": 32
     },
     {
@@ -1171,7 +1111,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-30",
       "start_time": "10:45",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 32
     },
     {
@@ -1261,7 +1201,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-23",
       "start_time": "09:45",
-      "available_spot_count": 26,
+      "available_spot_count": 28,
       "capacity": 36
     },
     {
@@ -1271,7 +1211,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-23",
       "start_time": "12:30",
-      "available_spot_count": 23,
+      "available_spot_count": 25,
       "capacity": 50
     },
     {
@@ -1351,7 +1291,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-26",
       "start_time": "19:50",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 50
     },
     {
@@ -1421,7 +1361,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-29",
       "start_time": "18:40",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 50
     },
     {
@@ -1431,7 +1371,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-30",
       "start_time": "12:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 50
     },
     {
@@ -1441,7 +1381,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-30",
       "start_time": "17:30",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 36
     },
     {
