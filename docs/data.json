@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T08:02:29.764327-07:00",
+  "last_updated": "2026-10-25T11:22:05.887529-07:00",
   "alo": [],
   "special": [
     {
@@ -21,16 +21,6 @@
       "start_time": "17:30",
       "available_spot_count": 0,
       "capacity": 25
-    },
-    {
-      "studio": "Turf",
-      "name": "Run Club on Main \u26a1\ufe0f",
-      "booking_start_date": "2026-09-25 09:00",
-      "location": "Main Street",
-      "start_date": "2026-10-25",
-      "start_time": "09:00",
-      "available_spot_count": 1,
-      "capacity": 85
     }
   ],
   "sponsored": [
@@ -121,7 +111,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-27",
       "start_time": "17:15",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 26
     },
     {
@@ -131,7 +121,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-28",
       "start_time": "07:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 26
     },
     {
@@ -201,7 +191,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-30",
       "start_time": "17:15",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 20
     },
     {
@@ -271,7 +261,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-31",
       "start_time": "09:00",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 26
     },
     {
@@ -291,7 +281,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-31",
       "start_time": "11:15",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 26
     },
     {
@@ -301,7 +291,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-31",
       "start_time": "12:30",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 16
     },
     {
@@ -361,7 +351,7 @@
       "location": "West Broadway",
       "start_date": "2026-10-29",
       "start_time": "10:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -391,7 +381,7 @@
       "location": "4th Ave",
       "start_date": "2026-10-29",
       "start_time": "18:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 15
     },
     {
@@ -401,7 +391,7 @@
       "location": "4th Ave",
       "start_date": "2026-10-29",
       "start_time": "19:30",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 15
     },
     {
@@ -671,7 +661,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-01",
       "start_time": "09:30",
-      "available_spot_count": 5,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -801,7 +791,7 @@
       "location": "West End",
       "start_date": "2026-10-26",
       "start_time": "19:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 22
     },
     {
@@ -1096,32 +1086,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: BOY BANDS + ONE HIT WONDERS",
-      "booking_start_date": "2026-10-17 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-10-25",
-      "start_time": "08:20",
-      "available_spot_count": 41,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: ARIANA X GAGA",
-      "booking_start_date": "2026-10-17 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-10-25",
-      "start_time": "09:30",
-      "available_spot_count": 29,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: DRAKE X THE WEEKND X KENDRICK LAMAR",
       "booking_start_date": "2026-10-17 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-10-25",
       "start_time": "10:40",
-      "available_spot_count": 15,
+      "available_spot_count": 16,
       "capacity": 50
     },
     {
@@ -1131,7 +1101,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-26",
       "start_time": "17:30",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 50
     },
     {
@@ -1151,7 +1121,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-26",
       "start_time": "19:50",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -1181,7 +1151,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-27",
       "start_time": "19:50",
-      "available_spot_count": 34,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -1221,7 +1191,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-29",
       "start_time": "18:40",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 50
     },
     {
@@ -1261,7 +1231,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-01",
       "start_time": "09:30",
-      "available_spot_count": 43,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
