@@ -1,17 +1,7 @@
 {
-  "last_updated": "2026-10-24T15:43:55.980938-07:00",
+  "last_updated": "2026-10-24T18:04:17.606066-07:00",
   "alo": [],
   "special": [
-    {
-      "studio": "Jaybird",
-      "name": "The Balance + ALO Community Class",
-      "booking_start_date": "2026-10-17 18:00",
-      "location": "Yaletown",
-      "start_date": "2026-10-24",
-      "start_time": "18:00",
-      "available_spot_count": 0,
-      "capacity": 36
-    },
     {
       "studio": "Jaybird",
       "name": "The Balance + ALO Community Class",
@@ -101,7 +91,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-27",
       "start_time": "06:15",
-      "available_spot_count": 6,
+      "available_spot_count": 3,
       "capacity": 26
     },
     {
@@ -211,7 +201,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-30",
       "start_time": "17:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 20
     },
     {
@@ -241,7 +231,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-31",
       "start_time": "07:00",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 16
     },
     {
@@ -311,7 +301,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-31",
       "start_time": "12:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 16
     },
     {
@@ -357,32 +347,12 @@
     {
       "studio": "Jaybird",
       "name": "The Balance + ALO Community Class",
-      "booking_start_date": "2026-10-17 18:00",
-      "location": "Yaletown",
-      "start_date": "2026-10-24",
-      "start_time": "18:00",
-      "available_spot_count": 0,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Balance + ALO Community Class",
       "booking_start_date": "2026-11-14 18:00",
       "location": "Yaletown",
       "start_date": "2026-11-21",
       "start_time": "18:00",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Private Event",
-      "booking_start_date": "2026-10-17 17:00",
-      "location": "West Broadway",
-      "start_date": "2026-10-24",
-      "start_time": "17:00",
-      "available_spot_count": 12,
-      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -431,7 +401,7 @@
       "location": "4th Ave",
       "start_date": "2026-10-29",
       "start_time": "19:30",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 15
     },
     {
@@ -565,6 +535,16 @@
       "capacity": 15
     },
     {
+      "studio": "The Third",
+      "name": "instructor development - lagree full body",
+      "booking_start_date": "2026-11-24 12:00",
+      "location": "4th Ave",
+      "start_date": "2026-12-08",
+      "start_time": "12:00",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
       "studio": "Lagree X",
       "name": "Halloween Hits \ud83c\udf83\ud83c\udfb6",
       "booking_start_date": "2026-10-20 07:30",
@@ -611,7 +591,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-29",
       "start_time": "18:30",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -671,7 +651,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-31",
       "start_time": "09:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -721,7 +701,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-25",
       "start_time": "14:00",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 26
     },
     {
@@ -731,7 +711,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-31",
       "start_time": "20:30",
-      "available_spot_count": 131,
+      "available_spot_count": 129,
       "capacity": 200
     },
     {
@@ -751,7 +731,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-08",
       "start_time": "14:00",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 20
     },
     {
@@ -831,7 +811,7 @@
       "location": "West End",
       "start_date": "2026-10-29",
       "start_time": "19:45",
-      "available_spot_count": 17,
+      "available_spot_count": 18,
       "capacity": 22
     },
     {
@@ -981,7 +961,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-10-30",
       "start_time": "10:45",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 32
     },
     {
@@ -1121,7 +1101,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-25",
       "start_time": "08:20",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -1131,7 +1111,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-25",
       "start_time": "09:30",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 50
     },
     {
@@ -1241,7 +1221,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-29",
       "start_time": "18:40",
-      "available_spot_count": 11,
+      "available_spot_count": 9,
       "capacity": 50
     },
     {
@@ -1251,7 +1231,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-30",
       "start_time": "12:30",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -1281,7 +1261,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-01",
       "start_time": "09:30",
-      "available_spot_count": 46,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
