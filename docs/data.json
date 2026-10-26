@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T23:55:35.605814-07:00",
+  "last_updated": "2026-10-26T07:10:28.144702-07:00",
   "alo": [],
   "special": [
     {
@@ -41,7 +41,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-26",
       "start_time": "08:15",
-      "available_spot_count": 15,
+      "available_spot_count": 12,
       "capacity": 26
     },
     {
@@ -61,7 +61,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-26",
       "start_time": "12:15",
-      "available_spot_count": 19,
+      "available_spot_count": 20,
       "capacity": 26
     },
     {
@@ -91,7 +91,7 @@
       "location": "Main St",
       "start_date": "2026-10-27",
       "start_time": "14:15",
-      "available_spot_count": 2,
+      "available_spot_count": 4,
       "capacity": 14
     },
     {
@@ -111,7 +111,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-27",
       "start_time": "17:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 26
     },
     {
@@ -121,7 +121,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-28",
       "start_time": "07:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 26
     },
     {
@@ -131,7 +131,7 @@
       "location": "Main St",
       "start_date": "2026-10-28",
       "start_time": "20:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 14
     },
     {
@@ -181,7 +181,7 @@
       "location": "Gastown",
       "start_date": "2026-10-30",
       "start_time": "16:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 15
     },
     {
@@ -221,7 +221,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-31",
       "start_time": "07:00",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 16
     },
     {
@@ -1091,7 +1091,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-26",
       "start_time": "17:30",
-      "available_spot_count": 23,
+      "available_spot_count": 24,
       "capacity": 50
     },
     {
@@ -1101,7 +1101,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-26",
       "start_time": "18:40",
-      "available_spot_count": 18,
+      "available_spot_count": 20,
       "capacity": 50
     },
     {
@@ -1121,7 +1121,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-10-27",
       "start_time": "17:30",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -1181,7 +1181,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-29",
       "start_time": "18:40",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -1191,7 +1191,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-30",
       "start_time": "12:30",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 50
     },
     {
@@ -1201,7 +1201,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-30",
       "start_time": "17:30",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 36
     },
     {
@@ -1221,7 +1221,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-01",
       "start_time": "09:30",
-      "available_spot_count": 29,
+      "available_spot_count": 27,
       "capacity": 50
     },
     {
@@ -1261,7 +1261,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-02",
       "start_time": "18:40",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
@@ -1311,7 +1311,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-05",
       "start_time": "17:30",
-      "available_spot_count": 37,
+      "available_spot_count": 35,
       "capacity": 37
     },
     {
@@ -1336,6 +1336,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: SUNRISE & SWIFT: 1989 X REPUTATION",
+      "booking_start_date": "2026-10-29 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-11-06",
+      "start_time": "06:00",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: 50 CENT x DOM DOLLA",
       "booking_start_date": "2026-10-29 12:00",
       "location": "DOWNTOWN VANCOUVER",
@@ -1353,6 +1363,26 @@
       "start_time": "12:30",
       "available_spot_count": 50,
       "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: TROYE SIVAN x SLAYYYTER x LORDE",
+      "booking_start_date": "2026-10-29 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-11-06",
+      "start_time": "16:20",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: TROYE SIVAN x SLAYYYTER x LORDE",
+      "booking_start_date": "2026-11-01 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-11-09",
+      "start_time": "17:30",
+      "available_spot_count": 37,
+      "capacity": 37
     }
   ]
 }
