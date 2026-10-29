@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T14:53:11.570678-07:00",
+  "last_updated": "2026-10-28T18:46:09.077203-07:00",
   "alo": [],
   "special": [
     {
@@ -37,16 +37,6 @@
     {
       "studio": "Lagree West",
       "name": "Happy Hour Megaformer x Oktoberwest",
-      "booking_start_date": "2026-10-21 00:00",
-      "location": "Main St",
-      "start_date": "2026-10-28",
-      "start_time": "20:15",
-      "available_spot_count": 3,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Oktoberwest",
       "booking_start_date": "2026-10-22 00:00",
       "location": "Main St",
       "start_date": "2026-10-29",
@@ -61,7 +51,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-29",
       "start_time": "14:15",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 16
     },
     {
@@ -81,7 +71,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-30",
       "start_time": "16:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 20
     },
     {
@@ -111,7 +101,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-30",
       "start_time": "18:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 20
     },
     {
@@ -211,7 +201,7 @@
       "location": "Main St",
       "start_date": "2026-10-31",
       "start_time": "16:00",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 14
     },
     {
@@ -436,6 +426,26 @@
     },
     {
       "studio": "Jaybird",
+      "name": "Sweat For A Cause | The Being",
+      "booking_start_date": "2026-11-10 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-11-17",
+      "start_time": "07:15",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "Sweat For A Cause | The Burn",
+      "booking_start_date": "2026-11-12 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-11-19",
+      "start_time": "10:00",
+      "available_spot_count": 45,
+      "capacity": 45
+    },
+    {
+      "studio": "Jaybird",
       "name": "The Balance + ALO Community Class",
       "booking_start_date": "2026-11-14 18:00",
       "location": "Yaletown",
@@ -451,7 +461,7 @@
       "location": "West Broadway",
       "start_date": "2026-10-29",
       "start_time": "10:00",
-      "available_spot_count": 5,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -501,7 +511,7 @@
       "location": "4th Ave",
       "start_date": "2026-10-30",
       "start_time": "15:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 15
     },
     {
@@ -511,7 +521,7 @@
       "location": "4th Ave",
       "start_date": "2026-10-30",
       "start_time": "16:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 15
     },
     {
@@ -646,32 +656,12 @@
     },
     {
       "studio": "Lagree X",
-      "name": "Nightmare on the Mega\ud83d\udc80",
-      "booking_start_date": "2026-10-21 16:30",
-      "location": "Vancouver",
-      "start_date": "2026-10-28",
-      "start_time": "16:30",
-      "available_spot_count": 9,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
-      "name": "Bat Wings and Killer legs \ud83e\udd87 \ud83d\udd25",
-      "booking_start_date": "2026-10-21 18:30",
-      "location": "Vancouver",
-      "start_date": "2026-10-28",
-      "start_time": "18:30",
-      "available_spot_count": 2,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree X",
       "name": "Thriller After Dark \ud83e\udddf\u200d\u2642\ufe0f \ud83d\udc7b",
       "booking_start_date": "2026-10-22 17:30",
       "location": "Vancouver",
       "start_date": "2026-10-29",
       "start_time": "17:30",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 12
     },
     {
@@ -681,7 +671,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-29",
       "start_time": "18:30",
-      "available_spot_count": 7,
+      "available_spot_count": 4,
       "capacity": 12
     },
     {
@@ -691,7 +681,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-29",
       "start_time": "19:30",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -751,7 +741,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-31",
       "start_time": "10:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 12
     },
     {
@@ -761,7 +751,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-01",
       "start_time": "09:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 12
     },
     {
@@ -781,7 +771,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-01",
       "start_time": "11:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -801,7 +791,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-31",
       "start_time": "20:30",
-      "available_spot_count": 123,
+      "available_spot_count": 121,
       "capacity": 200
     },
     {
@@ -891,7 +881,7 @@
       "location": "West End",
       "start_date": "2026-10-29",
       "start_time": "19:45",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 22
     },
     {
@@ -911,7 +901,7 @@
       "location": "West End",
       "start_date": "2026-11-02",
       "start_time": "19:15",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 22
     },
     {
@@ -1201,7 +1191,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-29",
       "start_time": "18:40",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -1211,7 +1201,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-30",
       "start_time": "12:30",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 50
     },
     {
@@ -1231,7 +1221,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-01",
       "start_time": "08:20",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
@@ -1241,7 +1231,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-01",
       "start_time": "09:30",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 50
     },
     {
@@ -1351,7 +1341,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-05",
       "start_time": "18:40",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
