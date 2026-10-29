@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T01:23:28.835208-07:00",
+  "last_updated": "2026-10-29T08:31:07.936217-07:00",
   "alo": [],
   "special": [
     {
@@ -41,7 +41,7 @@
       "location": "Main St",
       "start_date": "2026-10-29",
       "start_time": "14:15",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 14
     },
     {
@@ -181,7 +181,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-31",
       "start_time": "11:15",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 26
     },
     {
@@ -221,7 +221,7 @@
       "location": "Kitsilano",
       "start_date": "2026-11-05",
       "start_time": "05:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 16
     },
     {
@@ -231,7 +231,7 @@
       "location": "Kitsilano",
       "start_date": "2026-11-05",
       "start_time": "06:15",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 16
     },
     {
@@ -241,7 +241,7 @@
       "location": "Main St",
       "start_date": "2026-11-06",
       "start_time": "14:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 14
     },
     {
@@ -301,7 +301,7 @@
       "location": "Kitsilano",
       "start_date": "2026-11-15",
       "start_time": "15:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 16
     },
     {
@@ -531,7 +531,7 @@
       "location": "4th Ave",
       "start_date": "2026-10-30",
       "start_time": "17:30",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 14
     },
     {
@@ -875,6 +875,16 @@
       "capacity": 30
     },
     {
+      "studio": "All Method Studio",
+      "name": "ALL Mat - Happy Hour 55 mins",
+      "booking_start_date": "2026-10-28 09:15",
+      "location": "Railway",
+      "start_date": "2026-11-11",
+      "start_time": "09:15",
+      "available_spot_count": 18,
+      "capacity": 18
+    },
+    {
       "studio": "Ritual",
       "name": "Mobility + Release",
       "booking_start_date": "2026-07-31 19:45",
@@ -921,7 +931,7 @@
       "location": "West End",
       "start_date": "2026-11-08",
       "start_time": "14:00",
-      "available_spot_count": 1,
+      "available_spot_count": 11,
       "capacity": 25
     },
     {
@@ -1191,7 +1201,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-29",
       "start_time": "18:40",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 50
     },
     {
@@ -1201,7 +1211,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-10-30",
       "start_time": "12:30",
-      "available_spot_count": 21,
+      "available_spot_count": 22,
       "capacity": 50
     },
     {
@@ -1311,7 +1321,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-05",
       "start_time": "06:00",
-      "available_spot_count": 35,
+      "available_spot_count": 32,
       "capacity": 37
     },
     {
@@ -1321,7 +1331,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-05",
       "start_time": "12:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 37
     },
     {
@@ -1331,7 +1341,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-05",
       "start_time": "17:30",
-      "available_spot_count": 31,
+      "available_spot_count": 29,
       "capacity": 37
     },
     {
@@ -1341,7 +1351,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-05",
       "start_time": "18:40",
-      "available_spot_count": 28,
+      "available_spot_count": 24,
       "capacity": 50
     },
     {
@@ -1351,7 +1361,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-05",
       "start_time": "19:50",
-      "available_spot_count": 49,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
