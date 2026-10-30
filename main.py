@@ -20,7 +20,8 @@ TARGET_NAMES = [
     "+",
     "-",
     "—",
-    "community"
+    "community",
+    "|"
 ]
 STUDIO_WITH_MANY_CLASSES = [
     "Lagree West",
