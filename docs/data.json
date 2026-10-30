@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T11:49:41.174411-07:00",
+  "last_updated": "2026-10-30T15:56:13.510107-07:00",
   "alo": [],
   "special": [
     {
@@ -29,21 +29,11 @@
       "location": "Main Street",
       "start_date": "2026-11-08",
       "start_time": "09:00",
-      "available_spot_count": 82,
+      "available_spot_count": 81,
       "capacity": 85
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Megaformer x Oktoberwest",
-      "booking_start_date": "2026-10-23 00:00",
-      "location": "Gastown",
-      "start_date": "2026-10-30",
-      "start_time": "15:15",
-      "available_spot_count": 5,
-      "capacity": 15
-    },
     {
       "studio": "Lagree West",
       "name": "Megaformer x Halloween Costume Party",
@@ -51,7 +41,7 @@
       "location": "Yaletown",
       "start_date": "2026-10-30",
       "start_time": "16:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 20
     },
     {
@@ -61,7 +51,7 @@
       "location": "Gastown",
       "start_date": "2026-10-30",
       "start_time": "16:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 15
     },
     {
@@ -141,7 +131,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-31",
       "start_time": "09:00",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 26
     },
     {
@@ -181,7 +171,7 @@
       "location": "Main St",
       "start_date": "2026-10-31",
       "start_time": "16:00",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 14
     },
     {
@@ -221,7 +211,7 @@
       "location": "Main St",
       "start_date": "2026-11-06",
       "start_time": "14:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 14
     },
     {
@@ -431,7 +421,7 @@
       "location": "Yaletown",
       "start_date": "2026-11-02",
       "start_time": "07:15",
-      "available_spot_count": 7,
+      "available_spot_count": 3,
       "capacity": 36
     },
     {
@@ -511,7 +501,7 @@
       "location": "4th Ave",
       "start_date": "2026-10-30",
       "start_time": "15:30",
-      "available_spot_count": 6,
+      "available_spot_count": 3,
       "capacity": 15
     },
     {
@@ -521,7 +511,7 @@
       "location": "4th Ave",
       "start_date": "2026-10-30",
       "start_time": "16:30",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 15
     },
     {
@@ -661,7 +651,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-30",
       "start_time": "16:30",
-      "available_spot_count": 7,
+      "available_spot_count": 8,
       "capacity": 12
     },
     {
@@ -671,7 +661,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-30",
       "start_time": "17:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 12
     },
     {
@@ -701,7 +691,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-31",
       "start_time": "10:30",
-      "available_spot_count": 0,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -751,7 +741,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-31",
       "start_time": "20:30",
-      "available_spot_count": 109,
+      "available_spot_count": 110,
       "capacity": 200
     },
     {
@@ -951,7 +941,7 @@
       "location": "Main Street",
       "start_date": "2026-11-02",
       "start_time": "07:00",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 24
     },
     {
@@ -961,7 +951,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-11-02",
       "start_time": "08:15",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 32
     },
     {
@@ -1001,7 +991,7 @@
       "location": "Main Street",
       "start_date": "2026-11-05",
       "start_time": "06:00",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 24
     },
     {
@@ -1011,7 +1001,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-11-05",
       "start_time": "07:00",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 32
     },
     {
@@ -1041,7 +1031,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-11-05",
       "start_time": "09:30",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 34
     },
     {
@@ -1061,7 +1051,7 @@
       "location": "Main Street",
       "start_date": "2026-11-05",
       "start_time": "10:45",
-      "available_spot_count": 30,
+      "available_spot_count": 27,
       "capacity": 32
     },
     {
@@ -1081,7 +1071,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-11-05",
       "start_time": "17:15",
-      "available_spot_count": 26,
+      "available_spot_count": 23,
       "capacity": 32
     },
     {
@@ -1131,7 +1121,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-11-06",
       "start_time": "09:30",
-      "available_spot_count": 29,
+      "available_spot_count": 25,
       "capacity": 32
     },
     {
@@ -1141,7 +1131,7 @@
       "location": "Main Street",
       "start_date": "2026-11-06",
       "start_time": "10:45",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 32
     },
     {
@@ -1151,7 +1141,7 @@
       "location": "Main Street",
       "start_date": "2026-11-07",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 32
     },
     {
@@ -2036,16 +2026,6 @@
     },
     {
       "studio": "Turf",
-      "name": "meta x MN 45 min",
-      "booking_start_date": "2026-11-27 09:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-12-04",
-      "start_time": "09:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "meta + Mat Werk 45 min",
       "booking_start_date": "2026-11-27 09:30",
       "location": "Main Street",
@@ -2266,16 +2246,6 @@
     },
     {
       "studio": "Turf",
-      "name": "meta x MN 45 min",
-      "booking_start_date": "2026-12-04 09:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-12-11",
-      "start_time": "09:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "meta + Mat Werk 45 min",
       "booking_start_date": "2026-12-04 10:45",
       "location": "Main Street",
@@ -2286,22 +2256,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: DISNEY STARS! SELENA GOMEZ x MILEY CYRUS",
-      "booking_start_date": "2026-10-22 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-10-30",
-      "start_time": "12:30",
-      "available_spot_count": 22,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: 2010s POP x HIP HOP",
       "booking_start_date": "2026-10-22 12:00",
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-10-30",
       "start_time": "17:30",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 36
     },
     {
@@ -2321,7 +2281,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-01",
       "start_time": "09:30",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 50
     },
     {
@@ -2361,7 +2321,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-02",
       "start_time": "18:40",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 50
     },
     {
@@ -2371,7 +2331,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-03",
       "start_time": "07:15",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 37
     },
     {
@@ -2391,7 +2351,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-04",
       "start_time": "09:45",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 49
     },
     {
@@ -2431,7 +2391,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-05",
       "start_time": "18:40",
-      "available_spot_count": 6,
+      "available_spot_count": 7,
       "capacity": 50
     },
     {
@@ -2481,7 +2441,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-06",
       "start_time": "12:30",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
