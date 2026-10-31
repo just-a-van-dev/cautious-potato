@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T12:31:34.505462-07:00",
+  "last_updated": "2026-10-31T15:47:41.909278-07:00",
   "alo": [],
   "special": [
     {
@@ -29,21 +29,11 @@
       "location": "Main Street",
       "start_date": "2026-11-08",
       "start_time": "09:00",
-      "available_spot_count": 81,
+      "available_spot_count": 80,
       "capacity": 85
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Megaformer x Spooks and Shakes",
-      "booking_start_date": "2026-10-24 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-10-31",
-      "start_time": "12:30",
-      "available_spot_count": 0,
-      "capacity": 16
-    },
     {
       "studio": "Lagree West",
       "name": "Happy Hour Megaformer x Oktoberwest",
@@ -61,7 +51,7 @@
       "location": "Main St",
       "start_date": "2026-10-31",
       "start_time": "17:00",
-      "available_spot_count": 10,
+      "available_spot_count": 7,
       "capacity": 14
     },
     {
@@ -71,7 +61,7 @@
       "location": "Kitsilano",
       "start_date": "2026-11-05",
       "start_time": "05:15",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 16
     },
     {
@@ -541,7 +531,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-31",
       "start_time": "20:30",
-      "available_spot_count": 31,
+      "available_spot_count": 29,
       "capacity": 120
     },
     {
@@ -561,7 +551,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-08",
       "start_time": "14:00",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 20
     },
     {
@@ -771,7 +761,7 @@
       "location": "Main Street",
       "start_date": "2026-11-07",
       "start_time": "12:30",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 32
     },
     {
@@ -1001,7 +991,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-05",
       "start_time": "19:50",
-      "available_spot_count": 45,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -1051,7 +1041,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-06",
       "start_time": "16:20",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 49
     },
     {
