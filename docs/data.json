@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T19:17:12.395381-07:00",
+  "last_updated": "2026-10-31T01:50:52.605200-07:00",
   "alo": [],
   "special": [
     {
@@ -51,7 +51,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-31",
       "start_time": "07:00",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 16
     },
     {
@@ -91,7 +91,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-31",
       "start_time": "09:00",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 26
     },
     {
@@ -111,7 +111,7 @@
       "location": "Kitsilano",
       "start_date": "2026-10-31",
       "start_time": "11:15",
-      "available_spot_count": 3,
+      "available_spot_count": 6,
       "capacity": 26
     },
     {
@@ -131,7 +131,7 @@
       "location": "Main St",
       "start_date": "2026-10-31",
       "start_time": "16:00",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 14
     },
     {
@@ -191,7 +191,7 @@
       "location": "Main St",
       "start_date": "2026-11-08",
       "start_time": "12:00",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 14
     },
     {
@@ -381,7 +381,7 @@
       "location": "Yaletown",
       "start_date": "2026-11-02",
       "start_time": "07:15",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 36
     },
     {
@@ -621,7 +621,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-01",
       "start_time": "10:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -631,7 +631,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-01",
       "start_time": "11:30",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -651,7 +651,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-31",
       "start_time": "20:30",
-      "available_spot_count": 109,
+      "available_spot_count": 112,
       "capacity": 200
     },
     {
@@ -661,7 +661,7 @@
       "location": "Vancouver",
       "start_date": "2026-10-31",
       "start_time": "22:00",
-      "available_spot_count": 70,
+      "available_spot_count": 69,
       "capacity": 70
     },
     {
@@ -711,7 +711,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-15",
       "start_time": "19:30",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 70
     },
     {
@@ -826,196 +826,6 @@
     },
     {
       "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-10-26 06:00",
-      "location": "Main Street",
-      "start_date": "2026-11-02",
-      "start_time": "06:00",
-      "available_spot_count": 21,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-10-26 07:00",
-      "location": "Main Street",
-      "start_date": "2026-11-02",
-      "start_time": "07:00",
-      "available_spot_count": 20,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-10-26 08:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-02",
-      "start_time": "08:15",
-      "available_spot_count": 11,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-10-26 10:45",
-      "location": "Main Street",
-      "start_date": "2026-11-02",
-      "start_time": "10:45",
-      "available_spot_count": 28,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-10-26 17:15",
-      "location": "Main Street",
-      "start_date": "2026-11-02",
-      "start_time": "17:15",
-      "available_spot_count": 25,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-10-26 18:30",
-      "location": "Main Street",
-      "start_date": "2026-11-02",
-      "start_time": "18:30",
-      "available_spot_count": 30,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-10-29 06:00",
-      "location": "Main Street",
-      "start_date": "2026-11-05",
-      "start_time": "06:00",
-      "available_spot_count": 22,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-10-29 07:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-05",
-      "start_time": "07:00",
-      "available_spot_count": 24,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-10-29 07:00",
-      "location": "Main Street",
-      "start_date": "2026-11-05",
-      "start_time": "07:00",
-      "available_spot_count": 22,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-10-29 08:15",
-      "location": "Main Street",
-      "start_date": "2026-11-05",
-      "start_time": "08:15",
-      "available_spot_count": 31,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-10-29 09:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-05",
-      "start_time": "09:30",
-      "available_spot_count": 11,
-      "capacity": 34
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-10-29 09:30",
-      "location": "Main Street",
-      "start_date": "2026-11-05",
-      "start_time": "09:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-10-29 10:45",
-      "location": "Main Street",
-      "start_date": "2026-11-05",
-      "start_time": "10:45",
-      "available_spot_count": 27,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-10-29 16:00",
-      "location": "Main Street",
-      "start_date": "2026-11-05",
-      "start_time": "16:00",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-10-29 17:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-05",
-      "start_time": "17:15",
-      "available_spot_count": 23,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-10-29 17:15",
-      "location": "Main Street",
-      "start_date": "2026-11-05",
-      "start_time": "17:15",
-      "available_spot_count": 29,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-10-29 18:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-05",
-      "start_time": "18:30",
-      "available_spot_count": 24,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-10-29 18:30",
-      "location": "Main Street",
-      "start_date": "2026-11-05",
-      "start_time": "18:30",
-      "available_spot_count": 28,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-10-30 09:30",
-      "location": "Main Street",
-      "start_date": "2026-11-06",
-      "start_time": "09:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "On The Mat with Nat",
       "booking_start_date": "2026-10-30 09:30",
       "location": "KITS - Vancouver",
@@ -1026,22 +836,12 @@
     },
     {
       "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-10-30 10:45",
-      "location": "Main Street",
-      "start_date": "2026-11-06",
-      "start_time": "10:45",
-      "available_spot_count": 30,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "\ud83c\udf1fSPOTLIGHT\ud83c\udf1f: POWDER PREP: Strengthen + Mat Werk",
       "booking_start_date": "2026-10-31 12:30",
       "location": "Main Street",
       "start_date": "2026-11-07",
       "start_time": "12:30",
-      "available_spot_count": 30,
+      "available_spot_count": 28,
       "capacity": 32
     },
     {
@@ -1051,36 +851,6 @@
       "location": "Main Street",
       "start_date": "2026-11-08",
       "start_time": "11:00",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-02 06:00",
-      "location": "Main Street",
-      "start_date": "2026-11-09",
-      "start_time": "06:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-02 07:00",
-      "location": "Main Street",
-      "start_date": "2026-11-09",
-      "start_time": "07:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-02 08:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-09",
-      "start_time": "08:15",
       "available_spot_count": 32,
       "capacity": 32
     },
@@ -1096,56 +866,6 @@
     },
     {
       "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-02 17:15",
-      "location": "Main Street",
-      "start_date": "2026-11-09",
-      "start_time": "17:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-02 18:30",
-      "location": "Main Street",
-      "start_date": "2026-11-09",
-      "start_time": "18:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-05 06:00",
-      "location": "Main Street",
-      "start_date": "2026-11-12",
-      "start_time": "06:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-05 07:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-12",
-      "start_time": "07:00",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-05 07:00",
-      "location": "Main Street",
-      "start_date": "2026-11-12",
-      "start_time": "07:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
       "name": "On The Mat with Nat",
       "booking_start_date": "2026-11-05 08:15",
       "location": "KITS - Vancouver",
@@ -1156,121 +876,11 @@
     },
     {
       "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-05 08:15",
-      "location": "Main Street",
-      "start_date": "2026-11-12",
-      "start_time": "08:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-05 09:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-12",
-      "start_time": "09:30",
-      "available_spot_count": 34,
-      "capacity": 34
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-05 09:30",
-      "location": "Main Street",
-      "start_date": "2026-11-12",
-      "start_time": "09:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-05 10:45",
-      "location": "Main Street",
-      "start_date": "2026-11-12",
-      "start_time": "10:45",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-05 16:00",
-      "location": "Main Street",
-      "start_date": "2026-11-12",
-      "start_time": "16:00",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-05 17:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-12",
-      "start_time": "17:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-05 17:15",
-      "location": "Main Street",
-      "start_date": "2026-11-12",
-      "start_time": "17:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-05 18:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-12",
-      "start_time": "18:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-05 18:30",
-      "location": "Main Street",
-      "start_date": "2026-11-12",
-      "start_time": "18:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-06 09:30",
-      "location": "Main Street",
-      "start_date": "2026-11-13",
-      "start_time": "09:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "meta 45 min *Co-teach*",
       "booking_start_date": "2026-11-06 09:30",
       "location": "KITS - Vancouver",
       "start_date": "2026-11-13",
       "start_time": "09:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-06 10:45",
-      "location": "Main Street",
-      "start_date": "2026-11-13",
-      "start_time": "10:45",
       "available_spot_count": 32,
       "capacity": 32
     },
@@ -1296,441 +906,11 @@
     },
     {
       "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-09 06:00",
-      "location": "Main Street",
-      "start_date": "2026-11-16",
-      "start_time": "06:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-09 07:00",
-      "location": "Main Street",
-      "start_date": "2026-11-16",
-      "start_time": "07:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-09 08:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-16",
-      "start_time": "08:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-09 10:45",
-      "location": "Main Street",
-      "start_date": "2026-11-16",
-      "start_time": "10:45",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-09 17:15",
-      "location": "Main Street",
-      "start_date": "2026-11-16",
-      "start_time": "17:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-09 18:30",
-      "location": "Main Street",
-      "start_date": "2026-11-16",
-      "start_time": "18:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-12 06:00",
-      "location": "Main Street",
-      "start_date": "2026-11-19",
-      "start_time": "06:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-12 07:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-19",
-      "start_time": "07:00",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-12 07:00",
-      "location": "Main Street",
-      "start_date": "2026-11-19",
-      "start_time": "07:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-12 08:15",
-      "location": "Main Street",
-      "start_date": "2026-11-19",
-      "start_time": "08:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-12 09:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-19",
-      "start_time": "09:30",
-      "available_spot_count": 34,
-      "capacity": 34
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-12 09:30",
-      "location": "Main Street",
-      "start_date": "2026-11-19",
-      "start_time": "09:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-12 10:45",
-      "location": "Main Street",
-      "start_date": "2026-11-19",
-      "start_time": "10:45",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-12 16:00",
-      "location": "Main Street",
-      "start_date": "2026-11-19",
-      "start_time": "16:00",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-12 17:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-19",
-      "start_time": "17:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-12 17:15",
-      "location": "Main Street",
-      "start_date": "2026-11-19",
-      "start_time": "17:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-12 18:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-19",
-      "start_time": "18:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-12 18:30",
-      "location": "Main Street",
-      "start_date": "2026-11-19",
-      "start_time": "18:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-13 08:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-20",
-      "start_time": "08:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-13 09:30",
-      "location": "Main Street",
-      "start_date": "2026-11-20",
-      "start_time": "09:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-13 10:45",
-      "location": "Main Street",
-      "start_date": "2026-11-20",
-      "start_time": "10:45",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-13 16:00",
-      "location": "Main Street",
-      "start_date": "2026-11-20",
-      "start_time": "16:00",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "\ud83c\udf1fSPOTLIGHT\ud83c\udf1f: Mat Burn with Dina \ud83c\udf36\ufe0f",
       "booking_start_date": "2026-11-14 12:30",
       "location": "Main Street",
       "start_date": "2026-11-21",
       "start_time": "12:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-16 06:00",
-      "location": "Main Street",
-      "start_date": "2026-11-23",
-      "start_time": "06:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-16 07:00",
-      "location": "Main Street",
-      "start_date": "2026-11-23",
-      "start_time": "07:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-16 08:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-23",
-      "start_time": "08:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-16 10:45",
-      "location": "Main Street",
-      "start_date": "2026-11-23",
-      "start_time": "10:45",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-16 17:15",
-      "location": "Main Street",
-      "start_date": "2026-11-23",
-      "start_time": "17:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-16 18:30",
-      "location": "Main Street",
-      "start_date": "2026-11-23",
-      "start_time": "18:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-19 06:00",
-      "location": "Main Street",
-      "start_date": "2026-11-26",
-      "start_time": "06:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-19 07:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-26",
-      "start_time": "07:00",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-19 07:00",
-      "location": "Main Street",
-      "start_date": "2026-11-26",
-      "start_time": "07:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-19 08:15",
-      "location": "Main Street",
-      "start_date": "2026-11-26",
-      "start_time": "08:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-19 09:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-26",
-      "start_time": "09:30",
-      "available_spot_count": 34,
-      "capacity": 34
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-19 09:30",
-      "location": "Main Street",
-      "start_date": "2026-11-26",
-      "start_time": "09:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-19 10:45",
-      "location": "Main Street",
-      "start_date": "2026-11-26",
-      "start_time": "10:45",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-19 16:00",
-      "location": "Main Street",
-      "start_date": "2026-11-26",
-      "start_time": "16:00",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-19 17:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-26",
-      "start_time": "17:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-19 17:15",
-      "location": "Main Street",
-      "start_date": "2026-11-26",
-      "start_time": "17:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-19 18:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-26",
-      "start_time": "18:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-19 18:30",
-      "location": "Main Street",
-      "start_date": "2026-11-26",
-      "start_time": "18:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-20 09:30",
-      "location": "Main Street",
-      "start_date": "2026-11-27",
-      "start_time": "09:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-20 10:45",
-      "location": "Main Street",
-      "start_date": "2026-11-27",
-      "start_time": "10:45",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-20 16:00",
-      "location": "Main Street",
-      "start_date": "2026-11-27",
-      "start_time": "16:00",
       "available_spot_count": 32,
       "capacity": 32
     },
@@ -1746,471 +926,11 @@
     },
     {
       "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-23 06:00",
-      "location": "Main Street",
-      "start_date": "2026-11-30",
-      "start_time": "06:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-23 07:00",
-      "location": "Main Street",
-      "start_date": "2026-11-30",
-      "start_time": "07:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-23 08:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-30",
-      "start_time": "08:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-23 10:45",
-      "location": "Main Street",
-      "start_date": "2026-11-30",
-      "start_time": "10:45",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-23 17:15",
-      "location": "Main Street",
-      "start_date": "2026-11-30",
-      "start_time": "17:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-23 18:30",
-      "location": "Main Street",
-      "start_date": "2026-11-30",
-      "start_time": "18:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-26 06:00",
-      "location": "Main Street",
-      "start_date": "2026-12-03",
-      "start_time": "06:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-26 07:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-12-03",
-      "start_time": "07:00",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-26 07:00",
-      "location": "Main Street",
-      "start_date": "2026-12-03",
-      "start_time": "07:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-26 08:15",
-      "location": "Main Street",
-      "start_date": "2026-12-03",
-      "start_time": "08:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-26 09:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-12-03",
-      "start_time": "09:30",
-      "available_spot_count": 34,
-      "capacity": 34
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-26 09:30",
-      "location": "Main Street",
-      "start_date": "2026-12-03",
-      "start_time": "09:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-26 10:45",
-      "location": "Main Street",
-      "start_date": "2026-12-03",
-      "start_time": "10:45",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-26 16:00",
-      "location": "Main Street",
-      "start_date": "2026-12-03",
-      "start_time": "16:00",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-26 17:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-12-03",
-      "start_time": "17:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-26 17:15",
-      "location": "Main Street",
-      "start_date": "2026-12-03",
-      "start_time": "17:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-26 18:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-12-03",
-      "start_time": "18:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-26 18:30",
-      "location": "Main Street",
-      "start_date": "2026-12-03",
-      "start_time": "18:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-27 09:30",
-      "location": "Main Street",
-      "start_date": "2026-12-04",
-      "start_time": "09:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-27 10:45",
-      "location": "Main Street",
-      "start_date": "2026-12-04",
-      "start_time": "10:45",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "\ud83c\udf1fSPOTLIGHT\ud83c\udf1f: Meta w/ Founding Teacher Ange",
       "booking_start_date": "2026-11-28 12:30",
       "location": "Main Street",
       "start_date": "2026-12-05",
       "start_time": "12:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-30 06:00",
-      "location": "Main Street",
-      "start_date": "2026-12-07",
-      "start_time": "06:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-30 07:00",
-      "location": "Main Street",
-      "start_date": "2026-12-07",
-      "start_time": "07:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-11-30 08:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-12-07",
-      "start_time": "08:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-30 10:45",
-      "location": "Main Street",
-      "start_date": "2026-12-07",
-      "start_time": "10:45",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-30 17:15",
-      "location": "Main Street",
-      "start_date": "2026-12-07",
-      "start_time": "17:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-11-30 18:30",
-      "location": "Main Street",
-      "start_date": "2026-12-07",
-      "start_time": "18:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-12-03 06:00",
-      "location": "Main Street",
-      "start_date": "2026-12-10",
-      "start_time": "06:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-12-03 07:00",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-12-10",
-      "start_time": "07:00",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-12-03 07:00",
-      "location": "Main Street",
-      "start_date": "2026-12-10",
-      "start_time": "07:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-12-03 08:15",
-      "location": "Main Street",
-      "start_date": "2026-12-10",
-      "start_time": "08:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-12-03 09:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-12-10",
-      "start_time": "09:30",
-      "available_spot_count": 34,
-      "capacity": 34
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-12-03 09:30",
-      "location": "Main Street",
-      "start_date": "2026-12-10",
-      "start_time": "09:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-12-03 10:45",
-      "location": "Main Street",
-      "start_date": "2026-12-10",
-      "start_time": "10:45",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-12-03 16:00",
-      "location": "Main Street",
-      "start_date": "2026-12-10",
-      "start_time": "16:00",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-12-03 17:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-12-10",
-      "start_time": "17:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-12-03 17:15",
-      "location": "Main Street",
-      "start_date": "2026-12-10",
-      "start_time": "17:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-12-03 18:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-12-10",
-      "start_time": "18:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-12-03 18:30",
-      "location": "Main Street",
-      "start_date": "2026-12-10",
-      "start_time": "18:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-12-04 09:30",
-      "location": "Main Street",
-      "start_date": "2026-12-11",
-      "start_time": "09:30",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-12-04 10:45",
-      "location": "Main Street",
-      "start_date": "2026-12-11",
-      "start_time": "10:45",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-12-07 06:00",
-      "location": "Main Street",
-      "start_date": "2026-12-14",
-      "start_time": "06:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-12-07 07:00",
-      "location": "Main Street",
-      "start_date": "2026-12-14",
-      "start_time": "07:00",
-      "available_spot_count": 24,
-      "capacity": 24
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Weights 45 min",
-      "booking_start_date": "2026-12-07 08:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-12-14",
-      "start_time": "08:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-12-07 10:45",
-      "location": "Main Street",
-      "start_date": "2026-12-14",
-      "start_time": "10:45",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-12-07 17:15",
-      "location": "Main Street",
-      "start_date": "2026-12-14",
-      "start_time": "17:15",
-      "available_spot_count": 32,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
-      "name": "meta + Mat Werk 45 min",
-      "booking_start_date": "2026-12-07 18:30",
-      "location": "Main Street",
-      "start_date": "2026-12-14",
-      "start_time": "18:30",
       "available_spot_count": 32,
       "capacity": 32
     },
@@ -2241,7 +961,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-02",
       "start_time": "06:00",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 49
     },
     {
@@ -2251,7 +971,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-02",
       "start_time": "12:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -2261,7 +981,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-02",
       "start_time": "17:30",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -2331,7 +1051,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-05",
       "start_time": "17:30",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 37
     },
     {
@@ -2341,7 +1061,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-05",
       "start_time": "18:40",
-      "available_spot_count": 7,
+      "available_spot_count": 4,
       "capacity": 50
     },
     {
@@ -2371,7 +1091,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-06",
       "start_time": "07:15",
-      "available_spot_count": 33,
+      "available_spot_count": 34,
       "capacity": 37
     },
     {
@@ -2391,7 +1111,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-06",
       "start_time": "12:30",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
