@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T08:39:04.726768-07:00",
+  "last_updated": "2026-11-02T16:12:34.267304-07:00",
   "alo": [],
   "special": [
     {
@@ -19,7 +19,7 @@
       "location": "Main Street",
       "start_date": "2026-11-08",
       "start_time": "09:00",
-      "available_spot_count": 75,
+      "available_spot_count": 74,
       "capacity": 85
     }
   ],
@@ -51,7 +51,7 @@
       "location": "Main St",
       "start_date": "2026-11-06",
       "start_time": "14:15",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 14
     },
     {
@@ -81,7 +81,7 @@
       "location": "Main St",
       "start_date": "2026-11-08",
       "start_time": "13:00",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 14
     },
     {
@@ -136,6 +136,16 @@
     },
     {
       "studio": "Lagree West",
+      "name": "Mega Mama x Jilly Box",
+      "booking_start_date": "2026-11-09 00:00",
+      "location": "Main St",
+      "start_date": "2026-11-16",
+      "start_time": "13:15",
+      "available_spot_count": 14,
+      "capacity": 14
+    },
+    {
+      "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
       "booking_start_date": "2026-10-17 13:15",
       "location": "Yaletown",
@@ -181,7 +191,7 @@
       "location": "Main St",
       "start_date": "2026-11-20",
       "start_time": "15:15",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 14
     },
     {
@@ -377,16 +387,6 @@
     {
       "studio": "The Third",
       "name": "instructor development - lagree full body",
-      "booking_start_date": "2026-11-13 17:30",
-      "location": "4th Ave",
-      "start_date": "2026-11-27",
-      "start_time": "17:30",
-      "available_spot_count": 15,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
-      "name": "instructor development - lagree full body",
       "booking_start_date": "2026-11-17 12:00",
       "location": "4th Ave",
       "start_date": "2026-12-01",
@@ -441,7 +441,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-06",
       "start_time": "08:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -451,7 +451,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-08",
       "start_time": "14:00",
-      "available_spot_count": 4,
+      "available_spot_count": 3,
       "capacity": 20
     },
     {
@@ -561,7 +561,7 @@
       "location": "Railway",
       "start_date": "2026-11-05",
       "start_time": "12:00",
-      "available_spot_count": 22,
+      "available_spot_count": 16,
       "capacity": 30
     },
     {
@@ -581,7 +581,7 @@
       "location": "West End",
       "start_date": "2026-11-08",
       "start_time": "14:00",
-      "available_spot_count": 6,
+      "available_spot_count": 3,
       "capacity": 25
     },
     {
@@ -641,7 +641,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-11-06",
       "start_time": "09:30",
-      "available_spot_count": 21,
+      "available_spot_count": 17,
       "capacity": 32
     },
     {
@@ -651,7 +651,7 @@
       "location": "Main Street",
       "start_date": "2026-11-07",
       "start_time": "12:30",
-      "available_spot_count": 17,
+      "available_spot_count": 14,
       "capacity": 32
     },
     {
@@ -661,7 +661,7 @@
       "location": "Main Street",
       "start_date": "2026-11-08",
       "start_time": "11:00",
-      "available_spot_count": 20,
+      "available_spot_count": 14,
       "capacity": 32
     },
     {
@@ -671,7 +671,7 @@
       "location": "Main Street",
       "start_date": "2026-11-09",
       "start_time": "10:45",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 32
     },
     {
@@ -746,32 +746,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: TATE MCRAE x CALVIN HARRIS",
-      "booking_start_date": "2026-10-25 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-11-02",
-      "start_time": "12:30",
-      "available_spot_count": 34,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: JUSTIN BIEBER x USHER",
       "booking_start_date": "2026-10-25 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-11-02",
       "start_time": "17:30",
-      "available_spot_count": 26,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: K-POP THROWBACKS PART 3",
-      "booking_start_date": "2026-10-25 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-11-02",
-      "start_time": "18:40",
-      "available_spot_count": 3,
+      "available_spot_count": 24,
       "capacity": 50
     },
     {
@@ -781,7 +761,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-03",
       "start_time": "07:15",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 37
     },
     {
@@ -791,7 +771,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-03",
       "start_time": "17:30",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -801,7 +781,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-04",
       "start_time": "09:45",
-      "available_spot_count": 33,
+      "available_spot_count": 30,
       "capacity": 49
     },
     {
@@ -811,7 +791,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-05",
       "start_time": "06:00",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 37
     },
     {
@@ -821,7 +801,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-05",
       "start_time": "12:30",
-      "available_spot_count": 26,
+      "available_spot_count": 21,
       "capacity": 37
     },
     {
@@ -831,7 +811,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-05",
       "start_time": "17:30",
-      "available_spot_count": 16,
+      "available_spot_count": 0,
       "capacity": 37
     },
     {
@@ -851,7 +831,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-05",
       "start_time": "19:50",
-      "available_spot_count": 39,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -861,7 +841,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-06",
       "start_time": "06:00",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -881,7 +861,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-06",
       "start_time": "12:30",
-      "available_spot_count": 43,
+      "available_spot_count": 38,
       "capacity": 49
     },
     {
@@ -901,17 +881,17 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-06",
       "start_time": "16:20",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 49
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: TATE MCRAE x CALVIN HARRIS",
+      "name": "THEME: CALVIN HARRIS x RIHANNA",
       "booking_start_date": "2026-11-01 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-11-09",
       "start_time": "12:30",
-      "available_spot_count": 47,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -921,7 +901,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-09",
       "start_time": "17:30",
-      "available_spot_count": 43,
+      "available_spot_count": 38,
       "capacity": 49
     },
     {
@@ -941,7 +921,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-09",
       "start_time": "17:30",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
@@ -951,7 +931,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-09",
       "start_time": "18:40",
-      "available_spot_count": 42,
+      "available_spot_count": 39,
       "capacity": 50
     },
     {
@@ -971,7 +951,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-10",
       "start_time": "12:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 37
     },
     {
@@ -981,7 +961,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-10",
       "start_time": "16:20",
-      "available_spot_count": 36,
+      "available_spot_count": 34,
       "capacity": 37
     },
     {
@@ -991,7 +971,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-10",
       "start_time": "18:40",
-      "available_spot_count": 49,
+      "available_spot_count": 45,
       "capacity": 50
     },
     {
@@ -1073,6 +1053,76 @@
       "start_time": "17:30",
       "available_spot_count": 37,
       "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: KEV\u2019S 8-YEAR SPINNIVERSARY",
+      "booking_start_date": "2026-11-06 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-11-14",
+      "start_time": "09:30",
+      "available_spot_count": 49,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: JUSTIN BIEBER X SELENA GOMEZ",
+      "booking_start_date": "2026-11-06 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-11-14",
+      "start_time": "11:50",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: KEV\u2019S 8-YEAR SPINNIVERSARY",
+      "booking_start_date": "2026-11-06 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-11-14",
+      "start_time": "11:50",
+      "available_spot_count": 37,
+      "capacity": 37
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: MILLENNIAL MASHUPS + REMIXES",
+      "booking_start_date": "2026-11-07 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-11-15",
+      "start_time": "08:20",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: COWBOY CARTER x RENAISSANCE",
+      "booking_start_date": "2026-11-07 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-11-15",
+      "start_time": "08:20",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: GREEN DAY x PANIC! AT THE DISCO x MCR",
+      "booking_start_date": "2026-11-09 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-11-17",
+      "start_time": "19:50",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: POP X HIP HOP REMIXED",
+      "booking_start_date": "2026-11-19 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-11-27",
+      "start_time": "09:45",
+      "available_spot_count": 50,
+      "capacity": 50
     }
   ]
 }
