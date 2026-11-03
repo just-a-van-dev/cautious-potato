@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T20:03:30.806732-07:00",
+  "last_updated": "2026-11-02T20:55:14.776853-07:00",
   "alo": [],
   "special": [
     {
@@ -323,6 +323,26 @@
       "start_time": "07:30",
       "available_spot_count": 45,
       "capacity": 45
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Ass & Abs",
+      "booking_start_date": "2026-10-28 11:00",
+      "location": "West Broadway",
+      "start_date": "2026-11-04",
+      "start_time": "11:00",
+      "available_spot_count": 9,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Ass & Abs",
+      "booking_start_date": "2026-10-29 14:00",
+      "location": "West Broadway",
+      "start_date": "2026-11-05",
+      "start_time": "14:00",
+      "available_spot_count": 8,
+      "capacity": 12
     },
     {
       "studio": "The Third",
@@ -661,7 +681,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-11-06",
       "start_time": "09:30",
-      "available_spot_count": 17,
+      "available_spot_count": 16,
       "capacity": 32
     },
     {
@@ -791,7 +811,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-04",
       "start_time": "09:45",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 49
     },
     {
@@ -871,7 +891,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-06",
       "start_time": "12:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
@@ -911,7 +931,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-09",
       "start_time": "17:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
@@ -941,7 +961,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-09",
       "start_time": "18:40",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
@@ -981,7 +1001,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-10",
       "start_time": "18:40",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -1031,7 +1051,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-12",
       "start_time": "18:40",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
