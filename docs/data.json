@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T17:27:48.630642-07:00",
+  "last_updated": "2026-11-04T18:26:20.496757-07:00",
   "alo": [],
   "special": [
     {
@@ -29,7 +29,7 @@
       "location": "Main Street",
       "start_date": "2026-11-08",
       "start_time": "09:00",
-      "available_spot_count": 56,
+      "available_spot_count": 53,
       "capacity": 85
     }
   ],
@@ -51,7 +51,7 @@
       "location": "Kitsilano",
       "start_date": "2026-11-05",
       "start_time": "06:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 16
     },
     {
@@ -61,7 +61,7 @@
       "location": "Main St",
       "start_date": "2026-11-06",
       "start_time": "14:15",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 14
     },
     {
@@ -511,7 +511,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-08",
       "start_time": "14:00",
-      "available_spot_count": 23,
+      "available_spot_count": 20,
       "capacity": 26
     },
     {
@@ -551,7 +551,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-22",
       "start_time": "14:00",
-      "available_spot_count": 23,
+      "available_spot_count": 20,
       "capacity": 26
     },
     {
@@ -911,7 +911,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-06",
       "start_time": "12:30",
-      "available_spot_count": 37,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -1011,7 +1011,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-10",
       "start_time": "18:40",
-      "available_spot_count": 37,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -1041,7 +1041,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-11",
       "start_time": "10:40",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
@@ -1061,7 +1061,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-12",
       "start_time": "18:40",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 50
     },
     {
@@ -1071,8 +1071,8 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-13",
       "start_time": "07:15",
-      "available_spot_count": 37,
-      "capacity": 37
+      "available_spot_count": 36,
+      "capacity": 36
     },
     {
       "studio": "Spin Society",
@@ -1091,8 +1091,8 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-13",
       "start_time": "17:30",
-      "available_spot_count": 35,
-      "capacity": 37
+      "available_spot_count": 34,
+      "capacity": 36
     },
     {
       "studio": "Spin Society",
@@ -1121,8 +1121,8 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-14",
       "start_time": "11:50",
-      "available_spot_count": 36,
-      "capacity": 37
+      "available_spot_count": 35,
+      "capacity": 36
     },
     {
       "studio": "Spin Society",
@@ -1191,8 +1191,8 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-17",
       "start_time": "07:15",
-      "available_spot_count": 37,
-      "capacity": 37
+      "available_spot_count": 36,
+      "capacity": 36
     },
     {
       "studio": "Spin Society",
@@ -1201,8 +1201,8 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-17",
       "start_time": "16:20",
-      "available_spot_count": 37,
-      "capacity": 37
+      "available_spot_count": 36,
+      "capacity": 36
     },
     {
       "studio": "Spin Society",
@@ -1261,8 +1261,8 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-19",
       "start_time": "12:30",
-      "available_spot_count": 37,
-      "capacity": 37
+      "available_spot_count": 36,
+      "capacity": 36
     },
     {
       "studio": "Spin Society",
