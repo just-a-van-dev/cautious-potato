@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T15:39:23.068044-07:00",
+  "last_updated": "2026-11-05T15:55:04.413984-07:00",
   "alo": [],
   "special": [
     {
@@ -991,7 +991,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-06",
       "start_time": "16:20",
-      "available_spot_count": 29,
+      "available_spot_count": 30,
       "capacity": 49
     },
     {
@@ -1031,7 +1031,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-09",
       "start_time": "17:30",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
