@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T12:19:51.351319-07:00",
+  "last_updated": "2026-11-05T15:39:23.068044-07:00",
   "alo": [],
   "special": [
     {
@@ -23,6 +23,56 @@
       "capacity": 36
     },
     {
+      "studio": "Ritual",
+      "name": "Yoga | Restorative ( Community Class)",
+      "booking_start_date": "2026-10-14 14:30",
+      "location": "West End",
+      "start_date": "2026-11-13",
+      "start_time": "14:30",
+      "available_spot_count": 25,
+      "capacity": 25
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yoga | Restorative ( Community Class)",
+      "booking_start_date": "2026-10-21 14:30",
+      "location": "West End",
+      "start_date": "2026-11-20",
+      "start_time": "14:30",
+      "available_spot_count": 25,
+      "capacity": 25
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yoga | Restorative ( Community Class)",
+      "booking_start_date": "2026-10-28 14:30",
+      "location": "West End",
+      "start_date": "2026-11-27",
+      "start_time": "14:30",
+      "available_spot_count": 25,
+      "capacity": 25
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yoga | Restorative ( Community Class)",
+      "booking_start_date": "2026-11-04 14:30",
+      "location": "West End",
+      "start_date": "2026-12-04",
+      "start_time": "14:30",
+      "available_spot_count": 25,
+      "capacity": 25
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yoga | Restorative ( Community Class)",
+      "booking_start_date": "2026-11-11 14:30",
+      "location": "West End",
+      "start_date": "2026-12-11",
+      "start_time": "14:30",
+      "available_spot_count": 25,
+      "capacity": 25
+    },
+    {
       "studio": "Turf",
       "name": "Run Club on Main \u26a1\ufe0f",
       "booking_start_date": "2026-10-09 09:00",
@@ -41,7 +91,7 @@
       "location": "Main St",
       "start_date": "2026-11-06",
       "start_time": "14:15",
-      "available_spot_count": 4,
+      "available_spot_count": 5,
       "capacity": 14
     },
     {
@@ -51,7 +101,7 @@
       "location": "Main St",
       "start_date": "2026-11-06",
       "start_time": "15:15",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 14
     },
     {
@@ -91,7 +141,7 @@
       "location": "Kitsilano",
       "start_date": "2026-11-12",
       "start_time": "06:15",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 16
     },
     {
@@ -255,6 +305,16 @@
       "capacity": 14
     },
     {
+      "studio": "Lagree West",
+      "name": "Sweat for a Cause/By Donation",
+      "booking_start_date": "2026-10-31 16:15",
+      "location": "Gastown",
+      "start_date": "2026-11-30",
+      "start_time": "16:15",
+      "available_spot_count": 15,
+      "capacity": 15
+    },
+    {
       "studio": "Jaybird",
       "name": "Sweat For A Cause | The Being",
       "booking_start_date": "2026-11-10 00:00",
@@ -291,6 +351,16 @@
       "location": "Yaletown",
       "start_date": "2026-11-21",
       "start_time": "18:00",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
+      "name": "The Burn x Skin Technique",
+      "booking_start_date": "2026-11-28 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-12-05",
+      "start_time": "15:00",
       "available_spot_count": 36,
       "capacity": 36
     },
@@ -333,16 +403,6 @@
       "start_time": "15:00",
       "available_spot_count": 36,
       "capacity": 36
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Ass & Abs",
-      "booking_start_date": "2026-10-29 14:00",
-      "location": "West Broadway",
-      "start_date": "2026-11-05",
-      "start_time": "14:00",
-      "available_spot_count": 6,
-      "capacity": 12
     },
     {
       "studio": "Lagree Studio",
@@ -481,7 +541,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-06",
       "start_time": "08:30",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -511,7 +571,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-08",
       "start_time": "18:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 40
     },
     {
@@ -596,16 +656,6 @@
     },
     {
       "studio": "All Method Studio",
-      "name": "Diwali Midday Reset - PRIVATE EVENT",
-      "booking_start_date": "2026-10-22 12:00",
-      "location": "Railway",
-      "start_date": "2026-11-05",
-      "start_time": "12:00",
-      "available_spot_count": 1,
-      "capacity": 30
-    },
-    {
-      "studio": "All Method Studio",
       "name": "ALL Mat - Happy Hour 55 mins",
       "booking_start_date": "2026-10-28 09:15",
       "location": "Railway",
@@ -626,6 +676,16 @@
     },
     {
       "studio": "Ritual",
+      "name": "Yoga | Restorative ( Community Class)",
+      "booking_start_date": "2026-10-14 14:30",
+      "location": "West End",
+      "start_date": "2026-11-13",
+      "start_time": "14:30",
+      "available_spot_count": 25,
+      "capacity": 25
+    },
+    {
+      "studio": "Ritual",
       "name": "Yoga | Flow + Core (heated)",
       "booking_start_date": "2026-08-21 09:30",
       "location": "West End",
@@ -633,6 +693,16 @@
       "start_time": "09:30",
       "available_spot_count": 22,
       "capacity": 22
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yoga | Restorative ( Community Class)",
+      "booking_start_date": "2026-10-21 14:30",
+      "location": "West End",
+      "start_date": "2026-11-20",
+      "start_time": "14:30",
+      "available_spot_count": 25,
+      "capacity": 25
     },
     {
       "studio": "Ritual",
@@ -646,6 +716,16 @@
     },
     {
       "studio": "Ritual",
+      "name": "Yoga | Restorative ( Community Class)",
+      "booking_start_date": "2026-10-28 14:30",
+      "location": "West End",
+      "start_date": "2026-11-27",
+      "start_time": "14:30",
+      "available_spot_count": 25,
+      "capacity": 25
+    },
+    {
+      "studio": "Ritual",
       "name": "Yoga | Flow + Core (heated)",
       "booking_start_date": "2026-09-04 09:30",
       "location": "West End",
@@ -653,6 +733,16 @@
       "start_time": "09:30",
       "available_spot_count": 22,
       "capacity": 22
+    },
+    {
+      "studio": "Ritual",
+      "name": "Yoga | Restorative ( Community Class)",
+      "booking_start_date": "2026-11-04 14:30",
+      "location": "West End",
+      "start_date": "2026-12-04",
+      "start_time": "14:30",
+      "available_spot_count": 25,
+      "capacity": 25
     },
     {
       "studio": "Ritual",
@@ -676,6 +766,16 @@
     },
     {
       "studio": "Ritual",
+      "name": "Yoga | Restorative ( Community Class)",
+      "booking_start_date": "2026-11-11 14:30",
+      "location": "West End",
+      "start_date": "2026-12-11",
+      "start_time": "14:30",
+      "available_spot_count": 25,
+      "capacity": 25
+    },
+    {
+      "studio": "Ritual",
       "name": "Yoga | Flow + Core (heated)",
       "booking_start_date": "2026-09-18 09:30",
       "location": "West End",
@@ -691,7 +791,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-11-06",
       "start_time": "09:30",
-      "available_spot_count": 9,
+      "available_spot_count": 11,
       "capacity": 32
     },
     {
@@ -711,7 +811,7 @@
       "location": "Main Street",
       "start_date": "2026-11-08",
       "start_time": "11:00",
-      "available_spot_count": 11,
+      "available_spot_count": 9,
       "capacity": 32
     },
     {
@@ -816,22 +916,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: FRED AGAIN.. x ODESZA",
-      "booking_start_date": "2026-10-28 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-11-05",
-      "start_time": "12:30",
-      "available_spot_count": 17,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
       "name": "SCTY x ORGANIKA",
       "booking_start_date": "2026-10-28 12:00",
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-05",
       "start_time": "17:30",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 37
     },
     {
@@ -841,7 +931,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-05",
       "start_time": "18:40",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 50
     },
     {
@@ -851,7 +941,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-05",
       "start_time": "19:50",
-      "available_spot_count": 35,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -871,7 +961,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-06",
       "start_time": "07:15",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 36
     },
     {
@@ -891,7 +981,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-06",
       "start_time": "12:30",
-      "available_spot_count": 30,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -901,7 +991,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-06",
       "start_time": "16:20",
-      "available_spot_count": 27,
+      "available_spot_count": 29,
       "capacity": 49
     },
     {
@@ -991,7 +1081,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-10",
       "start_time": "18:40",
-      "available_spot_count": 33,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -1011,7 +1101,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-11",
       "start_time": "09:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 50
     },
     {
@@ -1041,7 +1131,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-12",
       "start_time": "18:40",
-      "available_spot_count": 22,
+      "available_spot_count": 19,
       "capacity": 50
     },
     {
@@ -1071,7 +1161,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-13",
       "start_time": "17:30",
-      "available_spot_count": 34,
+      "available_spot_count": 31,
       "capacity": 36
     },
     {
