@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T09:47:24.575644-07:00",
+  "last_updated": "2026-11-05T12:19:51.351319-07:00",
   "alo": [],
   "special": [
     {
@@ -276,6 +276,16 @@
     },
     {
       "studio": "Jaybird",
+      "name": "The Burn x Formula Fig",
+      "booking_start_date": "2026-11-14 00:00",
+      "location": "Yaletown",
+      "start_date": "2026-11-21",
+      "start_time": "15:00",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Jaybird",
       "name": "The Balance + ALO Community Class",
       "booking_start_date": "2026-11-14 18:00",
       "location": "Yaletown",
@@ -331,7 +341,7 @@
       "location": "West Broadway",
       "start_date": "2026-11-05",
       "start_time": "14:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -591,7 +601,7 @@
       "location": "Railway",
       "start_date": "2026-11-05",
       "start_time": "12:00",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 30
     },
     {
@@ -681,7 +691,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-11-06",
       "start_time": "09:30",
-      "available_spot_count": 11,
+      "available_spot_count": 9,
       "capacity": 32
     },
     {
@@ -811,7 +821,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-05",
       "start_time": "12:30",
-      "available_spot_count": 15,
+      "available_spot_count": 17,
       "capacity": 37
     },
     {
@@ -841,7 +851,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-05",
       "start_time": "19:50",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -851,7 +861,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-06",
       "start_time": "06:00",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
@@ -871,7 +881,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-06",
       "start_time": "12:30",
-      "available_spot_count": 28,
+      "available_spot_count": 30,
       "capacity": 49
     },
     {
@@ -901,7 +911,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-09",
       "start_time": "12:30",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 50
     },
     {
@@ -1001,7 +1011,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-11",
       "start_time": "09:30",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 50
     },
     {
@@ -1011,7 +1021,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-11",
       "start_time": "10:40",
-      "available_spot_count": 35,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -1111,7 +1121,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-15",
       "start_time": "08:20",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
@@ -1201,6 +1211,16 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-18",
       "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: NIGHT RIDES | EDM",
+      "booking_start_date": "2026-11-10 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-11-18",
+      "start_time": "18:40",
       "available_spot_count": 50,
       "capacity": 50
     },
