@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T03:45:06.445653-07:00",
+  "last_updated": "2026-11-06T10:55:17.400623-07:00",
   "alo": [],
   "special": [
     {
@@ -79,7 +79,7 @@
       "location": "Main Street",
       "start_date": "2026-11-08",
       "start_time": "09:00",
-      "available_spot_count": 50,
+      "available_spot_count": 48,
       "capacity": 85
     }
   ],
@@ -101,7 +101,7 @@
       "location": "Main St",
       "start_date": "2026-11-06",
       "start_time": "15:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 14
     },
     {
@@ -141,7 +141,7 @@
       "location": "Kitsilano",
       "start_date": "2026-11-12",
       "start_time": "06:15",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 16
     },
     {
@@ -161,7 +161,7 @@
       "location": "Main St",
       "start_date": "2026-11-13",
       "start_time": "15:15",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 14
     },
     {
@@ -411,7 +411,7 @@
       "location": "West Broadway",
       "start_date": "2026-11-08",
       "start_time": "16:00",
-      "available_spot_count": 3,
+      "available_spot_count": 2,
       "capacity": 12
     },
     {
@@ -421,7 +421,7 @@
       "location": "4th Ave",
       "start_date": "2026-11-06",
       "start_time": "17:30",
-      "available_spot_count": 11,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
@@ -431,7 +431,7 @@
       "location": "4th Ave",
       "start_date": "2026-11-10",
       "start_time": "12:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
@@ -535,16 +535,6 @@
       "capacity": 15
     },
     {
-      "studio": "Lagree X",
-      "name": "LagreeX \u00d7 Blume \ud83d\udda4\ud83d\udca7",
-      "booking_start_date": "2026-10-30 08:30",
-      "location": "Vancouver",
-      "start_date": "2026-11-06",
-      "start_time": "08:30",
-      "available_spot_count": 4,
-      "capacity": 12
-    },
-    {
       "studio": "ZenDen",
       "name": "New Moon Acupuncture + Sound Bath",
       "booking_start_date": "2026-09-09 14:00",
@@ -571,7 +561,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-08",
       "start_time": "18:30",
-      "available_spot_count": 30,
+      "available_spot_count": 31,
       "capacity": 40
     },
     {
@@ -796,22 +786,12 @@
     },
     {
       "studio": "Turf",
-      "name": "On The Mat with Nat",
-      "booking_start_date": "2026-10-30 09:30",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-06",
-      "start_time": "09:30",
-      "available_spot_count": 0,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "\ud83c\udf1fSPOTLIGHT\ud83c\udf1f: POWDER PREP: Strengthen + Mat Werk",
       "booking_start_date": "2026-10-31 12:30",
       "location": "Main Street",
       "start_date": "2026-11-07",
       "start_time": "12:30",
-      "available_spot_count": 5,
+      "available_spot_count": 2,
       "capacity": 32
     },
     {
@@ -851,7 +831,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-11-13",
       "start_time": "09:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 32
     },
     {
@@ -861,7 +841,7 @@
       "location": "Main Street",
       "start_date": "2026-11-14",
       "start_time": "09:30",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 32
     },
     {
@@ -906,6 +886,16 @@
     },
     {
       "studio": "Turf",
+      "name": "META + MAT WERK 2016 HITS \ud83c\udfa4",
+      "booking_start_date": "2026-11-15 11:00",
+      "location": "Main Street",
+      "start_date": "2026-11-22",
+      "start_time": "11:00",
+      "available_spot_count": 32,
+      "capacity": 32
+    },
+    {
+      "studio": "Turf",
       "name": "\ud83c\udf1fSPOTLIGHT\ud83c\udf1f: LIFT with Taren",
       "booking_start_date": "2026-11-21 12:30",
       "location": "Main Street",
@@ -926,32 +916,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: SUNRISE & SWIFT: 1989 X REPUTATION",
-      "booking_start_date": "2026-10-29 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-11-06",
-      "start_time": "06:00",
-      "available_spot_count": 40,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: 50 CENT x DOM DOLLA",
-      "booking_start_date": "2026-10-29 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-11-06",
-      "start_time": "07:15",
-      "available_spot_count": 28,
-      "capacity": 36
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: 50 CENT x DOM DOLLA",
       "booking_start_date": "2026-10-29 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-06",
       "start_time": "12:30",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 49
     },
     {
@@ -961,7 +931,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-06",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -971,7 +941,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-06",
       "start_time": "16:20",
-      "available_spot_count": 29,
+      "available_spot_count": 26,
       "capacity": 49
     },
     {
@@ -991,7 +961,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-09",
       "start_time": "17:30",
-      "available_spot_count": 21,
+      "available_spot_count": 19,
       "capacity": 49
     },
     {
@@ -1021,7 +991,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-09",
       "start_time": "18:40",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -1051,7 +1021,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-10",
       "start_time": "16:20",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 36
     },
     {
@@ -1061,7 +1031,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-10",
       "start_time": "18:40",
-      "available_spot_count": 30,
+      "available_spot_count": 28,
       "capacity": 50
     },
     {
@@ -1081,7 +1051,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-11",
       "start_time": "09:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 50
     },
     {
@@ -1101,8 +1071,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-12",
       "start_time": "06:00",
-      "available_spot_count": 42,
-      "capacity": 50
+      "available_spot_count": 37,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1131,8 +1101,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-13",
       "start_time": "12:30",
-      "available_spot_count": 49,
-      "capacity": 50
+      "available_spot_count": 47,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1141,7 +1111,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-13",
       "start_time": "17:30",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 36
     },
     {
@@ -1151,8 +1121,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-14",
       "start_time": "09:30",
-      "available_spot_count": 46,
-      "capacity": 50
+      "available_spot_count": 45,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1171,7 +1141,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-14",
       "start_time": "11:50",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 36
     },
     {
@@ -1191,8 +1161,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-15",
       "start_time": "08:20",
-      "available_spot_count": 48,
-      "capacity": 50
+      "available_spot_count": 47,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1201,8 +1171,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-16",
       "start_time": "06:00",
-      "available_spot_count": 50,
-      "capacity": 50
+      "available_spot_count": 49,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1271,8 +1241,8 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-18",
       "start_time": "07:15",
-      "available_spot_count": 50,
-      "capacity": 50
+      "available_spot_count": 49,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1306,13 +1276,23 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: CALVIN HARRIS x JOHN SUMMIT x AVICII",
+      "booking_start_date": "2026-11-11 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-11-19",
+      "start_time": "06:00",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: KYGO X R\u00dcF\u00dcS X FLUME",
       "booking_start_date": "2026-11-11 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-19",
       "start_time": "07:15",
-      "available_spot_count": 50,
-      "capacity": 50
+      "available_spot_count": 49,
+      "capacity": 49
     },
     {
       "studio": "Spin Society",
@@ -1323,6 +1303,26 @@
       "start_time": "12:30",
       "available_spot_count": 36,
       "capacity": 36
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: TWILIGHT X HUNGER GAMES",
+      "booking_start_date": "2026-11-11 12:00",
+      "location": "DOWNTOWN VANCOUVER",
+      "start_date": "2026-11-19",
+      "start_time": "17:30",
+      "available_spot_count": 36,
+      "capacity": 36
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: SABRINA CARPENTER X OLIVIA RODRIGO",
+      "booking_start_date": "2026-11-12 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-11-20",
+      "start_time": "06:00",
+      "available_spot_count": 50,
+      "capacity": 50
     },
     {
       "studio": "Spin Society",
