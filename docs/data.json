@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T16:03:06.097828-07:00",
+  "last_updated": "2026-11-06T19:44:40.579229-07:00",
   "alo": [],
   "special": [
     {
@@ -407,16 +407,6 @@
     {
       "studio": "The Third",
       "name": "instructor development - lagree full body",
-      "booking_start_date": "2026-10-23 17:30",
-      "location": "4th Ave",
-      "start_date": "2026-11-06",
-      "start_time": "17:30",
-      "available_spot_count": 13,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
-      "name": "instructor development - lagree full body",
       "booking_start_date": "2026-10-27 12:00",
       "location": "4th Ave",
       "start_date": "2026-11-10",
@@ -551,7 +541,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-08",
       "start_time": "18:30",
-      "available_spot_count": 28,
+      "available_spot_count": 29,
       "capacity": 40
     },
     {
@@ -781,7 +771,7 @@
       "location": "Main Street",
       "start_date": "2026-11-07",
       "start_time": "12:30",
-      "available_spot_count": 0,
+      "available_spot_count": 2,
       "capacity": 32
     },
     {
@@ -831,7 +821,7 @@
       "location": "Main Street",
       "start_date": "2026-11-14",
       "start_time": "09:30",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 32
     },
     {
@@ -841,7 +831,7 @@
       "location": "Main Street",
       "start_date": "2026-11-14",
       "start_time": "12:30",
-      "available_spot_count": 23,
+      "available_spot_count": 21,
       "capacity": 24
     },
     {
@@ -916,22 +906,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: TROYE SIVAN x SLAYYYTER x LORDE",
-      "booking_start_date": "2026-10-29 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-11-06",
-      "start_time": "16:20",
-      "available_spot_count": 22,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: CALVIN HARRIS x RIHANNA",
       "booking_start_date": "2026-11-01 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-11-09",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 33,
       "capacity": 50
     },
     {
@@ -951,7 +931,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-09",
       "start_time": "17:30",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 36
     },
     {
@@ -971,7 +951,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-09",
       "start_time": "18:40",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 50
     },
     {
@@ -1011,7 +991,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-10",
       "start_time": "18:40",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 50
     },
     {
@@ -1031,7 +1011,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-11",
       "start_time": "09:30",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -1041,7 +1021,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-11",
       "start_time": "10:40",
-      "available_spot_count": 28,
+      "available_spot_count": 24,
       "capacity": 50
     },
     {
@@ -1061,7 +1041,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-12",
       "start_time": "18:40",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 50
     },
     {
@@ -1091,7 +1071,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-13",
       "start_time": "17:30",
-      "available_spot_count": 29,
+      "available_spot_count": 27,
       "capacity": 36
     },
     {
@@ -1101,7 +1081,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-14",
       "start_time": "09:30",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 48
     },
     {
