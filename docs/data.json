@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T13:28:22.518648-07:00",
+  "last_updated": "2026-11-07T16:55:55.466620-07:00",
   "alo": [],
   "special": [
     {
@@ -79,7 +79,7 @@
       "location": "Main Street",
       "start_date": "2026-11-08",
       "start_time": "09:00",
-      "available_spot_count": 44,
+      "available_spot_count": 45,
       "capacity": 85
     }
   ],
@@ -291,7 +291,7 @@
       "location": "Gastown",
       "start_date": "2026-11-30",
       "start_time": "16:15",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 15
     },
     {
@@ -521,7 +521,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-08",
       "start_time": "14:00",
-      "available_spot_count": 2,
+      "available_spot_count": 3,
       "capacity": 22
     },
     {
@@ -766,22 +766,12 @@
     },
     {
       "studio": "Turf",
-      "name": "\ud83c\udf1fSPOTLIGHT\ud83c\udf1f: POWDER PREP: Strengthen + Mat Werk",
-      "booking_start_date": "2026-10-31 12:30",
-      "location": "Main Street",
-      "start_date": "2026-11-07",
-      "start_time": "12:30",
-      "available_spot_count": 0,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "Zara Larsson x Tate McRae \ud83c\udfa4 meta + mat werk",
       "booking_start_date": "2026-11-01 11:00",
       "location": "Main Street",
       "start_date": "2026-11-08",
       "start_time": "11:00",
-      "available_spot_count": 5,
+      "available_spot_count": 3,
       "capacity": 32
     },
     {
@@ -821,7 +811,7 @@
       "location": "Main Street",
       "start_date": "2026-11-14",
       "start_time": "09:30",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 32
     },
     {
@@ -831,7 +821,7 @@
       "location": "Main Street",
       "start_date": "2026-11-14",
       "start_time": "12:30",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 24
     },
     {
@@ -921,7 +911,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-09",
       "start_time": "17:30",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 48
     },
     {
@@ -931,7 +921,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-09",
       "start_time": "17:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 36
     },
     {
@@ -941,7 +931,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-09",
       "start_time": "17:30",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -951,7 +941,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-09",
       "start_time": "18:40",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 50
     },
     {
@@ -981,7 +971,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-10",
       "start_time": "16:20",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 36
     },
     {
@@ -1031,7 +1021,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-12",
       "start_time": "06:00",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 48
     },
     {
@@ -1041,7 +1031,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-12",
       "start_time": "18:40",
-      "available_spot_count": 6,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -1051,7 +1041,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-13",
       "start_time": "07:15",
-      "available_spot_count": 31,
+      "available_spot_count": 29,
       "capacity": 36
     },
     {
@@ -1061,7 +1051,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-13",
       "start_time": "12:30",
-      "available_spot_count": 46,
+      "available_spot_count": 45,
       "capacity": 48
     },
     {
@@ -1081,7 +1071,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-14",
       "start_time": "09:30",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 48
     },
     {
@@ -1121,7 +1111,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-15",
       "start_time": "08:20",
-      "available_spot_count": 45,
+      "available_spot_count": 43,
       "capacity": 48
     },
     {
