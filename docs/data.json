@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T03:23:15.172462-07:00",
+  "last_updated": "2026-11-10T11:12:44.112316-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -132,7 +132,7 @@
       "location": "Kitsilano",
       "start_date": "2026-11-15",
       "start_time": "15:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 16
     },
     {
@@ -142,7 +142,7 @@
       "location": "Main St",
       "start_date": "2026-11-16",
       "start_time": "13:15",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 14
     },
     {
@@ -152,7 +152,7 @@
       "location": "Yaletown",
       "start_date": "2026-11-16",
       "start_time": "13:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 20
     },
     {
@@ -302,7 +302,7 @@
       "location": "Yaletown",
       "start_date": "2026-11-17",
       "start_time": "07:15",
-      "available_spot_count": 36,
+      "available_spot_count": 34,
       "capacity": 36
     },
     {
@@ -396,6 +396,16 @@
       "capacity": 36
     },
     {
+      "studio": "Lagree Studio",
+      "name": "Daytime Perk Ass And Abs",
+      "booking_start_date": "2026-11-05 14:00",
+      "location": "West Broadway",
+      "start_date": "2026-11-12",
+      "start_time": "14:00",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
       "studio": "The Third",
       "name": "instructor development - lagree full body",
       "booking_start_date": "2026-10-27 12:00",
@@ -413,6 +423,56 @@
       "start_date": "2026-11-13",
       "start_time": "17:30",
       "available_spot_count": 12,
+      "capacity": 15
+    },
+    {
+      "studio": "The Third",
+      "name": "Wild Tea Kombucha x The Third",
+      "booking_start_date": "2026-10-31 08:00",
+      "location": "4th Ave",
+      "start_date": "2026-11-14",
+      "start_time": "08:00",
+      "available_spot_count": 12,
+      "capacity": 15
+    },
+    {
+      "studio": "The Third",
+      "name": "Wild Tea Kombucha x The Third",
+      "booking_start_date": "2026-10-31 09:00",
+      "location": "4th Ave",
+      "start_date": "2026-11-14",
+      "start_time": "09:00",
+      "available_spot_count": 11,
+      "capacity": 15
+    },
+    {
+      "studio": "The Third",
+      "name": "Wild Tea Kombucha x The Third",
+      "booking_start_date": "2026-10-31 10:00",
+      "location": "4th Ave",
+      "start_date": "2026-11-14",
+      "start_time": "10:00",
+      "available_spot_count": 7,
+      "capacity": 15
+    },
+    {
+      "studio": "The Third",
+      "name": "Wild Tea Kombucha x The Third",
+      "booking_start_date": "2026-10-31 11:00",
+      "location": "4th Ave",
+      "start_date": "2026-11-14",
+      "start_time": "11:00",
+      "available_spot_count": 8,
+      "capacity": 15
+    },
+    {
+      "studio": "The Third",
+      "name": "Advanced Lagree: Wild Tea Kombucha x The Third",
+      "booking_start_date": "2026-10-31 12:00",
+      "location": "4th Ave",
+      "start_date": "2026-11-14",
+      "start_time": "12:00",
+      "available_spot_count": 8,
       "capacity": 15
     },
     {
@@ -514,6 +574,16 @@
       "start_time": "12:00",
       "available_spot_count": 15,
       "capacity": 15
+    },
+    {
+      "studio": "Lagree X",
+      "name": "LAGREEX x ProPOP \ud83e\udd6d\ud83c\udf51\ud83d\udca7",
+      "booking_start_date": "2026-11-10 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-11-17",
+      "start_time": "10:00",
+      "available_spot_count": 10,
+      "capacity": 12
     },
     {
       "studio": "ZenDen",
@@ -622,7 +692,7 @@
       "location": "Railway",
       "start_date": "2026-11-11",
       "start_time": "09:15",
-      "available_spot_count": 15,
+      "available_spot_count": 11,
       "capacity": 18
     },
     {
@@ -772,7 +842,7 @@
       "location": "Main Street",
       "start_date": "2026-11-14",
       "start_time": "09:30",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 32
     },
     {
@@ -867,22 +937,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: PITBULL X KESHA X BRITNEY SPEARS",
-      "booking_start_date": "2026-11-02 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-11-10",
-      "start_time": "06:00",
-      "available_spot_count": 44,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: RIHANNA x EMINEM",
       "booking_start_date": "2026-11-02 12:00",
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-10",
       "start_time": "12:30",
-      "available_spot_count": 25,
+      "available_spot_count": 22,
       "capacity": 36
     },
     {
@@ -892,7 +952,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-10",
       "start_time": "16:20",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 36
     },
     {
@@ -922,7 +982,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-11",
       "start_time": "09:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -942,7 +1002,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-12",
       "start_time": "06:00",
-      "available_spot_count": 30,
+      "available_spot_count": 31,
       "capacity": 48
     },
     {
@@ -982,7 +1042,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-13",
       "start_time": "17:30",
-      "available_spot_count": 20,
+      "available_spot_count": 17,
       "capacity": 36
     },
     {
@@ -992,7 +1052,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-14",
       "start_time": "09:30",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 48
     },
     {
@@ -1032,7 +1092,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-15",
       "start_time": "08:20",
-      "available_spot_count": 28,
+      "available_spot_count": 26,
       "capacity": 48
     },
     {
@@ -1042,7 +1102,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-16",
       "start_time": "06:00",
-      "available_spot_count": 41,
+      "available_spot_count": 39,
       "capacity": 49
     },
     {
@@ -1052,7 +1112,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-16",
       "start_time": "12:30",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
@@ -1092,7 +1152,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-17",
       "start_time": "16:20",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 36
     },
     {
@@ -1142,7 +1202,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-18",
       "start_time": "19:50",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -1182,7 +1242,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-19",
       "start_time": "17:30",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
@@ -1212,7 +1272,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-20",
       "start_time": "16:20",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 49
     },
     {
