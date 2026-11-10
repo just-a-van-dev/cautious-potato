@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T11:12:44.112316-07:00",
+  "last_updated": "2026-11-10T16:17:42.787915-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -35,13 +35,13 @@
     },
     {
       "studio": "Ritual",
-      "name": "Yoga | Restorative ( Community Class)",
+      "name": "Yoga | Restorative (Community Class)",
       "booking_start_date": "2026-10-14 14:30",
       "location": "West End",
       "start_date": "2026-11-13",
       "start_time": "14:30",
-      "available_spot_count": 24,
-      "capacity": 25
+      "available_spot_count": 22,
+      "capacity": 23
     },
     {
       "studio": "Ritual",
@@ -122,7 +122,7 @@
       "location": "Main St",
       "start_date": "2026-11-13",
       "start_time": "15:15",
-      "available_spot_count": 9,
+      "available_spot_count": 8,
       "capacity": 14
     },
     {
@@ -142,7 +142,7 @@
       "location": "Main St",
       "start_date": "2026-11-16",
       "start_time": "13:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 14
     },
     {
@@ -282,7 +282,7 @@
       "location": "Kingsway",
       "start_date": "2026-11-11",
       "start_time": "13:30",
-      "available_spot_count": 3,
+      "available_spot_count": 1,
       "capacity": 20
     },
     {
@@ -292,7 +292,7 @@
       "location": "Kingsway",
       "start_date": "2026-11-13",
       "start_time": "14:30",
-      "available_spot_count": 45,
+      "available_spot_count": 44,
       "capacity": 45
     },
     {
@@ -302,7 +302,7 @@
       "location": "Yaletown",
       "start_date": "2026-11-17",
       "start_time": "07:15",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 36
     },
     {
@@ -312,7 +312,7 @@
       "location": "Kingsway",
       "start_date": "2026-11-17",
       "start_time": "14:30",
-      "available_spot_count": 20,
+      "available_spot_count": 19,
       "capacity": 20
     },
     {
@@ -408,16 +408,6 @@
     {
       "studio": "The Third",
       "name": "instructor development - lagree full body",
-      "booking_start_date": "2026-10-27 12:00",
-      "location": "4th Ave",
-      "start_date": "2026-11-10",
-      "start_time": "12:00",
-      "available_spot_count": 11,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
-      "name": "instructor development - lagree full body",
       "booking_start_date": "2026-10-30 17:30",
       "location": "4th Ave",
       "start_date": "2026-11-13",
@@ -472,7 +462,7 @@
       "location": "4th Ave",
       "start_date": "2026-11-14",
       "start_time": "12:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 15
     },
     {
@@ -587,12 +577,22 @@
     },
     {
       "studio": "ZenDen",
+      "name": "Yin + Sound Bath | Red Light",
+      "booking_start_date": "2026-10-27 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-11-10",
+      "start_time": "20:00",
+      "available_spot_count": 11,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
       "name": "The Living Temple For Women - The Workshop Series",
       "booking_start_date": "2026-09-16 14:00",
       "location": "Vancouver",
       "start_date": "2026-11-15",
       "start_time": "14:00",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 26
     },
     {
@@ -607,6 +607,16 @@
     },
     {
       "studio": "ZenDen",
+      "name": "Yin + Sound Bath | Red Light",
+      "booking_start_date": "2026-11-03 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-11-17",
+      "start_time": "20:00",
+      "available_spot_count": 24,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
       "name": "The Living Temple - for Women",
       "booking_start_date": "2026-09-23 14:00",
       "location": "Vancouver",
@@ -614,6 +624,16 @@
       "start_time": "14:00",
       "available_spot_count": 19,
       "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Vinyasa Flow | Hot - Happy Hour",
+      "booking_start_date": "2026-11-08 17:00",
+      "location": "Vancouver",
+      "start_date": "2026-11-22",
+      "start_time": "17:00",
+      "available_spot_count": 37,
+      "capacity": 38
     },
     {
       "studio": "ZenDen",
@@ -627,6 +647,56 @@
     },
     {
       "studio": "ZenDen",
+      "name": "Reiki Infused Yin | Red Light",
+      "booking_start_date": "2026-11-08 19:00",
+      "location": "Vancouver",
+      "start_date": "2026-11-22",
+      "start_time": "19:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Sound Bath | Red Light",
+      "booking_start_date": "2026-11-10 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-11-24",
+      "start_time": "20:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Vinyasa Flow | Hot - Happy Hour",
+      "booking_start_date": "2026-11-15 17:00",
+      "location": "Vancouver",
+      "start_date": "2026-11-29",
+      "start_time": "17:00",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Yin | Red Light",
+      "booking_start_date": "2026-11-15 19:00",
+      "location": "Vancouver",
+      "start_date": "2026-11-29",
+      "start_time": "19:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Sound Bath | Red Light",
+      "booking_start_date": "2026-11-17 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-12-01",
+      "start_time": "20:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
       "name": "The Living Temple - for Women",
       "booking_start_date": "2026-10-07 14:00",
       "location": "Vancouver",
@@ -637,6 +707,16 @@
     },
     {
       "studio": "ZenDen",
+      "name": "Reiki Infused Vinyasa Flow | Hot - Happy Hour",
+      "booking_start_date": "2026-11-22 17:00",
+      "location": "Vancouver",
+      "start_date": "2026-12-06",
+      "start_time": "17:00",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
       "name": "Future Self Sound Bath | Warm",
       "booking_start_date": "2026-11-22 18:30",
       "location": "Vancouver",
@@ -644,6 +724,26 @@
       "start_time": "18:30",
       "available_spot_count": 40,
       "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Yin | Red Light",
+      "booking_start_date": "2026-11-22 19:00",
+      "location": "Vancouver",
+      "start_date": "2026-12-06",
+      "start_time": "19:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Sound Bath | Red Light",
+      "booking_start_date": "2026-11-24 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-12-08",
+      "start_time": "20:00",
+      "available_spot_count": 26,
+      "capacity": 26
     },
     {
       "studio": "ZenDen",
@@ -667,6 +767,46 @@
     },
     {
       "studio": "ZenDen",
+      "name": "Reiki Infused Vinyasa Flow | Hot - Happy Hour",
+      "booking_start_date": "2026-11-29 17:00",
+      "location": "Vancouver",
+      "start_date": "2026-12-13",
+      "start_time": "17:00",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Yin | Red Light",
+      "booking_start_date": "2026-11-29 19:00",
+      "location": "Vancouver",
+      "start_date": "2026-12-13",
+      "start_time": "19:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Sound Bath | Red Light",
+      "booking_start_date": "2026-12-01 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-12-15",
+      "start_time": "20:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Vinyasa Flow | Hot - Happy Hour",
+      "booking_start_date": "2026-12-06 17:00",
+      "location": "Vancouver",
+      "start_date": "2026-12-20",
+      "start_time": "17:00",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
+      "studio": "ZenDen",
       "name": "Future Self Sound Bath | Warm",
       "booking_start_date": "2026-12-06 18:30",
       "location": "Vancouver",
@@ -674,6 +814,26 @@
       "start_time": "18:30",
       "available_spot_count": 40,
       "capacity": 40
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Yin | Red Light",
+      "booking_start_date": "2026-12-06 19:00",
+      "location": "Vancouver",
+      "start_date": "2026-12-20",
+      "start_time": "19:00",
+      "available_spot_count": 26,
+      "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Yin + Sound Bath | Red Light",
+      "booking_start_date": "2026-12-08 20:00",
+      "location": "Vancouver",
+      "start_date": "2026-12-22",
+      "start_time": "20:00",
+      "available_spot_count": 26,
+      "capacity": 26
     },
     {
       "studio": "ZenDen",
@@ -697,13 +857,13 @@
     },
     {
       "studio": "Ritual",
-      "name": "Yoga | Restorative ( Community Class)",
+      "name": "Yoga | Restorative (Community Class)",
       "booking_start_date": "2026-10-14 14:30",
       "location": "West End",
       "start_date": "2026-11-13",
       "start_time": "14:30",
-      "available_spot_count": 24,
-      "capacity": 25
+      "available_spot_count": 22,
+      "capacity": 23
     },
     {
       "studio": "Ritual",
@@ -842,7 +1002,7 @@
       "location": "Main Street",
       "start_date": "2026-11-14",
       "start_time": "09:30",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 32
     },
     {
@@ -852,7 +1012,7 @@
       "location": "Main Street",
       "start_date": "2026-11-14",
       "start_time": "12:30",
-      "available_spot_count": 6,
+      "available_spot_count": 5,
       "capacity": 24
     },
     {
@@ -862,7 +1022,7 @@
       "location": "Main Street",
       "start_date": "2026-11-15",
       "start_time": "09:30",
-      "available_spot_count": 22,
+      "available_spot_count": 21,
       "capacity": 32
     },
     {
@@ -882,7 +1042,7 @@
       "location": "Main Street",
       "start_date": "2026-11-16",
       "start_time": "09:30",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 32
     },
     {
@@ -937,22 +1097,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: RIHANNA x EMINEM",
-      "booking_start_date": "2026-11-02 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-11-10",
-      "start_time": "12:30",
-      "available_spot_count": 22,
-      "capacity": 36
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: DOM DOLLA x DISCLOSURE x DUA LIPA",
       "booking_start_date": "2026-11-02 12:00",
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-10",
       "start_time": "16:20",
-      "available_spot_count": 19,
+      "available_spot_count": 18,
       "capacity": 36
     },
     {
@@ -962,7 +1112,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-10",
       "start_time": "18:40",
-      "available_spot_count": 17,
+      "available_spot_count": 14,
       "capacity": 50
     },
     {
@@ -982,7 +1132,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-11",
       "start_time": "09:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 50
     },
     {
@@ -1052,7 +1202,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-14",
       "start_time": "09:30",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 48
     },
     {
@@ -1062,7 +1212,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-14",
       "start_time": "11:50",
-      "available_spot_count": 35,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -1072,7 +1222,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-14",
       "start_time": "11:50",
-      "available_spot_count": 30,
+      "available_spot_count": 26,
       "capacity": 36
     },
     {
@@ -1092,7 +1242,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-15",
       "start_time": "08:20",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 48
     },
     {
@@ -1102,7 +1252,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-16",
       "start_time": "06:00",
-      "available_spot_count": 39,
+      "available_spot_count": 37,
       "capacity": 49
     },
     {
@@ -1112,7 +1262,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-16",
       "start_time": "12:30",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -1122,7 +1272,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-16",
       "start_time": "18:40",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -1192,7 +1342,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-18",
       "start_time": "18:40",
-      "available_spot_count": 50,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -1202,7 +1352,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-18",
       "start_time": "19:50",
-      "available_spot_count": 49,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
