@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T01:13:51.912990-07:00",
+  "last_updated": "2026-11-12T10:02:10.700635-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -97,26 +97,6 @@
   "sponsored": [
     {
       "studio": "Lagree West",
-      "name": "Happy Hour Mega x Throwback Thursday 90's",
-      "booking_start_date": "2026-11-05 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-11-12",
-      "start_time": "05:15",
-      "available_spot_count": 11,
-      "capacity": 16
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Mega x Throwback Thursday 90's",
-      "booking_start_date": "2026-11-05 00:00",
-      "location": "Kitsilano",
-      "start_date": "2026-11-12",
-      "start_time": "06:15",
-      "available_spot_count": 0,
-      "capacity": 16
-    },
-    {
-      "studio": "Lagree West",
       "name": "Happy Hour Mega x Flashback Friday 90's",
       "booking_start_date": "2026-11-06 00:00",
       "location": "Main St",
@@ -182,7 +162,7 @@
       "location": "Kitsilano",
       "start_date": "2026-11-19",
       "start_time": "06:15",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 16
     },
     {
@@ -202,7 +182,7 @@
       "location": "Main St",
       "start_date": "2026-11-20",
       "start_time": "15:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 14
     },
     {
@@ -322,7 +302,7 @@
       "location": "Kingsway",
       "start_date": "2026-11-18",
       "start_time": "13:30",
-      "available_spot_count": 19,
+      "available_spot_count": 17,
       "capacity": 20
     },
     {
@@ -332,7 +312,7 @@
       "location": "Kingsway",
       "start_date": "2026-11-19",
       "start_time": "10:00",
-      "available_spot_count": 45,
+      "available_spot_count": 42,
       "capacity": 45
     },
     {
@@ -432,7 +412,7 @@
       "location": "4th Ave",
       "start_date": "2026-11-13",
       "start_time": "17:30",
-      "available_spot_count": 11,
+      "available_spot_count": 12,
       "capacity": 15
     },
     {
@@ -442,7 +422,7 @@
       "location": "4th Ave",
       "start_date": "2026-11-14",
       "start_time": "08:00",
-      "available_spot_count": 12,
+      "available_spot_count": 13,
       "capacity": 15
     },
     {
@@ -452,7 +432,7 @@
       "location": "4th Ave",
       "start_date": "2026-11-14",
       "start_time": "09:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 15
     },
     {
@@ -612,7 +592,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-15",
       "start_time": "19:30",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 70
     },
     {
@@ -872,7 +852,7 @@
       "location": "West End",
       "start_date": "2026-11-19",
       "start_time": "09:30",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 22
     },
     {
@@ -932,7 +912,7 @@
       "location": "West End",
       "start_date": "2026-12-06",
       "start_time": "14:00",
-      "available_spot_count": 25,
+      "available_spot_count": 23,
       "capacity": 25
     },
     {
@@ -977,22 +957,12 @@
     },
     {
       "studio": "Turf",
-      "name": "On The Mat with Nat",
-      "booking_start_date": "2026-11-05 08:15",
-      "location": "KITS - Vancouver",
-      "start_date": "2026-11-12",
-      "start_time": "08:15",
-      "available_spot_count": 21,
-      "capacity": 34
-    },
-    {
-      "studio": "Turf",
       "name": "meta 45 min *Co-teach*",
       "booking_start_date": "2026-11-06 09:30",
       "location": "KITS - Vancouver",
       "start_date": "2026-11-13",
       "start_time": "09:30",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 32
     },
     {
@@ -1022,7 +992,7 @@
       "location": "Main Street",
       "start_date": "2026-11-15",
       "start_time": "09:30",
-      "available_spot_count": 21,
+      "available_spot_count": 17,
       "capacity": 32
     },
     {
@@ -1062,7 +1032,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-11-20",
       "start_time": "08:15",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 32
     },
     {
@@ -1107,22 +1077,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: SHAKIRA + BEYONCE +RIHANNA",
-      "booking_start_date": "2026-11-04 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-11-12",
-      "start_time": "06:00",
-      "available_spot_count": 26,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: ALLEYCVT x GRYFFIN x CRANKDAT",
       "booking_start_date": "2026-11-04 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-11-12",
       "start_time": "18:40",
-      "available_spot_count": 3,
+      "available_spot_count": 4,
       "capacity": 50
     },
     {
@@ -1132,7 +1092,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-13",
       "start_time": "07:15",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 36
     },
     {
@@ -1172,7 +1132,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-14",
       "start_time": "11:50",
-      "available_spot_count": 29,
+      "available_spot_count": 27,
       "capacity": 50
     },
     {
@@ -1192,7 +1152,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-15",
       "start_time": "08:20",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
@@ -1212,7 +1172,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-16",
       "start_time": "06:00",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 49
     },
     {
@@ -1242,7 +1202,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-17",
       "start_time": "06:00",
-      "available_spot_count": 49,
+      "available_spot_count": 50,
       "capacity": 50
     },
     {
@@ -1282,7 +1242,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-18",
       "start_time": "07:15",
-      "available_spot_count": 47,
+      "available_spot_count": 44,
       "capacity": 49
     },
     {
@@ -1312,7 +1272,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-18",
       "start_time": "19:50",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 50
     },
     {
@@ -1332,7 +1292,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-19",
       "start_time": "07:15",
-      "available_spot_count": 46,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
@@ -1342,7 +1302,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-19",
       "start_time": "12:30",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 36
     },
     {
@@ -1352,7 +1312,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-19",
       "start_time": "17:30",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -1417,6 +1377,16 @@
     },
     {
       "studio": "Spin Society",
+      "name": "THEME: GIRL GROUPS X BOY BANDS",
+      "booking_start_date": "2026-11-14 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-11-22",
+      "start_time": "09:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
       "name": "THEME: TAYLOR SWIFT: 1989 X MIDNIGHTS X TLOASG",
       "booking_start_date": "2026-11-14 12:00",
       "location": "BRENTWOOD",
@@ -1442,6 +1412,86 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-23",
       "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: FLEETWOOD MAC X QUEEN",
+      "booking_start_date": "2026-11-16 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-11-24",
+      "start_time": "06:00",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: GRYFFIN x KYGO x ZEDD",
+      "booking_start_date": "2026-11-16 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-11-24",
+      "start_time": "12:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: SEVEN MINUTES IN HEAVEN | 7x7 Minute Songs",
+      "booking_start_date": "2026-11-16 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-11-24",
+      "start_time": "17:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: EDM WAKE-UP",
+      "booking_start_date": "2026-11-17 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-11-25",
+      "start_time": "09:45",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: JOHN SUMMIT X DOM DOLLA X BLANKE",
+      "booking_start_date": "2026-11-17 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-11-25",
+      "start_time": "17:30",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: NIGHT RIDES | K-POP",
+      "booking_start_date": "2026-11-17 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-11-25",
+      "start_time": "18:40",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: ILLENIUM x SLANDER x SUBTRONICS",
+      "booking_start_date": "2026-11-17 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-11-25",
+      "start_time": "19:50",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: BEYONC\u00c9 x RIHANNA",
+      "booking_start_date": "2026-11-18 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-11-26",
+      "start_time": "09:45",
       "available_spot_count": 50,
       "capacity": 50
     },
