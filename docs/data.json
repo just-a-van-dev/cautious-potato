@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T11:29:27.423746-07:00",
+  "last_updated": "2026-11-13T16:50:59.956040-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -8,8 +8,8 @@
       "location": "Toronto",
       "start_date": "2026-11-21",
       "start_time": "06:30",
-      "available_spot_count": 261,
-      "capacity": 39
+      "available_spot_count": 227,
+      "capacity": 73
     },
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-11-21",
       "start_time": "09:30",
       "available_spot_count": null,
-      "capacity": 18
+      "capacity": 21
     }
   ],
   "special": [
@@ -45,16 +45,6 @@
     },
     {
       "studio": "Ritual",
-      "name": "Yoga | Restorative (Community Class)",
-      "booking_start_date": "2026-10-14 14:30",
-      "location": "West End",
-      "start_date": "2026-11-13",
-      "start_time": "14:30",
-      "available_spot_count": 5,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
       "name": "Yoga | Restorative ( Community Class)",
       "booking_start_date": "2026-10-21 14:30",
       "location": "West End",
@@ -62,6 +52,16 @@
       "start_time": "14:30",
       "available_spot_count": 16,
       "capacity": 25
+    },
+    {
+      "studio": "Ritual",
+      "name": "Meditation + Sound (Community Class)",
+      "booking_start_date": "2026-10-23 18:15",
+      "location": "West End",
+      "start_date": "2026-11-22",
+      "start_time": "18:15",
+      "available_spot_count": 22,
+      "capacity": 22
     },
     {
       "studio": "Ritual",
@@ -97,32 +97,12 @@
   "sponsored": [
     {
       "studio": "Lagree West",
-      "name": "Happy Hour Mega x Flashback Friday 90's",
-      "booking_start_date": "2026-11-06 00:00",
-      "location": "Main St",
-      "start_date": "2026-11-13",
-      "start_time": "14:15",
-      "available_spot_count": 3,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Mega x Flashback Friday 90's",
-      "booking_start_date": "2026-11-06 00:00",
-      "location": "Main St",
-      "start_date": "2026-11-13",
-      "start_time": "15:15",
-      "available_spot_count": 6,
-      "capacity": 14
-    },
-    {
-      "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
       "booking_start_date": "2026-10-16 15:30",
       "location": "Kitsilano",
       "start_date": "2026-11-15",
       "start_time": "15:30",
-      "available_spot_count": 1,
+      "available_spot_count": 0,
       "capacity": 16
     },
     {
@@ -172,7 +152,7 @@
       "location": "Main St",
       "start_date": "2026-11-20",
       "start_time": "14:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 14
     },
     {
@@ -267,22 +247,12 @@
     },
     {
       "studio": "Jaybird",
-      "name": "Teacher Development | The Burn $18",
-      "booking_start_date": "2026-11-06 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-11-13",
-      "start_time": "14:30",
-      "available_spot_count": 33,
-      "capacity": 45
-    },
-    {
-      "studio": "Jaybird",
       "name": "Sweat For A Cause | The Being",
       "booking_start_date": "2026-11-10 00:00",
       "location": "Yaletown",
       "start_date": "2026-11-17",
       "start_time": "07:15",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 36
     },
     {
@@ -542,7 +512,7 @@
       "location": "4th Ave",
       "start_date": "2026-11-13",
       "start_time": "17:30",
-      "available_spot_count": 13,
+      "available_spot_count": 11,
       "capacity": 15
     },
     {
@@ -562,7 +532,7 @@
       "location": "4th Ave",
       "start_date": "2026-11-14",
       "start_time": "09:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 15
     },
     {
@@ -592,7 +562,7 @@
       "location": "4th Ave",
       "start_date": "2026-11-14",
       "start_time": "12:00",
-      "available_spot_count": 4,
+      "available_spot_count": 6,
       "capacity": 15
     },
     {
@@ -712,7 +682,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-17",
       "start_time": "10:00",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -722,7 +692,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-15",
       "start_time": "14:00",
-      "available_spot_count": 20,
+      "available_spot_count": 21,
       "capacity": 26
     },
     {
@@ -732,7 +702,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-15",
       "start_time": "19:30",
-      "available_spot_count": 24,
+      "available_spot_count": 21,
       "capacity": 70
     },
     {
@@ -837,16 +807,6 @@
     },
     {
       "studio": "Ritual",
-      "name": "Yoga | Restorative (Community Class)",
-      "booking_start_date": "2026-10-14 14:30",
-      "location": "West End",
-      "start_date": "2026-11-13",
-      "start_time": "14:30",
-      "available_spot_count": 5,
-      "capacity": 23
-    },
-    {
-      "studio": "Ritual",
       "name": "Yoga | Restorative ( Community Class)",
       "booking_start_date": "2026-10-21 14:30",
       "location": "West End",
@@ -854,6 +814,16 @@
       "start_time": "14:30",
       "available_spot_count": 16,
       "capacity": 25
+    },
+    {
+      "studio": "Ritual",
+      "name": "Meditation + Sound (Community Class)",
+      "booking_start_date": "2026-10-23 18:15",
+      "location": "West End",
+      "start_date": "2026-11-22",
+      "start_time": "18:15",
+      "available_spot_count": 22,
+      "capacity": 22
     },
     {
       "studio": "Ritual",
@@ -896,6 +866,36 @@
       "capacity": 25
     },
     {
+      "studio": "Ritual",
+      "name": "Meditation + Sound",
+      "booking_start_date": "2026-09-14 18:15",
+      "location": "West End",
+      "start_date": "2026-12-13",
+      "start_time": "18:15",
+      "available_spot_count": 22,
+      "capacity": 22
+    },
+    {
+      "studio": "Ritual",
+      "name": "Meditation + Sound",
+      "booking_start_date": "2026-09-21 18:15",
+      "location": "West End",
+      "start_date": "2026-12-20",
+      "start_time": "18:15",
+      "available_spot_count": 22,
+      "capacity": 22
+    },
+    {
+      "studio": "Ritual",
+      "name": "Meditation + Sound",
+      "booking_start_date": "2026-09-28 18:15",
+      "location": "West End",
+      "start_date": "2026-12-27",
+      "start_time": "18:15",
+      "available_spot_count": 22,
+      "capacity": 22
+    },
+    {
       "studio": "Turf",
       "name": "meta 60 x 'Off Campus'",
       "booking_start_date": "2026-11-07 09:30",
@@ -922,7 +922,7 @@
       "location": "Main Street",
       "start_date": "2026-11-15",
       "start_time": "09:30",
-      "available_spot_count": 12,
+      "available_spot_count": 10,
       "capacity": 32
     },
     {
@@ -952,7 +952,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-11-20",
       "start_time": "08:15",
-      "available_spot_count": 25,
+      "available_spot_count": 10,
       "capacity": 32
     },
     {
@@ -962,7 +962,7 @@
       "location": "Main Street",
       "start_date": "2026-11-21",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 32
     },
     {
@@ -996,14 +996,14 @@
       "capacity": 32
     },
     {
-      "studio": "Spin Society",
-      "name": "THEME: COUNTRY x EDM",
-      "booking_start_date": "2026-11-05 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-11-13",
-      "start_time": "12:30",
-      "available_spot_count": 25,
-      "capacity": 48
+      "studio": "Turf",
+      "name": "meta + Mat Werk 60 min 2000s BANGERS \ud83d\udd7a",
+      "booking_start_date": "2026-11-29 11:00",
+      "location": "Main Street",
+      "start_date": "2026-12-06",
+      "start_time": "11:00",
+      "available_spot_count": 32,
+      "capacity": 32
     },
     {
       "studio": "Spin Society",
@@ -1012,7 +1012,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-13",
       "start_time": "17:30",
-      "available_spot_count": 22,
+      "available_spot_count": 19,
       "capacity": 36
     },
     {
@@ -1042,7 +1042,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-14",
       "start_time": "11:50",
-      "available_spot_count": 14,
+      "available_spot_count": 11,
       "capacity": 36
     },
     {
@@ -1062,7 +1062,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-15",
       "start_time": "08:20",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 48
     },
     {
@@ -1082,7 +1082,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-16",
       "start_time": "12:30",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -1092,7 +1092,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-16",
       "start_time": "18:40",
-      "available_spot_count": 18,
+      "available_spot_count": 15,
       "capacity": 50
     },
     {
@@ -1112,7 +1112,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-17",
       "start_time": "07:15",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 36
     },
     {
@@ -1142,7 +1142,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-18",
       "start_time": "07:15",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 49
     },
     {
@@ -1162,7 +1162,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-18",
       "start_time": "18:40",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -1202,7 +1202,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-19",
       "start_time": "12:30",
-      "available_spot_count": 34,
+      "available_spot_count": 32,
       "capacity": 36
     },
     {
@@ -1212,7 +1212,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-19",
       "start_time": "17:30",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
@@ -1222,7 +1222,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-19",
       "start_time": "17:30",
-      "available_spot_count": 19,
+      "available_spot_count": 17,
       "capacity": 36
     },
     {
@@ -1252,7 +1252,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-20",
       "start_time": "16:20",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 36
     },
     {
@@ -1262,7 +1262,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-21",
       "start_time": "08:20",
-      "available_spot_count": 50,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -1272,7 +1272,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-21",
       "start_time": "10:40",
-      "available_spot_count": 35,
+      "available_spot_count": 33,
       "capacity": 36
     },
     {
@@ -1282,7 +1282,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-21",
       "start_time": "11:50",
-      "available_spot_count": 50,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
