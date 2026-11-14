@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T06:25:43.725348-07:00",
+  "last_updated": "2026-11-14T11:50:34.780150-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -8,8 +8,8 @@
       "location": "Toronto",
       "start_date": "2026-11-21",
       "start_time": "06:30",
-      "available_spot_count": 204,
-      "capacity": 96
+      "available_spot_count": 192,
+      "capacity": 108
     },
     {
       "studio": "Alo",
@@ -19,7 +19,7 @@
       "start_date": "2026-11-21",
       "start_time": "09:30",
       "available_spot_count": null,
-      "capacity": 28
+      "capacity": 30
     }
   ],
   "special": [
@@ -162,7 +162,7 @@
       "location": "Main St",
       "start_date": "2026-11-20",
       "start_time": "15:15",
-      "available_spot_count": 5,
+      "available_spot_count": 4,
       "capacity": 14
     },
     {
@@ -282,7 +282,7 @@
       "location": "Kingsway",
       "start_date": "2026-11-19",
       "start_time": "10:00",
-      "available_spot_count": 36,
+      "available_spot_count": 35,
       "capacity": 45
     },
     {
@@ -292,7 +292,7 @@
       "location": "Yaletown",
       "start_date": "2026-11-21",
       "start_time": "15:00",
-      "available_spot_count": 29,
+      "available_spot_count": 17,
       "capacity": 36
     },
     {
@@ -507,52 +507,12 @@
     },
     {
       "studio": "The Third",
-      "name": "Wild Tea Kombucha x The Third",
-      "booking_start_date": "2026-10-31 08:00",
-      "location": "4th Ave",
-      "start_date": "2026-11-14",
-      "start_time": "08:00",
-      "available_spot_count": 9,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
-      "name": "Wild Tea Kombucha x The Third",
-      "booking_start_date": "2026-10-31 09:00",
-      "location": "4th Ave",
-      "start_date": "2026-11-14",
-      "start_time": "09:00",
-      "available_spot_count": 7,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
-      "name": "Wild Tea Kombucha x The Third",
-      "booking_start_date": "2026-10-31 10:00",
-      "location": "4th Ave",
-      "start_date": "2026-11-14",
-      "start_time": "10:00",
-      "available_spot_count": 0,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
-      "name": "Wild Tea Kombucha x The Third",
-      "booking_start_date": "2026-10-31 11:00",
-      "location": "4th Ave",
-      "start_date": "2026-11-14",
-      "start_time": "11:00",
-      "available_spot_count": 0,
-      "capacity": 15
-    },
-    {
-      "studio": "The Third",
       "name": "Advanced Lagree: Wild Tea Kombucha x The Third",
       "booking_start_date": "2026-10-31 12:00",
       "location": "4th Ave",
       "start_date": "2026-11-14",
       "start_time": "12:00",
-      "available_spot_count": 8,
+      "available_spot_count": 9,
       "capacity": 15
     },
     {
@@ -672,7 +632,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-17",
       "start_time": "10:00",
-      "available_spot_count": 7,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -682,7 +642,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-14",
       "start_time": "20:15",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 38
     },
     {
@@ -697,22 +657,12 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Red Light Yin + Aromatherapy",
-      "booking_start_date": "2026-11-01 19:00",
-      "location": "Vancouver",
-      "start_date": "2026-11-15",
-      "start_time": "19:00",
-      "available_spot_count": 21,
-      "capacity": 26
-    },
-    {
-      "studio": "ZenDen",
       "name": "Meet, Meditate + Speed Date - A Single's Social",
       "booking_start_date": "2026-09-16 19:30",
       "location": "Vancouver",
       "start_date": "2026-11-15",
       "start_time": "19:30",
-      "available_spot_count": 21,
+      "available_spot_count": 22,
       "capacity": 70
     },
     {
@@ -767,13 +717,23 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Reiki Infused Yin + Aromatherapy | Red Light",
+      "name": "Reiki Infused Yin w/ Aromatherapy | Red Light",
       "booking_start_date": "2026-11-08 19:00",
       "location": "Vancouver",
       "start_date": "2026-11-22",
       "start_time": "19:00",
       "available_spot_count": 25,
       "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Sound Bath w/ Aromatherapy | Warm",
+      "booking_start_date": "2026-11-08 19:50",
+      "location": "Vancouver",
+      "start_date": "2026-11-22",
+      "start_time": "19:50",
+      "available_spot_count": 37,
+      "capacity": 38
     },
     {
       "studio": "ZenDen",
@@ -817,13 +777,23 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Reiki Infused Yin + Aromatherapy | Red Light",
+      "name": "Reiki Infused Yin w/ Aromatherapy | Red Light",
       "booking_start_date": "2026-11-15 19:00",
       "location": "Vancouver",
       "start_date": "2026-11-29",
       "start_time": "19:00",
       "available_spot_count": 26,
       "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Sound Bath w/ Aromatherapy | Warm",
+      "booking_start_date": "2026-11-15 19:50",
+      "location": "Vancouver",
+      "start_date": "2026-11-29",
+      "start_time": "19:50",
+      "available_spot_count": 35,
+      "capacity": 38
     },
     {
       "studio": "ZenDen",
@@ -877,13 +847,23 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Reiki Infused Yin + Aromatherapy | Red Light",
+      "name": "Reiki Infused Yin w/ Aromatherapy | Red Light",
       "booking_start_date": "2026-11-22 19:00",
       "location": "Vancouver",
       "start_date": "2026-12-06",
       "start_time": "19:00",
       "available_spot_count": 26,
       "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Sound Bath w/ Aromatherapy | Warm",
+      "booking_start_date": "2026-11-22 19:50",
+      "location": "Vancouver",
+      "start_date": "2026-12-06",
+      "start_time": "19:50",
+      "available_spot_count": 38,
+      "capacity": 38
     },
     {
       "studio": "ZenDen",
@@ -957,13 +937,23 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Reiki Infused Yin + Aromatherapy | Red Light",
+      "name": "Reiki Infused Yin w/ Aromatherapy | Red Light",
       "booking_start_date": "2026-11-29 19:00",
       "location": "Vancouver",
       "start_date": "2026-12-13",
       "start_time": "19:00",
       "available_spot_count": 26,
       "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Sound Bath w/ Aromatherapy | Warm",
+      "booking_start_date": "2026-11-29 19:50",
+      "location": "Vancouver",
+      "start_date": "2026-12-13",
+      "start_time": "19:50",
+      "available_spot_count": 38,
+      "capacity": 38
     },
     {
       "studio": "ZenDen",
@@ -1037,13 +1027,23 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Reiki Infused Yin + Aromatherapy | Red Light",
+      "name": "Reiki Infused Yin w/ Aromatherapy | Red Light",
       "booking_start_date": "2026-12-06 19:00",
       "location": "Vancouver",
       "start_date": "2026-12-20",
       "start_time": "19:00",
       "available_spot_count": 26,
       "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Sound Bath w/ Aromatherapy | Warm",
+      "booking_start_date": "2026-12-06 19:50",
+      "location": "Vancouver",
+      "start_date": "2026-12-20",
+      "start_time": "19:50",
+      "available_spot_count": 38,
+      "capacity": 38
     },
     {
       "studio": "ZenDen",
@@ -1097,13 +1097,23 @@
     },
     {
       "studio": "ZenDen",
-      "name": "Reiki Infused Yin + Aromatherapy | Red Light",
+      "name": "Reiki Infused Yin w/ Aromatherapy | Red Light",
       "booking_start_date": "2026-12-13 19:00",
       "location": "Vancouver",
       "start_date": "2026-12-27",
       "start_time": "19:00",
       "available_spot_count": 26,
       "capacity": 26
+    },
+    {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Sound Bath w/ Aromatherapy | Warm",
+      "booking_start_date": "2026-12-13 19:50",
+      "location": "Vancouver",
+      "start_date": "2026-12-27",
+      "start_time": "19:50",
+      "available_spot_count": 38,
+      "capacity": 38
     },
     {
       "studio": "ZenDen",
@@ -1207,16 +1217,6 @@
     },
     {
       "studio": "Turf",
-      "name": "meta 60 x 'Off Campus'",
-      "booking_start_date": "2026-11-07 09:30",
-      "location": "Main Street",
-      "start_date": "2026-11-14",
-      "start_time": "09:30",
-      "available_spot_count": 8,
-      "capacity": 32
-    },
-    {
-      "studio": "Turf",
       "name": "\ud83c\udf1fSPOTLIGHT\ud83c\udf1f: Release and Rebuild with Cass",
       "booking_start_date": "2026-11-07 12:30",
       "location": "Main Street",
@@ -1232,7 +1232,7 @@
       "location": "Main Street",
       "start_date": "2026-11-15",
       "start_time": "09:30",
-      "available_spot_count": 10,
+      "available_spot_count": 8,
       "capacity": 32
     },
     {
@@ -1242,7 +1242,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-11-16",
       "start_time": "10:45",
-      "available_spot_count": 30,
+      "available_spot_count": 28,
       "capacity": 32
     },
     {
@@ -1252,7 +1252,7 @@
       "location": "Main Street",
       "start_date": "2026-11-19",
       "start_time": "18:30",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 32
     },
     {
@@ -1272,7 +1272,7 @@
       "location": "Main Street",
       "start_date": "2026-11-21",
       "start_time": "12:30",
-      "available_spot_count": 31,
+      "available_spot_count": 29,
       "capacity": 32
     },
     {
@@ -1317,22 +1317,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: KEV\u2019S 8-YEAR SPINNIVERSARY",
-      "booking_start_date": "2026-11-06 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-11-14",
-      "start_time": "09:30",
-      "available_spot_count": 0,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: JUSTIN BIEBER X SELENA GOMEZ",
       "booking_start_date": "2026-11-06 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-11-14",
       "start_time": "11:50",
-      "available_spot_count": 17,
+      "available_spot_count": 14,
       "capacity": 50
     },
     {
@@ -1342,7 +1332,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-14",
       "start_time": "11:50",
-      "available_spot_count": 13,
+      "available_spot_count": 6,
       "capacity": 36
     },
     {
@@ -1352,7 +1342,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-15",
       "start_time": "08:20",
-      "available_spot_count": 37,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -1362,7 +1352,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-15",
       "start_time": "08:20",
-      "available_spot_count": 7,
+      "available_spot_count": 0,
       "capacity": 48
     },
     {
@@ -1372,7 +1362,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-16",
       "start_time": "06:00",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 49
     },
     {
@@ -1382,7 +1372,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-16",
       "start_time": "12:30",
-      "available_spot_count": 40,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -1392,7 +1382,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-16",
       "start_time": "18:40",
-      "available_spot_count": 16,
+      "available_spot_count": 15,
       "capacity": 50
     },
     {
@@ -1442,7 +1432,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-18",
       "start_time": "07:15",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 49
     },
     {
@@ -1462,7 +1452,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-18",
       "start_time": "18:40",
-      "available_spot_count": 30,
+      "available_spot_count": 26,
       "capacity": 50
     },
     {
@@ -1472,7 +1462,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-18",
       "start_time": "19:50",
-      "available_spot_count": 29,
+      "available_spot_count": 27,
       "capacity": 50
     },
     {
@@ -1482,7 +1472,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-19",
       "start_time": "06:00",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 36
     },
     {
@@ -1502,7 +1492,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-19",
       "start_time": "12:30",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 36
     },
     {
@@ -1512,7 +1502,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-19",
       "start_time": "17:30",
-      "available_spot_count": 39,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
@@ -1522,7 +1512,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-19",
       "start_time": "17:30",
-      "available_spot_count": 14,
+      "available_spot_count": 12,
       "capacity": 36
     },
     {
@@ -1542,7 +1532,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-20",
       "start_time": "16:20",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
@@ -1552,7 +1542,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-20",
       "start_time": "16:20",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 36
     },
     {
@@ -1562,7 +1552,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-21",
       "start_time": "08:20",
-      "available_spot_count": 46,
+      "available_spot_count": 44,
       "capacity": 50
     },
     {
@@ -1582,7 +1572,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-21",
       "start_time": "11:50",
-      "available_spot_count": 47,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -1592,7 +1582,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-22",
       "start_time": "08:20",
-      "available_spot_count": 50,
+      "available_spot_count": 49,
       "capacity": 50
     },
     {
