@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T02:52:47.985855-07:00",
+  "last_updated": "2026-11-15T10:01:25.710625-07:00",
   "alo": [
     {
       "studio": "Alo",
@@ -8,8 +8,8 @@
       "location": "Toronto",
       "start_date": "2026-11-21",
       "start_time": "06:30",
-      "available_spot_count": 180,
-      "capacity": 120
+      "available_spot_count": 178,
+      "capacity": 122
     },
     {
       "studio": "Alo",
@@ -50,7 +50,7 @@
       "location": "West End",
       "start_date": "2026-11-20",
       "start_time": "14:30",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 25
     },
     {
@@ -132,7 +132,7 @@
       "location": "Kitsilano",
       "start_date": "2026-11-19",
       "start_time": "05:15",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 16
     },
     {
@@ -172,7 +172,7 @@
       "location": "Gastown",
       "start_date": "2026-11-23",
       "start_time": "16:15",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 15
     },
     {
@@ -252,7 +252,7 @@
       "location": "Yaletown",
       "start_date": "2026-11-17",
       "start_time": "07:15",
-      "available_spot_count": 27,
+      "available_spot_count": 26,
       "capacity": 36
     },
     {
@@ -264,6 +264,16 @@
       "start_time": "14:30",
       "available_spot_count": 13,
       "capacity": 20
+    },
+    {
+      "studio": "Jaybird",
+      "name": "Teacher Development | The Burn $18",
+      "booking_start_date": "2026-11-11 00:00",
+      "location": "Kingsway",
+      "start_date": "2026-11-18",
+      "start_time": "13:30",
+      "available_spot_count": 45,
+      "capacity": 45
     },
     {
       "studio": "Jaybird",
@@ -292,7 +302,7 @@
       "location": "Yaletown",
       "start_date": "2026-11-21",
       "start_time": "15:00",
-      "available_spot_count": 13,
+      "available_spot_count": 14,
       "capacity": 36
     },
     {
@@ -312,7 +322,7 @@
       "location": "Yaletown",
       "start_date": "2026-11-22",
       "start_time": "12:15",
-      "available_spot_count": 33,
+      "available_spot_count": 23,
       "capacity": 36
     },
     {
@@ -662,7 +672,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-15",
       "start_time": "19:30",
-      "available_spot_count": 23,
+      "available_spot_count": 22,
       "capacity": 70
     },
     {
@@ -752,7 +762,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-25",
       "start_time": "18:30",
-      "available_spot_count": 40,
+      "available_spot_count": 39,
       "capacity": 40
     },
     {
@@ -1132,7 +1142,7 @@
       "location": "West End",
       "start_date": "2026-11-20",
       "start_time": "14:30",
-      "available_spot_count": 13,
+      "available_spot_count": 12,
       "capacity": 25
     },
     {
@@ -1222,7 +1232,7 @@
       "location": "Main Street",
       "start_date": "2026-11-15",
       "start_time": "09:30",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 32
     },
     {
@@ -1242,7 +1252,7 @@
       "location": "Main Street",
       "start_date": "2026-11-19",
       "start_time": "18:30",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 32
     },
     {
@@ -1272,7 +1282,7 @@
       "location": "Main Street",
       "start_date": "2026-11-22",
       "start_time": "11:00",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 32
     },
     {
@@ -1307,32 +1317,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: MILLENNIAL MASHUPS + REMIXES",
-      "booking_start_date": "2026-11-07 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-11-15",
-      "start_time": "08:20",
-      "available_spot_count": 29,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: COWBOY CARTER x RENAISSANCE",
-      "booking_start_date": "2026-11-07 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-11-15",
-      "start_time": "08:20",
-      "available_spot_count": 5,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: USHER x JOHN SUMMITT",
       "booking_start_date": "2026-11-08 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-16",
       "start_time": "06:00",
-      "available_spot_count": 29,
+      "available_spot_count": 28,
       "capacity": 49
     },
     {
@@ -1402,7 +1392,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-18",
       "start_time": "07:15",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 49
     },
     {
@@ -1412,7 +1402,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-18",
       "start_time": "12:30",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
@@ -1452,7 +1442,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-19",
       "start_time": "07:15",
-      "available_spot_count": 41,
+      "available_spot_count": 40,
       "capacity": 49
     },
     {
@@ -1572,7 +1562,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-22",
       "start_time": "10:40",
-      "available_spot_count": 40,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -1712,7 +1702,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-25",
       "start_time": "17:30",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 49
     },
     {
