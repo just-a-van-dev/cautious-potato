@@ -1,27 +1,6 @@
 {
-  "last_updated": "2026-11-21T04:44:03.563112-07:00",
-  "alo": [
-    {
-      "studio": "Alo",
-      "name": "ALO BLOOR STREET: ALO RUNNERS CLUB",
-      "booking_start_date": "Open to book",
-      "location": "Toronto",
-      "start_date": "2026-11-21",
-      "start_time": "06:30",
-      "available_spot_count": 91,
-      "capacity": 209
-    },
-    {
-      "studio": "Alo",
-      "name": "ALO CF PACIFIC CENTRE: ALO RUNNERS CLUB",
-      "booking_start_date": "Open to book",
-      "location": "Vancouver",
-      "start_date": "2026-11-21",
-      "start_time": "09:30",
-      "available_spot_count": null,
-      "capacity": 76
-    }
-  ],
+  "last_updated": "2026-11-21T12:07:57.595420-07:00",
+  "alo": [],
   "special": [
     {
       "studio": "Jaybird",
@@ -90,7 +69,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-28",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 3,
       "capacity": 50
     }
   ],
@@ -132,7 +111,7 @@
       "location": "Gastown",
       "start_date": "2026-11-24",
       "start_time": "10:30",
-      "available_spot_count": 11,
+      "available_spot_count": 10,
       "capacity": 15
     },
     {
@@ -252,7 +231,7 @@
       "location": "Yaletown",
       "start_date": "2026-11-21",
       "start_time": "15:00",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 36
     },
     {
@@ -372,12 +351,12 @@
       "location": "West Broadway",
       "start_date": "2026-11-22",
       "start_time": "09:00",
-      "available_spot_count": 9,
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
       "studio": "Lagree Studio",
-      "name": "New Instructor Class / Daytime Perk",
+      "name": "New Instructor Class",
       "booking_start_date": "2026-11-15 10:00",
       "location": "West Broadway",
       "start_date": "2026-11-22",
@@ -452,7 +431,7 @@
       "location": "West Broadway",
       "start_date": "2026-11-28",
       "start_time": "08:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -712,7 +691,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-22",
       "start_time": "19:00",
-      "available_spot_count": 23,
+      "available_spot_count": 21,
       "capacity": 26
     },
     {
@@ -1202,7 +1181,7 @@
       "location": "West End",
       "start_date": "2026-12-06",
       "start_time": "14:00",
-      "available_spot_count": 20,
+      "available_spot_count": 16,
       "capacity": 25
     },
     {
@@ -1272,7 +1251,7 @@
       "location": "Main Street",
       "start_date": "2026-11-21",
       "start_time": "12:30",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 30
     },
     {
@@ -1292,7 +1271,7 @@
       "location": "Main Street",
       "start_date": "2026-11-28",
       "start_time": "12:30",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 32
     },
     {
@@ -1317,32 +1296,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: CALVIN HARRIS X FEID",
-      "booking_start_date": "2026-11-13 12:00",
-      "location": "BRENTWOOD",
-      "start_date": "2026-11-21",
-      "start_time": "08:20",
-      "available_spot_count": 33,
-      "capacity": 50
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: GIRL GROUPS X BOY BANDS",
-      "booking_start_date": "2026-11-13 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-11-21",
-      "start_time": "10:40",
-      "available_spot_count": 7,
-      "capacity": 36
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: RIHANNA X DOJA CAT",
       "booking_start_date": "2026-11-13 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-11-21",
       "start_time": "11:50",
-      "available_spot_count": 28,
+      "available_spot_count": 25,
       "capacity": 50
     },
     {
@@ -1352,7 +1311,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-22",
       "start_time": "08:20",
-      "available_spot_count": 22,
+      "available_spot_count": 23,
       "capacity": 50
     },
     {
@@ -1362,7 +1321,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-22",
       "start_time": "09:30",
-      "available_spot_count": 25,
+      "available_spot_count": 22,
       "capacity": 50
     },
     {
@@ -1372,7 +1331,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-22",
       "start_time": "10:40",
-      "available_spot_count": 10,
+      "available_spot_count": 11,
       "capacity": 50
     },
     {
@@ -1402,7 +1361,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-23",
       "start_time": "18:40",
-      "available_spot_count": 21,
+      "available_spot_count": 20,
       "capacity": 50
     },
     {
@@ -1452,7 +1411,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-24",
       "start_time": "12:30",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 36
     },
     {
@@ -1462,7 +1421,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-24",
       "start_time": "17:30",
-      "available_spot_count": 32,
+      "available_spot_count": 30,
       "capacity": 50
     },
     {
@@ -1502,7 +1461,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-25",
       "start_time": "17:30",
-      "available_spot_count": 21,
+      "available_spot_count": 19,
       "capacity": 50
     },
     {
@@ -1542,7 +1501,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-25",
       "start_time": "21:00",
-      "available_spot_count": 14,
+      "available_spot_count": 13,
       "capacity": 49
     },
     {
@@ -1582,7 +1541,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-26",
       "start_time": "12:30",
-      "available_spot_count": 44,
+      "available_spot_count": 43,
       "capacity": 49
     },
     {
@@ -1592,7 +1551,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-26",
       "start_time": "12:30",
-      "available_spot_count": 31,
+      "available_spot_count": 29,
       "capacity": 36
     },
     {
@@ -1612,7 +1571,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-26",
       "start_time": "18:40",
-      "available_spot_count": 27,
+      "available_spot_count": 25,
       "capacity": 36
     },
     {
@@ -1652,7 +1611,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-27",
       "start_time": "09:45",
-      "available_spot_count": 36,
+      "available_spot_count": 34,
       "capacity": 37
     },
     {
@@ -1662,7 +1621,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-27",
       "start_time": "12:30",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
@@ -1672,7 +1631,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-27",
       "start_time": "17:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 37
     },
     {
@@ -1702,7 +1661,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-28",
       "start_time": "13:00",
-      "available_spot_count": 7,
+      "available_spot_count": 3,
       "capacity": 50
     },
     {
