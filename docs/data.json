@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T23:36:07.896595-07:00",
+  "last_updated": "2026-11-22T07:52:40.726580-07:00",
   "alo": [],
   "special": [
     {
@@ -101,7 +101,7 @@
       "location": "Gastown",
       "start_date": "2026-11-24",
       "start_time": "10:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 15
     },
     {
@@ -181,7 +181,7 @@
       "location": "Main St",
       "start_date": "2026-11-27",
       "start_time": "15:15",
-      "available_spot_count": 8,
+      "available_spot_count": 7,
       "capacity": 14
     },
     {
@@ -221,7 +221,7 @@
       "location": "Yaletown",
       "start_date": "2026-11-22",
       "start_time": "12:15",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 36
     },
     {
@@ -671,7 +671,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-22",
       "start_time": "19:50",
-      "available_spot_count": 30,
+      "available_spot_count": 31,
       "capacity": 38
     },
     {
@@ -681,7 +681,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-23",
       "start_time": "20:10",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 40
     },
     {
@@ -731,7 +731,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-29",
       "start_time": "19:50",
-      "available_spot_count": 35,
+      "available_spot_count": 34,
       "capacity": 38
     },
     {
@@ -1261,7 +1261,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-22",
       "start_time": "08:20",
-      "available_spot_count": 24,
+      "available_spot_count": 23,
       "capacity": 50
     },
     {
@@ -1271,7 +1271,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-22",
       "start_time": "09:30",
-      "available_spot_count": 25,
+      "available_spot_count": 26,
       "capacity": 50
     },
     {
@@ -1281,7 +1281,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-22",
       "start_time": "10:40",
-      "available_spot_count": 4,
+      "available_spot_count": 2,
       "capacity": 50
     },
     {
@@ -1301,7 +1301,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-23",
       "start_time": "16:20",
-      "available_spot_count": 25,
+      "available_spot_count": 24,
       "capacity": 36
     },
     {
@@ -1361,7 +1361,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-24",
       "start_time": "12:30",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 36
     },
     {
@@ -1401,7 +1401,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-25",
       "start_time": "09:45",
-      "available_spot_count": 39,
+      "available_spot_count": 38,
       "capacity": 48
     },
     {
@@ -1421,7 +1421,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-25",
       "start_time": "17:30",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 48
     },
     {
@@ -1431,7 +1431,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-25",
       "start_time": "18:40",
-      "available_spot_count": 31,
+      "available_spot_count": 29,
       "capacity": 50
     },
     {
@@ -1471,7 +1471,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-26",
       "start_time": "09:45",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 49
     },
     {
@@ -1501,7 +1501,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-26",
       "start_time": "12:30",
-      "available_spot_count": 28,
+      "available_spot_count": 27,
       "capacity": 36
     },
     {
@@ -1511,7 +1511,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-26",
       "start_time": "17:30",
-      "available_spot_count": 21,
+      "available_spot_count": 18,
       "capacity": 49
     },
     {
@@ -1531,7 +1531,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-27",
       "start_time": "06:00",
-      "available_spot_count": 42,
+      "available_spot_count": 41,
       "capacity": 50
     },
     {
@@ -1541,7 +1541,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-27",
       "start_time": "07:15",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 37
     },
     {
@@ -1551,7 +1551,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-27",
       "start_time": "09:45",
-      "available_spot_count": 43,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -1561,7 +1561,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-27",
       "start_time": "09:45",
-      "available_spot_count": 34,
+      "available_spot_count": 32,
       "capacity": 37
     },
     {
@@ -1601,7 +1601,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-28",
       "start_time": "11:50",
-      "available_spot_count": 44,
+      "available_spot_count": 38,
       "capacity": 50
     },
     {
@@ -1621,7 +1621,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-29",
       "start_time": "10:40",
-      "available_spot_count": 29,
+      "available_spot_count": 26,
       "capacity": 50
     },
     {
@@ -1761,6 +1761,26 @@
       "location": "BRENTWOOD",
       "start_date": "2026-12-03",
       "start_time": "19:50",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: POP REMIXED",
+      "booking_start_date": "2026-11-26 12:00",
+      "location": "BRENTWOOD",
+      "start_date": "2026-12-04",
+      "start_time": "06:00",
+      "available_spot_count": 50,
+      "capacity": 50
+    },
+    {
+      "studio": "Spin Society",
+      "name": "THEME: THE HOLIDAY REMIX RIDE",
+      "booking_start_date": "2026-11-26 12:00",
+      "location": "MOUNT PLEASANT",
+      "start_date": "2026-12-04",
+      "start_time": "12:30",
       "available_spot_count": 50,
       "capacity": 50
     },
