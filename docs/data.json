@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T12:46:48.803940-07:00",
+  "last_updated": "2026-11-26T14:54:03.436262-07:00",
   "alo": [],
   "special": [
     {
@@ -89,7 +89,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-29",
       "start_time": "13:00",
-      "available_spot_count": 39,
+      "available_spot_count": 37,
       "capacity": 50
     }
   ],
@@ -101,7 +101,7 @@
       "location": "Gastown",
       "start_date": "2026-11-26",
       "start_time": "16:15",
-      "available_spot_count": 6,
+      "available_spot_count": 4,
       "capacity": 15
     },
     {
@@ -131,7 +131,7 @@
       "location": "Main St",
       "start_date": "2026-11-27",
       "start_time": "14:15",
-      "available_spot_count": 5,
+      "available_spot_count": 6,
       "capacity": 14
     },
     {
@@ -186,22 +186,12 @@
     },
     {
       "studio": "Jaybird",
-      "name": "The Burn - Reformer | Teacher Development ($25)",
-      "booking_start_date": "2026-11-19 00:00",
-      "location": "Kingsway",
-      "start_date": "2026-11-26",
-      "start_time": "13:30",
-      "available_spot_count": 14,
-      "capacity": 20
-    },
-    {
-      "studio": "Jaybird",
       "name": "The Balance x Wilet",
       "booking_start_date": "2026-11-20 00:00",
       "location": "Yaletown",
       "start_date": "2026-11-27",
       "start_time": "19:00",
-      "available_spot_count": 15,
+      "available_spot_count": 14,
       "capacity": 36
     },
     {
@@ -267,21 +257,11 @@
     {
       "studio": "Lagree Studio",
       "name": "Daytime Perk Full Body",
-      "booking_start_date": "2026-11-19 13:00",
-      "location": "Fairview",
-      "start_date": "2026-11-26",
-      "start_time": "13:00",
-      "available_spot_count": 5,
-      "capacity": 12
-    },
-    {
-      "studio": "Lagree Studio",
-      "name": "Daytime Perk Full Body",
       "booking_start_date": "2026-11-19 15:30",
       "location": "Fairview",
       "start_date": "2026-11-26",
       "start_time": "15:30",
-      "available_spot_count": 9,
+      "available_spot_count": 6,
       "capacity": 12
     },
     {
@@ -751,7 +731,7 @@
       "location": "Vancouver",
       "start_date": "2026-12-03",
       "start_time": "11:45",
-      "available_spot_count": 34,
+      "available_spot_count": 33,
       "capacity": 38
     },
     {
@@ -1252,7 +1232,7 @@
       "start_date": "2026-12-02",
       "start_time": "20:00",
       "available_spot_count": 0,
-      "capacity": 18
+      "capacity": 20
     },
     {
       "studio": "Hustle",
@@ -1271,7 +1251,7 @@
       "location": "Main Street",
       "start_date": "2026-11-28",
       "start_time": "12:30",
-      "available_spot_count": 2,
+      "available_spot_count": 1,
       "capacity": 32
     },
     {
@@ -1346,32 +1326,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: BUNT. x GRYFFIN",
-      "booking_start_date": "2026-11-18 12:00",
-      "location": "MOUNT PLEASANT",
-      "start_date": "2026-11-26",
-      "start_time": "12:30",
-      "available_spot_count": 38,
-      "capacity": 48
-    },
-    {
-      "studio": "Spin Society",
-      "name": "THEME: EDM: GRITTY x OBNOXIOUS BEATS - VOL 5",
-      "booking_start_date": "2026-11-18 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-11-26",
-      "start_time": "12:30",
-      "available_spot_count": 13,
-      "capacity": 36
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: THE WEEKND x SWEDISH HOUSE MAFIA",
       "booking_start_date": "2026-11-18 12:00",
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-26",
       "start_time": "17:30",
-      "available_spot_count": 16,
+      "available_spot_count": 14,
       "capacity": 48
     },
     {
@@ -1381,7 +1341,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-26",
       "start_time": "18:40",
-      "available_spot_count": 15,
+      "available_spot_count": 13,
       "capacity": 36
     },
     {
@@ -1391,7 +1351,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-27",
       "start_time": "06:00",
-      "available_spot_count": 37,
+      "available_spot_count": 36,
       "capacity": 50
     },
     {
@@ -1411,7 +1371,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-11-27",
       "start_time": "09:45",
-      "available_spot_count": 31,
+      "available_spot_count": 30,
       "capacity": 48
     },
     {
@@ -1441,7 +1401,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-11-27",
       "start_time": "17:30",
-      "available_spot_count": 12,
+      "available_spot_count": 9,
       "capacity": 37
     },
     {
@@ -1531,7 +1491,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-12-01",
       "start_time": "12:30",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 36
     },
     {
@@ -1561,7 +1521,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-12-02",
       "start_time": "19:50",
-      "available_spot_count": 31,
+      "available_spot_count": 32,
       "capacity": 50
     },
     {
@@ -1611,7 +1571,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-12-03",
       "start_time": "18:40",
-      "available_spot_count": 34,
+      "available_spot_count": 31,
       "capacity": 50
     },
     {
@@ -1621,7 +1581,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-12-03",
       "start_time": "19:50",
-      "available_spot_count": 48,
+      "available_spot_count": 47,
       "capacity": 50
     },
     {
@@ -1641,7 +1601,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-12-04",
       "start_time": "12:30",
-      "available_spot_count": 47,
+      "available_spot_count": 46,
       "capacity": 48
     },
     {
@@ -1651,7 +1611,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-12-04",
       "start_time": "12:30",
-      "available_spot_count": 49,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
@@ -1661,7 +1621,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-12-04",
       "start_time": "18:40",
-      "available_spot_count": 38,
+      "available_spot_count": 35,
       "capacity": 48
     },
     {
