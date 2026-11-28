@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T15:39:11.156697-07:00",
+  "last_updated": "2026-11-27T21:13:25.708529-07:00",
   "alo": [],
   "special": [
     {
@@ -49,7 +49,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-12-04",
       "start_time": "17:15",
-      "available_spot_count": 26,
+      "available_spot_count": 24,
       "capacity": 32
     },
     {
@@ -69,7 +69,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-28",
       "start_time": "13:00",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -84,16 +84,6 @@
     }
   ],
   "sponsored": [
-    {
-      "studio": "Lagree West",
-      "name": "Happy Hour Mega x Flashback Friday 2010's",
-      "booking_start_date": "2026-11-20 00:00",
-      "location": "Main St",
-      "start_date": "2026-11-27",
-      "start_time": "15:15",
-      "available_spot_count": 7,
-      "capacity": 14
-    },
     {
       "studio": "Lagree West",
       "name": "Sweat for a Cause/By Donation",
@@ -133,26 +123,6 @@
       "start_time": "08:15",
       "available_spot_count": 10,
       "capacity": 14
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Balance x Wilet",
-      "booking_start_date": "2026-11-20 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-11-27",
-      "start_time": "19:00",
-      "available_spot_count": 13,
-      "capacity": 36
-    },
-    {
-      "studio": "Jaybird",
-      "name": "The Balance x Wilet",
-      "booking_start_date": "2026-11-27 00:00",
-      "location": "Yaletown",
-      "start_date": "2026-12-04",
-      "start_time": "19:00",
-      "available_spot_count": 34,
-      "capacity": 36
     },
     {
       "studio": "Jaybird",
@@ -221,7 +191,7 @@
       "location": "Fairview",
       "start_date": "2026-11-28",
       "start_time": "08:00",
-      "available_spot_count": 9,
+      "available_spot_count": 7,
       "capacity": 12
     },
     {
@@ -231,7 +201,7 @@
       "location": "Fairview",
       "start_date": "2026-11-28",
       "start_time": "12:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -241,7 +211,7 @@
       "location": "Fairview",
       "start_date": "2026-11-29",
       "start_time": "08:00",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -251,7 +221,7 @@
       "location": "Fairview",
       "start_date": "2026-11-30",
       "start_time": "08:00",
-      "available_spot_count": 11,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -261,7 +231,17 @@
       "location": "Fairview",
       "start_date": "2026-11-30",
       "start_time": "09:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree Studio",
+      "name": "New Instructor Class",
+      "booking_start_date": "2026-11-23 14:00",
+      "location": "Fairview",
+      "start_date": "2026-11-30",
+      "start_time": "14:00",
+      "available_spot_count": 10,
       "capacity": 12
     },
     {
@@ -291,7 +271,7 @@
       "location": "Fairview",
       "start_date": "2026-12-02",
       "start_time": "13:00",
-      "available_spot_count": 12,
+      "available_spot_count": 11,
       "capacity": 12
     },
     {
@@ -426,6 +406,36 @@
     },
     {
       "studio": "Lagree X",
+      "name": "LagreeX x Not Bad Snacks \ud83c\udf6a\ud83d\udd25",
+      "booking_start_date": "2026-11-26 07:30",
+      "location": "Vancouver",
+      "start_date": "2026-12-03",
+      "start_time": "07:30",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "LagreeX x Not Bad Snacks \ud83c\udf6a\ud83d\udd25",
+      "booking_start_date": "2026-11-26 10:30",
+      "location": "Vancouver",
+      "start_date": "2026-12-03",
+      "start_time": "10:30",
+      "available_spot_count": 10,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "LagreeX x Herbaland \ud83e\uddf8\ud83c\udf6c\ud83d\udc9a",
+      "booking_start_date": "2026-11-30 07:30",
+      "location": "Vancouver",
+      "start_date": "2026-12-07",
+      "start_time": "07:30",
+      "available_spot_count": 11,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
       "name": "DIP IN with Marina x Dippos \ud83c\udf6a",
       "booking_start_date": "2026-12-04 06:30",
       "location": "Vancouver",
@@ -451,7 +461,7 @@
       "location": "Vancouver",
       "start_date": "2026-12-11",
       "start_time": "09:30",
-      "available_spot_count": 10,
+      "available_spot_count": 9,
       "capacity": 12
     },
     {
@@ -511,6 +521,56 @@
       "location": "Vancouver",
       "start_date": "2026-12-18",
       "start_time": "10:30",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "LagreeX x Herbaland \ud83e\uddf8\ud83c\udf6c\ud83d\udc9a",
+      "booking_start_date": "2026-12-14 10:30",
+      "location": "Vancouver",
+      "start_date": "2026-12-21",
+      "start_time": "10:30",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "Xmas Xpress\ud83c\udf84\ud83c\udf81",
+      "booking_start_date": "2026-12-17 07:00",
+      "location": "Vancouver",
+      "start_date": "2026-12-24",
+      "start_time": "07:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "Xmas Xpress\ud83c\udf84\ud83c\udf81",
+      "booking_start_date": "2026-12-17 08:00",
+      "location": "Vancouver",
+      "start_date": "2026-12-24",
+      "start_time": "08:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "Xmas Xpress\ud83c\udf84\ud83c\udf81",
+      "booking_start_date": "2026-12-17 09:00",
+      "location": "Vancouver",
+      "start_date": "2026-12-24",
+      "start_time": "09:00",
+      "available_spot_count": 12,
+      "capacity": 12
+    },
+    {
+      "studio": "Lagree X",
+      "name": "Xmas Xpress\ud83c\udf84\ud83c\udf81",
+      "booking_start_date": "2026-12-17 10:00",
+      "location": "Vancouver",
+      "start_date": "2026-12-24",
+      "start_time": "10:00",
       "available_spot_count": 12,
       "capacity": 12
     },
@@ -611,7 +671,7 @@
       "location": "Vancouver",
       "start_date": "2026-11-29",
       "start_time": "19:00",
-      "available_spot_count": 18,
+      "available_spot_count": 16,
       "capacity": 26
     },
     {
@@ -1075,6 +1135,16 @@
       "capacity": 38
     },
     {
+      "studio": "ZenDen",
+      "name": "Reiki Infused Sound Bath w/ Aromatherapy | Warm",
+      "booking_start_date": "2026-12-28 20:10",
+      "location": "Vancouver",
+      "start_date": "2027-01-11",
+      "start_time": "20:10",
+      "available_spot_count": 38,
+      "capacity": 38
+    },
+    {
       "studio": "Ritual",
       "name": "Breathwork (Community Class)",
       "booking_start_date": "2026-11-15 19:30",
@@ -1101,7 +1171,7 @@
       "location": "West End",
       "start_date": "2026-12-06",
       "start_time": "14:00",
-      "available_spot_count": 2,
+      "available_spot_count": 0,
       "capacity": 25
     },
     {
@@ -1211,7 +1281,7 @@
       "location": "Main Street",
       "start_date": "2026-11-28",
       "start_time": "12:30",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 32
     },
     {
@@ -1231,7 +1301,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-12-04",
       "start_time": "09:30",
-      "available_spot_count": 18,
+      "available_spot_count": 17,
       "capacity": 32
     },
     {
@@ -1241,7 +1311,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-12-04",
       "start_time": "17:15",
-      "available_spot_count": 26,
+      "available_spot_count": 24,
       "capacity": 32
     },
     {
@@ -1251,7 +1321,7 @@
       "location": "KITS - Vancouver",
       "start_date": "2026-12-05",
       "start_time": "12:30",
-      "available_spot_count": 32,
+      "available_spot_count": 31,
       "capacity": 32
     },
     {
@@ -1261,7 +1331,7 @@
       "location": "Main Street",
       "start_date": "2026-12-05",
       "start_time": "12:30",
-      "available_spot_count": 30,
+      "available_spot_count": 29,
       "capacity": 32
     },
     {
@@ -1376,22 +1446,12 @@
     },
     {
       "studio": "Spin Society",
-      "name": "THEME: THE JONAS BROTHERS x JUSTIN BIEBER",
-      "booking_start_date": "2026-11-19 12:00",
-      "location": "DOWNTOWN VANCOUVER",
-      "start_date": "2026-11-27",
-      "start_time": "17:30",
-      "available_spot_count": 9,
-      "capacity": 37
-    },
-    {
-      "studio": "Spin Society",
       "name": "THEME: DUA LIPA X BEYONC\u00c9",
       "booking_start_date": "2026-11-20 12:00",
       "location": "BRENTWOOD",
       "start_date": "2026-11-28",
       "start_time": "08:20",
-      "available_spot_count": 39,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -1401,7 +1461,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-28",
       "start_time": "11:50",
-      "available_spot_count": 26,
+      "available_spot_count": 25,
       "capacity": 50
     },
     {
@@ -1411,7 +1471,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-11-28",
       "start_time": "13:00",
-      "available_spot_count": 0,
+      "available_spot_count": 1,
       "capacity": 50
     },
     {
@@ -1451,8 +1511,8 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-12-01",
       "start_time": "07:15",
-      "available_spot_count": 31,
-      "capacity": 36
+      "available_spot_count": 30,
+      "capacity": 35
     },
     {
       "studio": "Spin Society",
@@ -1461,7 +1521,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-12-01",
       "start_time": "09:45",
-      "available_spot_count": 45,
+      "available_spot_count": 46,
       "capacity": 50
     },
     {
@@ -1471,8 +1531,8 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-12-01",
       "start_time": "12:30",
-      "available_spot_count": 23,
-      "capacity": 36
+      "available_spot_count": 22,
+      "capacity": 35
     },
     {
       "studio": "Spin Society",
@@ -1481,8 +1541,8 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-12-01",
       "start_time": "18:40",
-      "available_spot_count": 31,
-      "capacity": 36
+      "available_spot_count": 29,
+      "capacity": 35
     },
     {
       "studio": "Spin Society",
@@ -1491,7 +1551,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-12-01",
       "start_time": "18:40",
-      "available_spot_count": 40,
+      "available_spot_count": 37,
       "capacity": 50
     },
     {
@@ -1501,7 +1561,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-12-02",
       "start_time": "19:50",
-      "available_spot_count": 28,
+      "available_spot_count": 24,
       "capacity": 50
     },
     {
@@ -1541,7 +1601,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-12-03",
       "start_time": "17:30",
-      "available_spot_count": 43,
+      "available_spot_count": 40,
       "capacity": 50
     },
     {
@@ -1561,7 +1621,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-12-03",
       "start_time": "19:50",
-      "available_spot_count": 47,
+      "available_spot_count": 48,
       "capacity": 50
     },
     {
@@ -1591,7 +1651,7 @@
       "location": "BRENTWOOD",
       "start_date": "2026-12-04",
       "start_time": "12:30",
-      "available_spot_count": 46,
+      "available_spot_count": 42,
       "capacity": 50
     },
     {
@@ -1601,7 +1661,7 @@
       "location": "MOUNT PLEASANT",
       "start_date": "2026-12-04",
       "start_time": "18:40",
-      "available_spot_count": 7,
+      "available_spot_count": 5,
       "capacity": 48
     },
     {
@@ -1621,7 +1681,7 @@
       "location": "DOWNTOWN VANCOUVER",
       "start_date": "2026-12-05",
       "start_time": "10:40",
-      "available_spot_count": 33,
+      "available_spot_count": 32,
       "capacity": 36
     },
     {
